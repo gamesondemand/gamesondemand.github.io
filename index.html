@@ -5,40 +5,12 @@ title: Your New Jekyll Site
 
 <div id="home">
   <h1>Games on Demand</h1>
-  {% for day in site.data.games %}<section id="{{ day.day | date: '%A' | downcase }}" class="day">
-    <header>
-      <h2 class="header"><time datetime="{{ day.day }}">{{ day.day | date: '%A' }}</time></h2>
-    </header>
-    <div class="time-slots">{% for time in day.times %}
-      <div id="{{ time.time | date: '%A-%H' | downcase }}" class="time-slot">
-        <header>
-          <h3 class="header"><time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.time | date: "%l %p" }}</time></h3>
-        </header>
-        <div class="time-slot-duration two-hour">
-          <header>
-            <h4 class="header">Two (2) Hour Games</h4>
-          </header>
-          <div class="content">
-            <ul class="time-slot-game-list">
-              {% for game in time.two_hour_games %}
-                <li class="time-slot-game-list-item">{{ game }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-        <div class="time-slot-duration four-hour">
-          <header>
-            <h4 class="header">Four (4) Hour Games</h4>
-          </header>
-          <div class="content">
-            <ul class="time-slot-game-list">
-              {% for game in time.four_hour_games %}
-                <li class="time-slot-game-list-item">{{ game }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        </div>
-      </div>
-    {% endfor %}</div>
-  </section>{% endfor %}
+  {% assign day=site.data.thursday %}
+  {% include day.html day=day %}
+  {% assign day=site.data.friday %}
+  {% include day.html day=day %}
+  {% assign day=site.data.saturday %}
+  {% include day.html day=day %}
+  {% assign day=site.data.sunday %}
+  {% include day.html day=day %}
 </div>
