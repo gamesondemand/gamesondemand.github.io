@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby -w
 
+require 'fileutils'
+
 [
   ['Thursday', ['10am', '12pm', '2pm', '4pm', '6pm']],
   ['Friday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm', '10pm']],
@@ -7,8 +9,8 @@
   ['Sunday', ['10am', '12pm', '2pm', '4pm']],
 ].each do |day, times|
   dirname = File.expand_path("../../#{day.downcase}", __FILE__)
-  Dir.rmdir(dirname)
-  Dir.mkdir(dirname)
+  FileUtils.rm_rf(dirname)
+  FileUtils.mkdir_p(dirname)
   File.open(File.join(dirname, 'index.html'), 'w+') do |file|
     text = []
     text << '---'
@@ -19,9 +21,9 @@
     text << '{% include day.html day=day %}'
     file.puts text.join("\n")
   end
-  times.each do |time|
-    Dir.mkdir(File.join(dirname, time))
-    File.open(File.join(dirname, 'index.html'), 'w+') do |file|
+  times.each_with_index do |time, index|
+    FileUtils.mkdir_p(File.join(dirname, time))
+    File.open(File.join(dirname, time, 'index.html'), 'w+') do |file|
       text = []
       text << '---'
       text << 'layout: default'
