@@ -4,10 +4,23 @@ title: Your New Jekyll Site
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <h1>Games on Demand</h1>
+  {% for day in site.data.games %}
+    <h2><time datetime="{{ day.day }}">{{ day.day | date: '%A' }}</time></h2>
+    {% for time in day.times %}
+      <h3><time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.time | date: "%l %p" }}</time></h3>
+      <h4>Two Hour Games</h4>
+      <ul>
+        {% for game in time.two_hour_games %}
+          <li>{{ game }}</li>
+        {% endfor %}
+      </ul>
+      <h4>Four Hour Games</h4>
+      <ul>
+        {% for game in time.four_hour_games %}
+          <li>{{ game }}</li>
+        {% endfor %}
+      </ul>
     {% endfor %}
-  </ul>
+  {% endfor %}
 </div>
