@@ -15,7 +15,7 @@ require 'fileutils'
     text = []
     text << '---'
     text << 'layout: default'
-    text << "title: #{day} GamesOnDemand at GenCon"
+    text << "title: #{day} Games on Demand at GenCon"
     text << "description: List of games for #{day} at Games on Demand GenCon"
     text << '---'
     text << "{% assign day = site.data.#{day.downcase} %}"
@@ -28,7 +28,7 @@ require 'fileutils'
       text = []
       text << '---'
       text << 'layout: default'
-      text << "title: #{time} #{day} GamesOnDemand at GenCon"
+      text << "title: #{time} #{day} Games on Demand at GenCon"
       text << "description: List of games for #{time} #{day} at Games on Demand GenCon"
       text << '---'
       text << "{% assign time = site.data.#{day.downcase}.times.#{time} %}"
