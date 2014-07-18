@@ -1,9 +1,15 @@
 <section id="{{ day.day | date: '%A' | downcase }}" class="day">
   <header class="day-header">
     <h2 class="header"><time datetime="{{ day.day }}">{{ day.day | date: '%A' }}</time></h2>
-    <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://gamesondemand.github.io/{{ day.day | date: '%A' | downcase }}" data-via="gamesondemand" data-hashtags="gencon,gamesondemand">Tweet</a>
   </header>
-  <div class="time-slots">{% for time in day.times %}
-    {% include time.html time = time %}
-  {% endfor %}</div>
+  <div class="time-slots">
+    <p>
+      Below is {{ day.day | date: '%A' }}'s tentative schedule of games.
+      Share the schedule via a <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://gamesondemand.github.io/{{ day.day | date: '%A' | downcase }}" data-via="gamesondemand" data-hashtags="gencon,gamesondemand">Tweet</a>
+    </p>
+    {% for data in day.times %}
+      {% assign time = data[1] %}
+      {% include time.html time=time %}
+    {% endfor %}
+  </div>
 </section>

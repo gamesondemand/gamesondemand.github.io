@@ -1,32 +1,37 @@
 day: 2014-08-14
 times:
-- time: 2014-08-14 10:00:00 -0400
-  two_hour_games:
-    - Fiasco
-    - Dungeon World
-  four_hour_games:
-    - Monsterhearts
-- time: 2014-08-14 12:00:00 -0400
-  two_hour_games:
-    - Fiasco
-    - Dungeon World
-  four_hour_games:
-    - Monsterhearts
-- time: 2014-08-14 14:00:00 -0400
-  two_hour_games:
-    - Fiasco
-    - Dungeon World
-  four_hour_games:
-    - Monsterhearts
-- time: 2014-08-14 16:00:00 -0400
-  two_hour_games:
-    - Fiasco
-    - Dungeon World
-  four_hour_games:
-    - Monsterhearts
-- time: 2014-08-14 18:00:00 -0400
-  two_hour_games:
-    - Fiasco
-    - Dungeon World
-  four_hour_games:
-    - Monsterhearts
+  10am:
+    time: 2014-08-14 10:00:00 -0400
+    two_hour_games:
+      - Fiasco
+      - Dungeon World
+    four_hour_games:
+      - Monsterhearts
+  12pm:
+    time: 2014-08-14 12:00:00 -0400
+    two_hour_games:
+      - Fiasco
+      - Dungeon World
+    four_hour_games:
+      - Monsterhearts
+  2pm:
+    time: 2014-08-14 14:00:00 -0400
+    two_hour_games:
+      - Fiasco
+      - Dungeon World
+    four_hour_games:
+      - Monsterhearts
+  4pm:
+    time: 2014-08-14 16:00:00 -0400
+    two_hour_games:
+      - Fiasco
+      - Dungeon World
+    four_hour_games:
+      - Monsterhearts
+  6pm:
+    time: 2014-08-14 18:00:00 -0400
+    two_hour_games:
+      - Fiasco
+      - Dungeon World
+    four_hour_games:
+      - Monsterhearts
