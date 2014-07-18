@@ -5,33 +5,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
-
-    <!-- syntax highlighting CSS -->
-    <link rel="stylesheet" href="/css/syntax.css">
-
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/main.css">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@games_on_demand">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.twitter_image_path }}"
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+
   </head>
   <body>
 
     <div class="site">
-      <div class="header">
+      <header class="header">
         <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-        <a class="extra" href="/">home</a>
-      </div>
+      </header>
 
       {{ content }}
 
-      <div class="footer">
-        <div class="contact">
-          <p>Games on Demand</p>
-        </div>
+      <footer class="footer">
         <div class="contact">
           <p>
             <a href="https://twitter.com/games_on_demand">twitter.com/games_on_demand</a><br />
           </p>
         </div>
-      </div>
+      </footer>
     </div>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   </body>

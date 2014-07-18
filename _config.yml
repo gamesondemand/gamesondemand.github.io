@@ -2,3 +2,6 @@ name: Games on Demand
 markdown: redcarpet
 pygments: true
 timezone: America/Indiana/Indianapolis
+
+url: http://gamesondemand.github.io
+twitter_image_path: /images/games-on-demand-logo.jpg

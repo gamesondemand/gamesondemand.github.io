@@ -5,7 +5,6 @@
   <div class="time-slots">
     <p>
       Below is {{ day.day | date: '%A' }}'s tentative schedule of games.
-      Share the schedule via a <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://gamesondemand.github.io/{{ day.day | date: '%A' | downcase }}" data-via="gamesondemand" data-hashtags="gencon,gamesondemand">Tweet</a>
     </p>
     {% for data in day.times %}
       {% assign time = data[1] %}

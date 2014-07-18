@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Games On Demand at GenCon
 ---
 
-<div id="home">
-  <h1>Games on Demand</h1>
-  {% assign day=site.data.thursday %}
-  {% include day.html day=day %}
-  {% assign day=site.data.friday %}
-  {% include day.html day=day %}
-  {% assign day=site.data.saturday %}
-  {% include day.html day=day %}
-  {% assign day=site.data.sunday %}
-  {% include day.html day=day %}
-</div>
+<ul>
+  {% assign day = 'thursday' %}
+  {% include day_for_homepage.html %}
+  {% assign day = 'friday' %}
+  {% include day_for_homepage.html %}
+  {% assign day = 'saturday' %}
+  {% include day_for_homepage.html %}
+  {% assign day = 'sunday' %}
+  {% include day_for_homepage.html %}
+</ul>

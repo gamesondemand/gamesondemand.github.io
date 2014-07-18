@@ -1,0 +1,15 @@
+{% assign date = site.data[day] %}
+<li>
+  <a href="/{{ date.day | date: '%A' | downcase }}">
+    <time datetime="{{ date.day }}">{{ date.day | date: '%A' }}</time>
+  </a>
+  <ul>
+    {% for times in date.times %}
+    {% assign hour = times[0] %}
+    {% assign hour_data = times[1] %}
+    <li>
+      <a href="/{{ day }}/{{ hour }}"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
+    </li>
+    {% endfor %}
+  </ul>
+</li>
