@@ -5,12 +5,12 @@ title: Your New Jekyll Site
 
 <div id="home">
   <h1>Games on Demand</h1>
-  {% for day in site.data.games %}<section class="day">
+  {% for day in site.data.games %}<section id="{{ day.day | date: '%A' | downcase }}" class="day">
     <header>
       <h2 class="header"><time datetime="{{ day.day }}">{{ day.day | date: '%A' }}</time></h2>
     </header>
     <div class="time-slots">{% for time in day.times %}
-      <div class="time-slot">
+      <div id="{{ time.time | date: '%A-%H' | downcase }}" class="time-slot">
         <header>
           <h3 class="header"><time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.time | date: "%l %p" }}</time></h3>
         </header>
