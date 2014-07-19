@@ -4,13 +4,25 @@ title: Games on Demand at GenCon
 description: List of Time Slots and Days for Games on Demand
 ---
 
-<ul>
-  {% assign day = 'thursday' %}
-  {% include day_for_homepage.html %}
-  {% assign day = 'friday' %}
-  {% include day_for_homepage.html %}
-  {% assign day = 'saturday' %}
-  {% include day_for_homepage.html %}
-  {% assign day = 'sunday' %}
-  {% include day_for_homepage.html %}
-</ul>
+<div itemscope itemtype="http://schema.org/SocialEvent">
+  <p itemprop="text">
+    <span itemprop="organizer">Games on Demand</span>
+    <meta itemprop="startDate" content="2014-08-14">
+    <meta itemprop="doorTime" content="2014-08-14T10:00:00-0400">
+    <meta itemprop="duration" content="2014-08-14T10:00:00-0400/P4D">
+    <meta itemprop="endDate" content="2014-08-17">
+    kicks off at <date datetime="2014-08-14T10:00:00-0400">10am on Thursday</date>
+    and its last games start <date datetime="2014-08-17T16:00:00-0400">at 4pm on Sunday</date>.
+    Find us at...
+  </p>
+  <ol>
+    {% assign day = 'thursday' %}
+    {% include day_for_homepage.html %}
+    {% assign day = 'friday' %}
+    {% include day_for_homepage.html %}
+    {% assign day = 'saturday' %}
+    {% include day_for_homepage.html %}
+    {% assign day = 'sunday' %}
+    {% include day_for_homepage.html %}
+  </ol>
+</div>

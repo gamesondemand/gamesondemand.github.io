@@ -1,15 +1,18 @@
 {% assign date = site.data[day] %}
-<li>
-  <a href="/{{ date.day | date: '%A' | downcase }}">
-    <time datetime="{{ date.day }}">{{ date.day | date: '%A' }}</time>
-  </a>
-  <ul>
-    {% for times in date.times %}
-    {% assign hour = times[0] %}
-    {% assign hour_data = times[1] %}
-    <li>
-      <a href="/{{ day }}/{{ hour }}"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
-    </li>
-    {% endfor %}
-  </ul>
+<li itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
+  <div itemprop="text">
+    <a itemprop="url" href="{{ site.url }}/{{ date.day | date: '%A' | downcase }}">
+      <time datetime="{{ date.day }}">{{ date.day | date: '%A' }}</time>
+    </a>
+    <ol>
+      {% for times in date.times %}
+      {% assign hour = times[0] %}
+      {% assign hour_data = times[1] %}
+      <li itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
+        <meta itemprop="text" content="{{ date.day | date: '%A' }} {{ hour }}">
+        <a itemprop="url" href="{{ site.url }}/{{ day }}/{{ hour }}"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
 </li>
