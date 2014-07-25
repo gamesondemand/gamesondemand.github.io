@@ -1,10 +1,14 @@
-<section id="{{ day.day | date: '%A' | downcase }}" class="day">
+<section id="{{ day.day | date: '%A' | downcase }}" class="day" itemscope itemtype="http://schema.org/SocialEvent">
   <header class="day-header">
     <h2 class="header"><time datetime="{{ day.day }}">{{ day.day | date: '%A' }}</time></h2>
+    <meta itemprop="startDate" content="{{ day.day | date: '%Y-%M-%d' }}">
+    <meta itemprop="doorTime" content="{{ day.day | date: '%Y-%M-%d' }}T10:00:00-0400">
+    <meta itemprop="duration" content="{{ day.day | date: '%Y-%M-%d' }}T10:00:00-0400/P{{ day.duration }}">
+    <meta itemprop="startDate" content="{{ day.day | date: '%Y-%M-%d' }}">
   </header>
   <div class="time-slots">
     <p>
-      Below is {{ day.day | date: '%A' }}'s tentative schedule of games.
+      Below is {{ day.day | date: '%A' }}'s tentative schedule for <span itemprop="organizer">Games on Demand</span>.
     </p>
     {% for data in day.times %}
       {% assign time = data[1] %}
