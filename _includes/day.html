@@ -10,6 +10,13 @@
     <p>
       Below is {{ day.day | date: '%A' }}'s tentative schedule for <span itemprop="organizer">Games on Demand</span>.
     </p>
+    <ul>
+      {% for data in day.times %}
+      {% assign time = data[1] %}
+      <li><a href="#{{ time.time | date: '%A-%H' | downcase }}">{{ time.time | date: "%l %p" }}</a></li>
+      {% endfor %}
+    </ul>
+    <h3>{{ day.day | date: '%A' }}'s Schedule</h2>
     {% for data in day.times %}
       {% assign time = data[1] %}
       {% include time.html time=time %}
