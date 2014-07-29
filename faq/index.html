@@ -4,11 +4,17 @@ title: FAQ about Games on Demand at GenCon
 description: FAQ about Games on Demand at GenCon
 ---
 <h2>Frequently Asked Questions</h2>
-{% for qa in site.data.faq %}
-<dl class="qa" itemscope itemtype="http://schema.org/Question">
-  <dt class="question" itemprop="text">{{ qa.question }}</dt>
-  <dd class="answer" itemprop="suggestedAnswer" itemscope itemtype="http://schema.org/Answer">
-    <span itemprop="text">{{ qa.answer || qa.tentative_answer }}</span>
-  </dd>
-</dl>
+
+{% for questions in site.data.faq %}
+<div id="{{ questions.dom_id}}">
+  <h3>{{ questions.name }}</h3>
+  {% for qa in questions.questions %}
+  <dl class="qa" itemscope itemtype="http://schema.org/Question">
+    <dt class="question" itemprop="text">{{ qa.question }}</dt>
+    <dd class="answer" itemprop="suggestedAnswer" itemscope itemtype="http://schema.org/Answer">
+      <span itemprop="text">{{ qa.answer || qa.tentative_answer }}</span>
+    </dd>
+  </dl>
+  {% endfor %}
+</div>
 {% endfor %}

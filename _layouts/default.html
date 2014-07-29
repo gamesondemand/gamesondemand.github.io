@@ -23,35 +23,19 @@
     <meta name="twitter:description" content="{{ page.description }}">
     <meta name="og:description" content="{{ page.description }}">
     <meta name="description" content="{{ page.description }}">
-
   </head>
   <body>
 
     <div class="site">
       <header class="header">
         <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+        {% include navigation.html %}
       </header>
-
-      <nav>
-        <h2>Navigation</h2>
-        <ul>
-          <li>Home</li>
-          <li><a href="{{ site.baseurl }}/#schedule">Schedule</a></li>
-          <li>Available Games</li>
-          <li><a href="{{ site.baseurl }}faq/">FAQ</a></li>
-          <li><a href="{{ site.baseurl }}for-hosts/">For Hosts</a></li>
-          <li>For GMs</li>
-        </ul>
-      </nav>
 
       {{ content }}
 
       <footer class="footer">
-        <div class="contact">
-          <p>
-            <a href="https://twitter.com/games_on_demand">twitter.com/games_on_demand</a><br />
-          </p>
-        </div>
+        {% include navigation.html %}
       </footer>
     </div>
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
