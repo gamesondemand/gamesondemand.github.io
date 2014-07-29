@@ -6,12 +6,14 @@
   - question: >
       Are start times every 2 hours like last year? Is it 10am, 12pm, 2pm, 4pm, 6pm, 8pm, 10pm?
     answer: >
-      Yes, with a few adjustments. See <a href="/">our schedule for start times</a>.
+      Yes, with a few adjustments. See <a href="/" class="link-to-current-schedule">our schedule for start times</a>.
   - question: >
       When should I arrive for a time slot?
     answer: >
-      I would be there at least 5 minutes in advance.
-      We will begin boarding people promptly on the hour.
+      If you have a boarding pass be there 5 minutes in advance.
+      If you don't have a boarding pass be there 10 minutes in advance.
+      If you want to see what is on the menu, you should show up 30 minutes early.
+      Or look at our <a href="/" class="link-to-current-schedule">our schedule for start times</a>.
   - question: >
       If signups start at the time of the slot, when do you expect games to start?
       Say a slot starts at 12pm, does that mean games actually start at 12:15pm?
@@ -57,7 +59,7 @@
   - question: >
       Will I know what games are available before start time?
       If so, starting when and where? ﻿
-    answer: Yes. See <a href="/">our schedule for start times</a>.
+    answer: Yes. See <a href="/" class="link-to-current-schedule">our schedule for start times</a>.
   - question: >
       I heard something about LARPs! Is this true?
     answer: >
