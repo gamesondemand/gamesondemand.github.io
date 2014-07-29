@@ -11,8 +11,9 @@
     </header>
     <div class="content">
       <ul class="time-slot-game-list">
-        {% for game in time.two_hour_games %}
-          <li class="time-slot-game-list-item">{{ game }}</li>
+        {% for game_id in time.two_hour_games %}
+          {% assign game = site.data.games[game_id] %}
+          <li class="time-slot-game-list-item">{{ game.name }}</li>
         {% endfor %}
       </ul>
     </div>
@@ -23,8 +24,9 @@
     </header>
     <div class="content">
       <ul class="time-slot-game-list">
-        {% for game in time.four_hour_games %}
-          <li class="time-slot-game-list-item">{{ game }}</li>
+        {% for game_id in time.four_hour_games %}
+          {% assign game = site.data.games[game_id] %}
+          <li class="time-slot-game-list-item">{{ game.name }}</li>
         {% endfor %}
       </ul>
     </div>

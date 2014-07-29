@@ -4,28 +4,28 @@ times:
   10am:
     time: 2014-08-17 10:00:00 -0400
     two_hour_games:
-      - Fiasco
-      - Dungeon World
+      - fiasco
+      - dungeon_world
     four_hour_games:
-      - Monsterhearts
+      - monsterhearts
   12pm:
     time: 2014-08-17 12:00:00 -0400
     two_hour_games:
-      - Fiasco
-      - Dungeon World
+      - fiasco
+      - dungeon_world
     four_hour_games:
-      - Monsterhearts
+      - monsterhearts
   2pm:
     time: 2014-08-17 14:00:00 -0400
     two_hour_games:
-      - Fiasco
-      - Dungeon World
+      - fiasco
+      - dungeon_world
     four_hour_games:
-      - Monsterhearts
+      - monsterhearts
   4pm:
     time: 2014-08-17 16:00:00 -0400
     two_hour_games:
-      - Fiasco
-      - Dungeon World
+      - fiasco
+      - dungeon_world
     four_hour_games:
-      - Monsterhearts
+      - monsterhearts
