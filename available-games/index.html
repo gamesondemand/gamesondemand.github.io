@@ -1,0 +1,11 @@
+---
+layout: default
+title: Games on Offer at Games on Demand at GenCon
+description: Games on Offer at Games on Demand at GenCon
+---
+<h2>Games on Offer</h2>
+<ul>
+{% for game in site.data.games %}
+  <li><a href="/available-games/{{game[0]}}/">{{ game[1].name }}</a></li>
+{% endfor %}
+</ul>
