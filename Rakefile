@@ -102,8 +102,8 @@ namespace :build do
       CSV.foreach(source_filename, headers: :first_row) do |row|
         # Header ["Name", "Game1", "G1Type", "G1Pitch", "G1Hours", "G1PMin", "G1PMax", "G1Kids"]
         row['Game1'] = '3:16' if row['Game1'].to_s =~ /1361+/
-        row['Game1'] = row['Game1'].sub(/^An? /i, '')
-        row['Game1'] = row['Game1'].sub(/^The /i, '')
+        row['Game1'] = row['Game1'].sub(/^(An?) (.*)$/i, '\2')
+        row['Game1'] = row['Game1'].sub(/^(The) (.*)$/i, '\2')
 
         slugified_game_name = row['Game1'].split('(').first.gsub(/\W+/, '-').downcase.sub(/-$/, '')
         slugified_person_name = row['Name'].gsub(/\W+/, '-').downcase
