@@ -1,11 +1,32 @@
-<nav class="navigation">
-  <h2 class="navigation-title">Site Navigation</h2>
-  <ul class="navigation-link-list">
-    <li class="navigation-link"><a href="/">Home</a></li>
-    <li class="navigation-link"><a href="/#schedule">Schedule</a></li>
-    <li class="navigation-link"><a href="/available-games/">Available Games</a></li>
-    <li class="navigation-link"><a href="/faq/">FAQ</a></li>
-    <li class="navigation-link"><a href="/for-hosts/">For Hosts</a></li>
-    <li class="navigation-link">For GMs</li>
+<nav class="top-bar" data-topbar>
+  <ul class="title-area">
+    <li class="name">
+      <h1><a href="/">{{ site.name }}</a></h1>
+    </li>
+     <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
   </ul>
+
+  <section class="top-bar-section">
+    <!-- Left Nav Section -->
+    <ul class="left">
+      <li class="has-dropdown">
+        <a href="/#schedule">Schedule</a>
+        <ul class="dropdown">
+          <li><a href="/thursday/">Thursday</a></li>
+          <li><a href="/friday/">Friday</a></li>
+          <li><a href="/saturday/">Saturday</a></li>
+          <li><a href="/sunday/">Sunday</a></li>
+        </ul>
+      </li>
+    </ul>
+    <!-- Right Nav Section -->
+    <ul class="right">
+      <li><a href="/available-games/">Available Games</a></li>
+      <li><a href="/faq/">FAQ</a></li>
+      <li><a href="/for-hosts/">For Hosts</a></li>
+      <li><a href="#">For GMs</a></li>
+    </ul>
+
+  </section>
 </nav>
