@@ -16,14 +16,22 @@ description: List of Time Slots and Days for Games on Demand
     and its last games start <date datetime="2014-08-17T14:00:00-0400">at 2pm on Sunday</date>.
     Find us at...
   </p>
-  <ol>
-    {% assign day = 'thursday' %}
-    {% include day_for_homepage.html %}
-    {% assign day = 'friday' %}
-    {% include day_for_homepage.html %}
-    {% assign day = 'saturday' %}
-    {% include day_for_homepage.html %}
-    {% assign day = 'sunday' %}
-    {% include day_for_homepage.html %}
-  </ol>
+  <div class="row">
+    <div class="small-3 columns">
+      {% assign day = 'thursday' %}
+      {% include day_for_homepage.html %}
+    </div>
+    <div class="small-3 columns">
+      {% assign day = 'friday' %}
+      {% include day_for_homepage.html %}
+    </div>
+    <div class="small-3 columns">
+      {% assign day = 'saturday' %}
+      {% include day_for_homepage.html %}
+    </div>
+    <div class="small-3 columns">
+      {% assign day = 'sunday' %}
+      {% include day_for_homepage.html %}
+    </div>
+  </div>
 </div>
