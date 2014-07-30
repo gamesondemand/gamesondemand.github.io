@@ -1,7 +1,9 @@
+# This is a hash; We'll want to do lookups.
+# More importantly it should be alphabetized
 ---
 dungeon_world:
   name: Dungeon World
-monsterhearts:
-  name: Monsterhearts
 fiasco:
   name: Fiasco
+monsterhearts:
+  name: Monsterhearts
