@@ -1,7 +1,7 @@
 {% assign date = site.data[day] %}
 <div itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
   <div itemprop="text">
-    <a class="button round" itemprop="url" href="{{ site.url }}/{{ date.day | date: '%A' | downcase }}">
+    <a class="button tiny round" itemprop="url" href="{{ site.url }}/{{ date.day | date: '%A' | downcase }}">
       <time datetime="{{ date.day }}">{{ date.day | date: '%A' }}</time>
     </a>
     <ul class="no-bullet">
