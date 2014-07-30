@@ -2,7 +2,7 @@
 <div itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
   <div itemprop="text">
     <a class="button tiny round" itemprop="url" href="{{ site.url }}/{{ date.day | date: '%A' | downcase }}">
-      <time datetime="{{ date.day }}">{{ date.day | date: '%A' }}</time>
+      <time datetime="{{ date.day }}">{{ date.day | date: '%a' }}</time>
     </a>
     <ul class="no-bullet">
       {% for times in date.times %}
