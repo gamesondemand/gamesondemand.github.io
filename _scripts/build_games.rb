@@ -33,8 +33,10 @@ games.each do |game_id, game_config|
     text = []
     text << '---'
     text << 'layout: game'
-    text << "title: #{game_config['name']} at Games on Demand at GenCon"
-    text << "description: #{game_config['name']} at Games on Demand at GenCon"
+    text << "title: >"
+    text << "  #{game_config['name']} at Games on Demand at GenCon"
+    text << "description: >"
+    text << "  #{game_config['name']} at Games on Demand at GenCon"
     text << '---'
     text << "{% assign game = site.data.games['#{game_id}'] %}"
     text << '{% include game.html game = game %}'
