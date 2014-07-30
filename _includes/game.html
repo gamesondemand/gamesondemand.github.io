@@ -12,7 +12,7 @@
 
     {% for facilitator in game.facilitators %}
     {% assign offering = facilitator[1] %}
-    <section class="game-offering">
+    <section class="game-offering" id="{{ facilitator[0] }}">
       <dl>
         <dt>Facilitator</td>
         <dd>{{ offering.facilitator_name }}</dd>
