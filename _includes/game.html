@@ -1,25 +1,31 @@
-<h2>{{ game.name }}</h2>
-<dl>
-  <dt>Type</dt>
-  <dd>{{ game.type }}</dd>
-</dl>
+<article class="game">
+  <header class="game-header">
+    <h2 class="name">{{ game.name }}</h2>
+    <dl class="information">
+      <dt>Type</dt>
+      <dd>{{ game.type }}</dd>
+    </dl>
+  </header>
 
-<h3>Offerings</h3>
+  <div class="game-offerings">
+    <h3>Offerings</h3>
 
-{% for facilitator in game.facilitators %}
-{% assign offering = facilitator[1] %}
-<dl>
-  <dt>Name</dt>
-  <dd>{{ offering.name }}</dd>
-  <dt>Facilitator</dt>
-  <dd>{{ offering.facilitator_name }}</dd>
-  <dt>Duration</dt>
-  <dd>{{ offering.duration }} hours</dd>
-  <dt>Number of Players</dt>
-  <dd>{{ offering.minimum_players }} to {{ offering.maximum_players }}</dd>
-  <dt>Kid Friendly (Age 10+)</dt>
-  <dd>{% if offering.kid_friendly %}Yes{% else %}No{% endif %}</dd>
-  <dt>Pitch</dt>
-  <dd>{{ offering.pitch }}</dd>
-</dl>
-{% endfor %}
+    {% for facilitator in game.facilitators %}
+    {% assign offering = facilitator[1] %}
+    <dl>
+      <dt>Name</dt>
+      <dd>{{ offering.name }}</dd>
+      <dt>Facilitator</dt>
+      <dd>{{ offering.facilitator_name }}</dd>
+      <dt>Duration</dt>
+      <dd>{{ offering.duration }} hours</dd>
+      <dt>Number of Players</dt>
+      <dd>{{ offering.minimum_players }} to {{ offering.maximum_players }}</dd>
+      <dt>Kid Friendly (Age 10+)</dt>
+      <dd>{% if offering.kid_friendly %}Yes{% else %}No{% endif %}</dd>
+      <dt>Pitch</dt>
+      <dd>{{ offering.pitch }}</dd>
+    </dl>
+    {% endfor %}
+  </div>
+</div>
