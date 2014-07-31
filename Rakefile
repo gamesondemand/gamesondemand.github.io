@@ -153,3 +153,14 @@ desc 'Build the sites'
 task :build => ['build:data', 'build:pages']
 
 task :default => :build
+
+# Uncomment for later
+# task :parse_xml do
+#   require 'nokogiri'
+#   gem 'byebug'
+#   xml_doc = File.expand_path('../_data/god_menu_tabletop.xml', __FILE__)
+#   doc = Nokogiri::XML.parse(File.read(xml_doc))
+#   doc.css('[key=autokey30]').each do |obj|
+#     ::Kernel.require 'byebug'; ::Kernel.byebug; true;
+#   end
+# end
