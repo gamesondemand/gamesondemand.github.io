@@ -70,6 +70,8 @@
   - question: >
       What if I come with a spouse or child...can we signup for games together?
       If yes, does this mean we'd get the same type of boarding pass (say, "dragon") and simply wait for our type to be called? ﻿
+    answer: >
+      Yes. Make sure to ask the host for boarding passes in the same boarding group.
   - question: >
       When will you collect my generic ticket?
     answer: >
@@ -166,6 +168,20 @@
       Games and their slots are chosen on a first come first serve basis.
       This can make it very challenging to get 6 people to the same table.
       So be open about trying new games.
+  - question: >
+      I am a GM, do I need to pay generic tickets to play?
+    answer: >
+      Any game that you <strong>facilitate</strong>, you <strong>do not pay</strong>.
+      Any game that you <strong>do not facilitate</strong>, you <strong>do pay</strong>.
+  - question: >
+      I really want to play an OSR game? Or 3E? Can I find them here?
+    answer: >
+      <p>All of our <a href="/available-games/">possible games are listed</a>. These are the games submitted by our volunteers.</p>
+      <p>You may want to look at the following:</p>
+      <ul>
+        <li><a href="https://plus.google.com/u/0/104210491262285279383/posts/R2YQZxdjXhX">Escape from Catastrophe Island (DCC RPG)</a></li>
+        <li><a href="https://plus.google.com/u/0/+HarleyStroh/posts/iAPv7VheaeV">The Seven Pits of Sezrekan (DCC RPG)</a></li>
+      </ul>
 - name: Really?
   dom_id: really
   questions:

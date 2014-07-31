@@ -1,8 +1,7 @@
 <div id="{{ time.time | date: '%A-%H' | downcase }}" class="time-slot">
   <header>
     <h3 class="header">
-      <time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.time | date: "%l %p" }}</time>
-      <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://gamesondemand.github.io/{{ time.time | date: '%A/%I%P' | downcase }}" data-via="gamesondemand" data-hashtags="gencon,gamesondemand">Tweet</a>
+      <time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.abbreviation }}</time>
     </h3>
   </header>
   <div class="time-slot-duration two-hour">
