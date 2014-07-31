@@ -1,7 +1,7 @@
 <nav class="top-bar" data-topbar>
   <ul class="title-area">
     <li class="name">
-      <h1><a href="/">{{ site.name }}</a></h1>
+      <h1><a href="/">{{ site.short_name }}</a></h1>
     </li>
      <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
     <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
@@ -36,6 +36,7 @@
   <div class="row">
     <ul class="inline-list no-bullet">
       <li class="social-media-item twitter-frame"><a href="twitter://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}/{{ page.path }}" data-via="gamesondemand" data-hashtags="gencon,gamesondemand">Tweet</a></li>
+      <li class="social-media-item"><div class="fb-share-button" data-type="button" data-href="{{ site.url }}/{{ page.path }}"></div></li>
       <li class="social-media-item"><div class="g-plus" data-action="share"></div></li>
     </ul>
   </div>
