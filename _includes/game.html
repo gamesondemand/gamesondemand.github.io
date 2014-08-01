@@ -1,21 +1,25 @@
 <article class="game">
   <header class="game-header">
-    <h2 class="name">{{ game.name }}</h2>
-    <dl class="information">
-      <dt>Type</dt>
-      <dd>{{ game.type }}</dd>
-    </dl>
+    <h2 class="name">{{ game.name }} <small class="type">({{ game.type }})</small></h2>
   </header>
+
+  <nav>
+    <ul class="inline-list">
+      {% for facilitator in game.facilitators %}
+      <li><a class="button small" href="#{{ facilitator[0] }}">{{ facilitator[1].facilitator_name }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
 
   <div class="game-offerings">
     <h3>Offerings</h3>
 
     {% for facilitator in game.facilitators %}
     {% assign offering = facilitator[1] %}
-    <section class="game-offering" id="{{ facilitator[0] }}">
+    <section class="panel game-offering">
       <dl>
-        <dt>Facilitator</td>
-        <dd>{{ offering.facilitator_name }}</dd>
+        <dt>Facilitator</dt>
+        <dd><a name="{{ facilitator[0] }}">{{ offering.facilitator_name }}</a></dd>
         <dt>Name</dt>
         <dd>{{ offering.name }}</dd>
         <dt>Duration</dt>
