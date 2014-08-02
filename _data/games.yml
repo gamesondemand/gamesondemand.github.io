@@ -19,6 +19,7 @@
       kid_friendly: true
   type: Tabletop
   name: '13th Age: Forgotten Realms'
+  alpha_group: 0-9
 3-16:
   facilitators:
     gregor-hutton:
@@ -34,6 +35,7 @@
       kid_friendly: true
   type: Tabletop
   name: '3:16'
+  alpha_group: 0-9
 6d6-mince-pies-and-murder:
   facilitators:
     nykki-b:
@@ -52,6 +54,7 @@
       kid_friendly: false
   type: Tabletop
   name: '6D6: Mince Pies and Murder'
+  alpha_group: 0-9
 abstract-dungeon:
   facilitators:
     matthew-j-hanson:
@@ -69,6 +72,7 @@ abstract-dungeon:
       kid_friendly: true
   type: Tabletop
   name: Abstract Dungeon
+  alpha_group: A-F
 action-cards:
   facilitators:
     lowell-francis:
@@ -88,6 +92,7 @@ action-cards:
       kid_friendly: false
   type: Tabletop
   name: Action Cards (Homebrew power by Fate)
+  alpha_group: A-F
 aerie-of-the-aboleth:
   facilitators:
     renee-knipe:
@@ -109,6 +114,7 @@ aerie-of-the-aboleth:
       kid_friendly: true
   type: Tabletop
   name: Aerie of the Aboleth (Drowning & Falling)
+  alpha_group: A-F
 afrofuture:
   facilitators:
     james-mendez-hodes:
@@ -128,6 +134,7 @@ afrofuture:
       kid_friendly: false
   type: Tabletop
   name: AfroFuture (Fate Accelerated Edition)
+  alpha_group: A-F
 always-never-now:
   facilitators:
     joanna-piancastelli:
@@ -150,6 +157,7 @@ always-never-now:
       kid_friendly: false
   type: Tabletop
   name: Always/Never/Now
+  alpha_group: A-F
 amidst-endless-quiet:
   facilitators:
     gregor-hutton:
@@ -166,6 +174,7 @@ amidst-endless-quiet:
       kid_friendly: true
   type: Tabletop
   name: Amidst Endless Quiet
+  alpha_group: A-F
 ancient-secrets:
   facilitators:
     scott-acker:
@@ -191,6 +200,7 @@ ancient-secrets:
   type: Tabletop
   name: Ancient Secrets (Immortals Hack using components from Fate, Amber Diceless,
     and a bit of Cortex)
+  alpha_group: A-F
 andromeda:
   facilitators:
     bill-white:
@@ -210,6 +220,7 @@ andromeda:
       kid_friendly: false
   type: Tabletop
   name: Andromeda (Fate Core)
+  alpha_group: A-F
 apocalypse-world:
   facilitators:
     trevis-martin:
@@ -256,6 +267,7 @@ apocalypse-world:
       kid_friendly: false
   type: Tabletop
   name: Apocalypse World
+  alpha_group: A-F
 apocalypse-world-olive-garden:
   facilitators:
     karen-twelves:
@@ -273,6 +285,7 @@ apocalypse-world-olive-garden:
       kid_friendly: false
   type: Tabletop
   name: 'Apocalypse World: Olive Garden'
+  alpha_group: A-F
 archipelago:
   facilitators:
     karen-twelves:
@@ -300,6 +313,7 @@ archipelago:
       kid_friendly: true
   type: Tabletop
   name: Archipelago
+  alpha_group: A-F
 archipelago-last-of-us:
   facilitators:
     mark-causey:
@@ -320,6 +334,7 @@ archipelago-last-of-us:
       kid_friendly: false
   type: Tabletop
   name: Archipelago - Last of Us
+  alpha_group: A-F
 atomic-robo:
   facilitators:
     h-m-dain-lybarger:
@@ -336,6 +351,7 @@ atomic-robo:
       kid_friendly: true
   type: Tabletop
   name: Atomic Robo
+  alpha_group: A-F
 atomic-robo-the-roleplaying-game:
   facilitators:
     morgan-ellis:
@@ -373,6 +389,7 @@ atomic-robo-the-roleplaying-game:
       kid_friendly: true
   type: Tabletop
   name: Atomic Robo The Roleplaying Game
+  alpha_group: A-F
 beasts-of-burden:
   facilitators:
     renee-knipe:
@@ -390,6 +407,7 @@ beasts-of-burden:
       kid_friendly: false
   type: Tabletop
   name: Beasts of Burden (Monster of the Week hack)
+  alpha_group: A-F
 bloodnet:
   facilitators:
     evan-torner:
@@ -408,6 +426,7 @@ bloodnet:
       kid_friendly: false
   type: Live Action / Freeform
   name: BloodNet
+  alpha_group: A-F
 burning-wheel:
   facilitators:
     mad-jay:
@@ -422,6 +441,7 @@ burning-wheel:
       kid_friendly: true
   type: Tabletop
   name: Burning Wheel
+  alpha_group: A-F
 campfire:
   facilitators:
     mcgravin:
@@ -441,6 +461,7 @@ campfire:
       kid_friendly: true
   type: Tabletop
   name: Campfire (A Thousand and One Nights)
+  alpha_group: A-F
 caress-of-steel:
   facilitators:
     giovanni-lanza:
@@ -457,6 +478,7 @@ caress-of-steel:
       kid_friendly: true
   type: Tabletop
   name: Caress of Steel (Dungeon World)
+  alpha_group: A-F
 carnival-of-lost-souls:
   facilitators:
     renee-knipe:
@@ -475,6 +497,7 @@ carnival-of-lost-souls:
       kid_friendly: false
   type: Tabletop
   name: Carnival of Lost Souls (Ravenloft/Archipelago hack)
+  alpha_group: A-F
 carolina-death-crawl:
   facilitators:
     justin-hamilton:
@@ -520,6 +543,7 @@ carolina-death-crawl:
       kid_friendly: true
   type: Tabletop
   name: Carolina Death Crawl
+  alpha_group: A-F
 cat:
   facilitators:
     ray-otus:
@@ -537,6 +561,7 @@ cat:
       kid_friendly: true
   type: Tabletop
   name: Cat
+  alpha_group: A-F
 cat-a-little-game-about-little-heroes:
   facilitators:
     john-wick:
@@ -551,6 +576,7 @@ cat-a-little-game-about-little-heroes:
       kid_friendly: true
   type: Tabletop
   name: 'Cat: A Little Game about Little Heroes'
+  alpha_group: A-F
 companions:
   facilitators:
     jeremy-tidwell:
@@ -573,6 +599,7 @@ companions:
       kid_friendly: true
   type: Tabletop
   name: Companions
+  alpha_group: A-F
 cortex:
   facilitators:
     mad-jay:
@@ -590,6 +617,7 @@ cortex:
       kid_friendly: true
   type: Tabletop
   name: Cortex+
+  alpha_group: A-F
 danger-patrol:
   facilitators:
     drew:
@@ -609,6 +637,7 @@ danger-patrol:
       kid_friendly: true
   type: Tabletop
   name: Danger Patrol
+  alpha_group: A-F
 dawning-star:
   facilitators:
     justin-d-jacobson:
@@ -627,6 +656,7 @@ dawning-star:
       kid_friendly: true
   type: Tabletop
   name: Dawning Star (Fate Core)
+  alpha_group: A-F
 deeds-doers:
   facilitators:
     gregor-hutton:
@@ -643,6 +673,7 @@ deeds-doers:
       kid_friendly: true
   type: Tabletop
   name: Deeds & Doers
+  alpha_group: A-F
 dirty-world:
   facilitators:
     john-marron:
@@ -659,6 +690,7 @@ dirty-world:
       kid_friendly: false
   type: Tabletop
   name: Dirty World
+  alpha_group: A-F
 do-pilgrims-of-the-flying-temple:
   facilitators:
     matt-b:
@@ -703,6 +735,7 @@ do-pilgrims-of-the-flying-temple:
       kid_friendly: true
   type: Tabletop
   name: 'Do: Pilgrims of the Flying Temple'
+  alpha_group: A-F
 dog-eat-dog:
   facilitators:
     james-stuart:
@@ -738,6 +771,7 @@ dog-eat-dog:
       kid_friendly: false
   type: Tabletop
   name: Dog Eat Dog
+  alpha_group: A-F
 dogs-in-the-vineyard:
   facilitators:
     trevis-martin:
@@ -761,6 +795,7 @@ dogs-in-the-vineyard:
       kid_friendly: false
   type: Tabletop
   name: Dogs in the Vineyard
+  alpha_group: A-F
 doll-with-the-bloodstained-lips:
   facilitators:
     renee-knipe:
@@ -780,6 +815,7 @@ doll-with-the-bloodstained-lips:
       kid_friendly: false
   type: Tabletop
   name: Doll With The Bloodstained Lips (Coffin Crashers)
+  alpha_group: A-F
 don-t-rest-your-head:
   facilitators:
     ray-otus:
@@ -799,6 +835,7 @@ don-t-rest-your-head:
       kid_friendly: false
   type: Tabletop
   name: Don't Rest Your Head?
+  alpha_group: A-F
 dragonknights:
   facilitators:
     travis-scott:
@@ -820,6 +857,7 @@ dragonknights:
       kid_friendly: false
   type: Tabletop
   name: Dragonknights! (Powered by Fate Core)
+  alpha_group: A-F
 dread:
   facilitators:
     rishi-agrawal:
@@ -838,6 +876,7 @@ dread:
       kid_friendly: false
   type: Tabletop
   name: Dread
+  alpha_group: A-F
 dread-cold-war:
   facilitators:
     stentor-danielson:
@@ -854,6 +893,7 @@ dread-cold-war:
       kid_friendly: false
   type: Tabletop
   name: 'Dread: Cold War'
+  alpha_group: A-F
 dream-askew:
   facilitators:
     kira-magrann:
@@ -887,6 +927,7 @@ dream-askew:
       kid_friendly: false
   type: Tabletop
   name: Dream Askew
+  alpha_group: A-F
 dresden-files:
   facilitators:
     jeffrey-fuller:
@@ -903,6 +944,7 @@ dresden-files:
       kid_friendly: true
   type: Tabletop
   name: Dresden Files
+  alpha_group: A-F
 dresden-files-refuge:
   facilitators:
     rick-neal:
@@ -919,6 +961,7 @@ dresden-files-refuge:
       kid_friendly: true
   type: Tabletop
   name: 'Dresden Files: Refuge'
+  alpha_group: A-F
 dudebros-douchebags:
   facilitators:
     mikael-andersson:
@@ -941,6 +984,7 @@ dudebros-douchebags:
       kid_friendly: false
   type: Tabletop
   name: Dudebros & Douchebags
+  alpha_group: A-F
 dungeon-world:
   facilitators:
     james-jeffers:
@@ -1045,6 +1089,7 @@ dungeon-world:
       kid_friendly: true
   type: Tabletop
   name: Dungeon World
+  alpha_group: A-F
 dungeon-world-doom-of-fenrax:
   facilitators:
     russ-brown:
@@ -1062,6 +1107,7 @@ dungeon-world-doom-of-fenrax:
       kid_friendly: true
   type: Tabletop
   name: 'Dungeon World: Doom of Fenrax'
+  alpha_group: A-F
 dungeon-world-eberron:
   facilitators:
     giovanni-lanza:
@@ -1077,6 +1123,7 @@ dungeon-world-eberron:
       kid_friendly: true
   type: Tabletop
   name: 'Dungeon World: Eberron'
+  alpha_group: A-F
 dungeon-world-the-planarch-codex:
   facilitators:
     james-mendez-hodes:
@@ -1095,6 +1142,7 @@ dungeon-world-the-planarch-codex:
       kid_friendly: true
   type: Tabletop
   name: 'Dungeon World: the Planarch Codex'
+  alpha_group: A-F
 durance:
   facilitators:
     anne:
@@ -1111,6 +1159,7 @@ durance:
       kid_friendly: false
   type: Tabletop
   name: Durance
+  alpha_group: A-F
 earthdawn:
   facilitators:
     jesse-butler:
@@ -1128,6 +1177,7 @@ earthdawn:
       kid_friendly: false
   type: Tabletop
   name: Earthdawn
+  alpha_group: A-F
 elderhearts:
   facilitators:
     john-stavropoulos:
@@ -1174,6 +1224,7 @@ elderhearts:
       kid_friendly: false
   type: Tabletop
   name: Elderhearts (Monsterhearts in a Florida retirement community)
+  alpha_group: A-F
 equinox-run-with-fae:
   facilitators:
     jason-wallace:
@@ -1195,6 +1246,7 @@ equinox-run-with-fae:
   type: Tabletop
   name: Equinox run with FAE (FATE Accel Ed) or the Match System (soon to be released
     by Vagrant Workshop)
+  alpha_group: A-F
 fate-accelerated-edition:
   facilitators:
     drew:
@@ -1226,6 +1278,7 @@ fate-accelerated-edition:
       kid_friendly: true
   type: Tabletop
   name: Fate Accelerated Edition
+  alpha_group: A-F
 fate-core:
   facilitators:
     sayler-van-merlin:
@@ -1254,6 +1307,7 @@ fate-core:
       kid_friendly: false
   type: Tabletop
   name: Fate Core
+  alpha_group: A-F
 fate-core-tentacles-and-brass:
   facilitators:
     russ-brown:
@@ -1272,6 +1326,7 @@ fate-core-tentacles-and-brass:
       kid_friendly: true
   type: Tabletop
   name: 'Fate Core: Tentacles and Brass'
+  alpha_group: A-F
 feng-shui-2:
   facilitators:
     steven-hammond:
@@ -1291,6 +1346,7 @@ feng-shui-2:
       kid_friendly: true
   type: Tabletop
   name: Feng Shui 2
+  alpha_group: A-F
 feng-shui-ii:
   facilitators:
     rick-neal:
@@ -1307,6 +1363,7 @@ feng-shui-ii:
       kid_friendly: true
   type: Tabletop
   name: Feng Shui II
+  alpha_group: A-F
 fiasco:
   facilitators:
     justin-hamilton:
@@ -1450,6 +1507,7 @@ fiasco:
       kid_friendly: false
   type: Tabletop
   name: Fiasco
+  alpha_group: A-F
 firefly-followin-yonder-star:
   facilitators:
     rick-neal:
@@ -1467,6 +1525,7 @@ firefly-followin-yonder-star:
       kid_friendly: true
   type: Tabletop
   name: 'Firefly: Followin'' Yonder Star'
+  alpha_group: A-F
 first-impressions:
   facilitators:
     evan-torner:
@@ -1484,6 +1543,7 @@ first-impressions:
       kid_friendly: true
   type: Live Action / Freeform
   name: First Impressions
+  alpha_group: A-F
 gold-guts-and-grog-a-dungeon-world-game:
   facilitators:
     sarah:
@@ -1501,6 +1561,7 @@ gold-guts-and-grog-a-dungeon-world-game:
       kid_friendly: false
   type: Tabletop
   name: Gold, Guts, and Grog - a Dungeon World game
+  alpha_group: G-L
 golden-sky-stories:
   facilitators:
     chris-czerniak:
@@ -1535,6 +1596,7 @@ golden-sky-stories:
       kid_friendly: true
   type: Tabletop
   name: Golden Sky Stories
+  alpha_group: G-L
 hana-academy:
   facilitators:
     jesse-butler:
@@ -1550,6 +1612,7 @@ hana-academy:
       kid_friendly: true
   type: Tabletop
   name: Hana Academy
+  alpha_group: G-L
 headspace:
   facilitators:
     mark-richardson:
@@ -1569,6 +1632,7 @@ headspace:
       kid_friendly: false
   type: Tabletop
   name: Headspace
+  alpha_group: G-L
 heroine:
   facilitators:
     jenn-martin:
@@ -1586,6 +1650,7 @@ heroine:
       kid_friendly: true
   type: Tabletop
   name: Heroine
+  alpha_group: G-L
 hirelings:
   facilitators:
     jay-treat:
@@ -1603,6 +1668,7 @@ hirelings:
       kid_friendly: false
   type: Live Action / Freeform
   name: Hirelings
+  alpha_group: G-L
 hollow-earth-expedition:
   facilitators:
     steven-hammond:
@@ -1622,6 +1688,7 @@ hollow-earth-expedition:
       kid_friendly: true
   type: Tabletop
   name: Hollow Earth Expedition
+  alpha_group: G-L
 hollowpoint:
   facilitators:
     nykki-b:
@@ -1638,6 +1705,7 @@ hollowpoint:
       kid_friendly: false
   type: Tabletop
   name: Hollowpoint
+  alpha_group: G-L
 hope-inhumanity:
   facilitators:
     patrick-riegert:
@@ -1658,6 +1726,7 @@ hope-inhumanity:
       kid_friendly: false
   type: Tabletop
   name: Hope Inhumanity
+  alpha_group: G-L
 houses-of-the-blooded:
   facilitators:
     john-wick:
@@ -1674,6 +1743,7 @@ houses-of-the-blooded:
       kid_friendly: true
   type: Live Action / Freeform
   name: Houses of the Blooded
+  alpha_group: G-L
 how-to-be-human:
   facilitators:
     kat-jones:
@@ -1688,6 +1758,7 @@ how-to-be-human:
       kid_friendly: true
   type: Live Action / Freeform
   name: How to be Human
+  alpha_group: G-L
 improv-for-gamers-level-1:
   facilitators:
     karen-twelves:
@@ -1705,6 +1776,7 @@ improv-for-gamers-level-1:
       kid_friendly: false
   type: Live Action / Freeform
   name: 'Improv for Gamers: Level 1'
+  alpha_group: G-L
 in-a-wicked-empire:
   facilitators:
     dave-younce:
@@ -1724,6 +1796,7 @@ in-a-wicked-empire:
       kid_friendly: false
   type: Tabletop
   name: In a Wicked Empire (In a Wicked Age hack)
+  alpha_group: G-L
 inheritance:
   facilitators:
     john-stavropoulos:
@@ -1748,6 +1821,7 @@ inheritance:
       kid_friendly: false
   type: Live Action / Freeform
   name: Inheritance (Burning Wheel LARP)
+  alpha_group: G-L
 inspectres:
   facilitators:
     jenn-martin:
@@ -1766,6 +1840,7 @@ inspectres:
       kid_friendly: true
   type: Tabletop
   name: Inspectres
+  alpha_group: G-L
 lady-blackbird:
   facilitators:
     ray-otus:
@@ -1801,6 +1876,7 @@ lady-blackbird:
       kid_friendly: true
   type: Tabletop
   name: Lady Blackbird
+  alpha_group: G-L
 lasers-and-feelings:
   facilitators:
     jeromy-hastings:
@@ -1816,6 +1892,7 @@ lasers-and-feelings:
       kid_friendly: false
   type: Tabletop
   name: Lasers and Feelings
+  alpha_group: G-L
 last-modron-migration:
   facilitators:
     renee-knipe:
@@ -1834,6 +1911,7 @@ last-modron-migration:
       kid_friendly: false
   type: Tabletop
   name: Last Modron Migration (Whitebooks/Planescape)
+  alpha_group: G-L
 last-train-out-of-warsaw:
   facilitators:
     h-m-dain-lybarger:
@@ -1849,6 +1927,7 @@ last-train-out-of-warsaw:
       kid_friendly: false
   type: Tabletop
   name: Last Train Out Of Warsaw
+  alpha_group: G-L
 legacy-of-the-slayer:
   facilitators:
     jay-treat:
@@ -1868,6 +1947,7 @@ legacy-of-the-slayer:
       kid_friendly: false
   type: Tabletop
   name: Legacy of the Slayer
+  alpha_group: G-L
 leverage:
   facilitators:
     alan-de-smet:
@@ -1885,6 +1965,7 @@ leverage:
       kid_friendly: false
   type: Tabletop
   name: Leverage
+  alpha_group: G-L
 little-wizards:
   facilitators:
     matt-b:
@@ -1902,6 +1983,7 @@ little-wizards:
       kid_friendly: true
   type: Tabletop
   name: Little Wizards
+  alpha_group: G-L
 live-action-sampler:
   facilitators:
     jason-morningstar:
@@ -1918,6 +2000,7 @@ live-action-sampler:
       kid_friendly: false
   type: Live Action / Freeform
   name: Live Action Sampler
+  alpha_group: G-L
 long-road-home:
   facilitators:
     james-stuart:
@@ -1937,6 +2020,7 @@ long-road-home:
       kid_friendly: true
   type: Tabletop
   name: Long Road Home (Dungeon World)
+  alpha_group: G-L
 m-vs-m:
   facilitators:
     john-stavropoulos:
@@ -1975,6 +2059,7 @@ m-vs-m:
       kid_friendly: false
   type: Live Action / Freeform
   name: M vs M (Nordic LARP Style)
+  alpha_group: M-R
 magical-kitties:
   facilitators:
     matthew-j-hanson:
@@ -1989,6 +2074,7 @@ magical-kitties:
       kid_friendly: true
   type: Tabletop
   name: Magical Kitties!
+  alpha_group: M-R
 marvel-heroic:
   facilitators:
     h-m-dain-lybarger:
@@ -2005,6 +2091,7 @@ marvel-heroic:
       kid_friendly: true
   type: Tabletop
   name: Marvel Heroic
+  alpha_group: M-R
 marvel-heroic-roleplaying:
   facilitators:
     james-mendez-hodes:
@@ -2023,6 +2110,7 @@ marvel-heroic-roleplaying:
       kid_friendly: true
   type: Tabletop
   name: Marvel Heroic Roleplaying
+  alpha_group: M-R
 metropolis:
   facilitators:
     evan-torner:
@@ -2040,6 +2128,7 @@ metropolis:
       kid_friendly: true
   type: Live Action / Freeform
   name: Metropolis
+  alpha_group: M-R
 microscope:
   facilitators:
     andy-k:
@@ -2058,6 +2147,7 @@ microscope:
       kid_friendly: true
   type: Tabletop
   name: Microscope
+  alpha_group: M-R
 modron-memoranda:
   facilitators:
     renee-knipe:
@@ -2078,6 +2168,7 @@ modron-memoranda:
       kid_friendly: false
   type: Tabletop
   name: Modron Memoranda (Planescape/Archipelago)
+  alpha_group: M-R
 monster-of-the-week:
   facilitators:
     rick-neal:
@@ -2096,6 +2187,7 @@ monster-of-the-week:
       kid_friendly: true
   type: Tabletop
   name: Monster of the Week
+  alpha_group: M-R
 monsterhearts:
   facilitators:
     jeromy-hastings:
@@ -2148,6 +2240,7 @@ monsterhearts:
       kid_friendly: false
   type: Tabletop
   name: Monsterhearts
+  alpha_group: M-R
 mythender:
   facilitators:
     alan-de-smet:
@@ -2167,6 +2260,7 @@ mythender:
       kid_friendly: false
   type: Tabletop
   name: Mythender
+  alpha_group: M-R
 nanoworld:
   facilitators:
     ray-otus:
@@ -2185,6 +2279,7 @@ nanoworld:
       kid_friendly: false
   type: Tabletop
   name: Nanoworld
+  alpha_group: M-R
 night-s-black-agents:
   facilitators:
     bill-white:
@@ -2203,6 +2298,7 @@ night-s-black-agents:
       kid_friendly: false
   type: Tabletop
   name: Night's Black Agents (Gumshoe)
+  alpha_group: M-R
 night-witches:
   facilitators:
     jason-morningstar:
@@ -2238,6 +2334,7 @@ night-witches:
       kid_friendly: false
   type: Tabletop
   name: Night Witches
+  alpha_group: M-R
 no-country-for-old-kobolds:
   facilitators:
     steve-wallace:
@@ -2268,6 +2365,7 @@ no-country-for-old-kobolds:
       kid_friendly: false
   type: Tabletop
   name: No Country For Old Kobolds (Dungeon World)
+  alpha_group: M-R
 ocean:
   facilitators:
     chris-czerniak:
@@ -2284,6 +2382,7 @@ ocean:
       kid_friendly: true
   type: Tabletop
   name: Ocean
+  alpha_group: M-R
 on-mighty-thews:
   facilitators:
     dana-fried:
@@ -2301,6 +2400,7 @@ on-mighty-thews:
       kid_friendly: false
   type: Tabletop
   name: On Mighty Thews
+  alpha_group: M-R
 orcs-in-the-dragon-s-den:
   facilitators:
     ron-frazier:
@@ -2317,6 +2417,7 @@ orcs-in-the-dragon-s-den:
       kid_friendly: true
   type: Tabletop
   name: Orcs in the Dragon's Den (Fate Core)
+  alpha_group: M-R
 our-last-best-hope:
   facilitators:
     nykki-b:
@@ -2334,6 +2435,7 @@ our-last-best-hope:
       kid_friendly: true
   type: Tabletop
   name: Our Last Best Hope
+  alpha_group: M-R
 penny-for-my-thoughts:
   facilitators:
     kristin-firth:
@@ -2350,6 +2452,7 @@ penny-for-my-thoughts:
       kid_friendly: false
   type: Tabletop
   name: Penny For My Thoughts
+  alpha_group: M-R
 penny-for-your-thoughts:
   facilitators:
     anne:
@@ -2365,6 +2468,7 @@ penny-for-your-thoughts:
       kid_friendly: true
   type: Tabletop
   name: Penny for Your Thoughts
+  alpha_group: M-R
 powers-for-good:
   facilitators:
     joanna-piancastelli:
@@ -2385,6 +2489,7 @@ powers-for-good:
       kid_friendly: true
   type: Tabletop
   name: Powers for Good
+  alpha_group: M-R
 previous-occupants:
   facilitators:
     kira-magrann:
@@ -2400,6 +2505,7 @@ previous-occupants:
       kid_friendly: false
   type: Live Action / Freeform
   name: Previous Occupants
+  alpha_group: M-R
 princes-kingdom:
   facilitators:
     gregor-hutton:
@@ -2416,6 +2522,7 @@ princes-kingdom:
       kid_friendly: true
   type: Tabletop
   name: Princes' Kingdom
+  alpha_group: M-R
 psi-run:
   facilitators:
     drew:
@@ -2450,6 +2557,7 @@ psi-run:
       kid_friendly: false
   type: Tabletop
   name: PSI*Run
+  alpha_group: M-R
 quantum-flux:
   facilitators:
     matt-b:
@@ -2473,6 +2581,7 @@ quantum-flux:
       kid_friendly: false
   type: Tabletop
   name: Quantum Flux (6d6)
+  alpha_group: M-R
 quiet-year:
   facilitators:
     bryan-rennekamp:
@@ -2510,6 +2619,7 @@ quiet-year:
       kid_friendly: true
   type: Tabletop
   name: Quiet Year
+  alpha_group: M-R
 rat-queens:
   facilitators:
     john-stavropoulos:
@@ -2542,6 +2652,7 @@ rat-queens:
       kid_friendly: false
   type: Tabletop
   name: Rat Queens (Dungeon World + Monsterhearts + Dream Askew)
+  alpha_group: M-R
 red-right-hand-a-monster-of-the-week-game:
   facilitators:
     sarah:
@@ -2558,6 +2669,7 @@ red-right-hand-a-monster-of-the-week-game:
       kid_friendly: false
   type: Tabletop
   name: Red Right Hand - a Monster of the Week game
+  alpha_group: M-R
 revived-a-support-group-for-the-partially-deceased:
   facilitators:
     kat-jones:
@@ -2575,6 +2687,7 @@ revived-a-support-group-for-the-partially-deceased:
       kid_friendly: false
   type: Live Action / Freeform
   name: 'Revived: A Support Group for the Partially Deceased'
+  alpha_group: M-R
 romance-in-the-air:
   facilitators:
     bill-white:
@@ -2592,6 +2705,7 @@ romance-in-the-air:
       kid_friendly: false
   type: Tabletop
   name: Romance in the Air (Fate Core)
+  alpha_group: M-R
 ryuutama:
   facilitators:
     matt-sanchez:
@@ -2618,6 +2732,7 @@ ryuutama:
       kid_friendly: true
   type: Tabletop
   name: Ryuutama
+  alpha_group: M-R
 ryuutama-natural-fantasy:
   facilitators:
     mark-causey:
@@ -2641,6 +2756,7 @@ ryuutama-natural-fantasy:
       kid_friendly: true
   type: Tabletop
   name: 'Ryuutama: Natural Fantasy'
+  alpha_group: M-R
 sagas-of-the-icelanders:
   facilitators:
     mikael-andersson:
@@ -2659,6 +2775,7 @@ sagas-of-the-icelanders:
       kid_friendly: false
   type: Tabletop
   name: Sagas of the Icelanders
+  alpha_group: S-Z
 samsara:
   facilitators:
     mark-redacted:
@@ -2677,6 +2794,7 @@ samsara:
       kid_friendly: false
   type: Tabletop
   name: Samsara
+  alpha_group: S-Z
 samurai-in-the-wasteland:
   facilitators:
     anna-kreider:
@@ -2691,6 +2809,7 @@ samurai-in-the-wasteland:
       kid_friendly: true
   type: Tabletop
   name: Samurai in the Wasteland (hack of Dogs in the Vineyard)
+  alpha_group: S-Z
 shab-al-hiri-roach-hogwarts-edition:
   facilitators:
     anna-kreider:
@@ -2708,6 +2827,7 @@ shab-al-hiri-roach-hogwarts-edition:
       kid_friendly: false
   type: Tabletop
   name: 'Shab-al-Hiri Roach: Hogwarts Edition'
+  alpha_group: S-Z
 shinobigami:
   facilitators:
     andy-k:
@@ -2735,6 +2855,7 @@ shinobigami:
       kid_friendly: true
   type: Tabletop
   name: Shinobigami
+  alpha_group: S-Z
 short-order-heroes:
   facilitators:
     jesse-butler:
@@ -2750,6 +2871,7 @@ short-order-heroes:
       kid_friendly: true
   type: Tabletop
   name: Short Order Heroes
+  alpha_group: S-Z
 souls-of-steel:
   facilitators:
     dana-fried:
@@ -2767,6 +2889,7 @@ souls-of-steel:
       kid_friendly: false
   type: Tabletop
   name: Souls of Steel
+  alpha_group: S-Z
 spark:
   facilitators:
     mark-richardson:
@@ -2787,6 +2910,7 @@ spark:
       kid_friendly: false
   type: Tabletop
   name: Spark
+  alpha_group: S-Z
 sparks-nevada-thrilling-adventure-game:
   facilitators:
     mike-olson:
@@ -2805,6 +2929,7 @@ sparks-nevada-thrilling-adventure-game:
       kid_friendly: true
   type: Tabletop
   name: Sparks Nevada Thrilling Adventure Game (Fate-like)
+  alpha_group: S-Z
 steal-away-jordan-final-defense-of-the-quilombos:
   facilitators:
     james-mendez-hodes:
@@ -2823,6 +2948,7 @@ steal-away-jordan-final-defense-of-the-quilombos:
       kid_friendly: false
   type: Tabletop
   name: 'Steal Away Jordan: Final Defense of the Quilombos'
+  alpha_group: S-Z
 strike-force-dagon:
   facilitators:
     scott-acker:
@@ -2845,6 +2971,7 @@ strike-force-dagon:
       kid_friendly: false
   type: Tabletop
   name: Strike Force Dagon (Don't Rest Your Head)
+  alpha_group: S-Z
 summer-lovin:
   facilitators:
     kira-magrann:
@@ -2863,6 +2990,7 @@ summer-lovin:
       kid_friendly: false
   type: Live Action / Freeform
   name: Summer Lovin
+  alpha_group: S-Z
 swords-without-master:
   facilitators:
     mark-redacted:
@@ -2880,6 +3008,7 @@ swords-without-master:
       kid_friendly: false
   type: Tabletop
   name: Swords Without Master
+  alpha_group: S-Z
 swords-wizardry:
   facilitators:
     justin-hamilton:
@@ -2900,6 +3029,7 @@ swords-wizardry:
       kid_friendly: true
   type: Tabletop
   name: Swords & Wizardry
+  alpha_group: S-Z
 technoir:
   facilitators:
     mark-redacted:
@@ -2933,6 +3063,7 @@ technoir:
       kid_friendly: false
   type: Tabletop
   name: Technoir
+  alpha_group: S-Z
 tenra-bansho-zero:
   facilitators:
     chris-czerniak:
@@ -2963,6 +3094,7 @@ tenra-bansho-zero:
       kid_friendly: false
   type: Tabletop
   name: Tenra Bansho Zero
+  alpha_group: S-Z
 terror-in-freeport:
   facilitators:
     matt-b:
@@ -2981,6 +3113,7 @@ terror-in-freeport:
       kid_friendly: true
   type: Tabletop
   name: Terror in Freeport (Fate)
+  alpha_group: S-Z
 tokyo-brain-pop:
   facilitators:
     chris-czerniak:
@@ -3001,6 +3134,7 @@ tokyo-brain-pop:
       kid_friendly: false
   type: Tabletop
   name: Tokyo Brain Pop
+  alpha_group: S-Z
 tokyo-rain:
   facilitators:
     justin-d-jacobson:
@@ -3018,6 +3152,7 @@ tokyo-rain:
       kid_friendly: true
   type: Tabletop
   name: Tokyo Rain
+  alpha_group: S-Z
 torchbearer:
   facilitators:
     sean-nittner:
@@ -3070,6 +3205,7 @@ torchbearer:
       kid_friendly: true
   type: Tabletop
   name: Torchbearer
+  alpha_group: S-Z
 tragedy-in-five-acts:
   facilitators:
     stentor-danielson:
@@ -3087,6 +3223,7 @@ tragedy-in-five-acts:
       kid_friendly: false
   type: Tabletop
   name: Tragedy in Five Acts
+  alpha_group: S-Z
 trail-of-cthulhu:
   facilitators:
     matt-sanchez:
@@ -3104,6 +3241,7 @@ trail-of-cthulhu:
       kid_friendly: false
   type: Tabletop
   name: Trail of Cthulhu
+  alpha_group: S-Z
 traveller:
   facilitators:
     jesse-butler:
@@ -3119,6 +3257,7 @@ traveller:
       kid_friendly: true
   type: Tabletop
   name: Traveller
+  alpha_group: S-Z
 tremulus:
   facilitators:
     john-marron:
@@ -3134,6 +3273,7 @@ tremulus:
       kid_friendly: false
   type: Tabletop
   name: tremulus
+  alpha_group: S-Z
 tribunal:
   facilitators:
     andrew-medeiros:
@@ -3151,6 +3291,7 @@ tribunal:
       kid_friendly: false
   type: Live Action / Freeform
   name: Tribunal
+  alpha_group: S-Z
 urban-shadows:
   facilitators:
     andrew-medeiros:
@@ -3183,6 +3324,7 @@ urban-shadows:
       kid_friendly: false
   type: Tabletop
   name: Urban Shadows
+  alpha_group: S-Z
 uwe-boll-s-christmas-special:
   facilitators:
     evan-torner:
@@ -3202,6 +3344,7 @@ uwe-boll-s-christmas-special:
       kid_friendly: false
   type: Live Action / Freeform
   name: Uwe Boll's Christmas Special
+  alpha_group: S-Z
 vampire-city:
   facilitators:
     jason-wallace:
@@ -3220,6 +3363,7 @@ vampire-city:
       kid_friendly: false
   type: Tabletop
   name: Vampire City
+  alpha_group: S-Z
 variance:
   facilitators:
     rishi-agrawal:
@@ -3238,6 +3382,7 @@ variance:
       kid_friendly: false
   type: Tabletop
   name: Variance (Playtest)
+  alpha_group: S-Z
 venture-city-stories:
   facilitators:
     rishi-agrawal:
@@ -3256,6 +3401,7 @@ venture-city-stories:
       kid_friendly: false
   type: Tabletop
   name: Venture City Stories (Fate Core)
+  alpha_group: S-Z
 vigilance-committee:
   facilitators:
     ron-frazier:
@@ -3274,6 +3420,7 @@ vigilance-committee:
       kid_friendly: true
   type: Tabletop
   name: Vigilance Committee (Jadepunk)
+  alpha_group: S-Z
 villa-air-bel:
   facilitators:
     james-stuart:
@@ -3294,6 +3441,7 @@ villa-air-bel:
       kid_friendly: false
   type: Live Action / Freeform
   name: Villa Air-Bel
+  alpha_group: S-Z
 war-of-ashes:
   facilitators:
     sean-nittner:
@@ -3324,6 +3472,7 @@ war-of-ashes:
       kid_friendly: true
   type: Tabletop
   name: War of Ashes
+  alpha_group: S-Z
 warren:
   facilitators:
     john-marron:
@@ -3366,6 +3515,7 @@ warren:
       kid_friendly: true
   type: Tabletop
   name: Warren
+  alpha_group: S-Z
 western-city:
   facilitators:
     jason-wallace:
@@ -3384,6 +3534,7 @@ western-city:
       kid_friendly: true
   type: Tabletop
   name: Western City
+  alpha_group: S-Z
 wicked-fantasy:
   facilitators:
     john-wick:
@@ -3399,6 +3550,7 @@ wicked-fantasy:
       kid_friendly: true
   type: Tabletop
   name: Wicked Fantasy
+  alpha_group: S-Z
 wield:
   facilitators:
     john-wick:
@@ -3413,6 +3565,7 @@ wield:
       kid_friendly: true
   type: Tabletop
   name: Wield
+  alpha_group: S-Z
 zombie-cinema:
   facilitators:
     kristin-firth:
@@ -3441,3 +3594,4 @@ zombie-cinema:
       kid_friendly: true
   type: Tabletop
   name: Zombie Cinema
+  alpha_group: S-Z

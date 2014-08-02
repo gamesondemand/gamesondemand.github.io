@@ -3,9 +3,29 @@ layout: default
 title: Games on Offer at Games on Demand at GenCon
 description: Games on Offer at Games on Demand at GenCon
 ---
-<h2>Games on Offer</h2>
-<ul>
-{% for game in site.data.games %}
-  <li><a href="/available-games/{{game[0]}}/">{{ game[1].name }}</a></li>
-{% endfor %}
-</ul>
+
+<article class="available-games">
+  <header class="available-games-header header">
+    <h2 class="name">{{ page.title }} <small>(FAQ)</small></h2>
+  </header>
+
+  <nav>
+    <ul class="inline-list">
+      {% assign previous_alpha_group = '' %}
+      {% for game in site.data.games %}
+        {% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %}<li><a class="button small" href="#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <ul>
+  {% assign previous_alpha_group = '' %}
+  {% for game in site.data.games %}
+    <li>
+      <a href="/available-games/{{game[0]}}/"{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %} name="{{ previous_alpha_group}}"{% endif %}>
+        {{ game[1].name }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</article>

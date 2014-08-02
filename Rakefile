@@ -14,16 +14,34 @@ namespace :build do
         text = []
         text << '---'
         text << 'layout: default'
-        text << "title: Games on Offer at Games on Demand at GenCon"
-        text << "description: Games on Offer at Games on Demand at GenCon"
+        text << "title: Available Games for Games on Demand at GenCon"
+        text << "description: Available Games for Games on Demand at GenCon"
         text << '---'
-        text << '<h2>Games on Offer</h2>'
-        text << '<ul>'
-        text << "{% for game in site.data.games %}"
-        text << '  <li><a href="/available-games/{{game[0]}}/">{{ game[1].name }}</a></li>'
-        text << '{% endfor %}'
-        text << '</ul>'
+        text << '<article class="available-games">'
+        text << '  <header class="available-games-header header">'
+        text << '    <h2 class="name">{{ page.title }} <small>(FAQ)</small></h2>'
+        text << '  </header>'
         text << ''
+        text << '  <nav>'
+        text << '    <ul class="inline-list">'
+        text << '      {% assign previous_alpha_group = "" %}'
+        text << '      {% for game in site.data.games %}'
+        text << '        {% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %}<li><a class="button small" href="#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}'
+        text << '      {% endfor %}'
+        text << '    </ul>'
+        text << '  </nav>'
+        text << ''
+        text << '  <ul>'
+        text << '  {% assign previous_alpha_group = "" %}'
+        text << '  {% for game in site.data.games %}'
+        text << '    <li>'
+        text << '      <a href="/available-games/{{game[0]}}/"{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %} name="{{ previous_alpha_group}}"{% endif %}>'
+        text << '        {{ game[1].name }}'
+        text << '      </a>'
+        text << '    </li>'
+        text << '  {% endfor %}'
+        text << '  </ul>'
+        text << '</article>'
         file.puts text.join("\n")
       end
 
@@ -92,6 +110,15 @@ namespace :build do
   namespace :data do
     desc 'Build necessary game data'
     task :games do
+      def alpha_group_for(word)
+        case word.to_s[0,1]
+        when /\d/ then '0-9'
+        when /[abcdef]/ then 'A-F'
+        when /[ghijkl]/ then 'G-L'
+        when /[mnopqr]/ then 'M-R'
+        when /[stuvwxyz]/ then 'S-Z'
+        end
+      end
       require 'fileutils'
       require 'psych'
       require 'csv'
@@ -110,7 +137,8 @@ namespace :build do
         collector[slugified_game_name] ||= {
           'facilitators' => {},
           'type' => row['G1Type'],
-          'name' => row['Game1']
+          'name' => row['Game1'],
+          'alpha_group' => alpha_group_for(slugified_game_name)
         }
 
         # Data integrity error
