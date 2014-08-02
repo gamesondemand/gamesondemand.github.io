@@ -115,9 +115,9 @@
       There will be chairs in the surrounding area for anyone that may need them.
       And please ask a host for assistance.
   - question: >
-      What about people with hearing difficulties? How will they know about the last call for tickets?﻿
-    answer: >
-      We will use visual (and audible) indicators to indicate what numbers are boarding.
+      What about people with hearing difficulties? How will they know about the last call for tickets?
+        answer: >
+      We will use visual (and audible) signs to show what numbers are boarding.
 - name: Games Being Run
   dom_id: games-being-run
   questions:
