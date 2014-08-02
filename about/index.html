@@ -1,0 +1,70 @@
+---
+layout: default
+title: About Games on Demand at GenCon
+description: About Games on Demand at GenCon
+---
+
+<dl>
+  <dt>What</dt>
+  <dd>
+    <ul>
+      <li>200+ RPGs and LARPs</li>
+      <li>46 hours, 25 tables, 70 GMs</li>
+      <li>No registration!</li>
+      <li>No planning!</li>
+    </ul>
+  </dd>
+  <dt>Where</dt>
+  <dd>Marriott Downtown, 2nd floor, Ballroom 6, 350 West Maryland St.</dd>
+  <dd><a href="/map/">See our map</a></dd>
+  <dt>Arrive</dt>
+  <dd>10 minutes before start time</dd>
+  <dt>When</dt>
+  <dd>
+    <ul>
+      <li>Thursday
+        <ul class="inline-list">
+          {% for slot in site.data.thursday.times %}
+          <li><a href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li>Friday
+        <ul class="inline-list">
+          {% for slot in site.data.friday.times %}
+          <li><a href="/friday/{{ slot[0] }}">{{ slot[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li>Saturday
+        <ul class="inline-list">
+          {% for slot in site.data.saturday.times %}
+          <li><a href="/saturday/{{ slot[0] }}">{{ slot[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      <li>Sunday
+        <ul class="inline-list">
+          {% for slot in site.data.sunday.times %}
+          <li><a href="/sunday/{{ slot[0] }}">{{ slot[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+    </ul>
+  </dd>
+  <dt>Tickets</dt>
+  <dd>
+    <ul>
+      <li>Two (2) hour game; 1 generic ticket</li>
+      <li>Four (4) hour game; 2 generic tickets</li>
+    </ul>
+  </dd>
+  <dt>Experience</dt>
+  <dd>None</dd>
+  <dt>Age</dt>
+  <dd>10+, though most games are for 18+</dd>
+  <dt>Further Questions</dt>
+  <dd><a href="/faq/">See our FAQ</a></dd>
+  <dt>More Information</dt>
+  <dd><a href="//indiegamesexplosion.org/2014/05/15/games-on-demand-at-gen-con-2014">Find out more at indiegamesexplosion.org</a></dd>
+</dl>
