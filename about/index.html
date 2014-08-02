@@ -22,34 +22,15 @@ description: About Games on Demand at GenCon
   <dt>When</dt>
   <dd>
     <ul>
-      <li>Thursday
+      {% for day_data in site.data.times %}{% assign day = day_data[0] %}
+      <li>{{ day | capitalize }}
         <ul class="inline-list">
-          {% for slot in site.data.thursday.times %}
+          {% for slot in day_data[1].times %}
           <li><a href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
           {% endfor %}
         </ul>
       </li>
-      <li>Friday
-        <ul class="inline-list">
-          {% for slot in site.data.friday.times %}
-          <li><a href="/friday/{{ slot[0] }}">{{ slot[0] }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-      <li>Saturday
-        <ul class="inline-list">
-          {% for slot in site.data.saturday.times %}
-          <li><a href="/saturday/{{ slot[0] }}">{{ slot[0] }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-      <li>Sunday
-        <ul class="inline-list">
-          {% for slot in site.data.sunday.times %}
-          <li><a href="/sunday/{{ slot[0] }}">{{ slot[0] }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
+      {% endfor %}
     </ul>
   </dd>
   <dt>Bring</dt>

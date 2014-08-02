@@ -5,10 +5,10 @@ namespace :build do
       require 'fileutils'
       require 'psych'
 
-      FileUtils.rm_rf(File.expand_path("../../available-games", __FILE__))
+      FileUtils.rm_rf(File.expand_path("../available-games", __FILE__))
       games = Psych.load_file(File.expand_path('../_data/games.yml', __FILE__)).collect.sort {|a,b| a[0] <=> b[0] }
 
-      dirname = File.expand_path("../../available-games", __FILE__)
+      dirname = File.expand_path("../available-games", __FILE__)
       FileUtils.mkdir_p(dirname)
       File.open(File.join(dirname, 'index.html'), 'w+') do |file|
         text = []
@@ -47,7 +47,7 @@ namespace :build do
 
 
       games.each do |game_id, game_config|
-        dirname = File.expand_path("../../available-games/#{game_id}", __FILE__)
+        dirname = File.expand_path("../available-games/#{game_id}", __FILE__)
         FileUtils.mkdir_p(dirname)
         File.open(File.join(dirname, 'index.html'), 'w+') do |file|
           text = []
@@ -73,9 +73,9 @@ namespace :build do
         ['Thursday', ['10am', '12pm', '2pm', '4pm', '6pm']],
         ['Friday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm', '10pm']],
         ['Saturday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm', '10pm']],
-        ['Sunday', ['10am', '12pm', '2pm', '4pm']],
+        ['Sunday', ['10am', '12pm', '2pm']],
       ].each do |day, times|
-        dirname = File.expand_path("../../#{day.downcase}", __FILE__)
+        dirname = File.expand_path("../#{day.downcase}", __FILE__)
         FileUtils.rm_rf(dirname)
         FileUtils.mkdir_p(dirname)
         File.open(File.join(dirname, 'index.html'), 'w+') do |file|
@@ -85,7 +85,7 @@ namespace :build do
           text << "title: #{day} Games on Demand at GenCon"
           text << "description: List of games for #{day} at Games on Demand GenCon"
           text << '---'
-          text << "{% assign day = site.data.#{day.downcase} %}"
+          text << "{% assign day = site.data.times.#{day.downcase} %}"
           text << '{% include day.html day=day %}'
           file.puts text.join("\n")
         end
@@ -98,7 +98,7 @@ namespace :build do
             text << "title: #{time} #{day} Games on Demand at GenCon"
             text << "description: List of games for #{time} #{day} at Games on Demand GenCon"
             text << '---'
-            text << "{% assign time = site.data.#{day.downcase}.times.#{time} %}"
+            text << "{% assign time = site.data.times.#{day.downcase}.times.#{time} %}"
             text << '{% include time.html time = time %}'
             file.puts text.join("\n")
           end

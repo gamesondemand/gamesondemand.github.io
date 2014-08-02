@@ -304,9 +304,9 @@ archipelago:
       type: Tabletop
       facilitator_name: Steve Segedy
       name: Archipelago
-      pitch: "[HEY MIKAEL! I DON'T HAVE A PITCH FOR THIS YET AND I'M IN A ROOM FULL
-        OF SCREAMING CHILDREN SO I'LL GET THIS BIT AND AN IMAGE TO YOU SOON. THANKS!][Serious,
-        GMless]"
+      pitch: '[HEY MIKAEL! I DON''T HAVE A PITCH FOR THIS YET AND I''M IN A ROOM FULL
+        OF SCREAMING CHILDREN SO I''LL GET THIS BIT AND AN IMAGE TO YOU SOON. THANKS!][Serious,
+        GMless]'
       duration: '4'
       minimum_players: '3'
       maximum_players: '4'
@@ -1333,13 +1333,13 @@ feng-shui-2:
       type: Tabletop
       facilitator_name: Steven Hammond
       name: Feng Shui 2
-      pitch: "**The true power of Feng Shui is known only to a few. They all want
+      pitch: '**The true power of Feng Shui is known only to a few. They all want
         you dead.**Acclaimed game designer and Hong Kong action scholar Robin D. Laws
         gives us a new edition of Feng Shui, the game that has kicked the ass of every
         other kick-ass RPG about Chinese demons, machine-gunning thugs and mechanized
         apes. More than just an action riot at your tabletop, Feng Shui 2 is a study
         in everything that makes Hong Kong action thrilling.Maturity: Exciting but
-        not sillyImage Info: http://www.atlas-games.com/images/fsamigos.jpg"
+        not sillyImage Info: http://www.atlas-games.com/images/fsamigos.jpg'
       duration: '4'
       minimum_players: '3'
       maximum_players: '5'
@@ -3120,14 +3120,14 @@ tokyo-brain-pop:
       type: Tabletop
       facilitator_name: Chris Czerniak
       name: Tokyo Brain Pop
-      pitch: "?Something strange is happening at my school. My teacher is acting like
+      pitch: ?Something strange is happening at my school. My teacher is acting like
         she?s been possessed. The entire swim team has gone missing. There?s some
         kind of monster hiding in the locker room. There?s even an unauthorized club
         that meets after school to hunt demons! And? I don?t know if I can keep this
         a secret much longer? I think I may have psychic powers!?Welcome to Atarashi
         high school, where schoolgirls with destructive psychic powers do battle against
         bloodthirsty ghosts, demon princes stalk the school halls and the only thing
-        worse than loosing your soul is letting your grades slip!"
+        worse than loosing your soul is letting your grades slip!
       duration: '2'
       minimum_players: '3'
       maximum_players: '5'
@@ -3502,13 +3502,13 @@ warren:
       type: Tabletop
       facilitator_name: Steve Segedy
       name: Warren
-      pitch: "?All the world will be your enemy, Prince of a Thousand Enemies. And
+      pitch: ?All the world will be your enemy, Prince of a Thousand Enemies. And
         when they catch you, they will kill you. But first they must catch you; digger,
         listener, runner, Prince with the swift warning. Be cunning, andfull of tricks,
         and your people will never be destroyed? This game uses Marshall Miller?s
         hack of the Apocalypse World engine, inspired by anthropomorphic stories such
         as Watership Down.[Silly to Serious][use image from previous year's menus
-        or ask me]"
+        or ask me]
       duration: '4'
       minimum_players: '4'
       maximum_players: '6'
