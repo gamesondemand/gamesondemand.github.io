@@ -3,8 +3,9 @@ layout: default
 title: Games on Demand at GenCon
 description: List of Time Slots and Days for Games on Demand
 ---
+<article class="homepage" itemscope itemtype="http://schema.org/SocialEvent">
+  <meta itemprop="name" content="{{ page.title}}">
 
-<div itemscope itemtype="http://schema.org/SocialEvent">
   <div class="row schedule">
     <div class="small-3 columns day thursday">
       {% assign day = 'thursday' %}
@@ -23,4 +24,4 @@ description: List of Time Slots and Days for Games on Demand
       {% include day_for_homepage.html %}
     </div>
   </div>
-</div>
+</article>
