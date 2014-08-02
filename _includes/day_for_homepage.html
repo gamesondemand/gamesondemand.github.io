@@ -1,6 +1,6 @@
 {% assign date = site.data[day] %}
 <div itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
-  <div itemprop="text">
+  <div itemprop="description">
     <a class="button tiny round" itemprop="url" href="{{ site.url }}/{{ date.day | date: '%A' | downcase }}">
       <time datetime="{{ date.day }}">{{ date.day | date: '%a' }}</time>
     </a>
@@ -9,7 +9,7 @@
       {% assign hour = times[0] %}
       {% assign hour_data = times[1] %}
       <li itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
-        <meta itemprop="text" content="{{ date.day | date: '%A' }} {{ hour }}">
+        <meta itemprop="description" content="{{ date.day | date: '%A' }} {{ hour }}">
         <a class="button tiny secondary round" itemprop="url" href="{{ site.url }}/{{ day }}/{{ hour }}"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
       </li>
       {% endfor %}
