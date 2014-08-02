@@ -52,18 +52,27 @@
       js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-    <div class="row">
-      <header class="large-12 columns header">
-        {% include navigation.html %}
-      </header>
-    </div>
+    <div itemscope itemtype="http://schema.org/SocialEvent">
 
-    <div class="row">
-      <section class="large-12 columns content">
-        {{ content }}
-      </section>
-    </div>
+      <div class="row">
+        <header class="large-12 columns header">
+          {% include navigation.html %}
+        </header>
+      </div>
 
+      <div class="row">
+        <section class="large-12 columns content">
+          {{ content }}
+        </section>
+      </div>
+
+      <div class="row site-wide-footer">
+        <footer class="site-wide-footer footer large-12 columns panel">
+          {% include footer.html %}
+        </footer>
+      </div>
+
+    </div>
     <!-- Place this tag after the last +1 button tag. -->
     <script type="text/javascript">
       (function() {
