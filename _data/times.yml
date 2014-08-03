@@ -7,6 +7,8 @@ thursday:
       time: 2014-08-14 10:00:00 -0400
       abbreviation: 10am
       two_hour_games:
+      - game_id: 13th-age-forgotten-realms
+        facilitator_id: dave-younce
       four_hour_games:
     12pm:
       time: 2014-08-14 12:00:00 -0400

@@ -1,6 +1,6 @@
 <section id="{{ day.day | date: '%A' | downcase }}" class="day" itemscope itemtype="http://schema.org/SocialEvent">
   <header class="day-header">
-    <h2 class="header"><time datetime="{{ day.day }}">{{ day.day | date: '%A' }}</time></h2>
+    <h2 class="header"><time datetime="{{ day.day }}">{{ page.title }}</time></h2>
     <meta itemprop="startDate" content="{{ day.day | date: '%Y-%M-%d' }}">
     <meta itemprop="doorTime" content="{{ day.day | date: '%Y-%M-%d' }}T10:00:00-0400">
     <meta itemprop="duration" content="{{ day.day | date: '%Y-%M-%d' }}T10:00:00-0400/P{{ day.duration }}">
@@ -16,7 +16,6 @@
       <li><a href="#{{ time.time | date: '%A-%H' | downcase }}">{{ time.time | date: "%l %p" }}</a></li>
       {% endfor %}
     </ul>
-    <h3>{{ day.day | date: '%A' }}'s Schedule</h2>
     {% for data in day.times %}
       {% assign time = data[1] %}
       {% include time.html time=time %}

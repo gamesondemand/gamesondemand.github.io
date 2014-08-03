@@ -1,0 +1,5 @@
+- name: dave-younce
+  times:
+  - day: thursday
+    slot: 2pm
+    max_duration: 4
