@@ -23,7 +23,7 @@ description: About Games on Demand at GenCon
   <dd>
     <ul>
       {% for day_data in site.data.times %}{% assign day = day_data[0] %}
-      <li>{{ day | capitalize }}
+      <li>{{ day | capitalize  }}
         <ul class="inline-list">
           {% for slot in day_data[1].times %}
           <li><a href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
