@@ -188,6 +188,16 @@
     answer: >
       Make sure to ask your GM. Many of the games will be available at our various partners.
       See the <a href="/map">map</a> for locations in the exhibitor's hall.
+  - question: >
+      I love this whole Games on Demand thing.
+      I run a local convention and would love for you to come to the convention and do some Games on Demand.
+      Who should I talk to?
+    answer: >
+      Thank you. If you want to do a Games on Demand style event for your convention, reach out to local GMs.
+      See if there is a person that would be willing to take point on running something similar.
+      It can be a lot of work.
+      And <a href="http://indiegamesexplosion.org">indiegamesexplosion.org</a> is a great place to start.
+      Also reach out to the <a href="https://plus.google.com/communities/117785058810838893272">Games on Demand Google+ group</a>.
 - name: Really?
   dom_id: really
   questions:
