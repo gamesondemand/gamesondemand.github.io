@@ -1,4 +1,13 @@
 namespace :build do
+  task :functions do
+    def keyify_time(time)
+      time.strftime('%a %l%p')
+    end
+    def slugify_text(input)
+      input.gsub(/\W+/, '-').downcase.sub(/-$/, '')
+    end
+  end
+
   namespace :pages do
     desc 'Build game pages'
     task :games => ['build:data:games'] do
@@ -109,7 +118,7 @@ namespace :build do
 
   namespace :data do
     desc 'Build necessary game data'
-    task :games do
+    task :games => ['build:functions'] do
       def alpha_group_for(word)
         case word.to_s[0,1]
         when /\d/ then '0-9'
@@ -132,10 +141,10 @@ namespace :build do
         row['Game1'] = row['Game1'].sub(/^(An?) (.*)$/i, '\2')
         row['Game1'] = row['Game1'].sub(/^(The) (.*)$/i, '\2')
 
-        slugified_game_name = row['Game1'].split('(').first.gsub(/\W+/, '-').downcase.sub(/-$/, '')
-        slugified_person_name = row['Name'].gsub(/\W+/, '-').downcase
+        slugified_game_name = slugify_text(row['Game1'].split('(').first)
+        slugified_person_name = slugify_text(row['Name'])
         collector[slugified_game_name] ||= {
-          'facilitators' => {},
+          'facilitator_nametators' => {},
           'type' => row['G1Type'],
           'name' => row['Game1'],
           'alpha_group' => alpha_group_for(slugified_game_name)
@@ -170,6 +179,68 @@ namespace :build do
 
       File.open(File.expand_path('../_data/games.yml', __FILE__), 'w+') do |file|
         file.puts Psych.dump(collector)
+      end
+    end
+
+    desc 'Responsible for parsing the schedule CSV and generating a hosts and facilitators file'
+    task :hosts => ['build:functions'] do
+      Day = Struct.new(:day, :times)
+      require 'csv'
+      require 'psych'
+      times = Psych.load_file(File.expand_path('../_data/times.yml', __FILE__))
+      days = []
+      facilitating = {}
+      hosting = {}
+      times.each_with_object(days) {|time, mem| mem << Day.new(time[1].fetch('day'), time[1]['times'].values.collect{|v| v['time']}) }
+
+      def peak_ahead(row, times, index, role_pattern)
+        duration = 2
+        times[index+1..-1].each do |time|
+          if row[keyify_time(time)] =~ role_pattern
+            duration += 2
+          else
+            break
+          end
+        end
+        duration
+      end
+
+      source_filename = File.expand_path('../_data/schedule.csv', __FILE__)
+      CSV.foreach(source_filename, headers: :first_row) do |row|
+        if row['name'] # Because some rows don't have people
+          slugified_person_name = slugify_text(row['name'])
+          days.each do |day|
+            day.times.each_with_index do |time, index|
+              time_key = keyify_time(time)
+              case row[time_key]
+              when /host/i
+                hosting[slugified_person_name] ||= []
+                hosting[slugified_person_name] << {
+                  day: time.strftime('%A').downcase,
+                  slot: time.strftime('%l%p'),
+                  max_duration: peak_ahead(row, day.times, index, /host/i)
+                }
+              when /gm/i
+                facilitating[slugified_person_name] ||= []
+                facilitating[slugified_person_name] << {
+                  day: time.strftime('%A').downcase,
+                  slot: time.strftime('%l%p'),
+                  max_duration: peak_ahead(row, day.times, index, /gm/i)
+                }
+              when /^ *$/
+              else
+              end
+            end
+          end
+        end
+      end
+
+      File.open(File.expand_path('../_data/hosts.yml', __FILE__), 'w+') do |file|
+        hosts = []
+        hosting.each_with_object(hosts) do |h, mem|
+          mem << { name: h[0], times: h[1] }
+        end
+        file.puts Psych.dump(hosts)
       end
     end
   end
