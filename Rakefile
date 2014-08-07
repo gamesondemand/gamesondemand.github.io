@@ -23,7 +23,7 @@ namespace :build do
       File.open(File.join(dirname, 'index.html'), 'w+') do |file|
         text = []
         text << '---'
-        text << 'layout: default'
+        text << 'layout: game'
         text << "title: Available Games for Games on Demand at GenCon"
         text << "description: Available Games for Games on Demand at GenCon"
         text << '---'
@@ -91,7 +91,7 @@ namespace :build do
         File.open(File.join(dirname, 'index.html'), 'w+') do |file|
           text = []
           text << '---'
-          text << 'layout: default'
+          text << 'layout: time'
           text << "title: #{day} Games on Demand at GenCon"
           text << "description: List of games for #{day} at Games on Demand GenCon"
           text << '---'
@@ -104,7 +104,7 @@ namespace :build do
           File.open(File.join(dirname, time, 'index.html'), 'w+') do |file|
             text = []
             text << '---'
-            text << 'layout: default'
+            text << 'layout: time'
             text << "title: #{time} #{day} Games on Demand at GenCon"
             text << "description: List of games for #{time} #{day} at Games on Demand GenCon"
             text << '---'

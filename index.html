@@ -10,9 +10,10 @@ description: List of Time Slots and Days for Games on Demand
     {% for day_data in site.data.times %}
       <div class="small-3 columns day {{ day_data[0] | downcase }}">
         {% assign date = day_data[1] %}
+        {% assign day_slug = date.day | date: '%A' | downcase %}
         <div itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
           <div itemprop="description">
-            <a class="button tiny round" itemprop="url" href="{{ site.url }}/{{ date.day | date: '%A' | downcase }}">
+            <a class="button tiny round" itemprop="url" href="{{ site.url }}/{{ day_slug }}">
               <time datetime="{{ date.day }}">{{ date.day | date: '%a' }}</time>
             </a>
             <ul class="no-bullet">
@@ -21,7 +22,7 @@ description: List of Time Slots and Days for Games on Demand
               {% assign hour_data = times[1] %}
               <li itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
                 <meta itemprop="description" content="{{ date.day | date: '%A' }} {{ hour }}">
-                <a class="button tiny secondary round" itemprop="url" href="{{ site.url }}/{{ day }}/{{ hour }}"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
+                <a class="button tiny secondary round" itemprop="url" href="{{ site.url }}/{{ day_slug }}/{{ hour }}"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
               </li>
               {% endfor %}
             </ul>

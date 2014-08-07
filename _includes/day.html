@@ -10,10 +10,10 @@
     <p>
       Below is {{ day.day | date: '%A' }}'s tentative schedule for <span itemprop="organizer">Games on Demand</span>.
     </p>
-    <ul>
+    <ul class="inline-list">
       {% for data in day.times %}
       {% assign time = data[1] %}
-      <li><a href="#{{ time.time | date: '%A-%H' | downcase }}">{{ time.time | date: "%l %p" }}</a></li>
+      <li><a class="button tiny" href="#{{ time.time | date: '%A-%H' | downcase }}">{{ time.time | date: "%l %p" }}</a></li>
       {% endfor %}
     </ul>
     {% for data in day.times %}

@@ -3,3 +3,6 @@
 .social-media-badges .twitter-frame { margin-right: -32px;}
 .fb-share-button { margin-top: -5px; }
 .game .game-header .type { font-size: 1em;}
+
+.alert-box.warning.disclaimer { color: #333333; }
+.disclaimer .see-also { color: #333333; text-decoration: underline;}
