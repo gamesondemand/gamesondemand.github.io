@@ -173,7 +173,7 @@ namespace :build do
         slugified_game_name = slugify_text(row['Game1'].split('(').first)
         slugified_person_name = slugify_text(row['Name'])
         collector[slugified_game_name] ||= {
-          'facilitator_nametators' => {},
+          'facilitators' => {},
           'type' => row['G1Type'],
           'name' => row['Game1'],
           'alpha_group' => alpha_group_for(slugified_game_name)
