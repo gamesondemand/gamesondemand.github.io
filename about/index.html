@@ -3,7 +3,6 @@ layout: default
 title: About Games on Demand at GenCon
 description: About Games on Demand at GenCon
 ---
-
 <dl>
   <dt>What</dt>
   <dd>
@@ -20,18 +19,15 @@ description: About Games on Demand at GenCon
   <dt>Arrive</dt>
   <dd>10 minutes before start time</dd>
   <dt>When</dt>
-  <dd>
-    <ul>
-      {% for day_data in site.data.times %}{% assign day = day_data[0] %}
-      <li>{{ day | capitalize  }}
-        <ul class="inline-list">
-          {% for slot in day_data[1].times %}
-          <li><a href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
-          {% endfor %}
-        </ul>
-      </li>
-      {% endfor %}
-    </ul>
+  <dd class="about-when">
+    {% for day_data in site.data.times %}{% assign day = day_data[0] %}
+      <ul class="inline-list about-when-day">
+        <li><a class="button tiny round" href="/{{ day }}">{{ day | capitalize  }}</a>
+        {% for slot in day_data[1].times %}
+        <li><a class="button secondary tiny round" href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
   </dd>
   <dt>Bring</dt>
   <dd>
