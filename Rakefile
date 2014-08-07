@@ -212,7 +212,7 @@ namespace :build do
     end
 
     desc 'Responsible for parsing the schedule CSV and generating a hosts and facilitators file'
-    task :hosts => ['build:functions', 'build:data:schedule_download'] do
+    task :volunteers => ['build:functions'] do # => ['build:functions', 'build:data:schedule_download'] do
       Day = Struct.new(:day, :times)
       require 'csv'
       require 'psych'
@@ -244,8 +244,6 @@ namespace :build do
               time_key = keyify_time(time)
               case row[time_key]
               when /host/i
-                # gem 'byebug'
-                # ::Kernel.require 'byebug'; ::Kernel.byebug; true;
                 hosting[slugified_person_name] ||= []
                 hosting[slugified_person_name] << {
                   day: time.strftime('%A').downcase.strip,
@@ -253,8 +251,6 @@ namespace :build do
                   max_duration: peak_ahead(row, day.times, index, /host/i)
                 }
               when /gm/i
-                # gem 'byebug'
-                # ::Kernel.require 'byebug'; ::Kernel.byebug; true;
                 facilitating[slugified_person_name] ||= []
                 facilitating[slugified_person_name] << {
                   day: time.strftime('%A').downcase.strip,
@@ -279,9 +275,32 @@ namespace :build do
       File.open(File.expand_path('../_data/facilitator.yml', __FILE__), 'w+') do |file|
         facilitators = []
         facilitating.each_with_object(facilitators) do |h, mem|
-          mem << { name: h[0], times: h[1] }
+          h[1].each do |data|
+            mem << data.merge(name: h[0])
+          end
+          mem
         end
         file.puts Psych.dump(facilitators)
+      end
+    end
+
+    desc 'Responsible for building thetime'
+    task :times do # => ['build:data:games','build:data:volunteers'] do
+      require 'psych'
+      times = Psych.load_file(File.expand_path('../_data/times.yml', __FILE__))
+      facilitators = Psych.load_file(File.expand_path('../_data/facilitator.yml', __FILE__))
+      games = Psych.load_file(File.expand_path('../_data/games.yml', __FILE__))
+      times.each do |day_name, time_structure|
+        time_structure.fetch('times').each do |hour, slot_data|
+          slot_facilitators = facilitators.select do |facilitator|
+            facilitator.fetch(:day).upcase == day_name.upcase &&
+            facilitator.fetch(:slot).upcase == hour.upcase
+          end
+          games.select do |game_id, game_data|
+            game_data.fetch('facilitators').keys.include?
+          end
+          # ::Kernel.require 'byebug'; ::Kernel.byebug; true;
+        end
       end
     end
   end

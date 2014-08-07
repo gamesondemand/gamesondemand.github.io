@@ -1,1465 +1,1761 @@
 ---
-- :name: alan-de-smet
-  :times:
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: andrew-medeiros
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 8
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 6
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: andy-kitkowski
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 2
-- :name: andy-tatton
-  :times:
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: anna-kreider
-  :times:
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: anne-horowitz
-  :times:
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: bill-white
-  :times:
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: bob-smith
-  :times:
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-- :name: bryan-rennekamp
-  :times:
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: cheyenne-rae-grimes
-  :times:
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: chris-czerniak
-  :times:
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 2
-- :name: dan-noland
-  :times:
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: dana-fried
-  :times:
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 2
-- :name: dave-younce
-  :times:
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 2
-- :name: drew-owen
-  :times:
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: evan-torner
-  :times:
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-- :name: giovanni-lanza
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 2
-- :name: gregor-hutton
-  :times:
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: james-gabrielsen
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-- :name: james-mendez-hodes
-  :times:
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: james-stuart
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-- :name: jason-morningstar
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: jason-wallace
-  :times:
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: jay-treat
-  :times:
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: jeffrey-fuller
-  :times:
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: jenn-martin
-  :times:
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: jeremy-tidwell
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: jeromy-hastings
-  :times:
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-- :name: jesse-butler
-  :times:
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 6
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-- :name: joanna-piancastelli
-  :times:
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: john-marron
-  :times:
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-- :name: john-stavropoulos
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-- :name: justin-d-jacobson
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 6
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-- :name: justin-hamilton
-  :times:
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: karen-twelves
-  :times:
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: kevin-schneider
-  :times:
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 6
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: kira-magrann
-  :times:
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-- :name: kristin-firth
-  :times:
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: lowell-francis
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: mad-jay
-  :times:
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: mark-causey
-  :times:
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 6
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: mark-dipasquale
-  :times:
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: mark-richardson
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: matt-boersma
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: matt-sanchez
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 6
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 6
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-- :name: matthew-j-hanson
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 6
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 2
-- :name: mcgravin-matt-seifert
-  :times:
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 6
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 2
-- :name: mikael-andersson
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 2
-- :name: mike-olson
-  :times:
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: morgan-ellis
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-- :name: nykki-boersma
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 6
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: patrick-riegert
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: ray-otus
-  :times:
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 6
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: renee-knipe
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: rick-neal
-  :times:
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: rishi-agrawal
-  :times:
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: ron-frazier
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: russ-brown
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: sarah-richardson
-  :times:
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: scott-acker
-  :times:
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 2
-- :name: sean-nittner
-  :times:
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: shoe-skogen
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 6
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 6
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 2
-- :name: stentor-danielson
-  :times:
-  - :day: friday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: friday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: steve-segedy
-  :times:
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: steve-wallace
-  :times:
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: steven-hammond
-  :times:
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-- :name: stras-acimovic
-  :times:
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: terry-hope-romero
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 2
-- :name: travis-scott
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 8
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 6
-  - :day: saturday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 2
-- :name: tresi
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
-- :name: trevis-martin
-  :times:
-  - :day: thursday
-    :slot: 2PM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 6PM
-    :max_duration: 6
-  - :day: friday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 10AM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 6PM
-    :max_duration: 2
-- :name: will-hindmarch
-  :times:
-  - :day: thursday
-    :slot: 10AM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 12PM
-    :max_duration: 2
-  - :day: thursday
-    :slot: 4PM
-    :max_duration: 4
-  - :day: thursday
-    :slot: 6PM
-    :max_duration: 2
-  - :day: friday
-    :slot: 2PM
-    :max_duration: 4
-  - :day: friday
-    :slot: 4PM
-    :max_duration: 2
-  - :day: saturday
-    :slot: 8PM
-    :max_duration: 4
-  - :day: saturday
-    :slot: 10PM
-    :max_duration: 2
-  - :day: sunday
-    :slot: 12PM
-    :max_duration: 4
-  - :day: sunday
-    :slot: 2PM
-    :max_duration: 2
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: alan-de-smet
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: alan-de-smet
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: alan-de-smet
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: alan-de-smet
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: alan-de-smet
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: alan-de-smet
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: alan-de-smet
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: alan-de-smet
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: andrew-medeiros
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: andrew-medeiros
+- :day: friday
+  :slot: 10AM
+  :max_duration: 8
+  :name: andrew-medeiros
+- :day: friday
+  :slot: 12PM
+  :max_duration: 6
+  :name: andrew-medeiros
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: andrew-medeiros
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: andrew-medeiros
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: andrew-medeiros
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: andrew-medeiros
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: andy-kitkowski
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: andy-kitkowski
+- :day: friday
+  :slot: 6PM
+  :max_duration: 4
+  :name: andy-kitkowski
+- :day: friday
+  :slot: 8PM
+  :max_duration: 2
+  :name: andy-kitkowski
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 4
+  :name: andy-kitkowski
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: andy-kitkowski
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 4
+  :name: andy-kitkowski
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 2
+  :name: andy-kitkowski
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: andy-tatton
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: andy-tatton
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 4
+  :name: andy-tatton
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: andy-tatton
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: andy-tatton
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: andy-tatton
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: anna-kreider
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: anna-kreider
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: anna-kreider
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: anna-kreider
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: anna-kreider
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: anna-kreider
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: anna-kreider
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: anna-kreider
+- :day: friday
+  :slot: 4PM
+  :max_duration: 4
+  :name: anne-horowitz
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: anne-horowitz
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: anne-horowitz
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: anne-horowitz
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: bill-white
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: bill-white
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: bill-white
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: bill-white
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: bill-white
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: bill-white
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: bill-white
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: bill-white
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: bill-white
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: bill-white
+- :day: friday
+  :slot: 10AM
+  :max_duration: 2
+  :name: bob-smith
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: bob-smith
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: bryan-rennekamp
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: bryan-rennekamp
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: cheyenne-rae-grimes
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: cheyenne-rae-grimes
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: cheyenne-rae-grimes
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: cheyenne-rae-grimes
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: chris-czerniak
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: chris-czerniak
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: chris-czerniak
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: chris-czerniak
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 2
+  :name: chris-czerniak
+- :day: friday
+  :slot: 12PM
+  :max_duration: 4
+  :name: dan-noland
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: dan-noland
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: dan-noland
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: dan-noland
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 4
+  :name: dana-fried
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: dana-fried
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: dana-fried
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: dana-fried
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: dana-fried
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: dana-fried
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 4
+  :name: dana-fried
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 2
+  :name: dana-fried
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: dave-younce
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: dave-younce
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: dave-younce
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: dave-younce
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: dave-younce
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: dave-younce
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 4
+  :name: dave-younce
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 2
+  :name: dave-younce
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: drew-owen
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: drew-owen
+- :day: friday
+  :slot: 6PM
+  :max_duration: 4
+  :name: drew-owen
+- :day: friday
+  :slot: 8PM
+  :max_duration: 2
+  :name: drew-owen
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: drew-owen
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: drew-owen
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: drew-owen
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: drew-owen
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: evan-torner
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: evan-torner
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: giovanni-lanza
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: giovanni-lanza
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: giovanni-lanza
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: giovanni-lanza
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: giovanni-lanza
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: giovanni-lanza
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 4
+  :name: giovanni-lanza
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 2
+  :name: giovanni-lanza
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: gregor-hutton
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: gregor-hutton
+- :day: friday
+  :slot: 4PM
+  :max_duration: 4
+  :name: gregor-hutton
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: gregor-hutton
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: gregor-hutton
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: gregor-hutton
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: gregor-hutton
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: gregor-hutton
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: james-gabrielsen
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: james-mendez-hodes
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: james-mendez-hodes
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: james-mendez-hodes
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: james-mendez-hodes
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: james-mendez-hodes
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: james-mendez-hodes
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: james-mendez-hodes
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: james-stuart
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: james-stuart
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: james-stuart
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: james-stuart
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: james-stuart
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: james-stuart
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 2
+  :name: jason-morningstar
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: jason-morningstar
+- :day: friday
+  :slot: 4PM
+  :max_duration: 4
+  :name: jason-morningstar
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: jason-morningstar
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 4
+  :name: jason-morningstar
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: jason-morningstar
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: jason-morningstar
+- :day: friday
+  :slot: 12PM
+  :max_duration: 4
+  :name: jason-wallace
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: jason-wallace
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: jason-wallace
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: jason-wallace
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: jason-wallace
+- :day: friday
+  :slot: 12PM
+  :max_duration: 4
+  :name: jay-treat
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: jay-treat
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: jay-treat
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: jay-treat
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: jeffrey-fuller
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: jeffrey-fuller
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: jeffrey-fuller
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: jeffrey-fuller
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: jenn-martin
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: jenn-martin
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: jeremy-tidwell
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: jeremy-tidwell
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: jeremy-tidwell
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: jeremy-tidwell
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: jeremy-tidwell
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: jeremy-tidwell
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: jeromy-hastings
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: jeromy-hastings
+- :day: friday
+  :slot: 4PM
+  :max_duration: 4
+  :name: jeromy-hastings
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: jeromy-hastings
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: jeromy-hastings
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: jeromy-hastings
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: jesse-butler
+- :day: friday
+  :slot: 12PM
+  :max_duration: 6
+  :name: jesse-butler
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: jesse-butler
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: jesse-butler
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: jesse-butler
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: jesse-butler
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: jesse-butler
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: jesse-butler
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: jesse-butler
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: joanna-piancastelli
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: joanna-piancastelli
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 4
+  :name: joanna-piancastelli
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: joanna-piancastelli
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: joanna-piancastelli
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: joanna-piancastelli
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: john-marron
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: john-marron
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: john-stavropoulos
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: john-stavropoulos
+- :day: friday
+  :slot: 4PM
+  :max_duration: 4
+  :name: john-stavropoulos
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: john-stavropoulos
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: john-stavropoulos
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: john-stavropoulos
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: justin-d-jacobson
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: justin-d-jacobson
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: justin-d-jacobson
+- :day: friday
+  :slot: 10AM
+  :max_duration: 6
+  :name: justin-d-jacobson
+- :day: friday
+  :slot: 12PM
+  :max_duration: 4
+  :name: justin-d-jacobson
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: justin-d-jacobson
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: justin-d-jacobson
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: justin-hamilton
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: justin-hamilton
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: justin-hamilton
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: justin-hamilton
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: justin-hamilton
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: justin-hamilton
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: karen-twelves
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: karen-twelves
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: kevin-schneider
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: kevin-schneider
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 6
+  :name: kevin-schneider
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: kevin-schneider
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: kevin-schneider
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: kevin-schneider
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: kira-magrann
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: kira-magrann
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: kira-magrann
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: kira-magrann
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: kristin-firth
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: kristin-firth
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :name: lowell-francis
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: lowell-francis
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: lowell-francis
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: lowell-francis
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: lowell-francis
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: lowell-francis
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: lowell-francis
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: lowell-francis
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: mad-jay
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: mad-jay
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: mad-jay
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: mad-jay
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: mad-jay
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: mad-jay
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: mark-causey
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: mark-causey
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: mark-causey
+- :day: friday
+  :slot: 6PM
+  :max_duration: 4
+  :name: mark-causey
+- :day: friday
+  :slot: 8PM
+  :max_duration: 2
+  :name: mark-causey
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 6
+  :name: mark-causey
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: mark-causey
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: mark-causey
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 4
+  :name: mark-dipasquale
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: mark-dipasquale
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: mark-dipasquale
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: mark-dipasquale
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: mark-dipasquale
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: mark-dipasquale
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: mark-dipasquale
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: mark-dipasquale
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :name: mark-richardson
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: mark-richardson
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: mark-richardson
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: mark-richardson
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: mark-richardson
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: mark-richardson
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: mark-richardson
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: mark-richardson
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: matt-boersma
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: matt-boersma
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: matt-boersma
+- :day: friday
+  :slot: 6PM
+  :max_duration: 4
+  :name: matt-boersma
+- :day: friday
+  :slot: 8PM
+  :max_duration: 2
+  :name: matt-boersma
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: matt-boersma
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: matt-boersma
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: matt-boersma
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: matt-sanchez
+- :day: friday
+  :slot: 2PM
+  :max_duration: 6
+  :name: matt-sanchez
+- :day: friday
+  :slot: 4PM
+  :max_duration: 4
+  :name: matt-sanchez
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: matt-sanchez
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: matt-sanchez
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 6
+  :name: matt-sanchez
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: matt-sanchez
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: matt-sanchez
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: matthew-j-hanson
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: matthew-j-hanson
+- :day: friday
+  :slot: 10AM
+  :max_duration: 6
+  :name: matthew-j-hanson
+- :day: friday
+  :slot: 12PM
+  :max_duration: 4
+  :name: matthew-j-hanson
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: matthew-j-hanson
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: matthew-j-hanson
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 4
+  :name: matthew-j-hanson
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 2
+  :name: matthew-j-hanson
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: mcgravin-matt-seifert
+- :day: friday
+  :slot: 10AM
+  :max_duration: 2
+  :name: mcgravin-matt-seifert
+- :day: friday
+  :slot: 4PM
+  :max_duration: 6
+  :name: mcgravin-matt-seifert
+- :day: friday
+  :slot: 6PM
+  :max_duration: 4
+  :name: mcgravin-matt-seifert
+- :day: friday
+  :slot: 8PM
+  :max_duration: 2
+  :name: mcgravin-matt-seifert
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: mcgravin-matt-seifert
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 4
+  :name: mcgravin-matt-seifert
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 2
+  :name: mcgravin-matt-seifert
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 2
+  :name: mikael-andersson
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :name: mikael-andersson
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: mikael-andersson
+- :day: friday
+  :slot: 10AM
+  :max_duration: 2
+  :name: mikael-andersson
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: mikael-andersson
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: mikael-andersson
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: mikael-andersson
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 2
+  :name: mikael-andersson
+- :day: friday
+  :slot: 10AM
+  :max_duration: 2
+  :name: mike-olson
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: mike-olson
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: mike-olson
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: mike-olson
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: morgan-ellis
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: morgan-ellis
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: morgan-ellis
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: morgan-ellis
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: nykki-boersma
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: nykki-boersma
+- :day: friday
+  :slot: 6PM
+  :max_duration: 6
+  :name: nykki-boersma
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: nykki-boersma
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: nykki-boersma
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: nykki-boersma
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: nykki-boersma
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: nykki-boersma
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :name: patrick-riegert
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: patrick-riegert
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: patrick-riegert
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: patrick-riegert
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: patrick-riegert
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: patrick-riegert
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: patrick-riegert
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: patrick-riegert
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: ray-otus
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 6
+  :name: ray-otus
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 4
+  :name: ray-otus
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: ray-otus
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: ray-otus
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: renee-knipe
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: renee-knipe
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: renee-knipe
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: renee-knipe
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: renee-knipe
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: renee-knipe
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 4
+  :name: renee-knipe
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: renee-knipe
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: renee-knipe
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: rick-neal
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: rick-neal
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: rick-neal
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: rick-neal
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: rishi-agrawal
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: rishi-agrawal
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: rishi-agrawal
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: rishi-agrawal
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: rishi-agrawal
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: rishi-agrawal
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: rishi-agrawal
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: rishi-agrawal
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :name: ron-frazier
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: ron-frazier
+- :day: friday
+  :slot: 10AM
+  :max_duration: 2
+  :name: ron-frazier
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: ron-frazier
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: ron-frazier
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: ron-frazier
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: ron-frazier
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: ron-frazier
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :name: russ-brown
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: russ-brown
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: russ-brown
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: russ-brown
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: sarah-richardson
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: sarah-richardson
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: sarah-richardson
+- :day: friday
+  :slot: 6PM
+  :max_duration: 4
+  :name: scott-acker
+- :day: friday
+  :slot: 8PM
+  :max_duration: 2
+  :name: scott-acker
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 4
+  :name: scott-acker
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 2
+  :name: scott-acker
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: sean-nittner
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: sean-nittner
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 4
+  :name: sean-nittner
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 2
+  :name: sean-nittner
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: sean-nittner
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: sean-nittner
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 6
+  :name: shoe-skogen
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 4
+  :name: shoe-skogen
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: shoe-skogen
+- :day: friday
+  :slot: 10AM
+  :max_duration: 6
+  :name: shoe-skogen
+- :day: friday
+  :slot: 12PM
+  :max_duration: 4
+  :name: shoe-skogen
+- :day: friday
+  :slot: 2PM
+  :max_duration: 2
+  :name: shoe-skogen
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 2
+  :name: shoe-skogen
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :name: shoe-skogen
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :name: stentor-danielson
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :name: stentor-danielson
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: stentor-danielson
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: stentor-danielson
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: stentor-danielson
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: stentor-danielson
+- :day: friday
+  :slot: 6PM
+  :max_duration: 4
+  :name: steve-segedy
+- :day: friday
+  :slot: 8PM
+  :max_duration: 2
+  :name: steve-segedy
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: steve-segedy
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: steve-segedy
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: steve-segedy
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: steve-segedy
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: steve-wallace
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: steve-wallace
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: steve-wallace
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: steve-wallace
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: steve-wallace
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: steve-wallace
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: steve-wallace
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: steve-wallace
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: steve-wallace
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: steve-wallace
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: steven-hammond
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: steven-hammond
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: steven-hammond
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: steven-hammond
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: stras-acimovic
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: stras-acimovic
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: stras-acimovic
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: stras-acimovic
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: stras-acimovic
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: stras-acimovic
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: terry-hope-romero
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: terry-hope-romero
+- :day: friday
+  :slot: 4PM
+  :max_duration: 4
+  :name: terry-hope-romero
+- :day: friday
+  :slot: 6PM
+  :max_duration: 2
+  :name: terry-hope-romero
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 4
+  :name: terry-hope-romero
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 2
+  :name: terry-hope-romero
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :name: travis-scott
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :name: travis-scott
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: travis-scott
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: travis-scott
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 8
+  :name: travis-scott
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 6
+  :name: travis-scott
+- :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :name: travis-scott
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :name: travis-scott
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: tresi
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: tresi
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :name: tresi
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :name: tresi
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: tresi
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: tresi
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 2
+  :name: trevis-martin
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: trevis-martin
+- :day: friday
+  :slot: 6PM
+  :max_duration: 6
+  :name: trevis-martin
+- :day: friday
+  :slot: 8PM
+  :max_duration: 4
+  :name: trevis-martin
+- :day: friday
+  :slot: 10PM
+  :max_duration: 2
+  :name: trevis-martin
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 2
+  :name: trevis-martin
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 4
+  :name: trevis-martin
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :name: trevis-martin
+- :day: thursday
+  :slot: 10AM
+  :max_duration: 4
+  :name: will-hindmarch
+- :day: thursday
+  :slot: 12PM
+  :max_duration: 2
+  :name: will-hindmarch
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :name: will-hindmarch
+- :day: thursday
+  :slot: 6PM
+  :max_duration: 2
+  :name: will-hindmarch
+- :day: friday
+  :slot: 2PM
+  :max_duration: 4
+  :name: will-hindmarch
+- :day: friday
+  :slot: 4PM
+  :max_duration: 2
+  :name: will-hindmarch
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 4
+  :name: will-hindmarch
+- :day: saturday
+  :slot: 10PM
+  :max_duration: 2
+  :name: will-hindmarch
+- :day: sunday
+  :slot: 12PM
+  :max_duration: 4
+  :name: will-hindmarch
+- :day: sunday
+  :slot: 2PM
+  :max_duration: 2
+  :name: will-hindmarch
