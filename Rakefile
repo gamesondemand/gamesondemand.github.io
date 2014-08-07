@@ -1,7 +1,8 @@
 namespace :build do
+
   task :functions do
     def keyify_time(time)
-      time.strftime('%a %l%p')
+      time.strftime('%a %l%p').sub(/ +/, ' ')
     end
     def slugify_text(input)
       input.gsub(/\W+/, '-').downcase.sub(/-$/, '')
@@ -117,6 +118,34 @@ namespace :build do
   end
 
   namespace :data do
+    desc 'Download the schedule'
+    task :schedule_download do
+      require 'csv'
+      require "rubygems"
+      require "google_drive"
+      temp_filename = File.expand_path('../_data/schedule-tmp.csv', __FILE__)
+      filename = File.expand_path('../_data/schedule.csv', __FILE__)
+      session = GoogleDrive.login(ENV['GOOGLE_USERNAME'], ENV['GOOGLE_PASSWORD'])
+      sheet = session.spreadsheet_by_key('1eXGyt8ttJNqzEnSOq5frSeOZ0nV1zEm41SCs60rtn1I')
+      sheet.export_as_file(temp_filename)
+      contents = File.read(temp_filename).split("\n")
+      contents.shift # Junk row
+      days = contents.shift.split(",").collect(&:strip)
+      slots = contents.shift.split(",").collect {|obj| obj.sub(/ +/, '').strip.upcase }
+      contents.shift # Final hours
+      merged_days = []
+      days.each_with_index do |col, i|
+        merged_days << "#{col} #{slots[i]}".gsub(/ +/, ' ')
+      end
+      merged_days[1] = "name"
+      contents.unshift(merged_days.join(','))
+      CSV.open(filename, 'w+') do |csv|
+        contents.each do |content|
+          csv << CSV.parse(content).pop[1..-1] # Silly leading space
+        end
+      end
+      File.unlink(temp_filename)
+    end
     desc 'Build necessary game data'
     task :games => ['build:functions'] do
       def alpha_group_for(word)
@@ -183,7 +212,7 @@ namespace :build do
     end
 
     desc 'Responsible for parsing the schedule CSV and generating a hosts and facilitators file'
-    task :hosts => ['build:functions'] do
+    task :hosts => ['build:functions', 'build:data:schedule_download'] do
       Day = Struct.new(:day, :times)
       require 'csv'
       require 'psych'
@@ -207,24 +236,29 @@ namespace :build do
 
       source_filename = File.expand_path('../_data/schedule.csv', __FILE__)
       CSV.foreach(source_filename, headers: :first_row) do |row|
-        if row['name'] # Because some rows don't have people
+        # Because some rows don't have people
+        if row['name']
           slugified_person_name = slugify_text(row['name'])
           days.each do |day|
             day.times.each_with_index do |time, index|
               time_key = keyify_time(time)
               case row[time_key]
               when /host/i
+                # gem 'byebug'
+                # ::Kernel.require 'byebug'; ::Kernel.byebug; true;
                 hosting[slugified_person_name] ||= []
                 hosting[slugified_person_name] << {
-                  day: time.strftime('%A').downcase,
-                  slot: time.strftime('%l%p'),
+                  day: time.strftime('%A').downcase.strip,
+                  slot: time.strftime('%l%p').strip,
                   max_duration: peak_ahead(row, day.times, index, /host/i)
                 }
               when /gm/i
+                # gem 'byebug'
+                # ::Kernel.require 'byebug'; ::Kernel.byebug; true;
                 facilitating[slugified_person_name] ||= []
                 facilitating[slugified_person_name] << {
-                  day: time.strftime('%A').downcase,
-                  slot: time.strftime('%l%p'),
+                  day: time.strftime('%A').downcase.strip,
+                  slot: time.strftime('%l%p').strip,
                   max_duration: peak_ahead(row, day.times, index, /gm/i)
                 }
               when /^ *$/
@@ -241,6 +275,13 @@ namespace :build do
           mem << { name: h[0], times: h[1] }
         end
         file.puts Psych.dump(hosts)
+      end
+      File.open(File.expand_path('../_data/facilitator.yml', __FILE__), 'w+') do |file|
+        facilitators = []
+        facilitating.each_with_object(facilitators) do |h, mem|
+          mem << { name: h[0], times: h[1] }
+        end
+        file.puts Psych.dump(facilitators)
       end
     end
   end
