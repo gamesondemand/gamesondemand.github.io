@@ -1,5 +1,22 @@
   # The order in which these appear is the order in which they should be rendered.
 ---
+- name: Glossary
+  dom_id: glossary
+  questions:
+  - question: Boarding Pass
+    answer: >
+      Issued by Games on Demand, it is analogous to a buzzer at a restaurant. <a href="#boarding-passes">See more about Boarding Passes</a>.
+  - question: >
+      Menu, Game
+    answer: >
+      A sheet at the hosting table that list the GM, game(s) run by them with pitch, audience, and number of players.
+      There will be a lot of these at the Hosting Table.
+  - question: Time Slot
+    answer: >
+      The two hours between starting times for games. <a href="/#schedule">See our schedule</a>.
+  - question: >
+      Ticket, Generic
+    answer: A purchased ticket from GenCon. One ticket buys 2 hours of play at Games on Demand. <a href="#cost">See more about Costs</a>.
 - name: Times
   dom_id: times
   questions:
@@ -10,10 +27,10 @@
   - question: >
       When should I arrive for a time slot?
     answer: >
-      If you have a boarding pass be there 5 minutes in advance.
+      Be there 10 minutes early to get your boarding pass.
       If you don't have a boarding pass be there 10 minutes in advance.
       If you want to see what is on the menu, you should show up 30 minutes early.
-      Or look at our <a href="/" class="link-to-current-schedule">our schedule for start times</a>.
+      Or look at our <a href="/" class="link-to-current-schedule">our schedule for start times</a>.</p>
   - question: >
       If signups start at the time of the slot, when do you expect games to start?
       Say a slot starts at 12pm, does that mean games actually start at 12:15pm?
