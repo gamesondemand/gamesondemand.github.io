@@ -4,7 +4,7 @@ thursday:
   duration: 10H
   times:
     10am:
-      time: 2014-08-14 10:00:00.000000000 -04:00
+      time: 2014-08-14 10:00:00
       abbreviation: 10am
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -90,7 +90,7 @@ thursday:
         facilitator_id: renee-knipe
       label: Thursday 10AM
     12pm:
-      time: 2014-08-14 12:00:00.000000000 -04:00
+      time: 2014-08-14 12:00:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -152,7 +152,7 @@ thursday:
         facilitator_id: mark-dipasquale
       label: Thursday 12PM
     2pm:
-      time: 2014-08-14 14:00:00.000000000 -04:00
+      time: 2014-08-14 14:00:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: apocalypse-world
@@ -220,7 +220,7 @@ thursday:
         facilitator_id: travis-scott
       label: Thursday  2PM
     4pm:
-      time: 2014-08-14 16:00:00.000000000 -04:00
+      time: 2014-08-14 16:00:00
       abbreviation: 4pm
       two_hour_games:
       - game_id: dudebros-douchebags
@@ -274,7 +274,7 @@ thursday:
         facilitator_id: chris-czerniak
       label: Thursday  4PM
     6pm:
-      time: 2014-08-14 18:00:00.000000000 -04:00
+      time: 2014-08-14 18:00:00
       abbreviation: 6pm
       two_hour_games:
       - game_id: amidst-endless-quiet
@@ -338,7 +338,7 @@ friday:
   duration: 14H
   times:
     10am:
-      time: 2014-08-15 10:00:00.000000000 -04:00
+      time: 2014-08-15 10:00:00
       abbreviation: 10am
       two_hour_games:
       - game_id: abstract-dungeon
@@ -450,7 +450,7 @@ friday:
         facilitator_id: renee-knipe
       label: Friday 10AM
     12pm:
-      time: 2014-08-15 12:00:00.000000000 -04:00
+      time: 2014-08-15 12:00:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: 6d6-quantum-flux
@@ -520,7 +520,7 @@ friday:
         facilitator_id: jason-wallace
       label: Friday 12PM
     2pm:
-      time: 2014-08-15 14:00:00.000000000 -04:00
+      time: 2014-08-15 14:00:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: abstract-dungeon
@@ -638,7 +638,7 @@ friday:
         facilitator_id: stras-acimovic
       label: Friday  2PM
     4pm:
-      time: 2014-08-15 16:00:00.000000000 -04:00
+      time: 2014-08-15 16:00:00
       abbreviation: 4pm
       two_hour_games:
       - game_id: amidst-endless-quiet
@@ -722,7 +722,7 @@ friday:
         facilitator_id: james-stuart
       label: Friday  4PM
     6pm:
-      time: 2014-08-15 18:00:00.000000000 -04:00
+      time: 2014-08-15 18:00:00
       abbreviation: 6pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -806,7 +806,7 @@ friday:
         facilitator_id: steve-segedy
       label: Friday  6PM
     8pm:
-      time: 2014-08-15 20:00:00.000000000 -04:00
+      time: 2014-08-15 20:00:00
       abbreviation: 8pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -950,7 +950,7 @@ friday:
         facilitator_id: stras-acimovic
       label: Friday  8PM
     10pm:
-      time: 2014-08-15 22:00:00.000000000 -04:00
+      time: 2014-08-15 22:00:00
       abbreviation: 10pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -994,7 +994,7 @@ saturday:
   duration: 14H
   times:
     10am:
-      time: 2014-08-16 10:00:00.000000000 -04:00
+      time: 2014-08-16 10:00:00
       abbreviation: 10am
       two_hour_games:
       - game_id: apocalypse-world
@@ -1098,7 +1098,7 @@ saturday:
         facilitator_id: sean-nittner
       label: Saturday 10AM
     12pm:
-      time: 2014-08-16 12:00:00.000000000 -04:00
+      time: 2014-08-16 12:00:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -1174,7 +1174,7 @@ saturday:
         facilitator_id: renee-knipe
       label: Saturday 12PM
     2pm:
-      time: 2014-08-16 14:00:00.000000000 -04:00
+      time: 2014-08-16 14:00:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: cat
@@ -1284,7 +1284,7 @@ saturday:
         facilitator_id: stras-acimovic
       label: Saturday  2PM
     4pm:
-      time: 2014-08-16 16:00:00.000000000 -04:00
+      time: 2014-08-16 16:00:00
       abbreviation: 4pm
       two_hour_games:
       - game_id: amidst-endless-quiet
@@ -1378,7 +1378,7 @@ saturday:
         facilitator_id: jesse-butler
       label: Saturday  4PM
     6pm:
-      time: 2014-08-16 18:00:00.000000000 -04:00
+      time: 2014-08-16 18:00:00
       abbreviation: 6pm
       two_hour_games:
       - game_id: abstract-dungeon
@@ -1458,7 +1458,7 @@ saturday:
         facilitator_id: sean-nittner
       label: Saturday  6PM
     8pm:
-      time: 2014-08-16 20:00:00.000000000 -04:00
+      time: 2014-08-16 20:00:00
       abbreviation: 8pm
       two_hour_games:
       - game_id: abstract-dungeon
@@ -1582,7 +1582,7 @@ saturday:
         facilitator_id: steve-segedy
       label: Saturday  8PM
     10pm:
-      time: 2014-08-16 22:00:00.000000000 -04:00
+      time: 2014-08-16 22:00:00
       abbreviation: 10pm
       two_hour_games:
       - game_id: 6d6-quantum-flux
@@ -1626,7 +1626,7 @@ sunday:
   duration: 6H
   times:
     10am:
-      time: 2014-08-17 10:00:00.000000000 -04:00
+      time: 2014-08-17 10:00:00
       abbreviation: 10am
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -1702,7 +1702,7 @@ sunday:
         facilitator_id: dana-fried
       label: Sunday 10AM
     12pm:
-      time: 2014-08-17 12:00:00.000000000 -04:00
+      time: 2014-08-17 12:00:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: archipelago
@@ -1776,7 +1776,7 @@ sunday:
         facilitator_id: steve-segedy
       label: Sunday 12PM
     2pm:
-      time: 2014-08-17 14:00:00.000000000 -04:00
+      time: 2014-08-17 14:00:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
