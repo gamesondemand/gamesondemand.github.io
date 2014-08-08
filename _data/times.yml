@@ -4,7 +4,7 @@ thursday:
   duration: 10H
   times:
     10am:
-      time: 2014-08-14T10:00:00.000000000 -04:00
+      time: 2014-08-14 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -88,8 +88,9 @@ thursday:
         facilitator_id: andrew-medeiros
       - game_id: whitebooks-the-last-modron-migration
         facilitator_id: renee-knipe
+      label: Thursday 10AM
     12pm:
-      time: 2014-08-14T12:00:00.000000000 -04:00
+      time: 2014-08-14 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -149,8 +150,9 @@ thursday:
         facilitator_id: dana-fried
       - game_id: swords-without-master
         facilitator_id: mark-dipasquale
+      label: Thursday 12PM
     2pm:
-      time: 2014-08-14T14:00:00.000000000 -04:00
+      time: 2014-08-14 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: apocalypse-world
@@ -216,8 +218,9 @@ thursday:
         facilitator_id: patrick-riegert
       - game_id: urban-shadows
         facilitator_id: travis-scott
+      label: Thursday  2PM
     4pm:
-      time: 2014-08-14T16:00:00.000000000 -04:00
+      time: 2014-08-14 16:00:00.000000000 -04:00
       abbreviation: 4pm
       two_hour_games:
       - game_id: dudebros-douchebags
@@ -269,8 +272,9 @@ thursday:
         facilitator_id: will-hindmarch
       - game_id: tenra-bansho-zero
         facilitator_id: chris-czerniak
+      label: Thursday  4PM
     6pm:
-      time: 2014-08-14T18:00:00.000000000 -04:00
+      time: 2014-08-14 18:00:00.000000000 -04:00
       abbreviation: 6pm
       two_hour_games:
       - game_id: amidst-endless-quiet
@@ -328,12 +332,13 @@ thursday:
       - game_id: zombie-cinema
         facilitator_id: kristin-firth
       four_hour_games: []
+      label: Thursday  6PM
 friday:
   day: 2014-08-15
   duration: 14H
   times:
     10am:
-      time: 2014-08-15T10:00:00.000000000 -04:00
+      time: 2014-08-15 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
       - game_id: abstract-dungeon
@@ -443,8 +448,9 @@ friday:
         facilitator_id: stentor-danielson
       - game_id: whitebooks-the-last-modron-migration
         facilitator_id: renee-knipe
+      label: Friday 10AM
     12pm:
-      time: 2014-08-15T12:00:00.000000000 -04:00
+      time: 2014-08-15 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: 6d6-quantum-flux
@@ -512,8 +518,9 @@ friday:
         facilitator_id: jesse-butler
       - game_id: vampire-city
         facilitator_id: jason-wallace
+      label: Friday 12PM
     2pm:
-      time: 2014-08-15T14:00:00.000000000 -04:00
+      time: 2014-08-15 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: abstract-dungeon
@@ -629,8 +636,9 @@ friday:
         facilitator_id: travis-scott
       - game_id: world-of-cyberpunk
         facilitator_id: stras-acimovic
+      label: Friday  2PM
     4pm:
-      time: 2014-08-15T16:00:00.000000000 -04:00
+      time: 2014-08-15 16:00:00.000000000 -04:00
       abbreviation: 4pm
       two_hour_games:
       - game_id: amidst-endless-quiet
@@ -712,8 +720,9 @@ friday:
         facilitator_id: matt-sanchez
       - game_id: villa-air-bel
         facilitator_id: james-stuart
+      label: Friday  4PM
     6pm:
-      time: 2014-08-15T18:00:00.000000000 -04:00
+      time: 2014-08-15 18:00:00.000000000 -04:00
       abbreviation: 6pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -795,8 +804,9 @@ friday:
         facilitator_id: mark-causey
       - game_id: warren
         facilitator_id: steve-segedy
+      label: Friday  6PM
     8pm:
-      time: 2014-08-15T20:00:00.000000000 -04:00
+      time: 2014-08-15 20:00:00.000000000 -04:00
       abbreviation: 8pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -938,8 +948,9 @@ friday:
         facilitator_id: jeffrey-fuller
       - game_id: world-of-cyberpunk
         facilitator_id: stras-acimovic
+      label: Friday  8PM
     10pm:
-      time: 2014-08-15T22:00:00.000000000 -04:00
+      time: 2014-08-15 22:00:00.000000000 -04:00
       abbreviation: 10pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -977,12 +988,13 @@ friday:
       - game_id: zombie-cinema
         facilitator_id: anna-kreider
       four_hour_games: []
+      label: Friday 10PM
 saturday:
   day: 2014-08-16
   duration: 14H
   times:
     10am:
-      time: 2014-08-16T10:00:00.000000000 -04:00
+      time: 2014-08-16 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
       - game_id: apocalypse-world
@@ -1084,8 +1096,9 @@ saturday:
         facilitator_id: travis-scott
       - game_id: war-of-ashes-fate-of-agaptus
         facilitator_id: sean-nittner
+      label: Saturday 10AM
     12pm:
-      time: 2014-08-16T12:00:00.000000000 -04:00
+      time: 2014-08-16 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -1159,8 +1172,9 @@ saturday:
         facilitator_id: travis-scott
       - game_id: whitebooks-the-last-modron-migration
         facilitator_id: renee-knipe
+      label: Saturday 12PM
     2pm:
-      time: 2014-08-16T14:00:00.000000000 -04:00
+      time: 2014-08-16 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: cat
@@ -1268,8 +1282,9 @@ saturday:
         facilitator_id: travis-scott
       - game_id: world-of-cyberpunk
         facilitator_id: stras-acimovic
+      label: Saturday  2PM
     4pm:
-      time: 2014-08-16T16:00:00.000000000 -04:00
+      time: 2014-08-16 16:00:00.000000000 -04:00
       abbreviation: 4pm
       two_hour_games:
       - game_id: amidst-endless-quiet
@@ -1361,8 +1376,9 @@ saturday:
         facilitator_id: matt-sanchez
       - game_id: traveller
         facilitator_id: jesse-butler
+      label: Saturday  4PM
     6pm:
-      time: 2014-08-16T18:00:00.000000000 -04:00
+      time: 2014-08-16 18:00:00.000000000 -04:00
       abbreviation: 6pm
       two_hour_games:
       - game_id: abstract-dungeon
@@ -1440,8 +1456,9 @@ saturday:
         facilitator_id: sean-nittner
       - game_id: war-of-ashes-fate-of-agaptus
         facilitator_id: sean-nittner
+      label: Saturday  6PM
     8pm:
-      time: 2014-08-16T20:00:00.000000000 -04:00
+      time: 2014-08-16 20:00:00.000000000 -04:00
       abbreviation: 8pm
       two_hour_games:
       - game_id: abstract-dungeon
@@ -1563,8 +1580,9 @@ saturday:
         facilitator_id: jeffrey-fuller
       - game_id: warren
         facilitator_id: steve-segedy
+      label: Saturday  8PM
     10pm:
-      time: 2014-08-16T22:00:00.000000000 -04:00
+      time: 2014-08-16 22:00:00.000000000 -04:00
       abbreviation: 10pm
       two_hour_games:
       - game_id: 6d6-quantum-flux
@@ -1602,12 +1620,13 @@ saturday:
       - game_id: zombie-cinema
         facilitator_id: anna-kreider
       four_hour_games: []
+      label: Saturday 10PM
 sunday:
   day: 2014-08-17
   duration: 6H
   times:
     10am:
-      time: 2014-08-17T10:00:00.000000000 -04:00
+      time: 2014-08-17 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -1681,8 +1700,9 @@ sunday:
         facilitator_id: terry-hope-romero
       - game_id: souls-of-steel
         facilitator_id: dana-fried
+      label: Sunday 10AM
     12pm:
-      time: 2014-08-17T12:00:00.000000000 -04:00
+      time: 2014-08-17 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
       - game_id: archipelago
@@ -1754,8 +1774,9 @@ sunday:
         facilitator_id: sean-nittner
       - game_id: warren
         facilitator_id: steve-segedy
+      label: Sunday 12PM
     2pm:
-      time: 2014-08-17T14:00:00.000000000 -04:00
+      time: 2014-08-17 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
       - game_id: 6d6-mince-pies-and-murder
@@ -1797,3 +1818,4 @@ sunday:
       - game_id: uwe-boll-s-x-mas-special
         facilitator_id: evan-torner
       four_hour_games: []
+      label: Sunday  2PM

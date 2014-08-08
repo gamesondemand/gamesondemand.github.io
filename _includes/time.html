@@ -1,13 +1,13 @@
 <div id="{{ time.time | date: '%A-%H' | downcase }}" class="time-slot">
   <header>
     <h3 class="header">
-      <time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.time | date: '%A'}} {{ time.abbreviation }}</time>
+      <time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.label }}</time>
     </h3>
   </header>
 
   {% include schedule_disclaimer.html %}
   <table>
-    <caption>Two (2) Hour Games {{ time.time | date: '%A'}} {{ time.abbreviation }}</caption>
+    <caption>Two (2) Hour Games {{ table.label }}</caption>
     <thead>
       <tr>
         <th width="70%">Game</th>
@@ -32,7 +32,7 @@
 
   {% include schedule_disclaimer.html %}
   <table>
-    <caption>Four (4) Hour Games {{ time.time | date: '%A'}} {{ time.abbreviation }}</caption>
+    <caption>Four (4) Hour Games {{ time.label }}</caption>
     <thead>
       <tr>
         <th width="70%">Game</th>

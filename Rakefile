@@ -335,7 +335,8 @@ namespace :build do
         time_structure.fetch('times').each do |abbreviation, slot_data|
           time_registry.fetch(day_name).fetch('times')[abbreviation]['two_hour_games'] = []
           time_registry.fetch(day_name).fetch('times')[abbreviation]['four_hour_games'] = []
-
+          the_time = time_registry.fetch(day_name).fetch('times')[abbreviation]['time']
+          time_registry.fetch(day_name).fetch('times')[abbreviation]['label'] = the_time.strftime("%A %l%p")
           slot_facilitators = facilitators.select do |facilitator|
             facilitator.fetch(:day).upcase == day_name.upcase &&
             facilitator.fetch(:slot).upcase == abbreviation.upcase
