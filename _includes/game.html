@@ -4,15 +4,27 @@
   </header>
 
   <nav>
+    <h3>Times</h3>
+    <ul class="inline-list">
+      {% assign previous_slug = '' %}
+      {% for offering_time in site.data.game_offerings[game_id] %}
+      {% if previous_slug != offering_time.slug %}{% assign previous_slug = offering_time.slug %}
+      <li><a class="button tiny round" href="/{{ offering_time.slug }}">{{ offering_time.label }}</a></li>
+      {% endif %}{% endfor %}
+    </ul>
+  </nav>
+
+  <nav>
+    <h3>Faciliators</h3>
     <ul class="inline-list">
       {% for facilitator in game.facilitators %}
-      <li><a class="button small" href="#{{ facilitator[0] }}">{{ facilitator[1].facilitator_name }}</a></li>
+      <li><a class="button small round" href="#{{ facilitator[0] }}">{{ facilitator[1].facilitator_name }}</a></li>
       {% endfor %}
     </ul>
   </nav>
 
   <div class="game-offerings">
-    <h3>Offerings</h3>
+    <h3>Game Info</h3>
 
     {% for facilitator in game.facilitators %}
     {% assign offering = facilitator[1] %}
@@ -22,6 +34,16 @@
         <dd><a name="{{ facilitator[0] }}">{{ offering.facilitator_name }}</a></dd>
         <dt>Name</dt>
         <dd>{{ offering.name }}</dd>
+        <dt>Times</dt>
+        <dd>
+          <ul class="inline-list">
+            {% for offering_time in site.data.game_offerings[game_id] %}
+            {% if offering_time.facilitator_id == facilitator[0] %}
+            <li><a href="/{{ offering_time.slug }}">{{ offering_time.label }}</a></li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </dd>
         <dt>Duration</dt>
         <dd>{{ offering.duration }} hours</dd>
         <dt>Number of Players</dt>

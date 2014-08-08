@@ -36,7 +36,7 @@ namespace :build do
         text << '    <ul class="inline-list">'
         text << '      {% assign previous_alpha_group = "" %}'
         text << '      {% for game in site.data.games %}'
-        text << '        {% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %}<li><a class="button small" href="#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}'
+        text << '        {% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %}<li><a class="button small round" href="#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}'
         text << '      {% endfor %}'
         text << '    </ul>'
         text << '  </nav>'

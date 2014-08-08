@@ -1,0 +1,1943 @@
+---
+13th-age-forgotten-realms:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: dave-younce
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: dave-younce
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: dave-younce
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: dave-younce
+3-16:
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: gregor-hutton
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: gregor-hutton
+6d6-mince-pies-and-murder: []
+abstract-dungeon:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: matthew-j-hanson
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: matthew-j-hanson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: matthew-j-hanson
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: matthew-j-hanson
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: matthew-j-hanson
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: matthew-j-hanson
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: matthew-j-hanson
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: matthew-j-hanson
+action-cards:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: lowell-francis
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: lowell-francis
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: lowell-francis
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: lowell-francis
+aerie-of-the-aboleth:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: renee-knipe
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: renee-knipe
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: renee-knipe
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: renee-knipe
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: renee-knipe
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: renee-knipe
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: renee-knipe
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: renee-knipe
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: renee-knipe
+afrofuture:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: james-mendez-hodes
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: james-mendez-hodes
+always-never-now:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: joanna-piancastelli
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: joanna-piancastelli
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: joanna-piancastelli
+amidst-endless-quiet:
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: gregor-hutton
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: gregor-hutton
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: gregor-hutton
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: gregor-hutton
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: gregor-hutton
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: gregor-hutton
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: gregor-hutton
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: gregor-hutton
+ancient-secrets:
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: scott-acker
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: scott-acker
+andromeda:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: bill-white
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: bill-white
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: bill-white
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: bill-white
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: bill-white
+apocalypse-world:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: trevis-martin
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: trevis-martin
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: jeromy-hastings
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jeromy-hastings
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: trevis-martin
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: trevis-martin
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: trevis-martin
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: trevis-martin
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jeromy-hastings
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: trevis-martin
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: trevis-martin
+apocalypse-world-olive-garden:
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: karen-twelves
+archipelago:
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: steve-segedy
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steve-segedy
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: karen-twelves
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: steve-segedy
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: karen-twelves
+archipelago-last-of-us:
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: mark-causey
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: mark-causey
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: mark-causey
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: mark-causey
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: mark-causey
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: mark-causey
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: mark-causey
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: mark-causey
+atomic-robo: []
+atomic-robo-the-roleplaying-game:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: morgan-ellis
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: mike-olson
+beasts-of-burden:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: renee-knipe
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: renee-knipe
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: renee-knipe
+bloodnet:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: evan-torner
+burning-wheel:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: mad-jay
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: mad-jay
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: mad-jay
+campfire: []
+caress-of-steel:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: giovanni-lanza
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: giovanni-lanza
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: giovanni-lanza
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: giovanni-lanza
+carnival-of-lost-souls:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: renee-knipe
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: renee-knipe
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: renee-knipe
+carolina-death-crawl:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: justin-hamilton
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: bryan-rennekamp
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: justin-hamilton
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: justin-hamilton
+cat:
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: ray-otus
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: ray-otus
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: ray-otus
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: ray-otus
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: ray-otus
+cat-a-little-game-about-little-heroes: []
+companions:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jeremy-tidwell
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: jeremy-tidwell
+cortex:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: mad-jay
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: mad-jay
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: mad-jay
+danger-patrol: []
+dawning-star:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: justin-d-jacobson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: justin-d-jacobson
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: justin-d-jacobson
+deeds-doers:
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: gregor-hutton
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: gregor-hutton
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: gregor-hutton
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: gregor-hutton
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: gregor-hutton
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: gregor-hutton
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: gregor-hutton
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: gregor-hutton
+dirty-world: []
+do-pilgrims-of-the-flying-temple:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: kristin-firth
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: kristin-firth
+dog-eat-dog:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: james-stuart
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: rishi-agrawal
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: james-stuart
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: rishi-agrawal
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: rishi-agrawal
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: rishi-agrawal
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: james-stuart
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: rishi-agrawal
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: rishi-agrawal
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: rishi-agrawal
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: rishi-agrawal
+dogs-in-the-vineyard:
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: trevis-martin
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: trevis-martin
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: trevis-martin
+doll-with-the-bloodstained-lips:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: renee-knipe
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: renee-knipe
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: renee-knipe
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: renee-knipe
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: renee-knipe
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: renee-knipe
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: renee-knipe
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: renee-knipe
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: renee-knipe
+don-t-rest-your-head:
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: ray-otus
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: ray-otus
+dragonknights:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: travis-scott
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: travis-scott
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: travis-scott
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: travis-scott
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: travis-scott
+dread:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: rishi-agrawal
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: rishi-agrawal
+dread-cold-war:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: stentor-danielson
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: stentor-danielson
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: stentor-danielson
+dream-askew:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: james-stuart
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: james-stuart
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: james-stuart
+dresden-files:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jeffrey-fuller
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: jeffrey-fuller
+dresden-files-refuge:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: rick-neal
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: rick-neal
+dudebros-douchebags:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: mikael-andersson
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: mikael-andersson
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: mikael-andersson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: mikael-andersson
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: mikael-andersson
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: mikael-andersson
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: mikael-andersson
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: mikael-andersson
+dungeon-world:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: bill-white
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: steve-wallace
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: bill-white
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: andy-tatton
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: bill-white
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: steve-wallace
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: andy-tatton
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: bill-white
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: steve-wallace
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: bill-white
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steve-wallace
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: andy-tatton
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: steve-wallace
+dungeon-world-doom-of-fenrax:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: russ-brown
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: russ-brown
+dungeon-world-eberron:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: giovanni-lanza
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: giovanni-lanza
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: giovanni-lanza
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: giovanni-lanza
+dungeon-world-the-planarch-codex:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: james-mendez-hodes
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: james-mendez-hodes
+durance: []
+earthdawn:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jesse-butler
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: jesse-butler
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jesse-butler
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jesse-butler
+elderhearts:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: john-stavropoulos
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: john-stavropoulos
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: john-stavropoulos
+equinox-run-with-fae:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jason-wallace
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: jason-wallace
+fate-accelerated-edition:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: morgan-ellis
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: morgan-ellis
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: morgan-ellis
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: morgan-ellis
+fate-core:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: morgan-ellis
+fate-core-tentacles-and-brass:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: russ-brown
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: russ-brown
+feng-shui-2:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: steven-hammond
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steven-hammond
+feng-shui-ii:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: rick-neal
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: rick-neal
+fiasco:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: jason-morningstar
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: jason-morningstar
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: morgan-ellis
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: stentor-danielson
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jay-treat
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: anna-kreider
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: morgan-ellis
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jason-morningstar
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: morgan-ellis
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: jason-morningstar
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: steve-segedy
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: anna-kreider
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jeremy-tidwell
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: justin-hamilton
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: jeremy-tidwell
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: morgan-ellis
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: jason-morningstar
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: jason-morningstar
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: jay-treat
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: stentor-danielson
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: anna-kreider
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: justin-hamilton
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steve-segedy
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: jason-morningstar
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: justin-hamilton
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: stentor-danielson
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: steve-segedy
+firefly-followin-yonder-star:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: rick-neal
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: rick-neal
+first-impressions:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: evan-torner
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: evan-torner
+gold-guts-and-grog-a-dungeon-world-game: []
+golden-sky-stories:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: travis-scott
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: chris-czerniak
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: travis-scott
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: chris-czerniak
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: travis-scott
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: travis-scott
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: travis-scott
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: travis-scott
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: travis-scott
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: chris-czerniak
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: travis-scott
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: chris-czerniak
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: chris-czerniak
+hana-academy:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jesse-butler
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: jesse-butler
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jesse-butler
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jesse-butler
+headspace:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: mark-richardson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: mark-richardson
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: mark-richardson
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: mark-richardson
+heroine:
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: jenn-martin
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: jenn-martin
+hirelings:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jay-treat
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: jay-treat
+hollow-earth-expedition:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: steven-hammond
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steven-hammond
+hollowpoint: []
+hope-inhumanity:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: patrick-riegert
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: patrick-riegert
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: patrick-riegert
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: patrick-riegert
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: patrick-riegert
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: patrick-riegert
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: patrick-riegert
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: patrick-riegert
+houses-of-the-blooded: []
+how-to-be-human: []
+improv-for-gamers-level-1:
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: karen-twelves
+in-a-wicked-empire:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: dave-younce
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: dave-younce
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: dave-younce
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: dave-younce
+inheritance:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: john-stavropoulos
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: john-stavropoulos
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: john-stavropoulos
+inspectres:
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: jenn-martin
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: jenn-martin
+lady-blackbird:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: andy-tatton
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: ray-otus
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: andy-tatton
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: ray-otus
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: andy-tatton
+lasers-and-feelings:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: jeromy-hastings
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jeromy-hastings
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jeromy-hastings
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: jeromy-hastings
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jeromy-hastings
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: jeromy-hastings
+last-modron-migration:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: renee-knipe
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: renee-knipe
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: renee-knipe
+last-train-out-of-warsaw: []
+legacy-of-the-slayer:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jay-treat
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: jay-treat
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: jay-treat
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jay-treat
+leverage:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: alan-de-smet
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: alan-de-smet
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: alan-de-smet
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: alan-de-smet
+little-wizards: []
+live-action-sampler:
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jason-morningstar
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: jason-morningstar
+long-road-home:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: james-stuart
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: james-stuart
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: james-stuart
+m-vs-m:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: john-stavropoulos
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: john-stavropoulos
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: john-stavropoulos
+magical-kitties:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: matthew-j-hanson
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: matthew-j-hanson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: matthew-j-hanson
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: matthew-j-hanson
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: matthew-j-hanson
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: matthew-j-hanson
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: matthew-j-hanson
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: matthew-j-hanson
+marvel-heroic: []
+marvel-heroic-roleplaying:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: james-mendez-hodes
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: james-mendez-hodes
+metropolis:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: evan-torner
+microscope: []
+modron-memoranda:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: renee-knipe
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: renee-knipe
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: renee-knipe
+monster-of-the-week:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: rick-neal
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: rick-neal
+monsterhearts:
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: mark-causey
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: mark-causey
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: jeromy-hastings
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: mark-causey
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jeromy-hastings
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: mark-causey
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: trevis-martin
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: mark-causey
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: trevis-martin
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jeromy-hastings
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: trevis-martin
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: mark-causey
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: mark-causey
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: mark-causey
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: karen-twelves
+mythender:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: alan-de-smet
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: alan-de-smet
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: alan-de-smet
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: alan-de-smet
+nanoworld:
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: ray-otus
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: ray-otus
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: ray-otus
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: ray-otus
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: ray-otus
+night-s-black-agents:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: bill-white
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: bill-white
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: bill-white
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: bill-white
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: bill-white
+night-witches:
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jason-morningstar
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: steve-segedy
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: jason-morningstar
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steve-segedy
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: steve-segedy
+no-country-for-old-kobolds:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: travis-scott
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: steve-wallace
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: travis-scott
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: steve-wallace
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: travis-scott
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: travis-scott
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: steve-wallace
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: travis-scott
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steve-wallace
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: steve-wallace
+ocean:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: chris-czerniak
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: chris-czerniak
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: chris-czerniak
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: chris-czerniak
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: chris-czerniak
+on-mighty-thews:
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: dana-fried
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: dana-fried
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: dana-fried
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: dana-fried
+orcs-in-the-dragon-s-den:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: ron-frazier
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: ron-frazier
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: ron-frazier
+our-last-best-hope: []
+penny-for-my-thoughts: []
+penny-for-your-thoughts: []
+powers-for-good:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: joanna-piancastelli
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: joanna-piancastelli
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: joanna-piancastelli
+previous-occupants: []
+princes-kingdom:
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: gregor-hutton
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: gregor-hutton
+psi-run:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: jeromy-hastings
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jeromy-hastings
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jeromy-hastings
+quantum-flux: []
+quiet-year:
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: bryan-rennekamp
+rat-queens:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: john-stavropoulos
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: john-stavropoulos
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: john-stavropoulos
+red-right-hand-a-monster-of-the-week-game: []
+revived-a-support-group-for-the-partially-deceased: []
+romance-in-the-air:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: bill-white
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: bill-white
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: bill-white
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: bill-white
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: bill-white
+ryuutama:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: matt-sanchez
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: matt-sanchez
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: matt-sanchez
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: matt-sanchez
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: matt-sanchez
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: matt-sanchez
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: matt-sanchez
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: matt-sanchez
+ryuutama-natural-fantasy:
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: mark-causey
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: mark-causey
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: mark-causey
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: mark-causey
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: mark-causey
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: mark-causey
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: mark-causey
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: mark-causey
+sagas-of-the-icelanders:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: mikael-andersson
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: mikael-andersson
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: mikael-andersson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: mikael-andersson
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: mikael-andersson
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: mikael-andersson
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: mikael-andersson
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: mikael-andersson
+samsara: []
+samurai-in-the-wasteland:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: anna-kreider
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: anna-kreider
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: anna-kreider
+shab-al-hiri-roach-hogwarts-edition:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: anna-kreider
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: anna-kreider
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: anna-kreider
+shinobigami:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: matt-sanchez
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: matt-sanchez
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: matt-sanchez
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: matt-sanchez
+short-order-heroes:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: jesse-butler
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jesse-butler
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: jesse-butler
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jesse-butler
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jesse-butler
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: jesse-butler
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: jesse-butler
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jesse-butler
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: jesse-butler
+souls-of-steel:
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: dana-fried
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: dana-fried
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: dana-fried
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: dana-fried
+spark:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: mark-richardson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: mark-richardson
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: mark-richardson
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: mark-richardson
+sparks-nevada-thrilling-adventure-game:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: mike-olson
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: mike-olson
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: mike-olson
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: mike-olson
+steal-away-jordan-final-defense-of-the-quilombos:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: james-mendez-hodes
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: james-mendez-hodes
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: james-mendez-hodes
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: james-mendez-hodes
+strike-force-dagon:
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: scott-acker
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: scott-acker
+summer-lovin: []
+swords-without-master: []
+swords-wizardry:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: justin-hamilton
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: justin-hamilton
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: justin-hamilton
+technoir:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: trevis-martin
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: trevis-martin
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: trevis-martin
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: trevis-martin
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: trevis-martin
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: trevis-martin
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: trevis-martin
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: trevis-martin
+tenra-bansho-zero:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: chris-czerniak
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: mark-causey
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: chris-czerniak
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: mark-causey
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: mark-causey
+terror-in-freeport: []
+tokyo-brain-pop:
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: chris-czerniak
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: chris-czerniak
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: chris-czerniak
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: chris-czerniak
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: chris-czerniak
+tokyo-rain:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: justin-d-jacobson
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: justin-d-jacobson
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: justin-d-jacobson
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: justin-d-jacobson
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: justin-d-jacobson
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: justin-d-jacobson
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: justin-d-jacobson
+torchbearer:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: patrick-riegert
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: patrick-riegert
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: justin-hamilton
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: patrick-riegert
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: sean-nittner
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: sean-nittner
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: justin-hamilton
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: justin-hamilton
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: sean-nittner
+tragedy-in-five-acts:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: stentor-danielson
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: stentor-danielson
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: stentor-danielson
+trail-of-cthulhu:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: matt-sanchez
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: matt-sanchez
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: matt-sanchez
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: matt-sanchez
+traveller:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jesse-butler
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: jesse-butler
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jesse-butler
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jesse-butler
+tremulus: []
+tribunal:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: andrew-medeiros
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: andrew-medeiros
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: andrew-medeiros
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: andrew-medeiros
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: andrew-medeiros
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: andrew-medeiros
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: andrew-medeiros
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: andrew-medeiros
+urban-shadows:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: andrew-medeiros
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: travis-scott
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: andrew-medeiros
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: andrew-medeiros
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: andrew-medeiros
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: travis-scott
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: travis-scott
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: travis-scott
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: andrew-medeiros
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: travis-scott
+uwe-boll-s-christmas-special:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: evan-torner
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: evan-torner
+vampire-city:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jason-wallace
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: jason-wallace
+variance:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: rishi-agrawal
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: rishi-agrawal
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: rishi-agrawal
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: rishi-agrawal
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: rishi-agrawal
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: rishi-agrawal
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: rishi-agrawal
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: rishi-agrawal
+venture-city-stories:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: rishi-agrawal
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: rishi-agrawal
+vigilance-committee:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: ron-frazier
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: ron-frazier
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: ron-frazier
+villa-air-bel:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: james-stuart
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: james-stuart
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: james-stuart
+war-of-ashes:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jeffrey-fuller
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: sean-nittner
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: sean-nittner
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: jeffrey-fuller
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: sean-nittner
+warren:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: jason-morningstar
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: jason-morningstar
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: jason-morningstar
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: jason-morningstar
+- slug: friday/6pm
+  label: Fri 6PM
+  facilitator_id: steve-segedy
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: jason-morningstar
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: jason-morningstar
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: steve-segedy
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: jason-morningstar
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: steve-segedy
+western-city:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jason-wallace
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: jason-wallace
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: jason-wallace
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: jason-wallace
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: jason-wallace
+wicked-fantasy: []
+wield: []
+zombie-cinema:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: kristin-firth
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: anna-kreider
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: anna-kreider
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: anna-kreider
+- slug: friday/10pm
+  label: Fri 10PM
+  facilitator_id: anna-kreider
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: anna-kreider
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: anna-kreider
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: kristin-firth
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: anna-kreider
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: anna-kreider

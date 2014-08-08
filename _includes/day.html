@@ -13,7 +13,7 @@
     <ul class="inline-list">
       {% for data in day.times %}
       {% assign time = data[1] %}
-      <li><a class="button tiny" href="#{{ time.time | date: '%A-%H' | downcase }}">{{ time.abbreviation }}</a></li>
+      <li><a class="button tiny round" href="#{{ time.time | date: '%A-%H' | downcase }}">{{ time.abbreviation }}</a></li>
       {% endfor %}
     </ul>
     {% for data in day.times %}
