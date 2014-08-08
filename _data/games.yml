@@ -296,6 +296,22 @@ atomic-robo:
   type: Tabletop
   name: Atomic Robo
   alpha_group: A-F
+bloodnet:
+  facilitators:
+    evan-torner:
+      type: LARP
+      facilitator_name: Evan Torner
+      name: BloodNet
+      pitch: |-
+        <p>BloodNet is a cyberpunk-vampire larp based on the eponymous 1993 MicroProse adventure computer game. Players take on the role of one of the characters of Manhattan 2094, either eking out a living between cyberspace and reality or trying to rule it all. Intrigue between different factions vying for dominance appears inevitable.</p>
+                        <p>This a rules-light, fast-paced genre larp in the “parlor sandbox” tradition, a la the City of Fire and Coin larp.</p>
+      duration: '4'
+      minimum_players: '6'
+      maximum_players: '12'
+      audience: ''
+  type: LARP
+  name: BloodNet
+  alpha_group: A-F
 burning-wheel:
   facilitators:
     mad-jay:
@@ -376,6 +392,23 @@ cat:
       audience: allages
   type: Tabletop
   name: Cat
+  alpha_group: A-F
+climb:
+  facilitators:
+    jason-morningstar:
+      type: LARP
+      facilitator_name: Jason Morningstar
+      name: Climb
+      pitch: |-
+        <p>Camp III, Gangkhar Puensum, Bhutan Himalaya</p>
+                        <p>We have arrived at Camp III, precariously perched 6,900 meters up on a cliff-face high above the Tarphel Valley of Bhutan. In an age of well-trodden paths, no human being has ever been higher on this peak than we are right now. This is a secret first ascent without the knowledge of Bhutanese authorities, who have forbidden climbing for religious reasons since 1994. No one knows we are here. If we descend into Bhutan we will be arrested. If anything goes wrong, there is no one to rescue us.</p><p></p><p>Two will summit in the morning.</p><p>For the six of us on the slopes of the Gangkhar Puensum massif, summiting ensures a place in climbing history. We all want a shot, but only two of us can make it to the top. Who will it be? And what fate awaits the “lucky” ones above 7000 meters?</p>
+                        <p>THE CLIMB is a short, six-person, live-action game about an expedition to a virgin peak in the Himalayas. The game requires six players, a large quiet space, and should take 2-3 hours to play. </p>
+      duration: '2'
+      minimum_players: '5'
+      maximum_players: '5'
+      audience: ''
+  type: LARP
+  name: Climb
   alpha_group: A-F
 companions:
   facilitators:
@@ -1570,6 +1603,23 @@ firefly-followin-yonder-star:
   type: Tabletop
   name: 'Firefly: Followin’ Yonder Star'
   alpha_group: A-F
+first-impressions:
+  facilitators:
+    evan-torner:
+      type: LARP
+      facilitator_name: Evan Torner
+      name: First Impressions
+      pitch: |-
+        <p>Play fantasy adventurers at a dungeon-delving, speed-dating style hook-up event. Everyone is looking to form up with a party to go adventuring, ransacking some old ruins, storming a wizard’s tower, rooting out a goblin encampment, what have you.</p>
+                        <p>But you have standards!</p>
+                        <p>A fast-paced comedy dealing with the core game of our hobby.</p>
+      duration: '2'
+      minimum_players: '5'
+      maximum_players: '10'
+      audience: allages
+  type: LARP
+  name: First Impressions
+  alpha_group: A-F
 golden-sky-stories:
   facilitators:
     chris-czerniak:
@@ -1682,6 +1732,23 @@ hillfolk:
   type: Tabletop
   name: Hillfolk
   alpha_group: G-L
+hirelings:
+  facilitators:
+    jay-treat:
+      type: LARP
+      facilitator_name: Jay Treat
+      name: Hirelings
+      pitch: |-
+        <p>In a world of perilous adventure and dark dungeons filled with precious riches, one group of aspiring adventurers are having their first day in a new job, and it’s not quite working out as planned.</p>
+                        <p>You’ve been hired to raid the tomb. First your motley crew will engage in team exercises with the paladin to prepare for your adventure, and then you will go through counseling to talk about what happened in that dark place, and why your paladin didn’t make it back with you.</p>
+                        <p>A silly free-form LARP suitable for new players.</p>
+      duration: '4'
+      minimum_players: '3'
+      maximum_players: '10'
+      audience: ''
+  type: LARP
+  name: Hirelings
+  alpha_group: G-L
 hollow-earth-expedition:
   facilitators:
     steven-hammond:
@@ -1739,6 +1806,21 @@ hope-inhumanity:
   type: Tabletop
   name: Hope Inhumanity
   alpha_group: G-L
+how-to-be-human:
+  facilitators:
+    kat-jones:
+      type: LARP
+      facilitator_name: Kat Jones
+      name: How to be Human
+      pitch: "<p>“How to be Human” is a game about vampires, werewolves, and ghosts
+        who are trying to learn to be human and share a house together.</p>"
+      duration: '4'
+      minimum_players: '3'
+      maximum_players: '12'
+      audience: allages
+  type: LARP
+  name: How to be Human
+  alpha_group: G-L
 immortals-ancient-secrets:
   facilitators:
     scott-acker:
@@ -1761,6 +1843,22 @@ immortals-ancient-secrets:
   type: Tabletop
   name: 'Immortals: Ancient Secrets'
   alpha_group: G-L
+improv-for-gamers-level-1:
+  facilitators:
+    karen-twelves:
+      type: LARP
+      facilitator_name: Karen Twelves
+      name: 'Improv for Gamers: Level 1'
+      pitch: |-
+        <p>Improv theater teaches many skills that can make your game rock: working together, keeping things interesting, and taking risks. The goal of this workshop series is to highlight those skills (and more!) as they apply to role-playing games through improv exercises and scenework.</p>
+                        <p>Beginners to improv are welcome and encouraged! Prepare to be on your feet, active, and vocal.</p>
+      duration: '4'
+      minimum_players: '10'
+      maximum_players: '12'
+      audience: ''
+  type: LARP
+  name: 'Improv for Gamers: Level 1'
+  alpha_group: G-L
 in-a-wicked-age-in-a-wicked-empire:
   facilitators:
     dave-younce:
@@ -1779,6 +1877,35 @@ in-a-wicked-age-in-a-wicked-empire:
       audience: mature
   type: Tabletop
   name: 'In a Wicked Age: In a Wicked Empire'
+  alpha_group: G-L
+inheritance-burning-wheel-larp:
+  facilitators:
+    john-stavropoulos:
+      type: LARP
+      facilitator_name: John Stavropoulos
+      name: 'Inheritance: Burning Wheel LARP'
+      pitch: |-
+        <p>Denmark, Northern Jutland, 1104.</p>
+                        <p>Grandfather has died.</p>
+                        <p>It’s time to read his will and divide his inheritance. Will you claim what is rightfully yours?</p>
+      duration: '4'
+      minimum_players: '9'
+      maximum_players: '9'
+      audience: ''
+    terry-hope-romero:
+      type: LARP
+      facilitator_name: Terry Hope Romero
+      name: 'Inheritance: Burning Wheel LARP'
+      pitch: |-
+        <p>Denmark, Northern Jutland, 1104.</p>
+                        <p>Grandfather has died.</p>
+                        <p>It’s time to read his will and divide his inheritance. Will you claim what is rightfully yours?</p>
+      duration: '4'
+      minimum_players: '9'
+      maximum_players: '9'
+      audience: ''
+  type: LARP
+  name: 'Inheritance: Burning Wheel LARP'
   alpha_group: G-L
 inspectres:
   facilitators:
@@ -1813,6 +1940,22 @@ inspectres:
       audience: allages
   type: Tabletop
   name: InSpectres
+  alpha_group: G-L
+island:
+  facilitators:
+    shoe-skogen:
+      type: LARP
+      facilitator_name: Shoe Skogen
+      name: Island
+      pitch: |-
+        <p>There’s an island. It’s very beautiful here - there are clear streams, tall trees, colourful wildlife. It’s always a bit hard to remember what you were looking at, once you look away. </p>
+                        <p>There’s a cabin, built in the round. It’s lovely - there are comfy beds, good food, and a mirror hung up in each little bunk, winged with words in some forgotten script.  There’s a little placard under each mirror, but it’s always hard to remember what it says.</p>
+      duration: '4'
+      minimum_players: '5'
+      maximum_players: '8'
+      audience: ''
+  type: LARP
+  name: Island
   alpha_group: G-L
 itras-by:
   facilitators:
@@ -1861,6 +2004,25 @@ jadepunk-the-vigilance-commitee:
       audience: allages
   type: Tabletop
   name: 'Jadepunk: The Vigilance Commitee'
+  alpha_group: G-L
+juggernaut:
+  facilitators:
+    jason-morningstar:
+      type: LARP
+      facilitator_name: Jason Morningstar
+      name: JUGGERNAUT
+      pitch: |-
+        <p>It is July 3rd, 1950. The Korean War is eight days sold. National Security Council Report 68 sits on Harry Truman’s desk, a grim outline of the Cold War that is to enfold the world for the next 40 years. Alan Turing’s paper “Computing Machinery and Intelligence” is circulating for review. Cinderella is a box office sensation. And you have invented a computer that can see the future.</p>
+                        <p>Employing cutting-edge Ward-Takahashi identity derivations outside their quantum-theoretical framework, JUGGERNAUT processes enormous data sets, ostensibly in the service of code-breaking. The unstable geniuses behind the math have reached some curious conclusions that only experimental evidence can confirm. By the numbers, JUGGERNAUT - given enough resources - should be able to crack ciphers before they are even invented.</p>
+                        <p>JUGGERNAUT is designed to seek patterns in data encoded on Hollerith punchcards. New cards are generated and their data is ported to summary machines, creating a cascade of further refined information. The output of a run is a single human-readable Hollerith card.</p>
+                        <p>On that card is a simple statement about events that will happen in the future.</p>
+                        <p>And JUGGERNAUT is never wrong.</p>
+      duration: '2'
+      minimum_players: '5'
+      maximum_players: '5'
+      audience: ''
+  type: LARP
+  name: JUGGERNAUT
   alpha_group: G-L
 lady-blackbird:
   facilitators:
@@ -1999,6 +2161,35 @@ little-wizards:
   type: Tabletop
   name: Little Wizards
   alpha_group: G-L
+m-vs-m:
+  facilitators:
+    john-stavropoulos:
+      type: LARP
+      facilitator_name: John Stavropoulos
+      name: M vs M
+      pitch: |-
+        <p>You’re only 18, but you never thought you’d live to see the day that someone like you would be elected president of the United States. Not just anyone: your beloved teacher and founder of the school that protects and teaches you how to use your amazing powers. Home.</p>
+                        <p>But today is poisoned with terror and violence. The president elect is slain while the world watches. What follows? Civil War. You decide: Run? Hide? Fight? Fight who? For what? How do you defeat hate? How do you win fear?</p>
+                        <p>Themes: racism, civil war, Obama 2008 election, isolation, bigotry, friendship, broken families, and the trials of growing up outside of society yet enmeshed in infighting.</p>
+      duration: '4'
+      minimum_players: '9'
+      maximum_players: '12'
+      audience: ''
+    terry-hope-romero:
+      type: LARP
+      facilitator_name: Terry Hope Romero
+      name: M vs M
+      pitch: |-
+        <p>You’re only 18, but you never thought you’d live to see the day that someone like you would be elected president of the United States. Not just anyone: your beloved teacher and founder of the school that protects and teaches you how to use your amazing powers. Home.</p>
+                        <p>But today is poisoned with terror and violence. The president elect is slain while the world watches. What follows? Civil War. You decide: Run? Hide? Fight? Fight who? For what? How do you defeat hate? How do you win fear?</p>
+                        <p>Themes: racism, civil war, Obama 2008 election, isolation, bigotry, friendship, broken families, and the trials of growing up outside of society yet enmeshed in infighting.</p>
+      duration: '4'
+      minimum_players: '9'
+      maximum_players: '12'
+      audience: ''
+  type: LARP
+  name: M vs M
+  alpha_group: M-R
 magical-kitties:
   facilitators:
     matthew-j-hanson:
@@ -2032,6 +2223,22 @@ marvel-heroic-rpg:
       audience: allages
   type: Tabletop
   name: Marvel Heroic RPG
+  alpha_group: M-R
+metropolis:
+  facilitators:
+    evan-torner:
+      type: LARP
+      facilitator_name: Evan Torner
+      name: Metropolis
+      pitch: |-
+        <p>There is only the City. Few know what exists outside it. If such an Outside existed, however, its Inhabitants would desperately yearn for it. For as nothing exists outside the City, so too does nothing exist inside its Inhabitants. Can the Head and the Hands be mediated through the Heart?</p>
+                        <p>A freeform based on Fritz Lang’s sci-fi film Metropolis.</p>
+      duration: '4'
+      minimum_players: '6'
+      maximum_players: '12'
+      audience: allages
+  type: LARP
+  name: Metropolis
   alpha_group: M-R
 microscope:
   facilitators:
@@ -2416,6 +2623,23 @@ penny-for-my-thoughts:
   type: Tabletop
   name: Penny for My Thoughts
   alpha_group: M-R
+penny-for-my-thoughts-larp:
+  facilitators:
+    kristin-firth:
+      type: LARP
+      facilitator_name: Kristin Firth
+      name: Penny For My Thoughts - LARP
+      pitch: "<p>You’ve all lost your memories, but with your signed agreement to
+        participate in this little study, we believe we can assist you in recovering
+        them. Is everyone sitting comfortably? Excellent. Now if you’d please take
+        the blue pill in front of you, we can begin.</p>"
+      duration: '4'
+      minimum_players: '2'
+      maximum_players: '4'
+      audience: ''
+  type: LARP
+  name: Penny For My Thoughts - LARP
+  alpha_group: M-R
 powers-for-good:
   facilitators:
     joanna-piancastelli:
@@ -2435,6 +2659,22 @@ powers-for-good:
       audience: allages
   type: Tabletop
   name: Powers for Good
+  alpha_group: M-R
+previous-occupants:
+  facilitators:
+    kira-magrann:
+      type: LARP
+      facilitator_name: Kira Magrann
+      name: Previous Occupants
+      pitch: "<p>Previous Occupants is a horror scenario about jealousy, trust and
+        desire in two acts. It takes place in a modern day setting, with two parallel
+        stories set in two different times.</p>"
+      duration: '4'
+      minimum_players: '4'
+      maximum_players: '4'
+      audience: mature
+  type: LARP
+  name: Previous Occupants
   alpha_group: M-R
 princes-kingdom:
   facilitators:
@@ -2586,6 +2826,24 @@ rat-queens-world-mashup:
       audience: mature
   type: Tabletop
   name: 'Rat Queens: *World mashup'
+  alpha_group: M-R
+revived-a-support-group-for-the-partially-deceased:
+  facilitators:
+    kat-jones:
+      type: LARP
+      facilitator_name: Kat Jones
+      name: 'Revived: A Support Group for the Partially Deceased'
+      pitch: "<p>Revived is an unconventional zombie LARP inspired by the BBC show
+        In the Flesh. Players take on the role of rehabilitated zombies re-entering
+        their previous lives. Characters will deal with the responses of their family
+        and friends to their return, the prejudice they face from the general populace,
+        and guilt over what they did in their “untreated” state.</p>"
+      duration: '4'
+      minimum_players: '3'
+      maximum_players: '8'
+      audience: ''
+  type: LARP
+  name: 'Revived: A Support Group for the Partially Deceased'
   alpha_group: M-R
 ryuutama:
   facilitators:
@@ -2818,6 +3076,22 @@ steal-away-jordan-final-defense-of-the-quilombos:
       audience: ''
   type: Tabletop
   name: 'Steal Away Jordan: Final Defense of the Quilombos'
+  alpha_group: S-Z
+summer-lovin:
+  facilitators:
+    kira-magrann:
+      type: LARP
+      facilitator_name: Kira Magrann
+      name: Summer Lovin’
+      pitch: |-
+        <p>A fun game about awkward sex and drama amongst three couples. Talking frankly about sex acts and making them realistic and hilarious! Three girls, three guys and the stories about who did what and with who during a big summer music festival. We will get the story as told by the girls, as told by the guys and then finally played out as it really happened.</p>
+                        <p>There is no touching in this game!</p>
+      duration: '4'
+      minimum_players: '5'
+      maximum_players: '6'
+      audience: mature
+  type: LARP
+  name: Summer Lovin’
   alpha_group: S-Z
 swords-without-master:
   facilitators:
@@ -3229,6 +3503,24 @@ tremulus:
   type: Tabletop
   name: tremulus
   alpha_group: S-Z
+tribunal:
+  facilitators:
+    andrew-medeiros:
+      type: LARP
+      facilitator_name: Andrew Medeiros
+      name: Tribunal
+      pitch: |-
+        <p>In the military of a totalitarian regime, two soldiers in your unit have been accused of stealing bread.  If found guilty, they will be shot.</p>
+                        <p>The problem is that they are innocent.</p>
+                        <p>Each of you will give your testimony to the tribunal shortly. What will you tell them?</p>
+                        <p>The Tribunal is a short, intense participatory scenario about the mechanics of oppression, inspired by the works of Orwell, Krylov, Buchner, and Linna. It takes place in a space of waiting, just before the first one of you is called in to testify in front of the military tribunal. Each of you will face the judges alone, not knowing what the others will say. So if you want to make a difference, or be sure you survive, you need to discuss and deal now.</p>
+      duration: '2'
+      minimum_players: '7'
+      maximum_players: '12'
+      audience: ''
+  type: LARP
+  name: Tribunal
+  alpha_group: S-Z
 urban-shadows:
   facilitators:
     andrew-medeiros:
@@ -3275,6 +3567,22 @@ urban-shadows:
   type: Tabletop
   name: Urban Shadows
   alpha_group: S-Z
+uwe-boll-s-x-mas-special:
+  facilitators:
+    evan-torner:
+      type: LARP
+      facilitator_name: Evan Torner
+      name: Uwe Boll’s X-mas Special
+      pitch: |-
+        <p>Google “world’s worst film director” and you will find the name of Uwe Boll. His off-color video game adaptations and tasteless shooter flicks continuously shock, enthrall, bore and occasionally move DVD audiences worldwide.</p>
+                        <p>“Uwe Boll’s Christmas Special” is a two-hour, scene-based tongue-in-cheek freeform in which players embody miscast actors starring in a horrific genre mash-up whilst being directed by a mad German with a Ph.D. and an amateur boxing record.</p>
+      duration: '2'
+      minimum_players: '6'
+      maximum_players: '10'
+      audience: mature
+  type: LARP
+  name: Uwe Boll’s X-mas Special
+  alpha_group: S-Z
 vampire-city:
   facilitators:
     jason-wallace:
@@ -3311,6 +3619,22 @@ variance:
       audience: ''
   type: Tabletop
   name: Variance
+  alpha_group: S-Z
+villa-air-bel:
+  facilitators:
+    james-stuart:
+      type: LARP
+      facilitator_name: James Stuart
+      name: Villa Air-Bel
+      pitch: |-
+        <p>Marseilles, late fall, 1940. France has been occupied by the Germans and the collaborationist Vichy regime has been allowed to exist in the south. For the bold and the desperate, Marseille is the launching point for journeys to freedom.</p>
+                        <p>American liberals, stunned at the fall of France and horrified by German (and now French) anti-intellectualism and anti-Semitic brutality, hastily organized a campaign to spirit away as many European artists and intellectuals as they could manage. The Emergency Rescue Committee was formed, and a young academic named Varian Fry was sent to make it happen.</p>
+      duration: '4'
+      minimum_players: '5'
+      maximum_players: '5'
+      audience: mature
+  type: LARP
+  name: Villa Air-Bel
   alpha_group: S-Z
 war-of-ashes:
   facilitators:
@@ -3390,6 +3714,22 @@ warren:
       audience: allages
   type: Tabletop
   name: Warren
+  alpha_group: S-Z
+werewolf-at-prom:
+  facilitators:
+    james-gabrielsen:
+      type: LARP
+      facilitator_name: James Gabrielsen
+      name: Werewolf At Prom
+      pitch: |-
+        <p>We never expected that nerd to show up to prom. We really didn’t expect him to wolf out and kill everyone. So here we are: five of us who have mercilessly bullied the kid over the years, barricaded into a supply closet. He’s wailing out there, saying he’s sorry, he can’t control it, and there’s some special serum that can help him. Blah blah blah. He’s badly wounded and will pass out from blood loss any minute now.</p>
+                        <p>Should we save him? Should we kill him? Or will hormones and old grudges create bigger problems than the furry one outside?</p>
+      duration: '2'
+      minimum_players: '4'
+      maximum_players: '4'
+      audience: ''
+  type: LARP
+  name: Werewolf At Prom
   alpha_group: S-Z
 western-city:
   facilitators:

@@ -176,53 +176,55 @@ namespace :build do
       require 'csv'
       require 'nokogiri'
 
-      document = Nokogiri::XML.parse(File.read(File.expand_path('../_data/gencon_god_tabletop.xml', __FILE__)))
       collector = {}
       exceptions = []
-      document.css('games gm').each do |gm|
-        gm.css('game').each do |game|
-          game_name = game.xpath('title').first.text
-          game_name = game_name.
-            gsub(/:(\w)/, ': \1').
-            sub(/^(An?) (.*)$/i, '\2').
-            sub(/^(The) (.*)$/i, '\2')
-          game_type = 'Tabletop'
-          gm_name = (gm.xpath('schedule_name').first || gm.xpath('name').first).text
-          slugified_game_name = slugify_text(game_name.split('(').first)
-          slugified_person_name = slugify_text(gm_name)
+      ['Tabletop', 'LARP'].each do |type|
+        document = Nokogiri::XML.parse(File.read(File.expand_path("../_data/gencon_god_#{type.downcase}.xml", __FILE__)))
+        document.css('games gm').each do |gm|
+          gm.css('game').each do |game|
+            game_name = game.xpath('title').first.text
+            game_name = game_name.
+              gsub(/:(\w)/, ': \1').
+              sub(/^(An?) (.*)$/i, '\2').
+              sub(/^(The) (.*)$/i, '\2')
+            game_type = type
+            gm_name = (gm.xpath('schedule_name').first || gm.xpath('name').first).text
+            slugified_game_name = slugify_text(game_name.split('(').first)
+            slugified_person_name = slugify_text(gm_name)
 
-          collector[slugified_game_name] ||= {
-            'facilitators' => {},
-            'type' => game_type,
-            'name' => game_name,
-            'alpha_group' => alpha_group_for(slugified_game_name)
-          }
-          if collector[slugified_game_name]['name'].downcase != game_name.downcase
-            exceptions << "Mismatch game name: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['name']}\n\tGot: #{game_name}"
+            collector[slugified_game_name] ||= {
+              'facilitators' => {},
+              'type' => game_type,
+              'name' => game_name,
+              'alpha_group' => alpha_group_for(slugified_game_name)
+            }
+            if collector[slugified_game_name]['name'].downcase != game_name.downcase
+              exceptions << "Mismatch game name: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['name']}\n\tGot: #{game_name}"
+            end
+            if collector[slugified_game_name]['type'] != game_type
+              exceptions << "Mismatch game type: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['type']}\n\tGot: #{game_type}"
+            end
+            pitch = game.xpath('pitch').inner_html.strip
+            duration = game.css('scheduling duration').first.text
+            minimum_players = game.css('scheduling min').first.text
+            maximum_players = game.css('scheduling max').first.text
+            audience_node = game.css('audience').first
+            if audience_node
+              audience = audience_node.text
+            else
+              audience = ''
+            end
+            collector[slugified_game_name]['facilitators'][slugified_person_name] = {
+              'type' => game_type,
+              'facilitator_name' => gm_name,
+              'name' => game_name,
+              'pitch' => pitch,
+              'duration' => duration,
+              'minimum_players' => minimum_players,
+              'maximum_players' => maximum_players,
+              'audience' => audience
+            }
           end
-          if collector[slugified_game_name]['type'] != game_type
-            exceptions << "Mismatch game type: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['type']}\n\tGot: #{game_type}"
-          end
-          pitch = game.xpath('pitch').inner_html.strip
-          duration = game.css('scheduling duration').first.text
-          minimum_players = game.css('scheduling min').first.text
-          maximum_players = game.css('scheduling max').first.text
-          audience_node = game.css('audience').first
-          if audience_node
-            audience = audience_node.text
-          else
-            audience = ''
-          end
-          collector[slugified_game_name]['facilitators'][slugified_person_name] = {
-            'type' => game_type,
-            'facilitator_name' => gm_name,
-            'name' => game_name,
-            'pitch' => pitch,
-            'duration' => duration,
-            'minimum_players' => minimum_players,
-            'maximum_players' => maximum_players,
-            'audience' => audience
-          }
         end
       end
 
@@ -273,14 +275,24 @@ namespace :build do
                 hosting[slugified_person_name] << {
                   day: time.strftime('%A').downcase.strip,
                   slot: time.strftime('%l%p').strip,
-                  max_duration: peak_ahead(row, day.times, index, /host/i)
+                  max_duration: peak_ahead(row, day.times, index, /host/i),
+                  role: row[time_key].downcase
                 }
               when /gm/i
                 facilitating[slugified_person_name] ||= []
                 facilitating[slugified_person_name] << {
                   day: time.strftime('%A').downcase.strip,
                   slot: time.strftime('%l%p').strip,
-                  max_duration: peak_ahead(row, day.times, index, /gm/i)
+                  max_duration: peak_ahead(row, day.times, index, /gm/i),
+                  role: row[time_key].downcase
+                }
+              when /larp/i
+                facilitating[slugified_person_name] ||= []
+                facilitating[slugified_person_name] << {
+                  day: time.strftime('%A').downcase.strip,
+                  slot: time.strftime('%l%p').strip,
+                  max_duration: peak_ahead(row, day.times, index, /larp/i),
+                  role: row[time_key].downcase
                 }
               when /^ *$/
               else
@@ -333,18 +345,18 @@ namespace :build do
             game_offerings[game_id] ||= Set.new
             slot_facilitators.each do |facilitator|
               offering = game_data.fetch('facilitators')[facilitator.fetch(:name)]
-              if offering
-                offering_duration = offering.fetch('duration').to_i
-                if offering_duration <= facilitator.fetch(:max_duration).to_i
-                  entry = { 'game_id' => game_id, 'facilitator_id' => facilitator.fetch(:name) }
-                  game_offerings[game_id] << { 'slug' => File.join(day_name, abbreviation), 'label' => keyify_time(slot_data.fetch('time')), 'facilitator_id' => entry['facilitator_id'] }
-                  case offering_duration
-                  when 2 then slot_data['two_hour_games'] << entry
-                  when 4 then slot_data['four_hour_games'] << entry
-                  else
-                    raise "Unexpected duration"
-                  end
-                end
+              next unless offering
+              next unless (facilitator.fetch(:role) =~ /gm/i && offering.fetch('type') =~ /tabletop/i) ||
+                  (facilitator.fetch(:role) =~ /larp/i && offering.fetch('type') =~ /larp/i)
+              offering_duration = offering.fetch('duration').to_i
+              next unless offering_duration <= facilitator.fetch(:max_duration).to_i
+              entry = { 'game_id' => game_id, 'facilitator_id' => facilitator.fetch(:name) }
+              game_offerings[game_id] << { 'slug' => File.join(day_name, abbreviation), 'label' => keyify_time(slot_data.fetch('time')), 'facilitator_id' => entry['facilitator_id'] }
+              case offering_duration
+              when 2 then slot_data['two_hour_games'] << entry
+              when 4 then slot_data['four_hour_games'] << entry
+              else
+                raise "Unexpected duration"
               end
             end
             game_offerings[game_id] = game_offerings[game_id].to_a

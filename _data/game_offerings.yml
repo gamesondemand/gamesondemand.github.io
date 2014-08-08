@@ -250,6 +250,10 @@ atomic-robo:
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: mike-olson
+bloodnet:
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: evan-torner
 burning-wheel:
 - slug: friday/8pm
   label: Fri 8PM
@@ -289,6 +293,13 @@ cat:
 - slug: saturday/10pm
   label: Sat 10PM
   facilitator_id: ray-otus
+climb:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: jason-morningstar
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: jason-morningstar
 companions:
 - slug: friday/8pm
   label: Fri 8PM
@@ -1168,6 +1179,22 @@ firefly-followin-yonder-star:
 - slug: saturday/8pm
   label: Sat 8PM
   facilitator_id: rick-neal
+first-impressions:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: evan-torner
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: evan-torner
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: evan-torner
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: evan-torner
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: evan-torner
 golden-sky-stories:
 - slug: thursday/2pm
   label: Thu 2PM
@@ -1248,6 +1275,10 @@ hillfolk:
 - slug: friday/12pm
   label: Fri 12PM
   facilitator_id: dan-noland
+hirelings:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: jay-treat
 hollow-earth-expedition:
 - slug: thursday/4pm
   label: Thu 4PM
@@ -1305,6 +1336,13 @@ hope-inhumanity:
 - slug: sunday/10am
   label: Sun 10AM
   facilitator_id: patrick-riegert
+how-to-be-human:
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: kat-jones
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: kat-jones
 immortals-ancient-secrets:
 - slug: friday/6pm
   label: Fri 6PM
@@ -1312,6 +1350,10 @@ immortals-ancient-secrets:
 - slug: saturday/6pm
   label: Sat 6PM
   facilitator_id: scott-acker
+improv-for-gamers-level-1:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: karen-twelves
 in-a-wicked-age-in-a-wicked-empire:
 - slug: thursday/4pm
   label: Thu 4PM
@@ -1325,6 +1367,13 @@ in-a-wicked-age-in-a-wicked-empire:
 - slug: sunday/10am
   label: Sun 10AM
   facilitator_id: dave-younce
+inheritance-burning-wheel-larp:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: john-stavropoulos
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: terry-hope-romero
 inspectres:
 - slug: thursday/10am
   label: Thu 10AM
@@ -1350,6 +1399,7 @@ inspectres:
 - slug: sunday/2pm
   label: Sun 2PM
   facilitator_id: tresi
+island: []
 itras-by: []
 jadepunk-the-vigilance-commitee:
 - slug: thursday/2pm
@@ -1361,6 +1411,13 @@ jadepunk-the-vigilance-commitee:
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: ron-frazier
+juggernaut:
+- slug: thursday/6pm
+  label: Thu 6PM
+  facilitator_id: jason-morningstar
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: jason-morningstar
 lady-blackbird:
 - slug: friday/8pm
   label: Fri 8PM
@@ -1454,6 +1511,13 @@ little-wizards:
 - slug: sunday/2pm
   label: Sun 2PM
   facilitator_id: matt-boersma
+m-vs-m:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: john-stavropoulos
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: terry-hope-romero
 magical-kitties:
 - slug: thursday/10am
   label: Thu 10AM
@@ -1501,6 +1565,10 @@ marvel-heroic-rpg:
 - slug: sunday/2pm
   label: Sun 2PM
   facilitator_id: james-mendez-hodes
+metropolis:
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: evan-torner
 microscope:
 - slug: thursday/2pm
   label: Thu 2PM
@@ -1768,6 +1836,13 @@ penny-for-my-thoughts:
 - slug: saturday/8pm
   label: Sat 8PM
   facilitator_id: anne-horowitz
+penny-for-my-thoughts-larp:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: kristin-firth
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: kristin-firth
 powers-for-good:
 - slug: friday/8pm
   label: Fri 8PM
@@ -1778,6 +1853,10 @@ powers-for-good:
 - slug: sunday/12pm
   label: Sun 12PM
   facilitator_id: joanna-piancastelli
+previous-occupants:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: kira-magrann
 princes-kingdom:
 - slug: friday/4pm
   label: Fri 4PM
@@ -1875,6 +1954,13 @@ rat-queens-world-mashup:
 - slug: sunday/10am
   label: Sun 10AM
   facilitator_id: terry-hope-romero
+revived-a-support-group-for-the-partially-deceased:
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: kat-jones
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: kat-jones
 ryuutama:
 - slug: thursday/2pm
   label: Thu 2PM
@@ -2105,6 +2191,10 @@ steal-away-jordan-final-defense-of-the-quilombos:
 - slug: sunday/2pm
   label: Sun 2PM
   facilitator_id: james-mendez-hodes
+summer-lovin:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: kira-magrann
 swords-without-master:
 - slug: thursday/12pm
   label: Thu 12PM
@@ -2372,6 +2462,10 @@ traveller:
   facilitator_id: jesse-butler
 traveller-carcosa: []
 tremulus: []
+tribunal:
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: andrew-medeiros
 urban-shadows:
 - slug: thursday/10am
   label: Thu 10AM
@@ -2406,6 +2500,22 @@ urban-shadows:
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: travis-scott
+uwe-boll-s-x-mas-special:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: evan-torner
+- slug: saturday/8pm
+  label: Sat 8PM
+  facilitator_id: evan-torner
+- slug: saturday/10pm
+  label: Sat 10PM
+  facilitator_id: evan-torner
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: evan-torner
+- slug: sunday/2pm
+  label: Sun 2PM
+  facilitator_id: evan-torner
 vampire-city:
 - slug: friday/12pm
   label: Fri 12PM
@@ -2438,6 +2548,10 @@ variance:
 - slug: saturday/10pm
   label: Sat 10PM
   facilitator_id: rishi-agrawal
+villa-air-bel:
+- slug: friday/4pm
+  label: Fri 4PM
+  facilitator_id: james-stuart
 war-of-ashes:
 - slug: friday/8pm
   label: Fri 8PM
@@ -2486,6 +2600,10 @@ warren:
 - slug: sunday/12pm
   label: Sun 12PM
   facilitator_id: steve-segedy
+werewolf-at-prom:
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: james-gabrielsen
 western-city:
 - slug: friday/12pm
   label: Fri 12PM
