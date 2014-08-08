@@ -285,7 +285,7 @@ namespace :build do
     end
 
     desc 'Responsible for building thetime'
-    task :times do # => ['build:data:games','build:data:volunteers'] do
+    task :times do => ['build:data:games','build:data:volunteers'] do
       require 'psych'
       times = Psych.load_file(File.expand_path('../_data/times.yml', __FILE__))
       facilitators = Psych.load_file(File.expand_path('../_data/facilitator.yml', __FILE__))
@@ -308,7 +308,7 @@ namespace :build do
               if offering
                 offering_duration = offering.fetch('duration').to_i
                 if offering_duration <= facilitator.fetch(:max_duration).to_i
-                  entry = { game_id: game_id, facilitator_id: facilitator.fetch(:name) }
+                  entry = { 'game_id' => game_id, 'facilitator_id' => facilitator.fetch(:name) }
                   case offering_duration
                   when 2 then slot_data['two_hour_games'] << entry
                   when 4 then slot_data['four_hour_games'] << entry

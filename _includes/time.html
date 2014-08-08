@@ -15,6 +15,7 @@
           {% assign offering = game.facilitators[data.facilitator_id] %}
           <li class="time-slot-game-list-item">
             <a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a>
+            <small>[{{ offering.type }}]</small>
           </li>
         {% endfor %}
       </ul>
@@ -26,9 +27,13 @@
     </header>
     <div class="content">
       <ul class="time-slot-game-list">
-        {% for game_id in time.four_hour_games %}
-          {% assign game = site.data.games[game_id] %}
-          <li class="time-slot-game-list-item">{{ game.name }}</li>
+        {% for data in time.four_hour_games %}
+          {% assign game = site.data.games[data.game_id] %}
+          {% assign offering = game.facilitators[data.facilitator_id] %}
+          <li class="time-slot-game-list-item">
+            <a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a>
+            <small>[{{ offering.type }}]</small>
+          </li>
         {% endfor %}
       </ul>
     </div>

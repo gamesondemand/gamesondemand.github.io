@@ -4,126 +4,1316 @@ thursday:
   duration: 10H
   times:
     10am:
-      time: 2014-08-14 10:00:00 -0400
+      time: 2014-08-14 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
-      - game_id: 13th-age-forgotten-realms
-        facilitator_id: dave-younce
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: fiasco
+        facilitator_id: jason-morningstar
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: tokyo-rain
+        facilitator_id: justin-d-jacobson
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
+      - game_id: warren
+        facilitator_id: jason-morningstar
       four_hour_games:
+      - game_id: beasts-of-burden
+        facilitator_id: renee-knipe
+      - game_id: caress-of-steel
+        facilitator_id: giovanni-lanza
+      - game_id: carnival-of-lost-souls
+        facilitator_id: renee-knipe
+      - game_id: dawning-star
+        facilitator_id: justin-d-jacobson
+      - game_id: dog-eat-dog
+        facilitator_id: james-stuart
+      - game_id: dream-askew
+        facilitator_id: james-stuart
+      - game_id: dungeon-world-eberron
+        facilitator_id: giovanni-lanza
+      - game_id: elderhearts
+        facilitator_id: john-stavropoulos
+      - game_id: inheritance
+        facilitator_id: john-stavropoulos
+      - game_id: last-modron-migration
+        facilitator_id: renee-knipe
+      - game_id: long-road-home
+        facilitator_id: james-stuart
+      - game_id: m-vs-m
+        facilitator_id: john-stavropoulos
+      - game_id: modron-memoranda
+        facilitator_id: renee-knipe
+      - game_id: rat-queens
+        facilitator_id: john-stavropoulos
+      - game_id: urban-shadows
+        facilitator_id: andrew-medeiros
+      - game_id: villa-air-bel
+        facilitator_id: james-stuart
     12pm:
-      time: 2014-08-14 12:00:00 -0400
+      time: 2014-08-14 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: tokyo-rain
+        facilitator_id: justin-d-jacobson
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
       four_hour_games:
+      - game_id: on-mighty-thews
+        facilitator_id: dana-fried
+      - game_id: souls-of-steel
+        facilitator_id: dana-fried
     2pm:
-      time: 2014-08-14 14:00:00 -0400
+      time: 2014-08-14 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: fate-accelerated-edition
+        facilitator_id: morgan-ellis
+      - game_id: fiasco
+        facilitator_id: jason-morningstar
+      - game_id: fiasco
+        facilitator_id: morgan-ellis
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: warren
+        facilitator_id: jason-morningstar
       four_hour_games:
+      - game_id: action-cards
+        facilitator_id: lowell-francis
+      - game_id: dragonknights
+        facilitator_id: travis-scott
+      - game_id: dungeon-world-doom-of-fenrax
+        facilitator_id: russ-brown
+      - game_id: fate-core-tentacles-and-brass
+        facilitator_id: russ-brown
+      - game_id: headspace
+        facilitator_id: mark-richardson
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: travis-scott
+      - game_id: orcs-in-the-dragon-s-den
+        facilitator_id: ron-frazier
+      - game_id: spark
+        facilitator_id: mark-richardson
+      - game_id: torchbearer
+        facilitator_id: patrick-riegert
+      - game_id: urban-shadows
+        facilitator_id: travis-scott
+      - game_id: vigilance-committee
+        facilitator_id: ron-frazier
     4pm:
-      time: 2014-08-14 16:00:00 -0400
+      time: 2014-08-14 16:00:00.000000000 -04:00
       abbreviation: 4pm
       two_hour_games:
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: golden-sky-stories
+        facilitator_id: chris-czerniak
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: ocean
+        facilitator_id: chris-czerniak
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: tokyo-brain-pop
+        facilitator_id: chris-czerniak
+      - game_id: tokyo-rain
+        facilitator_id: justin-d-jacobson
       four_hour_games:
+      - game_id: 13th-age-forgotten-realms
+        facilitator_id: dave-younce
+      - game_id: andromeda
+        facilitator_id: bill-white
+      - game_id: dungeon-world
+        facilitator_id: bill-white
+      - game_id: dungeon-world
+        facilitator_id: steve-wallace
+      - game_id: feng-shui-2
+        facilitator_id: steven-hammond
+      - game_id: hollow-earth-expedition
+        facilitator_id: steven-hammond
+      - game_id: in-a-wicked-empire
+        facilitator_id: dave-younce
+      - game_id: leverage
+        facilitator_id: alan-de-smet
+      - game_id: mythender
+        facilitator_id: alan-de-smet
+      - game_id: night-s-black-agents
+        facilitator_id: bill-white
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: steve-wallace
+      - game_id: romance-in-the-air
+        facilitator_id: bill-white
+      - game_id: tenra-bansho-zero
+        facilitator_id: chris-czerniak
     6pm:
-      time: 2014-08-14 18:00:00 -0400
+      time: 2014-08-14 18:00:00.000000000 -04:00
       abbreviation: 6pm
       two_hour_games:
-      four_hour_games:
+      - game_id: afrofuture
+        facilitator_id: james-mendez-hodes
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: do-pilgrims-of-the-flying-temple
+        facilitator_id: kristin-firth
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: dungeon-world-the-planarch-codex
+        facilitator_id: james-mendez-hodes
+      - game_id: golden-sky-stories
+        facilitator_id: chris-czerniak
+      - game_id: marvel-heroic-roleplaying
+        facilitator_id: james-mendez-hodes
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: ocean
+        facilitator_id: chris-czerniak
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: steal-away-jordan-final-defense-of-the-quilombos
+        facilitator_id: james-mendez-hodes
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: tokyo-brain-pop
+        facilitator_id: chris-czerniak
+      - game_id: variance
+        facilitator_id: rishi-agrawal
+      - game_id: zombie-cinema
+        facilitator_id: kristin-firth
+      four_hour_games: []
 friday:
   day: 2014-08-15
   duration: 14H
   times:
     10am:
-      time: 2014-08-15 10:00:00 -0400
+      time: 2014-08-15 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: lasers-and-feelings
+        facilitator_id: jeromy-hastings
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: sparks-nevada-thrilling-adventure-game
+        facilitator_id: mike-olson
+      - game_id: tokyo-rain
+        facilitator_id: justin-d-jacobson
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
+      - game_id: variance
+        facilitator_id: rishi-agrawal
       four_hour_games:
+      - game_id: 13th-age-forgotten-realms
+        facilitator_id: dave-younce
+      - game_id: action-cards
+        facilitator_id: lowell-francis
+      - game_id: apocalypse-world
+        facilitator_id: jeromy-hastings
+      - game_id: beasts-of-burden
+        facilitator_id: renee-knipe
+      - game_id: caress-of-steel
+        facilitator_id: giovanni-lanza
+      - game_id: carnival-of-lost-souls
+        facilitator_id: renee-knipe
+      - game_id: dawning-star
+        facilitator_id: justin-d-jacobson
+      - game_id: dog-eat-dog
+        facilitator_id: james-stuart
+      - game_id: dread
+        facilitator_id: rishi-agrawal
+      - game_id: dread-cold-war
+        facilitator_id: stentor-danielson
+      - game_id: dream-askew
+        facilitator_id: james-stuart
+      - game_id: dungeon-world-eberron
+        facilitator_id: giovanni-lanza
+      - game_id: fiasco
+        facilitator_id: stentor-danielson
+      - game_id: headspace
+        facilitator_id: mark-richardson
+      - game_id: in-a-wicked-empire
+        facilitator_id: dave-younce
+      - game_id: last-modron-migration
+        facilitator_id: renee-knipe
+      - game_id: long-road-home
+        facilitator_id: james-stuart
+      - game_id: modron-memoranda
+        facilitator_id: renee-knipe
+      - game_id: monsterhearts
+        facilitator_id: jeromy-hastings
+      - game_id: on-mighty-thews
+        facilitator_id: dana-fried
+      - game_id: psi-run
+        facilitator_id: jeromy-hastings
+      - game_id: souls-of-steel
+        facilitator_id: dana-fried
+      - game_id: spark
+        facilitator_id: mark-richardson
+      - game_id: tragedy-in-five-acts
+        facilitator_id: stentor-danielson
+      - game_id: urban-shadows
+        facilitator_id: andrew-medeiros
+      - game_id: venture-city-stories
+        facilitator_id: rishi-agrawal
+      - game_id: villa-air-bel
+        facilitator_id: james-stuart
     12pm:
-      time: 2014-08-15 12:00:00 -0400
+      time: 2014-08-15 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: lasers-and-feelings
+        facilitator_id: jeromy-hastings
+      - game_id: legacy-of-the-slayer
+        facilitator_id: jay-treat
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: tokyo-rain
+        facilitator_id: justin-d-jacobson
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
+      - game_id: variance
+        facilitator_id: rishi-agrawal
+      - game_id: western-city
+        facilitator_id: jason-wallace
       four_hour_games:
+      - game_id: dawning-star
+        facilitator_id: justin-d-jacobson
+      - game_id: earthdawn
+        facilitator_id: jesse-butler
+      - game_id: equinox-run-with-fae
+        facilitator_id: jason-wallace
+      - game_id: fiasco
+        facilitator_id: jay-treat
+      - game_id: hana-academy
+        facilitator_id: jesse-butler
+      - game_id: hirelings
+        facilitator_id: jay-treat
+      - game_id: traveller
+        facilitator_id: jesse-butler
+      - game_id: urban-shadows
+        facilitator_id: andrew-medeiros
+      - game_id: vampire-city
+        facilitator_id: jason-wallace
     2pm:
-      time: 2014-08-15 14:00:00 -0400
+      time: 2014-08-15 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: afrofuture
+        facilitator_id: james-mendez-hodes
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: dungeon-world-the-planarch-codex
+        facilitator_id: james-mendez-hodes
+      - game_id: fate-accelerated-edition
+        facilitator_id: morgan-ellis
+      - game_id: fiasco
+        facilitator_id: morgan-ellis
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: legacy-of-the-slayer
+        facilitator_id: jay-treat
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: marvel-heroic-roleplaying
+        facilitator_id: james-mendez-hodes
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: steal-away-jordan-final-defense-of-the-quilombos
+        facilitator_id: james-mendez-hodes
+      - game_id: tokyo-rain
+        facilitator_id: justin-d-jacobson
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
+      - game_id: western-city
+        facilitator_id: jason-wallace
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
       four_hour_games:
+      - game_id: andromeda
+        facilitator_id: bill-white
+      - game_id: atomic-robo-the-roleplaying-game
+        facilitator_id: morgan-ellis
+      - game_id: dragonknights
+        facilitator_id: travis-scott
+      - game_id: dungeon-world
+        facilitator_id: bill-white
+      - game_id: earthdawn
+        facilitator_id: jesse-butler
+      - game_id: fate-core
+        facilitator_id: morgan-ellis
+      - game_id: fiasco
+        facilitator_id: anna-kreider
+      - game_id: hana-academy
+        facilitator_id: jesse-butler
+      - game_id: leverage
+        facilitator_id: alan-de-smet
+      - game_id: mythender
+        facilitator_id: alan-de-smet
+      - game_id: night-s-black-agents
+        facilitator_id: bill-white
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: travis-scott
+      - game_id: orcs-in-the-dragon-s-den
+        facilitator_id: ron-frazier
+      - game_id: romance-in-the-air
+        facilitator_id: bill-white
+      - game_id: samurai-in-the-wasteland
+        facilitator_id: anna-kreider
+      - game_id: shab-al-hiri-roach-hogwarts-edition
+        facilitator_id: anna-kreider
+      - game_id: shinobigami
+        facilitator_id: matt-sanchez
+      - game_id: torchbearer
+        facilitator_id: patrick-riegert
+      - game_id: trail-of-cthulhu
+        facilitator_id: matt-sanchez
+      - game_id: traveller
+        facilitator_id: jesse-butler
+      - game_id: urban-shadows
+        facilitator_id: andrew-medeiros
+      - game_id: urban-shadows
+        facilitator_id: travis-scott
+      - game_id: vigilance-committee
+        facilitator_id: ron-frazier
     4pm:
-      time: 2014-08-15 16:00:00 -0400
+      time: 2014-08-15 16:00:00.000000000 -04:00
       abbreviation: 4pm
       two_hour_games:
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: cat
+        facilitator_id: ray-otus
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: fate-accelerated-edition
+        facilitator_id: morgan-ellis
+      - game_id: fiasco
+        facilitator_id: jason-morningstar
+      - game_id: fiasco
+        facilitator_id: morgan-ellis
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: lasers-and-feelings
+        facilitator_id: jeromy-hastings
+      - game_id: nanoworld
+        facilitator_id: ray-otus
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
+      - game_id: warren
+        facilitator_id: jason-morningstar
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
       four_hour_games:
+      - game_id: 3-16
+        facilitator_id: gregor-hutton
+      - game_id: apocalypse-world
+        facilitator_id: jeromy-hastings
+      - game_id: elderhearts
+        facilitator_id: john-stavropoulos
+      - game_id: inheritance
+        facilitator_id: john-stavropoulos
+      - game_id: live-action-sampler
+        facilitator_id: jason-morningstar
+      - game_id: m-vs-m
+        facilitator_id: john-stavropoulos
+      - game_id: monsterhearts
+        facilitator_id: jeromy-hastings
+      - game_id: night-witches
+        facilitator_id: jason-morningstar
+      - game_id: princes-kingdom
+        facilitator_id: gregor-hutton
+      - game_id: psi-run
+        facilitator_id: jeromy-hastings
+      - game_id: rat-queens
+        facilitator_id: john-stavropoulos
+      - game_id: shinobigami
+        facilitator_id: matt-sanchez
+      - game_id: trail-of-cthulhu
+        facilitator_id: matt-sanchez
     6pm:
-      time: 2014-08-15 18:00:00 -0400
+      time: 2014-08-15 18:00:00.000000000 -04:00
       abbreviation: 6pm
       two_hour_games:
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: fiasco
+        facilitator_id: jason-morningstar
+      - game_id: lasers-and-feelings
+        facilitator_id: jeromy-hastings
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: warren
+        facilitator_id: jason-morningstar
       four_hour_games:
+      - game_id: ancient-secrets
+        facilitator_id: scott-acker
+      - game_id: archipelago
+        facilitator_id: steve-segedy
+      - game_id: dogs-in-the-vineyard
+        facilitator_id: trevis-martin
+      - game_id: fiasco
+        facilitator_id: steve-segedy
+      - game_id: monsterhearts
+        facilitator_id: trevis-martin
+      - game_id: night-witches
+        facilitator_id: steve-segedy
+      - game_id: strike-force-dagon
+        facilitator_id: scott-acker
+      - game_id: tenra-bansho-zero
+        facilitator_id: mark-causey
+      - game_id: warren
+        facilitator_id: steve-segedy
     8pm:
-      time: 2014-08-15 20:00:00 -0400
+      time: 2014-08-15 20:00:00.000000000 -04:00
       abbreviation: 8pm
       two_hour_games:
+      - game_id: afrofuture
+        facilitator_id: james-mendez-hodes
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: dungeon-world-the-planarch-codex
+        facilitator_id: james-mendez-hodes
+      - game_id: first-impressions
+        facilitator_id: evan-torner
+      - game_id: marvel-heroic-roleplaying
+        facilitator_id: james-mendez-hodes
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: steal-away-jordan-final-defense-of-the-quilombos
+        facilitator_id: james-mendez-hodes
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: uwe-boll-s-christmas-special
+        facilitator_id: evan-torner
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
       four_hour_games:
+      - game_id: action-cards
+        facilitator_id: lowell-francis
+      - game_id: always-never-now
+        facilitator_id: joanna-piancastelli
+      - game_id: andromeda
+        facilitator_id: bill-white
+      - game_id: bloodnet
+        facilitator_id: evan-torner
+      - game_id: burning-wheel
+        facilitator_id: mad-jay
+      - game_id: carolina-death-crawl
+        facilitator_id: justin-hamilton
+      - game_id: companions
+        facilitator_id: jeremy-tidwell
+      - game_id: cortex
+        facilitator_id: mad-jay
+      - game_id: dogs-in-the-vineyard
+        facilitator_id: trevis-martin
+      - game_id: dresden-files
+        facilitator_id: jeffrey-fuller
+      - game_id: dresden-files-refuge
+        facilitator_id: rick-neal
+      - game_id: dungeon-world
+        facilitator_id: andy-tatton
+      - game_id: dungeon-world
+        facilitator_id: bill-white
+      - game_id: dungeon-world
+        facilitator_id: steve-wallace
+      - game_id: earthdawn
+        facilitator_id: jesse-butler
+      - game_id: feng-shui-ii
+        facilitator_id: rick-neal
+      - game_id: fiasco
+        facilitator_id: anna-kreider
+      - game_id: fiasco
+        facilitator_id: jeremy-tidwell
+      - game_id: fiasco
+        facilitator_id: justin-hamilton
+      - game_id: firefly-followin-yonder-star
+        facilitator_id: rick-neal
+      - game_id: hana-academy
+        facilitator_id: jesse-butler
+      - game_id: lady-blackbird
+        facilitator_id: andy-tatton
+      - game_id: leverage
+        facilitator_id: alan-de-smet
+      - game_id: metropolis
+        facilitator_id: evan-torner
+      - game_id: monster-of-the-week
+        facilitator_id: rick-neal
+      - game_id: monsterhearts
+        facilitator_id: trevis-martin
+      - game_id: mythender
+        facilitator_id: alan-de-smet
+      - game_id: night-s-black-agents
+        facilitator_id: bill-white
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: steve-wallace
+      - game_id: powers-for-good
+        facilitator_id: joanna-piancastelli
+      - game_id: romance-in-the-air
+        facilitator_id: bill-white
+      - game_id: samurai-in-the-wasteland
+        facilitator_id: anna-kreider
+      - game_id: shab-al-hiri-roach-hogwarts-edition
+        facilitator_id: anna-kreider
+      - game_id: swords-wizardry
+        facilitator_id: justin-hamilton
+      - game_id: torchbearer
+        facilitator_id: justin-hamilton
+      - game_id: traveller
+        facilitator_id: jesse-butler
+      - game_id: war-of-ashes
+        facilitator_id: jeffrey-fuller
     10pm:
-      time: 2014-08-15 22:00:00 -0400
+      time: 2014-08-15 22:00:00.000000000 -04:00
       abbreviation: 10pm
       two_hour_games:
-      four_hour_games:
+      - game_id: afrofuture
+        facilitator_id: james-mendez-hodes
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: dungeon-world-the-planarch-codex
+        facilitator_id: james-mendez-hodes
+      - game_id: first-impressions
+        facilitator_id: evan-torner
+      - game_id: marvel-heroic-roleplaying
+        facilitator_id: james-mendez-hodes
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: steal-away-jordan-final-defense-of-the-quilombos
+        facilitator_id: james-mendez-hodes
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: uwe-boll-s-christmas-special
+        facilitator_id: evan-torner
+      - game_id: variance
+        facilitator_id: rishi-agrawal
+      - game_id: western-city
+        facilitator_id: jason-wallace
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
+      four_hour_games: []
 saturday:
   day: 2014-08-16
   duration: 14H
   times:
     10am:
-      time: 2014-08-16 10:00:00 -0400
+      time: 2014-08-16 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: cat
+        facilitator_id: ray-otus
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: fate-accelerated-edition
+        facilitator_id: morgan-ellis
+      - game_id: fiasco
+        facilitator_id: morgan-ellis
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: heroine
+        facilitator_id: jenn-martin
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: inspectres
+        facilitator_id: jenn-martin
+      - game_id: nanoworld
+        facilitator_id: ray-otus
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: tokyo-rain
+        facilitator_id: justin-d-jacobson
+      - game_id: variance
+        facilitator_id: rishi-agrawal
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
       four_hour_games:
+      - game_id: burning-wheel
+        facilitator_id: mad-jay
+      - game_id: caress-of-steel
+        facilitator_id: giovanni-lanza
+      - game_id: companions
+        facilitator_id: jeremy-tidwell
+      - game_id: cortex
+        facilitator_id: mad-jay
+      - game_id: dog-eat-dog
+        facilitator_id: james-stuart
+      - game_id: don-t-rest-your-head
+        facilitator_id: ray-otus
+      - game_id: dragonknights
+        facilitator_id: travis-scott
+      - game_id: dream-askew
+        facilitator_id: james-stuart
+      - game_id: dungeon-world-eberron
+        facilitator_id: giovanni-lanza
+      - game_id: elderhearts
+        facilitator_id: john-stavropoulos
+      - game_id: fiasco
+        facilitator_id: jeremy-tidwell
+      - game_id: headspace
+        facilitator_id: mark-richardson
+      - game_id: inheritance
+        facilitator_id: john-stavropoulos
+      - game_id: lady-blackbird
+        facilitator_id: ray-otus
+      - game_id: long-road-home
+        facilitator_id: james-stuart
+      - game_id: m-vs-m
+        facilitator_id: john-stavropoulos
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: travis-scott
+      - game_id: rat-queens
+        facilitator_id: john-stavropoulos
+      - game_id: spark
+        facilitator_id: mark-richardson
+      - game_id: torchbearer
+        facilitator_id: patrick-riegert
+      - game_id: torchbearer
+        facilitator_id: sean-nittner
+      - game_id: urban-shadows
+        facilitator_id: travis-scott
+      - game_id: villa-air-bel
+        facilitator_id: james-stuart
+      - game_id: war-of-ashes
+        facilitator_id: sean-nittner
     12pm:
-      time: 2014-08-16 12:00:00 -0400
+      time: 2014-08-16 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: cat
+        facilitator_id: ray-otus
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: fiasco
+        facilitator_id: jason-morningstar
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: nanoworld
+        facilitator_id: ray-otus
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: warren
+        facilitator_id: jason-morningstar
       four_hour_games:
+      - game_id: always-never-now
+        facilitator_id: joanna-piancastelli
+      - game_id: beasts-of-burden
+        facilitator_id: renee-knipe
+      - game_id: carnival-of-lost-souls
+        facilitator_id: renee-knipe
+      - game_id: don-t-rest-your-head
+        facilitator_id: ray-otus
+      - game_id: dragonknights
+        facilitator_id: travis-scott
+      - game_id: dungeon-world
+        facilitator_id: andy-tatton
+      - game_id: lady-blackbird
+        facilitator_id: andy-tatton
+      - game_id: lady-blackbird
+        facilitator_id: ray-otus
+      - game_id: last-modron-migration
+        facilitator_id: renee-knipe
+      - game_id: live-action-sampler
+        facilitator_id: jason-morningstar
+      - game_id: modron-memoranda
+        facilitator_id: renee-knipe
+      - game_id: night-witches
+        facilitator_id: jason-morningstar
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: travis-scott
+      - game_id: powers-for-good
+        facilitator_id: joanna-piancastelli
+      - game_id: urban-shadows
+        facilitator_id: travis-scott
     2pm:
-      time: 2014-08-16 14:00:00 -0400
+      time: 2014-08-16 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: cat
+        facilitator_id: ray-otus
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: fiasco
+        facilitator_id: jason-morningstar
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: legacy-of-the-slayer
+        facilitator_id: jay-treat
+      - game_id: nanoworld
+        facilitator_id: ray-otus
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: sparks-nevada-thrilling-adventure-game
+        facilitator_id: mike-olson
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
+      - game_id: variance
+        facilitator_id: rishi-agrawal
+      - game_id: warren
+        facilitator_id: jason-morningstar
       four_hour_games:
+      - game_id: andromeda
+        facilitator_id: bill-white
+      - game_id: atomic-robo-the-roleplaying-game
+        facilitator_id: mike-olson
+      - game_id: dragonknights
+        facilitator_id: travis-scott
+      - game_id: dread
+        facilitator_id: rishi-agrawal
+      - game_id: dungeon-world
+        facilitator_id: bill-white
+      - game_id: dungeon-world
+        facilitator_id: steve-wallace
+      - game_id: dungeon-world-doom-of-fenrax
+        facilitator_id: russ-brown
+      - game_id: fate-core-tentacles-and-brass
+        facilitator_id: russ-brown
+      - game_id: fiasco
+        facilitator_id: jay-treat
+      - game_id: hirelings
+        facilitator_id: jay-treat
+      - game_id: night-s-black-agents
+        facilitator_id: bill-white
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: steve-wallace
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: travis-scott
+      - game_id: on-mighty-thews
+        facilitator_id: dana-fried
+      - game_id: orcs-in-the-dragon-s-den
+        facilitator_id: ron-frazier
+      - game_id: romance-in-the-air
+        facilitator_id: bill-white
+      - game_id: shinobigami
+        facilitator_id: matt-sanchez
+      - game_id: souls-of-steel
+        facilitator_id: dana-fried
+      - game_id: trail-of-cthulhu
+        facilitator_id: matt-sanchez
+      - game_id: urban-shadows
+        facilitator_id: andrew-medeiros
+      - game_id: urban-shadows
+        facilitator_id: travis-scott
+      - game_id: venture-city-stories
+        facilitator_id: rishi-agrawal
+      - game_id: vigilance-committee
+        facilitator_id: ron-frazier
     4pm:
-      time: 2014-08-16 16:00:00 -0400
+      time: 2014-08-16 16:00:00.000000000 -04:00
       abbreviation: 4pm
       two_hour_games:
+      - game_id: afrofuture
+        facilitator_id: james-mendez-hodes
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: do-pilgrims-of-the-flying-temple
+        facilitator_id: kristin-firth
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: dungeon-world-the-planarch-codex
+        facilitator_id: james-mendez-hodes
+      - game_id: golden-sky-stories
+        facilitator_id: chris-czerniak
+      - game_id: golden-sky-stories
+        facilitator_id: travis-scott
+      - game_id: lasers-and-feelings
+        facilitator_id: jeromy-hastings
+      - game_id: legacy-of-the-slayer
+        facilitator_id: jay-treat
+      - game_id: marvel-heroic-roleplaying
+        facilitator_id: james-mendez-hodes
+      - game_id: ocean
+        facilitator_id: chris-czerniak
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: sparks-nevada-thrilling-adventure-game
+        facilitator_id: mike-olson
+      - game_id: steal-away-jordan-final-defense-of-the-quilombos
+        facilitator_id: james-mendez-hodes
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: tokyo-brain-pop
+        facilitator_id: chris-czerniak
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
+      - game_id: variance
+        facilitator_id: rishi-agrawal
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
+      - game_id: zombie-cinema
+        facilitator_id: kristin-firth
       four_hour_games:
+      - game_id: 13th-age-forgotten-realms
+        facilitator_id: dave-younce
+      - game_id: 3-16
+        facilitator_id: gregor-hutton
+      - game_id: apocalypse-world
+        facilitator_id: jeromy-hastings
+      - game_id: dogs-in-the-vineyard
+        facilitator_id: trevis-martin
+      - game_id: dread-cold-war
+        facilitator_id: stentor-danielson
+      - game_id: earthdawn
+        facilitator_id: jesse-butler
+      - game_id: fiasco
+        facilitator_id: stentor-danielson
+      - game_id: hana-academy
+        facilitator_id: jesse-butler
+      - game_id: in-a-wicked-empire
+        facilitator_id: dave-younce
+      - game_id: monsterhearts
+        facilitator_id: jeromy-hastings
+      - game_id: monsterhearts
+        facilitator_id: trevis-martin
+      - game_id: princes-kingdom
+        facilitator_id: gregor-hutton
+      - game_id: psi-run
+        facilitator_id: jeromy-hastings
+      - game_id: shinobigami
+        facilitator_id: matt-sanchez
+      - game_id: tenra-bansho-zero
+        facilitator_id: chris-czerniak
+      - game_id: tragedy-in-five-acts
+        facilitator_id: stentor-danielson
+      - game_id: trail-of-cthulhu
+        facilitator_id: matt-sanchez
+      - game_id: traveller
+        facilitator_id: jesse-butler
     6pm:
-      time: 2014-08-16 18:00:00 -0400
+      time: 2014-08-16 18:00:00.000000000 -04:00
       abbreviation: 4pm
       two_hour_games:
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: afrofuture
+        facilitator_id: james-mendez-hodes
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: apocalypse-world
+        facilitator_id: trevis-martin
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: dungeon-world-the-planarch-codex
+        facilitator_id: james-mendez-hodes
+      - game_id: golden-sky-stories
+        facilitator_id: chris-czerniak
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: lasers-and-feelings
+        facilitator_id: jeromy-hastings
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: marvel-heroic-roleplaying
+        facilitator_id: james-mendez-hodes
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: ocean
+        facilitator_id: chris-czerniak
+      - game_id: ryuutama
+        facilitator_id: matt-sanchez
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: short-order-heroes
+        facilitator_id: jesse-butler
+      - game_id: steal-away-jordan-final-defense-of-the-quilombos
+        facilitator_id: james-mendez-hodes
+      - game_id: technoir
+        facilitator_id: trevis-martin
+      - game_id: tokyo-brain-pop
+        facilitator_id: chris-czerniak
       four_hour_games:
+      - game_id: ancient-secrets
+        facilitator_id: scott-acker
+      - game_id: strike-force-dagon
+        facilitator_id: scott-acker
+      - game_id: tenra-bansho-zero
+        facilitator_id: mark-causey
+      - game_id: torchbearer
+        facilitator_id: sean-nittner
+      - game_id: war-of-ashes
+        facilitator_id: sean-nittner
     8pm:
-      time: 2014-08-16 20:00:00 -0400
+      time: 2014-08-16 20:00:00.000000000 -04:00
       abbreviation: 8pm
       two_hour_games:
+      - game_id: abstract-dungeon
+        facilitator_id: matthew-j-hanson
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: magical-kitties
+        facilitator_id: matthew-j-hanson
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: western-city
+        facilitator_id: jason-wallace
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
       four_hour_games:
+      - game_id: action-cards
+        facilitator_id: lowell-francis
+      - game_id: andromeda
+        facilitator_id: bill-white
+      - game_id: archipelago
+        facilitator_id: steve-segedy
+      - game_id: carolina-death-crawl
+        facilitator_id: bryan-rennekamp
+      - game_id: carolina-death-crawl
+        facilitator_id: justin-hamilton
+      - game_id: dresden-files
+        facilitator_id: jeffrey-fuller
+      - game_id: dresden-files-refuge
+        facilitator_id: rick-neal
+      - game_id: dungeon-world
+        facilitator_id: bill-white
+      - game_id: dungeon-world
+        facilitator_id: steve-wallace
+      - game_id: equinox-run-with-fae
+        facilitator_id: jason-wallace
+      - game_id: feng-shui-2
+        facilitator_id: steven-hammond
+      - game_id: feng-shui-ii
+        facilitator_id: rick-neal
+      - game_id: fiasco
+        facilitator_id: anna-kreider
+      - game_id: fiasco
+        facilitator_id: justin-hamilton
+      - game_id: fiasco
+        facilitator_id: steve-segedy
+      - game_id: firefly-followin-yonder-star
+        facilitator_id: rick-neal
+      - game_id: hollow-earth-expedition
+        facilitator_id: steven-hammond
+      - game_id: leverage
+        facilitator_id: alan-de-smet
+      - game_id: monster-of-the-week
+        facilitator_id: rick-neal
+      - game_id: mythender
+        facilitator_id: alan-de-smet
+      - game_id: night-s-black-agents
+        facilitator_id: bill-white
+      - game_id: night-witches
+        facilitator_id: steve-segedy
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: steve-wallace
+      - game_id: quiet-year
+        facilitator_id: bryan-rennekamp
+      - game_id: romance-in-the-air
+        facilitator_id: bill-white
+      - game_id: samurai-in-the-wasteland
+        facilitator_id: anna-kreider
+      - game_id: shab-al-hiri-roach-hogwarts-edition
+        facilitator_id: anna-kreider
+      - game_id: swords-wizardry
+        facilitator_id: justin-hamilton
+      - game_id: tenra-bansho-zero
+        facilitator_id: mark-causey
+      - game_id: torchbearer
+        facilitator_id: justin-hamilton
+      - game_id: vampire-city
+        facilitator_id: jason-wallace
+      - game_id: war-of-ashes
+        facilitator_id: jeffrey-fuller
+      - game_id: warren
+        facilitator_id: steve-segedy
     10pm:
-      time: 2014-08-16 22:00:00 -0400
+      time: 2014-08-16 22:00:00.000000000 -04:00
       abbreviation: 10pm
       two_hour_games:
-      four_hour_games:
+      - game_id: archipelago-last-of-us
+        facilitator_id: mark-causey
+      - game_id: cat
+        facilitator_id: ray-otus
+      - game_id: dog-eat-dog
+        facilitator_id: rishi-agrawal
+      - game_id: monsterhearts
+        facilitator_id: mark-causey
+      - game_id: nanoworld
+        facilitator_id: ray-otus
+      - game_id: ryuutama-natural-fantasy
+        facilitator_id: mark-causey
+      - game_id: variance
+        facilitator_id: rishi-agrawal
+      - game_id: western-city
+        facilitator_id: jason-wallace
+      - game_id: zombie-cinema
+        facilitator_id: anna-kreider
+      four_hour_games: []
 sunday:
   day: 2014-08-17
   duration: 6H
   times:
     10am:
-      time: 2014-08-17 10:00:00 -0400
+      time: 2014-08-17 10:00:00.000000000 -04:00
       abbreviation: 10am
       two_hour_games:
+      - game_id: aerie-of-the-aboleth
+        facilitator_id: renee-knipe
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: doll-with-the-bloodstained-lips
+        facilitator_id: renee-knipe
+      - game_id: fiasco
+        facilitator_id: jason-morningstar
+      - game_id: heroine
+        facilitator_id: jenn-martin
+      - game_id: hope-inhumanity
+        facilitator_id: patrick-riegert
+      - game_id: inspectres
+        facilitator_id: jenn-martin
+      - game_id: sparks-nevada-thrilling-adventure-game
+        facilitator_id: mike-olson
+      - game_id: warren
+        facilitator_id: jason-morningstar
       four_hour_games:
+      - game_id: 13th-age-forgotten-realms
+        facilitator_id: dave-younce
+      - game_id: caress-of-steel
+        facilitator_id: giovanni-lanza
+      - game_id: dungeon-world-eberron
+        facilitator_id: giovanni-lanza
+      - game_id: in-a-wicked-empire
+        facilitator_id: dave-younce
+      - game_id: on-mighty-thews
+        facilitator_id: dana-fried
+      - game_id: souls-of-steel
+        facilitator_id: dana-fried
     12pm:
-      time: 2014-08-17 12:00:00 -0400
+      time: 2014-08-17 12:00:00.000000000 -04:00
       abbreviation: 12pm
       two_hour_games:
+      - game_id: archipelago
+        facilitator_id: karen-twelves
+      - game_id: dudebros-douchebags
+        facilitator_id: mikael-andersson
+      - game_id: golden-sky-stories
+        facilitator_id: chris-czerniak
+      - game_id: ocean
+        facilitator_id: chris-czerniak
+      - game_id: sagas-of-the-icelanders
+        facilitator_id: mikael-andersson
+      - game_id: tokyo-brain-pop
+        facilitator_id: chris-czerniak
       four_hour_games:
+      - game_id: always-never-now
+        facilitator_id: joanna-piancastelli
+      - game_id: apocalypse-world-olive-garden
+        facilitator_id: karen-twelves
+      - game_id: archipelago
+        facilitator_id: steve-segedy
+      - game_id: burning-wheel
+        facilitator_id: mad-jay
+      - game_id: carolina-death-crawl
+        facilitator_id: justin-hamilton
+      - game_id: cortex
+        facilitator_id: mad-jay
+      - game_id: dread-cold-war
+        facilitator_id: stentor-danielson
+      - game_id: dungeon-world
+        facilitator_id: andy-tatton
+      - game_id: dungeon-world
+        facilitator_id: steve-wallace
+      - game_id: fiasco
+        facilitator_id: justin-hamilton
+      - game_id: fiasco
+        facilitator_id: stentor-danielson
+      - game_id: fiasco
+        facilitator_id: steve-segedy
+      - game_id: headspace
+        facilitator_id: mark-richardson
+      - game_id: improv-for-gamers-level-1
+        facilitator_id: karen-twelves
+      - game_id: lady-blackbird
+        facilitator_id: andy-tatton
+      - game_id: monsterhearts
+        facilitator_id: karen-twelves
+      - game_id: night-witches
+        facilitator_id: steve-segedy
+      - game_id: no-country-for-old-kobolds
+        facilitator_id: steve-wallace
+      - game_id: powers-for-good
+        facilitator_id: joanna-piancastelli
+      - game_id: spark
+        facilitator_id: mark-richardson
+      - game_id: swords-wizardry
+        facilitator_id: justin-hamilton
+      - game_id: torchbearer
+        facilitator_id: justin-hamilton
+      - game_id: torchbearer
+        facilitator_id: sean-nittner
+      - game_id: tragedy-in-five-acts
+        facilitator_id: stentor-danielson
+      - game_id: war-of-ashes
+        facilitator_id: sean-nittner
+      - game_id: warren
+        facilitator_id: steve-segedy
     2pm:
-      time: 2014-08-17 14:00:00 -0400
+      time: 2014-08-17 14:00:00.000000000 -04:00
       abbreviation: 2pm
       two_hour_games:
-      four_hour_games:
+      - game_id: afrofuture
+        facilitator_id: james-mendez-hodes
+      - game_id: amidst-endless-quiet
+        facilitator_id: gregor-hutton
+      - game_id: archipelago
+        facilitator_id: karen-twelves
+      - game_id: deeds-doers
+        facilitator_id: gregor-hutton
+      - game_id: dungeon-world-the-planarch-codex
+        facilitator_id: james-mendez-hodes
+      - game_id: marvel-heroic-roleplaying
+        facilitator_id: james-mendez-hodes
+      - game_id: steal-away-jordan-final-defense-of-the-quilombos
+        facilitator_id: james-mendez-hodes
+      four_hour_games: []
