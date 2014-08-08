@@ -1,41 +1,52 @@
 <div id="{{ time.time | date: '%A-%H' | downcase }}" class="time-slot">
-  <header>
+    <header>
     <h3 class="header">
       <time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.time | date: '%A'}} {{ time.abbreviation }}</time>
     </h3>
   </header>
-  <div class="time-slot-duration two-hour">
-    <header>
-      <h4 class="header">Two (2) Hour Games</h4>
-    </header>
-    <div class="content">
-      <ul class="time-slot-game-list">
-        {% for data in time.two_hour_games %}
-          {% assign game = site.data.games[data.game_id] %}
-          {% assign offering = game.facilitators[data.facilitator_id] %}
-          <li class="time-slot-game-list-item">
-            <a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a>
-            <small>[{{ offering.type }}]</small>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  <div class="time-slot-duration four-hour">
-    <header>
-      <h4 class="header">Four (4) Hour Games</h4>
-    </header>
-    <div class="content">
-      <ul class="time-slot-game-list">
-        {% for data in time.four_hour_games %}
-          {% assign game = site.data.games[data.game_id] %}
-          {% assign offering = game.facilitators[data.facilitator_id] %}
-          <li class="time-slot-game-list-item">
-            <a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a>
-            <small>[{{ offering.type }}]</small>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+
+  <table>
+    <caption>Two (2) Hour Games {{ time.time | date: '%A'}} {{ time.abbreviation }}</caption>
+    <thead>
+      <tr>
+        <th width="80%">Game</th>
+        <th width="10%">Type</th>
+        <th width="10%">Players</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for data in time.two_hour_games %}
+        {% assign game = site.data.games[data.game_id] %}
+        {% assign offering = game.facilitators[data.facilitator_id] %}
+      <tr>
+        <td><a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a></td>
+        <td>{{ offering.type }}</td>
+        <td>{{ offering.minimum_players }} to {{ offering.maximum_players }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
+  <table>
+    <caption>Four (4) Hour Games {{ time.time | date: '%A'}} {{ time.abbreviation }}</caption>
+    <thead>
+      <tr>
+        <th width="80%">Game</th>
+        <th width="10%">Type</th>
+        <th width="10%">Players</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for data in time.four_hour_games %}
+        {% assign game = site.data.games[data.game_id] %}
+        {% assign offering = game.facilitators[data.facilitator_id] %}
+      <tr>
+        <td><a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a></td>
+        <td>{{ offering.type }}</td>
+        <td>{{ offering.minimum_players }} to {{ offering.maximum_players }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+
 </div>
