@@ -17,14 +17,25 @@ description: Available Games for Games on Demand at GenCon
     </ul>
   </nav>
 
-  <ul>
+  <table>
+    <caption>{{ page.title }}</caption>
+    <thead>
+      <tr>
+        <th width="80%">Game</th>
+        <th width="20%">Type</th>
+      </tr>
+    </thead>
+    <tbody>
   {% assign previous_alpha_group = "" %}
   {% for game in site.data.games %}
-    <li>
-      <a href="/available-games/{{game[0]}}/"{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %} name="{{ previous_alpha_group}}"{% endif %}>
+    <tr>
+      <td><a href="/available-games/{{game[0]}}/"{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %} name="{{ previous_alpha_group}}"{% endif %}>
         {{ game[1].name }}
-      </a>
-    </li>
+      </a></td>
+      <td>{{ game[1].type }}</td>
+    </tr>
   {% endfor %}
-  </ul>
+    </tbody>
+  </table>
+
 </article>
