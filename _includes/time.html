@@ -1,7 +1,7 @@
 <div id="{{ time.time | date: '%A-%H' | downcase }}" class="time-slot">
   <header>
     <h3 class="header">
-      <time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.abbreviation }}</time>
+      <time datetime="{{ time.time | date_to_xmlschema }}" >{{ time.time | date: '%A'}} {{ time.abbreviation }}</time>
     </h3>
   </header>
   <div class="time-slot-duration two-hour">
