@@ -1,0 +1,2690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+	<gm>
+		<name>Alan De Smet</name>
+		<game>
+			<title>Mythender</title>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/mythender_fmt.png" alt="mythender.psd" />
+			<pitch>
+				<p>Touched with a bit of the divine, Mythenders hunt the gods who oppress mortalkind, all while resisting the temptation to become mortalkind’s new oppressors. Today you hunt Hel, she who rules over those who died of sickness or old age.</p><p>A game of over-the-top narrative combat and a bit of angst, inspired by movies like 300, Beowulf, Final Fantasy VII: Advent Children, and the God of War video games.</p>
+			</pitch>
+			<audience />
+		</game>
+		<game>
+			<title>Leverage</title>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/leverage_fmt.png" alt="leverage.psd" />
+			<pitch>
+				<p>The world’s best criminals turned Robin Hood, using their skills to help those the law can’t. Can the Leverage team stop an IndyCar team owner using forged evidence to blackmail a drive? A game of hyper-competence and clever heists. Based on the television series Leverage.</p>
+			</pitch>
+			<audience />
+		</game>
+	</gm>
+	<gm>
+		<name>Alex Mayo</name>
+		<game>
+			<title>Traveller: Carcosa</title>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/traveller_carcosa_fmt.png" alt="traveller_carcosa.psd" />
+			<pitch>
+				<p>The Free Trader Beowulf has crash landed on a strange alien planet where 13 races of Men languish under the rule of Cthulhu and the Great Old Ones. Space Aliens, Robots, Dinosaurs, and Shoggoths! This is Carcosa!</p><p>This event utilizes the Classic Traveller box set to run the Carcosa campaign setting from Lamentations of the Flame Princess. It will be a low-preparation hexcrawl. The Beowulf crashes in a random hex and you figure out how to survive the rigors and threats of Carcosa!</p><p>Your adventures depend on where you go and what kind of trouble you choose to get into!</p>
+			</pitch>
+			<audience>mature</audience>
+		</game>
+		<game>
+			<title>Numenera: Vortex</title>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/numenera_fmt.png" alt="numenera.psd" />
+			<pitch>
+				<p>Numenera is a science fantasy roleplaying game set in the far distant future. Humanity lives amid the remnants of past civilizations of Earth. This new world is filled with the debris of all the former worlds: bits of nanotechnology, the dataweb threaded among still-orbiting satellites,  bio-engineered creatures, and myriad strange and wondrous devices, remnants known as the numenera. Player characters explore this world of mystery and danger to find these leftover artifacts of the past to help forge their new destinies, utilizing the so-called “magic” of the past to create a promising future.</p>
+			</pitch>
+			<audience>mature</audience>
+		</game>
+		<game>
+			<title>Lamentations of the Flame Princess: Tales of the Scarecrow</title>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/lotfp_scarecrow_fmt.png" alt="lotfp_scarecrow.psd" />
+			<pitch>
+				<p>Beyond the veil of reality, echoes of other realms call to those bold and desperate enough to escape the oppression of mundane life. Treasure and glory await those courageous enough to wrest it from the darkness. Yet danger is great, for lurking in the forgotten shadows are forces far stranger and more perilous than civilization. The price of freedom might be paid in souls.</p><p>Tales of the Scarecrow: In this adventure, a house in the center of a cornfield contains horror, magic, and complications for any unwise enough to investigate. It’s not so much an adventure as it is a hostage situation.</p>
+			</pitch>
+			<audience>mature</audience>
+		</game>
+	</gm>
+	<gm>
+		<name>Andrew Medeiros</name>
+		<game>
+			<title>Urban Shadows</title>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/urban_shadows_fmt.png" alt="urban_shadows.psd" />
+			<pitch>
+				<p>Urban Shadows is a dark urban fantasy RPG in the vein of The Dresden Files and Angel. You play dynamic characters drowning in supernatural politics. Whether you’re a mere mortal or something much darker, one thing is certain; you owe someone and someone owes you. The game lets you explore themes of race, corruption, debt and urban survival. Who will you be? What will you sacrifice to make a difference?</p>
+			</pitch>
+			<audience>mature</audience>
+		</game>
+	</gm>
+	<gm>
+		<name>Andy K</name>
+	    <schedule_name>Andy Kitkowski</schedule_name>
+		<game>
+			<title>Shinobigami</title>
+			<scheduling>
+				<min>4</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/urban_shadows_fmt.png" alt="urban_shadows.psd" />
+			<pitch>
+				<p>Shinobigami is the definitive modern ninja combat RPG with a new English translation. Breakthrough mechanics blend soul-crushing drama and dynamic combat so that an entire ninja chronicle can be completed in 4 hours. Should you uncover your partner’s Secret or trust them and use your most powerful technique to crush your rival? Choose carefully, because so much more than your life is hanging in the balance...</p>
+			</pitch>
+			<audience>allages</audience>
+		</game>
+		<game>
+			<title>Ryuutama</title>
+			<scheduling>
+				<min>5</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/ryuutama_fmt.png" alt="ryuutama.psd" />
+			<pitch>
+				<p>“Miyazaki’s Oregon Trail!”</p><p>Newly translated from Japanese, Ryuutama is a fun, warm-hearted game where you play townsfolk like bakers, minstrels, cobblers and healers, traveling a fantastic world for the first time. Explore magical vistas and interesting towns with Ryuutama’s unique Journey rules.</p><p>Exploration, not combat, is the goal!</p>
+			</pitch>
+			<audience>allages</audience>
+		</game>
+		<game>
+			<title>Dungeon World</title>
+			<scheduling>
+				<min>4</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeon_world_fmt.png" alt="dungeon_world.psd" />
+			<pitch>
+				<p>City of Shadows: The City on the Sands is eternal, foreboding, a land of heroic deeds and dark mysteries. Four members of the Thieves’ Guild will find themselves pulled into a conspiracy that stretches back to the dark corners of the city, going back thousands of years.</p><p>Interested in trying the critically acclaimed Dungeon World RPG? Come get a quick 2-hour taste of the story-heavy fantasy role-playing game Dungeon World through a pulp fantasy dark city setting (think “Conan”). This game is meant for new players of Dungeon World.</p>
+			</pitch>
+			<audience>allages</audience>
+		</game>
+		<game>
+			<title>Microscope</title>
+			<scheduling>
+				<min>2</min>
+				<max>2</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/microscope_fmt.png" alt="microscope.psd" />
+			<pitch>
+				<p>A culture, a civilization, with its ups and downs covering thousands of years. In Microscope, we will roleplay characters in major events, from families and lineages that stretch over the storied history of a world we create together! Come get a two-hour taste of generational role-playing, shared world creation, diceless gaming; if you are interested in these things, check it out! New players are welcome!</p>
+			</pitch>
+			<audience>allages</audience>
+		</game>
+	</gm>
+	<gm>
+		<name>Andy Tatton</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeonworld_maycontain_fmt.png" alt="dungeonworld_maycontainclowns.psd" />
+			<pitch>
+				<p>Dungeon World is a game of fantastic adventure. Create your characters, find out what makes them tick, then set them loose on a town in need of heroes and play to see what happens.Are you in it for the heroics? To make a name for yourself as a mighty adventurer? Or just to score a huge pile of gems and gold? Either way, Eldervale’s misfortune is just the opportunity you’ve been looking for, so sharpen your battleaxes and tune your lutes: it’s time to save the day.</p><p>WARNING: May contain clowns!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Lady Blackbird</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/176362.png" alt="176362.png" />
+			<pitch>
+				<p>Lady Blackbird is a game of swashbuckling adventure out in the Wild Blue. Play the mismatched crew and passengers of the smuggler skyship, The Owl. On the run from an arranged marriage, Lady Blackbird has hired infamous outcast, Cyrus Vance to take her from the Imperial world of Ilysium to the far reaches of the Remnants, so she can be with her secret former lover: the pirate king Uriah Flint. But The Owl was pursued and captured by the Imperial cruiser Hand of Sorrow, and it’s only a matter of time before they learn the true identities of their captives!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Anna Kreider</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dogs in the Vineyard: Samurai in the Wasteland</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/ditv_samurai_wasteland_fmt.png" alt="ditv_samurai_wasteland.psd" />
+			<pitch>
+				<p>Small groups of samurai assigned to impose law and order on the chaos of a post-apocalyptic wasteland.</p><p>This is a hack of Dogs in the Vineyard.</p><p>Tone: Serious.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_heroesofpinnacle_fmt.png" alt="fiasco_heroesofpinnaclecity_dragonslayers.psd" />
+			<pitch>
+				<p>Two different playsets are offered: </p><p>Heroes of Pinnacle City (superheroes)</p><p>Dragon Slayers (fantasy D&amp;Dish).</p><p>Maturity level: Silly</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/190476.png" alt="190476.png" />
+			<title>The Shab-al-Hiri Roach: Hogwarts Edition</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/shabalhiriroach_hogwart_fmt.png" alt="shabalhiriroach_hogwarts.psd" />
+			<pitch>
+				<p>The Shab-al-Hiri roach in an alternate universe version of Hogwarts! All the madness of squabbles over prestige and tenure, with the added complications of teens, tweens, and magic. Add in an ancient Sumerian cockroach god bent on domination of the human race and what could go wrong?</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Zombie Cinema</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/zombie_cinema_2_fmt.png" alt="zombie_cinema_2.psd" />
+			<pitch>
+				<p>A comedy game about zombies, survivors, and comically doomed attempts to survive the zombie apocalypse. Only one of you will survive - that is if anyone survives at all.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Anne</name>
+	    <schedule_name>Anne Horowitz</schedule_name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>A Penny for My Thoughts</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/penny_fmt.png" alt="penny.psd" />
+			<pitch>
+				<p>As an amnesiac, you have opted to test a new drug in which to regain your memory. With the help of other participants, you will attempt to discover the traumatic incident that caused you to lose your memory.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Durance</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/durance_fmt.png" alt="durance.psd" />
+			<pitch>
+				<p>You are a criminal on a prison planet. The geologic survey said that the terraforming had been successful. That wasn’t fully true.</p><p>Play as both the inmates and convicts while trying to survive on a planet unfit for human life.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Bill White</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Fate Core:<br />Romance in the Air</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fatecore_romanceintheai_fmt.png" alt="fatecore_romanceintheair.psd" />
+			<pitch>
+				<p>It’s Jane Austen with airships, with maybe a hint of Dr. Zhivago. In a Europe that never was, the passengers and crew of the balloon-borne floating hotel Pension Bellevue pursue romance and intrigue while below them hidden forces move push the continent closer and closer to wide-scale war!</p><p>Tone: Light-hearted, but not silly.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Fate Core:<br />Andromeda</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fatecore_andromeda_fmt.png" alt="fatecore_andromeda.psd" />
+			<pitch>
+				<p>To escape the destruction of the Milky Way, the PCs’ World-Ship fled across the gulf of intergalactic space to Andromeda, where they must now deal with a bewildering array of alien civilizations as well as rival World-Ships in order to find a new home for their people. The goal is epic space opera with a little bit of an edge: Dune plus Lensman plus Asimov’s Foundation plus Zelazny’s Lord of Light and a little bit of Iain Banks’ Culture, too.</p><p>Tone: Dramatic High Adventure.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeon_world_fmt1.png" alt="dungeon_world.psd" />
+			<pitch>
+				<p>It’s swords &amp; sorcery in the frozen north! What grim tidings do the icy voices shrieking amid the blizzard winds portend? What of the Baron’s son, lost in the snow-bound wastes of the Forest Strongholds? And why do the minions of a silver elf sorcerer hunt for crystal shards in a frozen grotto? Trouble is definitely brewing, and it’s up to one brave band of heroic adventurers to stop it if they can and survive it if they can’t!</p><p>Tone: Fun high fantasy.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Gumshoe:<br />Night’s Black Agents </title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/nights_black_agents_fmt.png" alt="nights_black_agents.psd" />
+			<pitch>
+				<p>Your crack team of private security professionals has been sent to contact, extract, and debrief a covert operative who has infiltrated a terrorist cell planning a strike in Baku. Your mission: disrupt the strike without blowing the agent’s cover or alerting the national government to your presence. This is high-stakes thriller action wrapped around a dark monster-movie core. </p><p>Tone: Serious violence.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Bob Smith</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Leverage</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/leverage_2_fmt.png" alt="leverage_2.psd" />
+			<pitch>
+				<p>Get Ready to Get Even! The rich and powerful, they take what they want. You steal it back. You and your Crew used to be the bad guys, but there are worse people out there. The weak and the helpless need you. You provide... leverage.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>PSI*Run</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/psi_run_fmt.png" alt="psi_run.psd" />
+			<pitch>
+				<p>Whoever’s after you, you know one thing: they will stop at nothing to capture you and you’ll stop at nothing to stay free. The holes in your memory vie for attention with your startling abilities - stay one step ahead of the Chasers long enough to answer your questions, and hope your psychic powers don’t go wild.</p><p>They took your life. You got away. They want you back. Run!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Bryan Rennekamp</name>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>The Quiet Year</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/quiet_year_fmt.png" alt="quiet_year.psd" />
+			<pitch>
+				<p>The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.</p><p>The game is played using a deck of cards — each of the 52 cards corresponds to a week during the quiet year. Each card triggers certain events — bringing bad news, good omens, project delays and sudden changes in luck. At the end of the quiet year, the Frost Shepherds will come, ending the game.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Carolina Death Crawl</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/cdc_fmt.png" alt="cdc.psd" />
+			<pitch>
+				<p>CAROLINA DEATH CRAWL is a swampy, Southern Gothic roleplaying card game for three or more players. At the height of the American Civil War, your characters have been abandoned deep behind Confederate lines. Can they fight their way through enemy territory and treacherous terrain back to safety? For all but one, the answer is “no”, but the dark story you tell in trying will be memorable and thrilling. Fun and competitive, CAROLINA DEATH CRAWL gives you all the history you need; you supply the desperation, depravity, and destruction.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Chris Czerniak</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Tenra Bansho Zero</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/tenra_bansho_2_fmt.png" alt="tenra_bansho_2.psd" />
+			<pitch>
+				<p>On a distant world in the far future, the Sengoku (Feudal/Warring States) period of Japan is happening all over again &#173;— but this time with high-tech weapons, magically powered mecha, taoist magic masters and super-powered samurai.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Golden Sky Stories</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/golden_sky_stories_fmt.png" alt="golden_sky_stories.psd" />
+			<pitch>
+				<p>Golden Sky Stories is a heartwarming, non-violent roleplaying game that’s great fun for all ages. It takes place in a small town in rural Japan, and you take on the role of henge, animals with just a little magical power, including the ability to temporarily take human form. They do not fight great battles or unearth valuable treasures though; Golden Sky Stories adventures are all about helping others and becoming friends.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Tokyo Brain Pop</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/tokyo_brain_pop_fmt.png" alt="tokyo_brain_pop.psd" />
+			<pitch>
+				<p>Something strange is happening at my school. My teacher is acting like she’s been possessed. The entire swim team has gone missing. There’s some kind of monster hiding in the locker room. There’s even an unauthorized club that meets after school to hunt demons! And? I don’t know if I can keep this a secret much longer? I think I may have psychic powers!?</p><p>Welcome to Atarashi high school, where schoolgirls with destructive psychic powers do battle against bloodthirsty ghosts, demon princes stalk the school halls and the only thing worse than losing your soul is letting your grades slip!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Ocean</title>
+			<pitch>
+				<p>An abandoned underwater research station.</p><p>A nightmarish creature from the depths of the ocean.</p><p>A trapped group of amnesiac survivors.</p><p>These are the clues.</p><p>Solve the mystery in this cooperative story game where you explore the station by drawing a map and each creating clues.</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/ocean_fmt.png" alt="ocean.psd" />
+		</game>
+	</gm>
+	<gm>
+		<name>Dan Noland</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Dread: Gremlins 1912</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dread_2_fmt.png" alt="dread_2.psd" />
+			<pitch>
+				<p>Dread is a game of horror and suspense. Instead of dice an increasingly wobbly Jenga tower is used to determine success.<br />
+					<br />Gremlins 1912 - In this scenario you take on the roles of the servants who work below stairs in a lovely Edwardian home. Unfortunately it appears that something has gone amiss with a pet the lord had imported — at great expense — for the young lordling’s birthday.</p><p>Sort it out, won’t you?</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Hillfolk</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/hillfolk_fmt.png" alt="hillfolk.psd" />
+			<pitch>
+				<p>DramaSystem is a game focused on the dramatic scenes between the characters rather than the procedural scenes between the party and an external threat. Its goal is to produce those those magical game sessions where the dice and rules fall away, and the entire group enters a zone of story and character.</p><p>You will play the most influential members of a tribe of Iron Age raiders. You must find a way to work with the others, who may be jealous, remorseful, ambitious or angry. Your interpersonal struggles will affect the fate of the tribe.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Dana Fried</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Souls of Steel</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/souls_of_steel_fmt.png" alt="souls_of_steel.psd" />
+			<pitch>
+				<p>Souls of Steel is a game about larger-than-life ace pilots fighting together against a formidable enemy. But it’s also about how the relationships between those pilots develop as they live, love, and kick butt.</p><p>If you’ve ever wanted to play in the world of Battlestar Galactica, Pacific Rim, or even Top Gun, this is the game for you!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>On Mighty Thews</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/on_mighty_thews_fmt.png" alt="on_mighty_thews.psd" />
+			<pitch>
+				<p>In On Mighty Thews you play pulp heroes —powerful masters of your own destiny, making your way in a perilous world. You face danger and death, and survive by the use of your wits, a sharp sword, and steely thews.</p><p>On Mighty Thews is also a storytelling game; the players collaborate to create much of the world.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Dave Younce</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>In a Wicked Age: In a Wicked Empire</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/inawickedage_inawickede_fmt.png" alt="inawickedage_inawickedempire.psd" />
+			<pitch>
+				<p>In a Wicked Empire takes a swords-and-sorcery game and sets it among the opulence, corruption, and pulp adventure of the Victorian British Empire upon which the sun never sets. You may be pickpockets, generals, lovers, ghosts, gentleman sorcerers, agents of the East India Company, criminals exiled to Australia, or tribespeople of the Hindu Kush. You will play against each other and weave a story worthy of Kipling, Verne, and Dickens.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>13th Age:<br />Forgotten Realms</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/13th_age_2_fmt.png" alt="13th_age_2.psd" />
+			<p>Its 1372DR and the Open Lord of Waterdeep and the Harpers are fighting a secret war against the Zhentarim, the Red Wizards, the Orc Warlord, and the Cult of the Dragon. You will choose sides and we’ll make up the adventure from there!</p><p>Players decide which Icons their characters ally with, and which ones they oppose. These relationships, along with a personal history and a unique trait chosen during character creation, help define an adventurer’s place in the world of 13th Age and lay the groundwork for epic stories that emerge through play.</p>
+		</game>
+	</gm>
+	<gm>
+		<name>Drew</name>
+	    <schedule_name>Drew Owen</schedule_name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>PSI*Run</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/psi_run_fmt1.png" alt="psi_run.psd" />
+			<pitch>
+				<p>You don’t know what’s going on. You don’t know where you are. Maybe you don’t know who you are. You’ve been held captive, who knows how long. Moments ago, you broke free. Now you are struggling to remain free long enough to piece together your own past. You have amazing powers that can help you survive, but those same powers also carry the risk of disaster. And the people chasing you? They’ll stop at nothing to get you back.</p><p>Game lends itself to mature and serious subject matter.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_fmt.png" alt="fiasco.psd" />
+			<pitch>
+				<p>FIASCO is an award-winning, GM-less game for 3-5 players, designed to be played in a few hours with six-sided dice and no preparation. During a game you will engineer and play out stupid, disastrous situations, usually at the intersection of greed, fear, and lust. It’s like making your own Coen brothers movie, in about the same amount of time it’d take to watch one.</p><p>A variety of playsets available, ranging from a D&amp;D type adventure, to gangsters in London, to a high-seas FIASCO with pirates (because everything is better with pirates).</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate Accelerated</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fate-accelerated_fmt.png" alt="fate-accelerated.psd" />
+			<pitch>
+				<p>Ever wanted to know what evil lurks in the hearts of men? Or swing through the trees as lord of the jungle? Maybe hunt piracy as the ghost who walks? Perhaps hunt the biggest of all game: public enemies even the G-men cannot reach?</p><p>Join me for a Fate Accelerated Edition game where each player will have their choice from 12 different classic pulp heroes. The games maturity level will depend on the kind of game the players would like to run.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Danger Patrol</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/danger_patrol_fmt.png" alt="danger_patrol.psd" />
+			<p>bzzz...kSSSSSHH -ger Patrol! Repeat, calling all available Danger Patrol! Rocket City is under attack! The nefarious (kssshh-BEEE) ...and causing untold mayhem! ZAP! POW! WA-WA-WA-WA-WA! We need you Danger Patrol!</p><p>Danger Patrol is a pick-up roleplaying game heavy on pulp sci-fi goodness. This game will mimic a Saturday morning cartoon so don’t expect a lot of deep and dark introspection. Grab your bubble helmet and strap on your rocket pack. This crisis isn’t going to solve itself!</p><p>Danger Patrol, AWAY!</p>
+		</game>
+	</gm>
+	<gm>
+		<name>Giovanni Lanza</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World: Caress of Steel</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeonworld_caressofst_fmt.png" alt="dungeonworld_caressofsteel.psd" />
+			<pitch>
+				<p>A Dungeon World setting inspired by the music of Rush. Play as classes such as the Body Electric, the Ghost Rider, or the Spirit of Radio and battle against foes such as By-Tor the Betrayer, the Necromancer, or the Anarchist.</p><p>The setting can be serious or silly, depending on the group.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World: Eberron</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeonworld_eberron_fmt.png" alt="dungeonworld_eberron.psd" />
+			<pitch>
+				<p>Adventure in Keith Baker’s Eberron with Dungeon World. Explore the jungles of Xen’drik, the blasted Mournland, or the spires of Sharn with new classes such as the Artificer &amp; the Dragonmarked. This setting is serious in tone.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Gregor Hutton</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>3:16</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/316_2_fmt.png" alt="316_2.psd" />
+			<pitch>
+				<p>This high-octane Military SF role-playing game has your Space Troopers killing bugs all across the Cosmos to save your homeworld Terra. Revel in the kill-happy machismo and enjoy causing Carnage Amongst The Stars.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>The Princes’ Kingdom</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/princes_kingdom_fmt.png" alt="princes_kingdom.psd" />
+			<pitch>
+				<p>You are all princes, children to the King of Islandia. You travel from island to island in your very own boat, meeting your father’s subjects, listening to and solving their problems.</p><p>A game about children, adults, and ideals, inspired by D. Vincent Baker’s Dogs in the Vineyard.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Deeds &amp; Doers</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/deeds_and_doers_fmt.png" alt="deeds_and_doers.psd" />
+			<pitch>
+				<p>In half-darkness, dimly lit by the yellowed moon, you skulk. Spells and swords at the ready. A game of Fantasy Adventurers short on wit and high on magic and courage. Looking for lasting fame and unthinkable riches? Deeds &amp; Doers is for you.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Amidst Endless Quiet</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/amidst_endless_quiet_fmt.png" alt="amidst_endless_quiet.psd" />
+			<p>You are Elios, a deep space transport en route from Gliese to Zhou’s World.</p><p>You’re never going to arrive at Zhou’s World. You’re going to die.</p><p>You have limited time to investigate your living cargo and make a choice of life and death Amidst Endless Quiet.</p>
+		</game>
+	</gm>
+	<gm>
+		<name>James Mendez Hodes</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/184137.png" alt="184137.png" />
+			<title>Steal Away Jordan: Final Defense of the Quilombos</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/steal_away_jordan_Final_fmt.png" alt="steal_away_jordan_FinalDefenseoftheQuilombos.psd" />
+			<pitch>
+				<p>A history-changing action-adventure about the war between the Portuguese invaders and the secret African martial arts fortresses in the Amazon Rainforest (yes, they were a real thing) in the 16th century. Play as a hard-boiled African or Amerindian rebel fighter, a cunning conjurer, or the newly crowned warrior King Zumbi of Palmares himself in a desperate battle for freedom against overwhelming odds.</p><p>Maturity level: respectful but fun.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/184271.png" alt="184271.png" />
+			<title>Fate Accelerated: AfroFuture</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fae_afrofuture_fmt.png" alt="fae_afrofuture.psd" />
+			<pitch>
+				<p>In a city much like this one (but seen through Bootsy Collins’s star-shaped shades), Culture Heroes straight out of your favorite songs fight back against the interdimensional depredations of The Man. Can you get the band back together, and forge a mothership connection to last your people through all of time, or will the heteronormative hegemony of patriarchy mute your funkentelechy forever? Restore the past. Rally the present. Save the future — the AfroFuture. </p><p>Maturity level: Funky.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>PSI*Run</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/psi_run_fmt2.png" alt="psi_run.psd" />
+			<pitch>
+				<p>The first thing you remember is an explosion. Thirty seconds ago your vehicle crashed, and now you’re standing in the wreckage with no memory of who you are. Your mind is full of questions, and the people surrounding you are both familiar to you, and strangers. You have powers, mysterious in their nature and their potency, which you don’t understand… and someone or something terrifying is chasing you. PSI*Run is a suspenseful game of amnesia and psychic powers where you collaborate to determine each other’s histories and discover the truth about your world. Kid-Friendly! All Ages!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Marvel Heroic RPG</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/marvel_fmt.png" alt="marvel.psd" />
+			<pitch>
+				<p>Choose your favorite Marvel Comics or Cinematic Universe character — or a hero of your own design — in the game that gives you the experience of being not only a crime-fighter in costume, but also a comics creator behind the scenes! Play through events like Breakout, Civil War, or Annihilation and learn what would have happened if you’d been on the scene.</p><p>All Ages! Kid Friendly!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>James Stuart</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/182694.png" alt="182694.png" />
+			<title>Swords Without Master: Hackers Without Master</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/swordswithoutmaster_hac_fmt.png" alt="swordswithoutmaster_hackerswithoutmaster.psd" />
+			<pitch>
+				<p>The future is weirder and wilder than anybody imagined. Mega-corp walled gardens built on top of blast zones, underwater cities of mer-spliced humans, digital consciousnesses soaring across ragged access points. You play hackers, talents for hire, moving from job to job, in search of new tech, in search of new ideas, in search of becoming a legend.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Dog Eat Dog</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dog_eat_dog_2_fmt.png" alt="dog_eat_dog_2.psd" />
+			<pitch>
+				<p>Dog Eat Dog is a game of colonialism and its consequences. There’s the Occupation force, a capable military, a government with collaborators and bureaucrats, and whatever jaded tourists and shrewd businessmen are interested in a not quite pacified territory in a Pacific island.</p><p>Everybody else plays individual Natives, each trying come to terms with the new regime and the sudden disruption of their culture. You play the inevitably conflicted relationship, deciding what the colonizers do to maintain control, which natives assimilate and which run amok, and who ends up owning the island in the end.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Dream Askew</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dream_askew_fmt.png" alt="dream_askew.psd" />
+			<pitch>
+				<p>The apocalypse is rolling over the world in waves. You were hit recently. You’ve fallen out of the society intact. You’ve found others who you can relate to, and you’ve banded together with them to form a queer enclave.</p><p>Dream Askew is a game about post-apocalyptic lives inspired by Apocalypse World. It queers the post-apocalyptic genre, exploring how the apocalyptic process could impact our sexuality, genders, livelihoods, experiences of marginalization, and experiences of liberation.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jason Morningstar</name>
+	    <schedule_name>JASON MORNINGSTAR</schedule_name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>The Warren</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/the_warren_fmt.png" alt="the_warren.psd" />
+			<pitch>
+				<p>The Warren is a game about rabbits doing rabbit things and trying to live and thrive.</p><p>Inspired by Watership Down and powered by the Apocalypse World Engine, this game plays fast and is full of adventure, excitement, and bloody nature in all its redolent, unforgiving glory.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_fmt1.png" alt="fiasco.psd" />
+			<pitch>
+				<p>Fiasco is a game about people with powerful ambition and poor impulse control.</p><p>Playing Fiasco is like writing your own Coen brothers movie, in about the time it takes to watch one.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Night Witches</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/night_witches_fmt.png" alt="night_witches.psd" />
+			<pitch>
+				<p>Night Witches is a game about women at war. As a member of the 588th Night Bomber Regiment, you’ll answer the call of your Motherland in her darkest hour. Can you do your duty and strike blow after blow against the fascists? Can you overcome discrimination and outright sabotage and rise above your sexist comrades? Are there limits to patriotism - or endurance? Play Night Witches and find out. Rigorously researched but easily approachable, Night Witches modifies the tried and true Apocalypse World engine to bring the horror, melancholy, and triumph of these extraordinary warriors home to you.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jason Wallace</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate Accelerated / Match: Equinox</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/equinox_fmt.png" alt="equinox.psd" />
+			<pitch>
+				<p>Equinox is a science fantasy setting from Vagrant Workshop, where the players are renegade space pirates that use high-tech weapons and arcane magic to raid and scavenge. This adventure jumps the characters into the exploration of an abandoned space station seeking a big pay off. It uses either the Fate Accelerated or Match Systems for a serious roleplaying experience.</p><p>Seeking serious players for an intense science fiction / fantasy adventure suitable for younger teenagers and up.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/174167.png" alt="174167.png" />
+			<title>Vampire City</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/vampire_city_fmt.png" alt="vampire_city.psd" />
+			<pitch>
+				<p>Fear the Night for It Has Fangs!</p><p>Vampire City is a gamemasterless roleplaying game of vampiric intrigue published by Vagrant Workshop. The designer will walk you through the bidding mechanics and join you in building a mythos, a setting, your own characters, and a storyline to play through together as you seek to own the night!</p><p>Slightly silly to serious tones are suitable, with a slightly more mature audience of older teenagers and up.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Western City</title>
+			<pitch>
+				<p>DRAW, ya varmint!</p><p>Western City introduces gamemasterless mechanics where all the players share the spotlight and make the story together. Toss your chips in the pot where the story matters most to you, as you work together to bring a spaghetti western to life around the table. Frame the story and design your own High Noons. Come on down to Western City... or are you yella?</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/western_city_fmt.png" alt="western_city.psd" />
+		</game>
+	</gm>
+	<gm>
+		<name>Jay Treat</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/103810.png" alt="103810.png" />
+			<title>Legacy of the Slayer</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/legacy_of_the_slayer_fmt.png" alt="legacy_of_the_slayer.psd" />
+			<pitch>
+				<p>The ghost stories you’ve heard are true. There are things that go bump in the night and they really do want to hurt you. But you’ve chosen to stand up and fight back. It won’t be easy, but your friends and your town need you. The world needs you. Look out, Evil: the hunter has become the hunted.</p><p>Play a story game focused on the characters you create by drafting cards. Can they overcome their own flaws and the supernatural evil menacing their city? You tell me.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>3</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_fmt2.png" alt="fiasco.psd" />
+			<pitch>
+				<p>Create miserable, ambitious characters entangled in a web of dependency, lies or intrigue. Tell the story of their attempts at fame, wealth, sex and power, and how it all comes crashing down.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jeff Prather</name>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate Accelerated</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fae_outpostforlorn_fmt.png" alt="fae_outpostforlorn.psd" />
+			<pitch>
+				<p>The Judge-Governor needs your crew and your Arrow flying ship to transport cargo from Haven City to Outpost Forlorn in the Orc-infested wastes. The job will be dangerous, but guarantees to be lucrative. What say you?</p><p>The general tone of the game is serious, but humor is always welcome (and expected).</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeonworld_toadfartsw_fmt.png" alt="dungeonworld_toadfartswamp.psd" />
+			<pitch>
+				<p>The Baron’s third son, Willard, was last seen enroute home from his recent cloister at Crossways Abbey. He was kidnapped from his ship before he reached his home at Port Clearwater. You have been sent by the Barron to Lily Pad Isles to deliver the ransom to the Pirate King in the heart of the Toadfart Swamp.</p><p>The general tone of the game is serious, but humor is always welcome (and expected).</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jeffrey Fuller</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dresden Files</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dresden_files_fmt.png" alt="dresden_files.psd" />
+			<pitch>
+				<p>Enter the world of The Dresden Files, where the creatures of the NeverNever lurk around every corner, prowl through every shadow. Only the determination, faith, and hope of mortal kind is able to stand against the rising darkness.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>War of Ashes</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/war_of_ashes_2_fmt.png" alt="war_of_ashes_2.psd" />
+			<pitch>
+				<p>This “grimsical” minis-friendly tabletop RPG is based on the popular miniature game. Head off to adventure in a world where the inhabitants might look cute and cuddly but often carry pointy objects with which they might just decide to stab you.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jenn Martin</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Heroine</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/heroine_fmt.png" alt="heroine.psd" />
+			<pitch>
+				<p>Heroine is a storytelling game that helps you and your friends tell tales of a young heroine in another world. Each time you play, a heroine meets new companions, faces terrible dangers and a fierce antagonist, and struggles to overcome all sorts of heroic challenges.</p><p>Maturity level: Silly to Serious.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>InSpectres</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/inspectres_fmt.png" alt="inspectres.psd" />
+			<pitch>
+				<p>Do you have what it takes to work long hours in dangerous conditions for low pay and potentially worthless stock options? Then join the InSpectres team!</p><p>InSpectres is the critically-acclaimed game of ironic horror, tragic comedy and mind-blowing property damage. Battle the forces of darkness and try to keep your business afloat in a world of ghosts, demons, vampires and IRS agents.</p><p>Maturity level: Silly.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jeremy Tidwell</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Companions</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/companions_fmt.png" alt="companions.psd" />
+			<pitch>
+				<p>Once, standing over the balanced Universe were its mighty guardians, the Time Lords. A great war destroyed all but one of them. He was the Earth’s defender, protecting it time and again from alien threats. He was a god humbled by death. He was your friend. He was the Doctor. And then he died.</p><p>Now the Doctor’s enemies gather and plot, scheming to claim the Universe for themselves. Only you, his stalwart and learned companions, stand against the encroaching darkness. It’s a good thing he trained you so well, isn’t it?</p><p>A Powered by the Apocalypse game.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_fmt3.png" alt="fiasco.psd" />
+			<pitch>
+				<p>Fiasco is inspired by cinematic tales of small time capers gone disastrously wrong. You’ll play ordinary people with powerful ambition and poor impulse control. There will be big dreams and flawed execution.</p><p>During a game you will engineer and play out stupid, disastrous situations, usually at the intersection of greed, fear, and lust. It’s like making your own Coen brothers movie, in about the same amount of time it’d take to watch one.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jeromy Hastings</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Monsterhearts</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/mh_fmt.png" alt="mh.psd" />
+			<pitch>
+				<p>The messy lives of sexy, teenage monsters; filled with angst, personal horror, rivalries, and secret love triangles. Explore the terror and confusion that comes with growing up and feeling like a monster.</p><p>Mature level of play. Contains sex and violence.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Lasers and Feelings</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/lasers_and_feelings_fmt.png" alt="lasers_and_feelings.psd" />
+			<pitch>
+				<p>An extremely rules-light, space-adventure “micro game”. A silly, fun, and pulpy, love letter to Star Trek.</p><p>Crew a starship, be awesome, and save the universe with your lasers and feelings!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Apocalypse World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/aw_2_fmt.png" alt="aw_2.psd" />
+			<pitch>
+				<p>A near-future, post-apocalypse game about the desperate struggle to survive in a dangerous and broken world.</p><p>Maybe you have a gang, or a vicious set of wheels. Maybe you’re good at fixing things or fixing people. Or maybe you’re just good at breaking them. The question is, though, “what are you gonna make of your world, when there’s not enough to go around?”</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>PSI*Run</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/psi_run_fmt3.png" alt="psi_run.psd" />
+			<pitch>
+				<p>A game about super-powered fugitives with amnesia, on the run from the organization that once held them captive. Who are you? Where are you? What are these powers? Can you wield them without causing rampant destruction? You don’t know what’s going on, but moments ago, you broke free. Now you are struggling to remain free long enough to piece together your own past. And the people chasing you? They’ll stop at nothing to get you back.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Jesse Butler</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Short Order Heroes</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/short_order_heroes_fmt.png" alt="short_order_heroes.psd" />
+			<pitch>
+				<p>A spontaneous card based role-playing game. Creating characters, for players and non-players alike, is as easy as drawing a few cards. A silly game of any genre suitable for role-players of all ages.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Hana Academy</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/blank.png" alt="blank.psd" />
+			<pitch>
+				<p>Welcome to Hana Academy! This is a game about relationships and finding yourself in a magical high school setting. A Fate-based game currently under development. A serious game about growing up.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Earthdawn</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/earthdawn_fmt.png" alt="earthdawn.psd" />
+			<pitch>
+				<p>Before science, before history, an era of magic existed in our world’s dim past. Magic flowed freely, touching every aspect of the lives of men and women of the Namegiver races. It was an age of heroes; an age of fantastical deeds and mythical stories. It was the Age of Legend. A serious game about exploring the world left behind after the Scourge.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Traveller</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/traveller_fmt.png" alt="traveller.psd" />
+			<pitch>
+				<p>Death on Arcturus Station. Corporation hires a team to do a surprise inspection of an asteroid mining station. Is the death of an engineer an accident? A serious game of investigation.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Joanna Piancastelli</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/178361.png" alt="178361.png" />
+			<title>Always/Never/Now</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/always_never_now_2_fmt.png" alt="always_never_now_2.psd" />
+			<pitch>
+				<p>You were the best. Underground, cyberpunk street samurai, burglars and breakers, agents of a mysterious spymaster. He made the missions, you carried them out. You were his go-to crew for high-stakes break-ins, dangerous ops, and impossible escapes. You fought the megacorps, the tyrants, the killers, all to make a better future, to beat the Technocrats at their own game of shaping tomorrow. You always won.</p><p>Until, eleven years ago, he disappeared.Now he’s back, and in trouble, and it’s up to you to find him — save him, maybe — and along the way — change the world.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Powers for Good</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/powers_for_good_fmt.png" alt="powers_for_good.psd" />
+			<pitch>
+				<p>Whether they’re paragons of virtue or just trying to protect the little patch of land they call home, the world needs people to stand up for what’s right and protect those who can’t defend themselves. But who are these heroes who will shine the light of truth and justice into the dark tide of villainy?</p><p>That’s up to you! Pick a setting, assemble the sidekicks and supporting cast, and in just a few minutes you’ll have a totally new set of superheroes costumed up and ready to save the day!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>John Marron</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>The Warren</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/the_warren_fmt1.png" alt="the_warren.psd" />
+			<pitch>
+				<p>In The Warren, players take on the role of intelligent rabbits, dealing with the threats and crises that affect their community. Basically, this is Watership Down the RPG, powered by the Apocalypse World Engine.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>A Dirty World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/a_dirty_world_fmt.png" alt="a_dirty_world.psd" />
+			<pitch>
+				<p>Film Noir RPG in which character abilities shift during play based on their behavior. Focusing on the personality traits and drives of the characters, A Dirty World recreates the morally ambiguous world of gritty 1940’s and ‘50’s film noir movies. Uses a variant of the One Roll Engine.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/116357.png" alt="116357.png" />
+			<title>tremulus</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/tremulus_fmt.png" alt="tremulus.psd" />
+			<pitch>
+				<p>tremulus is a game of Lovecraftian Horror powered by the Apocalypse World Engine. Characters are regular people, inevitably drawn into the occult mysteries that plague a small 1920’s town.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeon_world_fmt2.png" alt="dungeon_world.psd" />
+			<pitch>
+				<p>Old School style fantasy adventure feel with modern mechanics. Dungeon World feels like the fantasy game you thought you were going to play when you first discovered fantasy RPGs. Fast action and skin of the teeth escapes abound. One of the most popular games powered by the Apocalypse World Engine.</p><p>We’ll be using one of Marshall Miller’s Dungeon Starters to get the ball rolling.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>John Stavropoulos</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Rat Queens: *World mashup</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dw_rat_queens_fmt.png" alt="dw_rat_queens.psd" />
+			<pitch>
+				<p>Imagine Buffy meets Tank Girl in Lord of the Rings on crack!</p><p>Based on the comic with the same name, this is a dark comedic fantasy game starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Hobbit Thief. Delight in a modern spin on an old school genre where you play ragtag rowdy, lewd, ass-kicking adventurers with a fondness for monster killing, drink, sex, drugs, and gold!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Monsterhearts: Elderhearts</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/mh_fmt1.png" alt="mh.psd" />
+			<pitch>
+				<p>Elderhearts is a story game about supernatural romance and elderly desperation. Vampires, werewolves, witches: they dream and suffer among us. It’s unclear whether they can live among normal people, and whether their wicked hearts can be redeemed. When you play Elderhearts, you become one of these elderly monsters, facing the inevitable end while trying to meet their needs like every day is their last.</p><p>This game is an elderly sex horror story, revelling in codependency, untenable promises, and freeing entropy. For mature players only.</p>
+			</pitch>
+		</game>
+	</gm>
+	
+	<gm>
+		<name>Justin D. Jacobson</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate Core:<br />Dawning Star</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dawning_star_fmt.png" alt="dawning_star.psd" />
+			<pitch>
+				<p>When the Evergreen entered our system with a fleet of vaasi warships in pursuit, we were thrust into sudden war and won by the slimmest of margins. In the aftermath, we discovered a vaasi ship deep in the caverns of the Eotian moon. Your EDF squad has been tasked with exploring the craft and neutralizing any threats. Mission is go!</p><p>Fate Core rules with a few modifications.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>2</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Tokyo Rain</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/tokyo_rain_fmt.png" alt="tokyo_rain.psd" />
+			<pitch>
+				<p>Killing is the easy part.</p><p>You are John Rain, an assassin with a code of honor, specializing in death by “natural causes”. When you pull the trigger, how will it change you?</p><p>Based on the bestselling John Rain novels by Barry Eisler. Uses a unique system created by Leonard Balsera and Justin D. Jacobson.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Justin Hamilton    </name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Torchbearer</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/torchbearer_2_fmt.png" alt="torchbearer_2.psd" />
+			<pitch>
+				<p>Torchbearer is a modern take on traditional dungeon-crawling fantasy games where you play a fortune-seeking adventurer delving into forgotten tombs, facing horrifying monsters, and acquiring treasure. Torchbearer is about the exploration of frightening underground worlds, and attempting to survive their harsh environments and denizens for a chance to live a comfortable life on plundered goods.</p><p>Tone: Black humor to go along with all of the things that can go wrong to adventurers in the deep dark.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Carolina Death Crawl</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/cdc_fmt1.png" alt="cdc.psd" />
+			<pitch>
+				<p>CAROLINA DEATH CRAWL is a swampy, Southern Gothic roleplaying card game for three or more players. At the height of the American Civil War, your characters have been abandoned deep behind Confederate lines. Can they fight their way through enemy territory and treacherous terrain back to safety? For all but one, the answer is “no”, but the dark story you tell in trying will be memorable and thrilling. Fun and competitive, CAROLINA DEATH CRAWL gives you all the history you need: you supply the desperation, depravity, and destruction.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_fmt4.png" alt="fiasco.psd" />
+			<pitch>
+				<p>Maybe some dude from youth group talked you into boosting a case of motor oil, but now your cousin is dead in a swamp and you killed him.</p><p>Fiasco is inspired by cinematic tales of small time capers gone disastrously wrong. You’ll play ordinary people with powerful ambition and poor impulse control. There will be big dreams and flawed execution.</p><p>During a game you will engineer and play out stupid, disastrous situations, usually at the intersection of greed, fear, and lust. It’s like making your own Coen brothers movie, in about the same amount of time it’d take to watch one.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Swords &amp; Wizardry</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/swords_and_wizardry_fmt.png" alt="swords_and_wizardry.psd" />
+			<pitch>
+				<p>Light your torches, don your helmets, and ready your spells! The Swords &amp; Wizardry Rules are a “clone” of the original Gary Gygax 1974 fantasy roleplaying game that started it all. With a thriving internet community and tons of support products, Swords &amp; Wizardry is bringing back a lost style of fantasy roleplaying. Forget huge rule books - just play. If you can imagine it, you can do it in Swords &amp; Wizardry. The rules are simple and quick to learn, and they are infinitely flexible.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Karen Twelves</name>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Apocalypse World: Olive Garden</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/144689.png" alt="144689.png" />
+			<pitch>
+				<p>Before the Fall, there was The Garden. People say that after the Fall, there was nothing. They are wrong. The Garden remains. Fiercely protected by its loyal staff, it is an oasis in the desert, and stays true to its eternal promise: Unlimited salads. And breadsticks. Always.</p><p>Mature content with a side order of silly.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Monsterhearts</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/mh_fmt2.png" alt="mh.psd" />
+			<pitch>
+				<p>Explore the messy, sexy lives of teenage monsters as they grapple with teenage angst, personal horror, and secret love triangles.</p><p>Mature/queer content.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Archipelago</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/archipelago_fmt.png" alt="archipelago.psd" />
+			<pitch>
+				<p>In this GM-less game, we will create characters and the world they live in at the table, and tell the story of how they move towards their inevitable destiny.</p><p>Genre and maturity level is dependent on the players and what is agreed upon as a group.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Kevin</name>
+	    <schedule_name>Kevin Schneider</schedule_name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeon_world_fmt3.png" alt="dungeon_world.psd" />
+			<pitch>
+				<p>Dungeon World is a tabletop roleplaying game that feels like the fantasy game you thought you were going to play when you first discovered fantasy RPGs, one of the most popular games powered by the Apocalypse World Engine. It has an Old School style fantasy adventure feel but with modern mechanics. Fast action and skin of the teeth escapes abound. You’ll take on the roles of dwarves, elves, and humans in a world of magic. You’ll face dangerous enemies, sweeping plots, and treacherous locations. Are you ready?</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Numenera</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/numenera_2_fmt.png" alt="numenera_2.psd" />
+			<pitch>
+				<p>Numenera is a science fantasy roleplaying game set in the far distant future. This new world is filled with remnants of all the former worlds: nanotechnology, satellites, bio-engineered creatures, and myriad strange and wondrous devices. These remnants have become known as the Numenera.</p><p>Player characters explore this world of mystery and danger to find these leftover artifacts of the past, not to dwell upon the old ways, but to help forge their new destinies, utilizing the so-called “magic” of the past to create a promising future.</p>
+			</pitch>
+			<audience>allages</audience>
+		</game>
+	</gm>
+	<gm>
+		<name>Kira Magrann</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Dream Askew</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dream_askew_fmt1.png" alt="dream_askew.psd" />
+			<pitch>
+				<p>Dream Askew is a game about post-apocalyptic lives. It’s a game that queers the post-apocalyptic genre, exploring how the apocalyptic process could impact our sexuality, genders, livelihoods, experiences of marginalization,and experiences of liberation.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Kristin Firth</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Zombie Cinema</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/zombie_cinema_2_fmt1.png" alt="zombie_cinema_2.psd" />
+			<pitch>
+				<p>Nobody knew when it started, or why. Only one thing is certain: now the dead walk. This story game is about the zombie apocalypse and the desperate choices of the survivors. Not only do these characters scramble over each other trying to find safety, but they may also cooperate and even sacrifice themselves so at least a few might survive the story.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Do: Pilgrims of the Flying Temple</title>
+			<pitch>
+				<p>A storytelling game about young people who travel the worlds helping people and getting into trouble. Mostly getting into trouble but sometimes they manage to help people too!</p><p>Fun for all ages, no experience necessary.</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/do_fmt.png" alt="do.psd" />
+		</game>
+	</gm>
+	<gm>
+		<name>Lowell Francis</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/173305.png" alt="173305.png" />
+			<title>Fate: Action Cards: Guards of Abashan</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fate_action_cards_1_fmt.png" alt="fate_action_cards_1.psd" />
+			<pitch>
+				<p>Another day on the mean streets of Abashan. In a town of fantasy adventure it’s up to you and your fellow guards to patrol your district, quell riots, take down monstrous invaders, break up foreign conspiracies, shut down wild magick, make friends in the community, and stop crazed adventurers. Beginning with a morning briefing you must figure out how to prioritize assignments, shirk duties, protect the innocent, and perhaps even earn a little extra coin?</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/173435.png" alt="173435.png" />
+			<title>Fate: Action Cards: Neo-Shinobi Vendetta</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fate_action_cards_2_fmt.png" alt="fate_action_cards_2.psd" />
+			<pitch>
+				<p>Keep to the shadows! Your cyber-ninja clan has been betrayed: mind-controlled, manipulated, and used to serve sinister ends. The highly placed cabal behind this has remained secret —until now. You and your team will research, plan, and carry out your vengeance against an elite and heavily guarded target somewhere in Neo-Kyoto. If it is the will of The Illustrious Orbital Mikado you will succeed!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Mad Jay</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Burning Wheel</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/burning_wheel_fmt.png" alt="burning_wheel.psd" />
+			<pitch>
+				<p>What secrets lie inside the Seclusium of Euniss the Mad Sorcereress?</p><p>What lures a band of adventurers inside?</p><p>Who shall survive?</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Cortex+: Justifiers</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/cortexplus_justifiers_fmt.png" alt="cortexplus_justifiers.psd" />
+			<pitch>
+				<p>You’re a ‘Beta’, a Beta Class Humanoid Lifeform. Part human and part animal. The property of the Corporation that spawned you. Your job: Justification and Pacification of new worlds. Find exploitable resources and eliminate dangerous indigenous lifeforms. Your goal: SURVIVE! Stay alive until you can buy your way to freedom. Till then your one of the... Justifiers.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Mark Causey</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/174387.png" alt="174387.png" />
+			<title>Tenra Bansho Zero</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/tenra_bansho_2_fmt1.png" alt="tenra_bansho_2.psd" />
+			<pitch>
+				<p>MECHAS - SORCERERS - SAMURAIS - NINJASFAST - OVER THE TOP - DRAMA AND ACTION</p><p>Tenra Bansho Zero is a story-focused role-playing game of epic drama and insane action, set a rich world of high magic and technology, of the ancient side by side with the futuristic. Experience the RPG that started a revolution in Japan! Recently localized and published in the US, join me in a fast-paced game that not only rewards dramatic role-playing with character power-ups, but also follows the dramatic structure of an anime series or kabuki play!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Archipelago: Last of Us</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/archipelago_the_last_of_fmt.png" alt="archipelago_the_last_of_us.psd" />
+			<pitch>
+				<p>This is a game about the hard choices people make in a world torn apart by a unique zombie menace. Together, we will find out just what piece of humanity is in the last of us. Exacting knowledge of the game IS NOT required!</p><p>This game splits the work of a standard GM to all players. Don’t worry, you’ll have a character, too! The system encourages drama while allowing everyone to have a stake in the world at large.</p><p>This is the system that fuels Jason Morningstar and Matthijs Holter’s “Love in the Time of Seiđ”!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Ryuutama: Natural Fantasy</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/ryuutama_fmt1.png" alt="ryuutama.psd" />
+			<pitch>
+				<p>Ryuutama is a Japanese tabletop role-playing game, now translated into English. It is a fantasy role-playing game set in a western medieval-style setting. The conceit of this setting is that at one point, in everyone’s lives, people are struck by an intense feeling of wanderlust. They put their daily lives on hold and travel the world with new-found companions. They find out more about the world, and at the same time learn about themselves. This is a “feel good” game in the honobono style. It emphasizes travel, exploration, community, friendship, harmony and growth.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Monsterhearts:<br />Blood of Misty Harbour</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/monsterhearts_bloodMist_fmt.png" alt="monsterhearts_bloodMistyHarbour.psd" />
+			<pitch>
+				<p>A Story Game About the Messy Lives of Teenage Monsters. Two lovers encounter dark and sordid family secrets. Cultists attempt to summon their demonic patron. The boundaries between life and death are despoiled, time and again.</p><p>Set in the mini-campaign of the same name.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Mark Redacted</name>
+	    <schedule_name>Mark DiPasquale</schedule_name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Samsara</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/samsara_fmt.png" alt="samsara.psd" />
+			<pitch>
+				<p>Ghosts, monsters, and power-mad yogis vie for control of Occult India, where skyscrapers shadow mosques built atop ancient shrines, the supernatural is an open secret, and reality itself is the only illusion.</p><p>It’s monsoon season in Mumbai’s largest slum and nothing will stay buried — not even the dead. Load your shotgun with grave dirt, sharpen your spirit dagger, and get ready to put some psychokinetic serial killers back in the ground!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Swords Without Master</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/swords_without_master_2_fmt.png" alt="swords_without_master_2.psd" />
+			<pitch>
+				<p>Sword &amp; sorcery inspired by Fritz Leiber’s Fafhrd &amp; Gray Mouser series!</p><p>Rogues, scoundrels, outsiders, strangers and barbarians! Gather close, and let us spin tales of Beauty, Betrayal, Dark Magicks, High Adventure, Horror, Intrigue, Mystery, New Beginnings, Romance, Savagery, Seduction, Tragedy, Wonder, Corsairs, Fire Apes, Elder Gods, Marauders, and Strange Hounds...</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Technoir</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/technoir_2_fmt.png" alt="technoir_2.psd" />
+			<pitch>
+				<p>Playing it safe won’t work; you’re not getting out of this clean. You’ve got illicit tech and the talents to use em: time to go shake the city and see what falls out.</p><p>Technoir is a rules-lite cyberpunk roleplaying game of cyber-tweaked couriers, hard-nosed investigators, and drugged-out hackers in a desperate and despairing dark future. Using Transmissions — city guides brimming with plot nodes to inspire high-tech adventure — we’ll improvise tangled and compelling plot webs for you to unravel, and see what it costs you along the way.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Apocalypse World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/aw_2_fmt1.png" alt="aw_2.psd" />
+			<pitch>
+				<p>It used to be better. Back when there was enough to eat and enough hope, when there was one nation under god and people could lift their eyes and see beyond the horizon, beyond the day. Children were born happy and grew up rich.Now that’s not what we’ve got. Now we’ve got this. The world’s psychic maelstrom, the terrible desperation and hate pressing in at the edge of all perception, it is the world now. And you, who are you? This is what we’ve got, sure... What are you going to make of it?</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Mark Richardson</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Headspace</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/headspace_fmt.png" alt="headspace.psd" />
+			<pitch>
+				<p>Headspace is a role playing game that explores human emotion, memory and personal identity set within a dark dystopic future. Each character is networked together via Headspace technology; your minds are shared, allowing each other to access each skills and work as the perfect team of operatives. The problem is you also share your emotional baggage in the process. Work together as the ultimate team and make a difference in this game powered by the Apocalypse World engine.</p><p>This is a playtest.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Spark</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/spark_fmt.png" alt="spark.psd" />
+			<pitch>
+				<p>Spark is a roleplaying, storytelling game about building worlds and challenging your Beliefs within them. You tell a story about a group of individuals who struggle with each other and the world to uphold their Beliefs. The more you challenge your Beliefs, the more Influence you gain and the more Conflicts you can win during play. By changing yourself, you can change the world. It is a game about self-reflection and personal growth, where you can explore real life issues and maybe even learn a little bit more about yourself.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Matt B</name>
+	    <schedule_name>Matt Boersma</schedule_name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>6d6:<br />Quantum Flux</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/6d6_quantumflux_fmt.png" alt="6d6_quantumflux.psd" />
+			<pitch>
+				<p>Adrift in space on a salvage shuttle the team finds the Leopold, the long-lost science ship of the Wuland-Yelani Corporation. The ship seems to be deserted though fully operational, but as they try to find out what happened on board everything starts going wrong. The ship is riddled with alien creatures that have killed the crew and turned the Leopold into a nest, a problem compounded by the computer core having two A.I.s fighting with each other for control of the ship’s systems. In a desperate race to survive and escape the situation, what starts off as the team’s salvation could well turn into their grave.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate:<br />Terror in Freeport</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fate_freeport_fmt.png" alt="fate_freeport.psd" />
+			<pitch>
+				<p>Strange things are afoot in the city of Freeport. The party has been hired by Lady Stonewald to investigate her husband’s disappearance. Lord Stonewald was last seen headed to their lake cottage, but he had been acting strangely for weeks: collecting obscure books, pickled parts of animals, and exotic spices.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Little Wizards</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/little_wizards_fmt.png" alt="little_wizards.psd" />
+			<pitch>
+				<p>A group of friends, all studying the arcane arts at the Ellys School for Wizards and Sorcerers, find their city slowly going crazy after the arrival of a new chocolate candy bar. Will the group be able to counter the effects this must-have candy is having on the grownups of their city?</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Do: Pilgrims of the Flying Temple</title>
+			<pitch>
+				<p>The Monks of the Flying Temple send their apprentices out on pilgrimages into the worlds. A group of apprentices has been sent out to help the Houkala Temple National Park who’s been having isues with its local volcano god. Old Houkala’s demanding a sacrifice... a human one.</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/do_fmt1.png" alt="do.psd" />
+		</game>
+	</gm>
+	<gm>
+		<name>Matt Sanchez</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Ryuutama</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/ryuutama_fmt2.png" alt="ryuutama.psd" />
+			<pitch>
+				<p>“Miyazaki’s Oregon Trail!”</p><p>Newly translated from Japanese, Ryuutama is a fun, warm-hearted game where you play townsfolk like bakers, minstrels, cobblers and healers, traveling a fantastic world for the first time. Explore magical vistas and interesting towns with Ryuutama’s unique Journey rules.</p><p>Exploration, not combat, is the goal!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Shinobigami</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/shinobigami_fmt1.png" alt="shinobigami.psd" />
+			<pitch>
+				<p>Shinobigami is the definitive modern ninja combat RPG with a new English translation. Breakthrough mechanics blend soul-crushing drama and dynamic combat so that an entire ninja chronicle can be completed in 4 hours. Should you uncover your partner’s Secret or trust them and use your most powerful technique to crush your rival? Choose carefully, because so much more than your life is hanging in the balance...</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Trail of Cthulhu</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/trail_of_cthulhu_fmt.png" alt="trail_of_cthulhu.psd" />
+			<pitch>
+				<p>The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents.</p><p>—Lovecraft</p><p>Trail of Cthulhu is the game of sanity-smashing investigation and horror. Play an investigator on the precipice of truth, ready to rend the veil between blissful ignorance and abject terror...</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Matthew J. Hanson</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Abstract Dungeon</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/Abstract_Dungeon_2_fmt.png" alt="Abstract_Dungeon_2.psd" />
+			<pitch>
+				<p>Abstract Dungeon is a new super-fast system focused on narration over number crunching. Character creation is included. Set in a fantasy world, characters might battle undead pirates, explore a mine that closed under “mysterious circumstances,” or fight their way out of a creepy mansion.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Magical Kitties!</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/magical_kitties_fmt.png" alt="magical_kitties.psd" />
+			<pitch>
+				<p>You are a cat with magical powers.</p><p>You must protect your humans.</p><p>This is a new roleplaying game.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>McGravin</name>
+	    <schedule_name>McGravin (Matt Seifert)</schedule_name>
+		<game>
+			<scheduling>
+				<min>1</min>
+				<max>3</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/181612.png" alt="181612.png" />
+			<title>The Quiet Year</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/quiet_year_fmt1.png" alt="quiet_year.psd" />
+			<pitch>
+				<p>The Quiet Year is a map-drawing game. You collectively explore the struggles of a community, trying to rebuild after the collapse of civilization. It’s a game about community, difficult choices, and landscapes. When you play, you make decisions about the community, decisions that get recorded on a map that is constantly evolving. Parts of the map are literal cartography, while other parts are symbolic. Players work together to create and steer this community, but they also play devil’s advocate and introduce problems and tensions into the game.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/181742.png" alt="181742.png" />
+			<title>A Thousand and One Nights: Campfire</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/1001nights_campfire_fmt.png" alt="1001nights_campfire.psd" />
+			<pitch>
+				<p>In Campfire, you play a group of high-school or college kids who go on a camping trip, as well as the characters in the scary stories they tell around the campfire, stories like those in horror anthologies such as Creepshow or Tales from the Darkside. In the tradition of slasher flicks, they will also try to satisfy their teenage desires for sex, drugs, and the approval of their peers. But beyond the light of the campfire, in the dark woods, lurks the enigmatic Slasher. In the end, only one of you will get out alive!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_fmt5.png" alt="fiasco.psd" />
+			<pitch>
+				<p>Fiasco is inspired by cinematic tales of small time capers gone disastrously wrong. You’ll play ordinary people with powerful ambition and poor impulse control. There will be big dreams and flawed execution.</p>
+			</pitch><p>During a game you will engineer and play out stupid, disastrous situations, usually at the intersection of greed, fear, and lust. It’s like making your own Coen brothers movie, in about the same amount of time it’d take to watch one.</p>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeon_world_fmt4.png" alt="dungeon_world.psd" />
+			<pitch>
+				<p>Thieves, wizards, fighters, paladins, and more face off against everything from ankhegs to zombies in the dark pits of the world. Dungeon World builds on the history of adventure games, putting classic tropes together with a new system.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Mikael Andersson    </name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Dudebros &amp; Douchebags</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dudebros_and_douchebags_fmt.png" alt="dudebros_and_douchebags.psd" />
+			<pitch>
+				<p>It’s Friday night and you’re loaded. You and your bros are out to pick up some [bleep], but Matty insists it’s Ryan’s turn to score first and you’re on wingman duty. That bro’s beyond help though, dude, and even beer goggles aren’t helping you by this time in the evening. But Matty calls the shots, for now, ever since that thing with those pyrotechnics last weekend. Man, that could’ve been a sick show, doe.</p><p>Originally envisioned as a skin of V. Baker’s Kill Puppies for Satan, Db&amp;Db is an over-the-top satire of frat-bro culture that’s rapidly turned into a unique monstrosity. Late draft playtest.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Sagas of the Icelanders</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/sagas_fmt.png" alt="sagas.psd" />
+			<pitch>
+				<p>You’re an Icelandic settler in the 10th Century. The others, whether related by blood or other bond, share your longhouse. A game about: survival in a harsh land filled with harsh people; honour and social norms; the rule of law in the absence of government; gender roles and the subversion thereof; subtle yet brutal family politics; and the ever-present influence of the gods and Norns.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Mike Olson</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>The Sparks Nevada Thrilling Adventure</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/sparks_nevada_thrilling_fmt.png" alt="sparks_nevada_thrilling_adventure.psd" />
+			<pitch>
+				<p>Kids, shine your astro-spurs and don your robot fists! It’s time for the Sparks Nevada Thrilling Adventure Game! In the future of tomorrow, America expands ever-westward, into the wildest west of all... outer space!</p><p>The Lone Ranger meets John Carter, Warlord of Mars — but with a heart — in this game based on the wildly popular Thrilling Adventure Hour stage show, podcast, and Eisner-nominated graphic novel.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Atomic Robo</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/atomic_robo_fmt.png" alt="atomic_robo.psd" />
+			<pitch>
+				<p>Action! Science! Robots! Punching! More science! Significantly more punching! Explosions! Observable phenomena! Probably another robot in there somewhere!</p><p>In 1923, Nikola Tesla builds an immortal, invulnerable, super-strong atomic-powered robot: Atomic Robo. Together with the fightin’ Action Scientists of Tesladyne, Robo roams the world dealing with scientific peril and weirdness of every stripe, from demented not-dinosaurs to shadowy government conspiracies. And now you can too! Straight from the pages of Atomic Robo and right into your awestruck face!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Morgan Ellis</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/100368.png" alt="100368.png" />
+			<title>Fate Core</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fate_core_fmt.png" alt="fate_core.psd" />
+			<pitch>
+				<p>Fate Core is a game were you play proactive, capable people leading dramatic lives. Come play Fate in a variety of settings and genres.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/100501.png" alt="100501.png" />
+			<title>Atomic Robo</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/atomic_robo_fmt1.png" alt="atomic_robo.psd" />
+			<pitch>
+				<p>Are you ready for some two-fisted action science adventures? Have you ever wanted to face down global conspiracy, strange science monsters, or deadly foes as an immortal atomic robot or one of the Action Scientists of Tesladyne? In 1923 Nikola Tesla built his Atomic Robot, who went on to fight in WW2, found Tesladyne Inc., travel the globe and beyond, living a life of adventure and Action Science. Join in his adventures with this new game from Evil Hat Productions, based on the popular Atomic Robo comics.</p><p>Remain Calm. Trust in Science.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate Accelerated</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fate-accelerated_fmt1.png" alt="fate-accelerated.psd" />
+			<pitch>
+				<p>Fate Accelerated is a condensed version of the popular Fate Core roleplaying game that brings all the flexibility and power of Fate in a shorter format. Fast, fun characters and simple systems to support whatever story you want to tell.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Fiasco</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_fmt6.png" alt="fiasco.psd" />
+			<pitch>
+				<p>Fiasco is a game of powerful ambition &amp; poor impulse control.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Nykki B</name>
+	    <schedule_name>Nykki Boersma</schedule_name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Our Last Best Hope</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/our_last_best_hope_fmt.png" alt="our_last_best_hope.psd" />
+			<pitch>
+				<p>Disaster threatens the world, and you are humanity’s last chance. As the end of civilization looms, a small group of brave souls steps up to face the oncoming disaster. Armed with a computer, a mission, and a few extra things you’ve managed to pick up, your job is to save the world or go down trying. </p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Do: Pilgrims of the Flying Temple</title>
+			<pitch>
+				<p>A slapstick fantasy storytelling game about coming of age at the Flying Temple, helping others, and getting into trouble.The Universe is full of big troubles. When people need a hand, they write letters to the Temple asking for help from the pilgrims -- young travelers with good intentions, the ability to fly, and not much else! The pilgrims come to help, but they get into a lot of trouble along the way. Growing up is crazy!</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/do_fmt2.png" alt="do.psd" />
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Hollowpoint</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/hollowpoint_fmt.png" alt="hollowpoint.psd" />
+			<pitch>
+				<p>Hollowpoint is a fast-paced game about bad people performing acts of ultraviolence. You’ll play well-armed and well-equipped professionals who have a problem to solve and don’t care how they solve it, as long as the job gets done.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>6D6: Mince Pies and Murder</title>
+			<pitch>
+				<p>It’s the middle of the Roaring 20’s and Jimmy “Hard” Cheese is dying. The notorious gangster has invited a group of world-famous sleuths (that’s you) to his mansion for a final Christmas Day party. He’s promised to spill the beans on a world-shattering case, and to give all of you the credit for solving it. Consider it a farewell gift, see?</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/6d6_mincepiesandmurder_fmt.png" alt="6d6_mincepiesandmurder.psd" />
+		</game>
+	</gm>
+	<gm>
+		<name>Patrick Riegert</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Hope Inhumanity</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/hope_inhumanity_fmt.png" alt="hope_inhumanity.psd" />
+			<pitch>
+				<p>Hope Inhumanity is a card-based tabletop roleplaying game about being bound together on a journey through the desolation of a post-apocalyptic landscape toward a destination where hope still exists. While you might be driven forward by a hope for a better future, of more immediate concern is the fierce need to survive and stagger on. As the group’s individual and collective ordeals mount, the need to survive at all costs grows... and when people are desperate, they’ll do anything.</p><p>Consider it The Road, the RPG.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Torchbearer</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/144611.png" alt="144611.png" />
+			<pitch>
+				<p>Torchbearer is a love-letter to the old school fantasy RPG. You take on the role of an adventurer seeking his or her fortune. To earn that fortune you explore forlorn ruins, brave terrible monsters, and retrieve forgotten treasures.</p><p>But it’s not about being a hero, nor about fighting for what you believe. Torchbearer is about exploration and survival. You may become a hero; you might have to fight for your ideals. But first you must prove yourself in the wilds. There are no jobs, no inheritance, no other opportunities for our deadbeat adventurers. This life is their only hope to prosper in this world.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Ray Otus</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Lady Blackbird</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/lady_blackbird_fmt.png" alt="lady_blackbird.psd" />
+			<pitch>
+				<p>Lady Blackbird was fleeing from an arranged marriage aboard a smuggler’s skyship, The Owl, when an Imperial Cruiser, The Hand of Sorrow, overook and captured the ship. Now she and her ragtag crew of new friends must escape and locate the hidden lair of the pirate king, Uriah Flint, Lady B’s former paramour and the crew’s only hope to escape the grasping Imperium. </p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Don’t Rest Your Head</title>
+			<pitch>
+				<p>You haven’t slept in weeks and now you are manifesting strange powers. You see doors everywhere into some strange city and something just clicked. It was the sound of the Nightmares flicking of the safety and aiming a gun at your head!</p><p>In this game, players are all insomniacs with superpowers, fighting — and using — exhaustion and madness to stay alive, and awake for just one more night, in a reality gone way wrong.</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dryh_fmt.png" alt="dryh.psd" />
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Cat</title>
+			<pitch>
+				<p>There’s nothing silly about being a cat! You have the important job of protecting humans against horrible boggins and other evils their all-too-limited senses can’t detect.</p><p>Play as your favorite felines in this children and first-timer friendly role-playing game.</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/cat_fmt1.png" alt="cat.psd" />
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/109600.png" alt="109600.png" />
+			<title>Nanoworld</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/nanoworld_fmt.png" alt="nanoworld.psd" />
+			<pitch>
+				<p>Nanoworld is a game about clones... on the day when things go wrong. This nano-RPG (it fits on a business card!) emphasizes collaborative storytelling in a future setting where you and your fellow clones must respond to a crisis. As you play, you discover/define the nature of the clones, their abilities, their relationship to “uniques”, and the thing that has just turned their world upside down.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Renee Knipe</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Monster of the Week: Beasts of Burden</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/monsteroftheweek_beasts_fmt.png" alt="monsteroftheweek_beasts_of_burden.psd" />
+			<pitch>
+				<p>Take on the role of neighborhood dogs (and an occasional cat), defending the sleepy little town of Burden Hill against all manner of supernatural menaces. Haunted doghouses, undead roadkill, and smart-ass witches’ familiars are all that stand between you and your evening walk. </p><p>Based on the award winning comic books by Evan Dorkin and Jill Thompson.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Falling &amp; Drowning: Aerie of the Aboleth</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/drowning_and_falling_fmt.png" alt="drowning_and_falling.psd" />
+			<pitch>
+				<p>The aerie of the aboleth? As if the possibility of drowning wasn’t bad enough while investigating giant evil fish, now we have to risk falling too?</p><p>Drowning And Falling is a quick-playing GM-less game of dungeon crawling adventure, where the risk to life and limb is always falling and drowning. Truth in advertising, as they say.</p><p>Players create challenges for each other and since I’ll be playing with you, and since the title of this slot is Aerie of the Aboleth, you can probably guess what I’m planning.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Whitebooks: The Last Modron Migration</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/archipelago_modronmemor_fmt.png" alt="archipelago_modronmemoranda.psd" />
+			<pitch>
+				<p>First Primus was murdered by Orcus, then formians invaded Mechanus, slaughtering modrons in droves and driving the rest into exile. The refugees flood into Sigil, but the City of Doors creaks under the strain. Can you help the modrons find a new place to call home?</p><p>Whitebooks is a GMless game of dungeoncrawls and epic destinies, combining elements of Apocalypse World and Archipelago.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Archipelago:<br />Carnival of Lost Souls</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/archipelago_carnivalofl_fmt.png" alt="archipelago_carnivaloflostsouls.psd" />
+			<pitch>
+				<p>“Welcome angel, welcome fiend, welcome all who walk between! Squirm in delight at the sinuous Snake Mistress! Steel your nerves against the shock of the Living Skeleton! Oh, it’s Madam Fortuna you came to see? Far be it from me to stand in your way, though ask yourself this: When do you stop being the audience and start being one of us?”</p><p>This version of Archipelago is slightly hacked to fit the gothic horror genre and the Ravenloft setting.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Rick Neal</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Feng Shui 2</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/feng_shui_fmt.png" alt="feng_shui.psd" />
+			<pitch>
+				<p>Join a band of Kung-Fu heroes from across time and space, as you battle strange and vicious enemies who are trying to seize the feng shui junction points that control all of history!</p><p>This is a chance to get a look at the new edition of Feng Shui before it hits the stores.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>9</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Firefly: Followin’ Yonder Star</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/firefly_fmt.png" alt="firefly.psd" />
+			<pitch>
+				<p>The job pays well, and it ain’t too hard. All you gotta do is ferry some high-falutin’ business types from Bellerophon to St. Alban’s and help them find some he li ji qun there. ‘Course, ya gotta baochi anjing, ‘cause of some kinda business reasons, but that ain’t so hard.</p><p>This one’s sure to go smooth.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Monster of the Week</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/monster_of_the_week_fmt.png" alt="monster_of_the_week.psd" />
+			<pitch>
+				<p>There are monsters out there.</p><p>Most people don’t believe in them, but they’re real. Mostly, when someone finds out that monsters are real, that’s just before they die. But some people are mean enough, smart enough, crazy enough, or hurt enough, that they live. And some of those people go and hunt down more. That’s who you are: someone who decided to go on a crusade against the evil critters that are scurrying around out there.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>The Dresden Files: Refuge</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dresden_files_fmt1.png" alt="dresden_files.psd" />
+			<pitch>
+				<p>In the city of Winnipeg, the Covenant of Two Waters has mostly kept the peace for over a century. Still, some little problems pop up now and then. Like the rise in missing people you’re seeing right now, for example.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Rishi Agrawal</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Dread</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dread_2_fmt1.png" alt="dread_2.psd" />
+			<pitch>
+				<p>Dread is a game about suspense, horror and Jenga. Dread has a unique conflict mechanism where, instead of rolling dice, players pull blocks from a Jenga tower. As more blocks are pulled, the tension mounts.</p><p>In this adventure, the characters are villagers in a remote village in India, who are being stalked by a man-eating tiger. Try not to knock over the Jenga tower, or your character could end up being tiger meat.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Dog Eat Dog</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dog_eat_dog_2_fmt1.png" alt="dog_eat_dog_2.psd" />
+			<pitch>
+				<p>Dog Eat Dog is a game about colonialism and consequences. One player will play the role of the occupation forces of a small Pacific Island while the others will play natives of the island. Although the game will not necessarily have mature content, this game is designed to directly deal with social issues and question assumptions.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Variance</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/variance_fmt.png" alt="variance.psd" />
+			<pitch>
+				<p>This is a dimension-hopping storytelling RPG. Your world is dying. Can you help save it by traveling to different dimensions and completing missions? The dimensions will span radically different worlds and genres.</p><p>The tone of the game is serious. In this playtest, we will play a few scenes and you will have an opportunity to give feedback and help make the game better.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<pitch_image src="god_menu_tabletop-web-resources/image/182102.png" alt="182102.png" />
+			<title>Fate Core: Venture City Stories</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/venture_city_stories_fmt.png" alt="venture_city_stories.psd" />
+			<pitch>
+				<p>Venture City Stories is what you get when cyberpunk meets superheroes. In the near future, mega-corporations control the world, and they know the formula for giving people superpowers. In this adventure, the characters are people with powers who work for themselves, and not the corporations. Using the highly acclaimed Fate Core rules, this game puts new twists on two familiar genres.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Ron Frazier</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Jadepunk: The Vigilance Commitee</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/jadepunk_fmt.png" alt="jadepunk.psd" />
+			<pitch>
+				<p>Boyd, the leader of a vigilance committee in an Aerish district, is a well-connected man who runs some of the strictest streets in the city. Recently, attacks by the rival group the Order of the Righteous and Avenging Wind have set the streets of Boyd’s district aflame. The city watch have yet to respond, but they are expected very soon, especially if the violence begins to affect the economy.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate Core: Orcs in the Dragon’s Den</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fatecore_orcsinthedrago_fmt.png" alt="fatecore_orcsinthedragonsden.psd" />
+			<pitch>
+				<p>A half orc comes to the party with an incredible offer: The hoard of a slain dragon! The catch is that it was his tribe of orcs who slew the dragon, and they have to deal with them (though their numbers are severely depleted) in order to get it. What challenges await in the slain dragon’s lair?</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Russ Brown</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World: Doom of Fenrax</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeon_world_fmt5.png" alt="dungeon_world.psd" />
+			<pitch>
+				<p>A century ago, the City of Renthellis was spared the judgment of the Lost God, Fenrax. The collection of market towns beyond the mountain passes didn’t fare as well and are now known as the Departed Lands. An expedition to re-open trade has disappeared, and may have brought doom down on more then just themselves.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Fate Core: Tentacles and Brass</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fatecore_tentaclesandbr_fmt.png" alt="fatecore_tentaclesandbrass.psd" />
+			<pitch>
+				<p>Its 1940, fifty years since swarms of tentacled creatures burst forth from the ground across the world and formed symbiotic bonds with half of the human race, becoming the Joined. The Squidless, living atop high mountains, on floating islands, or in flying cities, have undertaken a daring raid on the Joined city of York, England. Are you the Squidless raiders, taking the fight to the enemy, or are you the Joined, defending your beloved symbiots?</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Sarah</name>
+	    <schedule_name>Sarah Richardson</schedule_name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Monster of the Week: Red Right Hand</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/monster_of_the_week_fmt1.png" alt="monster_of_the_week.psd" />
+			<pitch>
+				<p>You will be playing as Hellboy and other members of the B.P.R.D. investigating the weird occurrences terrorizing the sleepy town of Innsmouth. Expect weirdness, some possible blood, and the certain destruction of the universe.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Dungeon World:<br />Gold, Guts, and Grog</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dw_rat_queens_fmt1.png" alt="dw_rat_queens.psd" />
+			<pitch>
+				<p>Play as a rockabilly elven mage, a hipster dwarven warrior, an atheist human cleric, and a hippy halfling thief in their “endless quest for gold, guts, and grog” in the town of Palisade.</p><p>You will be playing as the Rat Queens, but don’t worry. No knowledge of the comic is required, although I highly recommend grabbing a copy (it’s so good).</p><p>REALLY mature content.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Scott Acker</name>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Immortals:<br />Ancient Secrets</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/immortals_ancient_secre_fmt.png" alt="immortals_ancient_secrets.psd" />
+			<pitch>
+				<p>You are the Cil’dea, the Children of Power. Your parents created, shaped and once ruled the Universe. After the Falling many of these Great Races left this universe. Their mantle and powers have fallen to you. Some call you Faeries, Dragons, Ghosts, Vampires, Demons, Angels, Wizards. This is only a shell of your True Being.</p><p>Now a strange call pulls you into shadow. You feel a darkness lurking upon the horizon. The lands of Shadow and Substance are your home and your parents’ greatest achievement. Now, you gather together to see who among you will lead, who will follow, and who will Fade.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Don’t Rest Your Head: Strike Force Dagon</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dryh_strike_force_dagon_fmt.png" alt="dryh_strike_force_dagon.psd" />
+			<pitch>
+				<p>Deep-cover, Antiterrorism, Guerrilla, and Operational , Narco-conspection (DAGON). You have just been selected for the most elite strike force ever created. Now you just have to survive training. Drugs, sleep deprivation, stress all in an attempt to break you. This stuff was so locked off you don’t even know really what your missions will be like but they must be intense. The last set of training got weird though, you kept seeing things at the edges of your vision and the sleep deprivation just about got you to crack. Can’t let them see you falling apart or you’ll wash out. Stay tough and don’t talk to the nightmares.  </p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Sean Nittner</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Torchbearer</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/torchbearer_fmt.png" alt="torchbearer.psd" />
+			<pitch>
+				<p>Based on the award-winning Mouse Guard Roleplaying Game, Torchbearer is a riff on the early model of fantasy roleplaying games. In it, you take on the role of a fortune-seeking adventurer.To earn that fortune, you must delve into forlorn ruins, brave terrible monsters and retrieve forgotten treasures. However, make no mistake, this game is not about being a hero or about fighting for what you believe. This game is about exploration and survival.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>War of Ashes:<br />Fate of Agaptus</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/war_of_ashes_fmt.png" alt="war_of_ashes.psd" />
+			<pitch>
+				<p>Welcome to the War of Ashes RPG: Fate of Agaptus! This “grimsical” minis-friendly tabletop RPG is based on the popular miniature game. Head off to adventure in a world where the inhabitants might look cute and cuddly but often carry pointy objects with which they might just decide to stab you. Play as a determined Elvorix, a vengeful Vidaar, a militaristic Jaarl, or a ravenous Kuld. Stage Romanic-style battles and then celebrate your victory with a pint of kogg.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Stentor Danielson</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Dread: Cold War</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/Dread-Coldwar_fmt.png" alt="Dread-Coldwar.psd" />
+			<pitch>
+				<p>It’s the Cold War, when the US and USSR had their fingers on the button. As the geopolitical tensions rise, you’ll pull blocks from the tower until crisis strikes. With a bunch of ridiculous misfits about to start a nuclear war, all you can do is laugh.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>A Tragedy in Five Acts</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/a_tragedy_in_five_acts_fmt.png" alt="a_tragedy_in_five_acts.psd" />
+			<pitch>
+				<p>Alas, poor Yorick! In this GM-less storytelling-focused game we’ll create a wacky Shakespearean-style tragedy about any premise that we choose. Bid for control of the scene and reveal your fatal flaw at the right moment. In the end, we’ll all end up exiled, forsworn, or dead.</p><p>No knowledge of Shakespeare needed!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Fiasco</title>
+			<pitch>
+				<p>Everything that can go wrong will go wrong. In this GM-less storytelling game, we’ll create the equivalent of a comedy heist movie, seeking grand goals and probably failing miserably. You can control the scene or your outcome, but not both!</p><p>Available playsets include Science Comics (second-rate superheroes/supervillains), Touring Rock Band II (washed-up rock stars), and You Are A Cat (cats).</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fiasco_sciencecomics_tr_fmt.png" alt="fiasco_sciencecomics_trb2_youareacat.psd" />
+		</game>
+	</gm>
+	<gm>
+		<name>Steve Segedy</name>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>The Warren</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/the_warren_fmt2.png" alt="the_warren.psd" />
+			<pitch>
+				<p>All the world will be your enemy, Prince of a Thousand Enemies. And when they catch you, they will kill you. But first they must catch you; digger, listener, runner, Prince with the swift warning. Be cunning, and full of tricks, and your people will never be destroyed.</p><p>This game uses Marshall Miller’s hack of the Apocalypse World engine, inspired by anthropomorphic stories such as Watership Down.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Night Witches</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/night_witches_fmt1.png" alt="night_witches.psd" />
+			<pitch>
+				<p>Night Witches is a game about women at war. As a member of the 588th Night Bomber Regiment, you’ll answer the call of your Motherland in her darkest hour. Can you do your duty and strike blow after blow against the Fascists? Can you overcome discrimination and outright sabotage and rise above your sexist comrades? Are there limits to patriotism — or endurance?</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Steve Wallace</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Dungeon World:<br />No Country For Old Kobolds</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dw_ncfok_fmt.png" alt="dw_ncfok.psd" />
+			<pitch>
+				<p>Ever wondered how all the families of all those kobolds you killed as a first level adventurer lived? Well, now you can find out!</p><p>Your people have been ravaged by the other races since time immemorial - admittedly that’s only 10 or 15 years ago. You and your children are the champions of the Kobold race and you must defend against predators of the wild, droves of first level murder hobos, and pressures from the other kingdoms! You can’t win, your only chance is to die in glorious fashion and pass on your might to one of your children! NCFOK is black comedy that goes for the jugular.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Dungeon World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dungeon_world_fmt6.png" alt="dungeon_world.psd" />
+			<pitch>
+				<p>A rules light focused-on-fiction game portraying old school fantasy roleplaying!</p><p>Old School style fantasy adventure feel with modern mechanics. Dungeon World feels like the fantasy game you thought you were going to play when you first discovered fantasy RPGs. Fast action and skin of the teeth escapes abound. One of the most popular games powered by the Apocalypse World Engine.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Steven Hammond</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Feng Shui 2</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/feng_shui_fmt1.png" alt="feng_shui.psd" />
+			<pitch>
+				<p>The true power of Feng Shui is known only to a few. They all want you dead.</p><p>Acclaimed game designer and Hong Kong action scholar Robin D. Laws gives us a new edition of Feng Shui, the game that has kicked the ass of every other kick-ass RPG about Chinese demons, machine-gunning thugs and mechanized apes. More than just an action riot at your tabletop, Feng Shui 2 is a study in everything that makes Hong Kong action thrilling.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Hollow Earth Expedition</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/hollow_earth_expedition_fmt.png" alt="hollow_earth_expedition.psd" />
+			<pitch>
+				<p>Explore one of the world’s greatest and most dangerous secrets: the Hollow Earth, a savage land filled with dinosaurs, lost civilizations, and ferocious savages! Players take on the roles of two-fisted adventurers, eager academics and intrepid journalists investigating the mysteries of the Hollow Earth.</p><p>Meanwhile, on the surface, world powers and secret societies vie for control of what may be the most important discovery in all of human history.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Stras Acimovic</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Atlas Reckoning</title>
+			<pitch>
+				<p>When humanity stood on the brink of extinction, unable to face giant Behemoths that destroyed their cities and cost countless lives, the brave pilots of the Atlas Corps piloted giant mechs against the monstrosities that threatened everyone.</p><p>Atlas Reckoning is a game about the lives of pilots and the stresses of fighting giant monsters in pairs alongside each other using a unique card-based system.</p>
+			</pitch>
+			<pitch_image src="god_menu_tabletop-web-resources/image/atlas_reckoning_fmt.png" alt="atlas_reckoning.psd" />
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Swords Without Master</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/swords_without_master__fmt1.png" alt="swords_without_master_2.psd" />
+			<pitch>
+				<p>Wondrous sights, exotic locales, blades and weapons of every shape, adventure, and treasures beyond imagination. Hearkening to the days of Howard’s Conan and Leiber’s Fafhrd and Gray Mouser — Swords Without Master is the long awaited Sword and Sorcery game designed and written by Epidiah Ravachol. High on theme, action, swords and sorcery, easy and quick to pick up and play.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Urban Shadows</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/urban_shadows_fmt1.png" alt="urban_shadows.psd" />
+			<pitch>
+				<p>Wizards, Vampires, Werewolves, Fey and the mortals caught in-between. Urban Shadows is a Powered by the Apocalypse roleplaying game of characters struggling to survive in a dark urban environment drowning in supernatural politics. The game focuses heavily on the gritty drama and tense violence that we see so often in works like The Dresden Files, Angel and Supernatural.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>World of Cyberpunk</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/world_of_cyberpunk_fmt.png" alt="world_of_cyberpunk.psd" />
+			<pitch>
+				<p>The year is 2052. Life is cheap, the corps run everything, and technology is omnipresent. Whether you owe someone, are working off that shiny new set of cyberlimbs, or just like the thrill of the action, you are coming together with an elite team of operatives to run top end jobs.</p><p>World of Cyberpunk is a light-weight, easy to learn game of near-future cyberpunk action Powered by the Apocalypse.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Terry Hope Romero</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Rat Queens: *World mashup</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dw_rat_queens_fmt2.png" alt="dw_rat_queens.psd" />
+			<pitch>
+				<p>Imagine Buffy meets Tank Girl in Lord of the Rings on crack!</p><p>Based on the comic with the same name, this is a dark comedic fantasy game starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Hobbit Thief. Delight in a modern spin on an old school genre where you play ragtag rowdy, lewd, ass-kicking adventurers with a fondness for monster killing, drink, sex, drugs, and gold!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Monsterhearts: Elderhearts</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/mh_fmt3.png" alt="mh.psd" />
+			<pitch>
+				<p>Elderhearts is a story game about supernatural romance and elderly desperation. Vampires, werewolves, witches: they dream and suffer among us. It’s unclear whether they can live among normal people, and whether their wicked hearts can be redeemed. When you play Elderhearts, you become one of these elderly monsters, facing the inevitable end while trying to meet their needs like every day is their last.</p><p>This game is an elderly sex horror story, revelling in codependency, untenable promises, and freeing entropy. For mature players only.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Travis Scott</name>
+		<game>
+			<scheduling>
+				<min>2</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Fate Core: Dragonknights!</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dragonknights_fmt.png" alt="dragonknights.psd" />
+			<pitch>
+				<p>Bandits fill the hills and forests, preying on unsuspecting traders and rustling vast herds of cattle! Avaricious leaders and ambitious ministers intrigue in the halls of power, holding countless lives in their clenching hands! Secret societies lurk in the darkness, practising wicked rites and committing unspeakable acts! Beasts ravage the countryside, stealing the livelihood and lives of innocent folk! But the dragonknight soars above all! The Glorious Order of Distinguished Knights Dragonbonded is the yet-untarnished picture of Honor, before which bandits flee, rulers bow, and wicked folk repent.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Dungeon World:<br />No Country For Old Kobolds</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dw_ncfok_fmt1.png" alt="dw_ncfok.psd" />
+			<pitch>
+				<p>Your people have been ravaged by the other races since time immemorial - admittedly that’s only 10 or 15 years ago. You and your children are the champions of the Kobold race and you must defend against predators of the wild, droves of first level murder hobos, and pressures from the other kingdoms! You can’t win, your only chance is to die in glorious fashion and pass on your might to one of your children!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>4</min>
+				<max>5</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Urban Shadows</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/urban_shadows_fmt2.png" alt="urban_shadows.psd" />
+			<pitch>
+				<p>Your city is home to monsters. You are one of them. You walk among humanity. Hiding. Preying. To achieve your inhuman goals means playing lethal games of status and obligation while resisting the siren’s call of the corruption within.</p><p>Urban Shadows is a game about a city infested with monsters. Unforgivingly political. Relentlessly wicked. Horrifically personal.</p><p>Let’s take a walk down a dark alley together...</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Golden Sky Stories</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/golden_sky_stories_fmt1.png" alt="golden_sky_stories.psd" />
+			<pitch>
+				<p>Golden Sky Stories is a heartwarming, non-violent role-playing game that’s great fun for all ages. It takes place in a small town in rural Japan, and players take on the role of henge animals with just a little magical power, including the ability to temporarily take human form. They do not fight great battles or unearth valuable treasures though; Golden Sky Stories adventures are all about helping others and becoming friends.</p><p>Cute, Fun, Non-violent, all ages!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Tresi</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Torchbearer</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/torchbearer_3_fmt.png" alt="torchbearer_3.psd" />
+			<pitch>
+				<p>Torchbearer is a detail-oriented dungeon crawl RPG from the creators of Mouse Guard and Burning Wheel. Torchbearer is not Lord of the Rings. Torchbearer is desperate murder-hoboes exploring improbable ruins in fantasy Vietnam.</p><p>You know how other RPGs gloss over details like lighting, food, encumbrance, equipment, and mapping? Not so in Torchbearer. Every torch and candle, every morsel of food, every open slot in your backpack is an important resource to manage while adventuring.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>InSpectres</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/inspectres_fmt1.png" alt="inspectres.psd" />
+			<pitch>
+				<p>InSpectres is the nation’s first fully licensed and insured Supernatural Investigation and Elimination Service.</p><p>InSpectres is a comedy/horror game loosely based on the Ghostbusters movies and reality TV. The mechanics are fast, simple, and include rich opportunities for player narration. We’ll whip up a franchise, conduct a brief interview process to hire the PCs, and then tackle our first client and whatever problem he/she/it has.</p><p>Because it’s not just a vampiric infestation—it’s YOUR vampiric infestation!</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Trevis Martin</name>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>3</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Technoir</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/technoir_2_fmt1.png" alt="technoir_2.psd" />
+			<pitch>
+				<p>You are a hard-nosed operator, entrenched in the gritty criminal underworld of the near future. You have illicit technology and the talents to use it. You’ve already got skin in the game, how much more are you willing to sacrifice to live up to your code, to get your revenge, or to protect those that you love?</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<title>Dogs in the Vineyard</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/ditv_fmt.png" alt="ditv.psd" />
+			<pitch>
+				<p>You play a teenage virgin gunslinger priest with ultimate power and no life experience, judging people for doing bad things for good reasons.You travel from town to isolated town, carrying mail, news, and doctrine, healing the sick, naming babies, officiating marriages, and pronouncing judgment upon the wicked. Towns welcome you with open arms but you’re there to stir up its dirt and lay bare its sins.</p><p>Sometimes you have to cut off the arm to save the life. Does the sinner deserve mercy? Do the wicked deserve judgment? You decide.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>5</max>
+				<duration>2</duration>
+			</scheduling>
+			<title>Apocalypse World</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/aw_fmt.png" alt="aw.psd" />
+			<pitch>
+				<p>Make your way in a shattered, dangerous world of not enough anything to go around. </p><p>Either: Survive and defend your chunk of territory and the not-as-bad-as-the-others in a deteriorating mining ship turned space prison.</p><p>Or: Climb your way to the top rank of the most dangerous car race on earth.</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>3</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Monsterhearts: The Blood of Misty Harbour</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/monsterhearts_bloodMis_fmt1.png" alt="monsterhearts_bloodMistyHarbour.psd" />
+			<pitch>
+				<p>In the not-so-sleepy township of Misty Harbour, dark secrets and ritual bloodshed are becoming the new normal.</p><p>Two lovers encounter dark and sordid family secrets. Cultists attempt to summon their demonic patron. The boundaries between life and death are despoiled, time and again.</p>
+			</pitch>
+		</game>
+	</gm>
+	<gm>
+		<name>Will Hindmarch</name>
+		<game>
+			<scheduling>
+				<min>1</min>
+				<max>4</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>mature</audience>
+			<title>Dark</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/dark_fmt.png" alt="dark.psd" />
+			<pitch>
+				<p>Sneak through fantastical cityscapes and gloomy castles in pursuit of material loot or even greater treasures in this new card-based roleplaying game of thieving and skullduggery!</p>
+			</pitch>
+		</game>
+		<game>
+			<scheduling>
+				<min>3</min>
+				<max>6</max>
+				<duration>4</duration>
+			</scheduling>
+			<audience>allages</audience>
+			<title>Odyssey</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/Odyssey_fmt.png" alt="Odyssey.psd" />
+			<pitch>
+				<p>Create a diverse cast of characters and put them through dramatic changes as they undertake incredible journeys across wondrous worlds in this GMless story game facilitated by its designer!</p>
+			</pitch>
+		</game>
+	</gm>
+</games>

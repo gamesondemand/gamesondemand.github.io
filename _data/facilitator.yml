@@ -40,14 +40,6 @@
   :max_duration: 2
   :name: andrew-medeiros
 - :day: friday
-  :slot: 10AM
-  :max_duration: 8
-  :name: andrew-medeiros
-- :day: friday
-  :slot: 12PM
-  :max_duration: 6
-  :name: andrew-medeiros
-- :day: friday
   :slot: 2PM
   :max_duration: 4
   :name: andrew-medeiros
