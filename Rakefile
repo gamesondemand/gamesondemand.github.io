@@ -7,6 +7,15 @@ namespace :build do
     def slugify_text(input)
       input.gsub(/\W+/, '-').downcase.sub(/-$/, '')
     end
+    def alpha_group_for(word)
+      case word.to_s[0,1]
+      when /\d/ then '0-9'
+      when /[abcdef]/ then 'A-F'
+      when /[ghijkl]/ then 'G-L'
+      when /[mnopqr]/ then 'M-R'
+      when /[stuvwxyz]/ then 'S-Z'
+      end
+    end
   end
 
   namespace :pages do
@@ -142,64 +151,66 @@ namespace :build do
       contents.unshift(merged_days.join(','))
       CSV.open(filename, 'w+') do |csv|
         contents.each do |content|
-          csv << CSV.parse(content).pop[1..-1] # Silly leading space
+          row = CSV.parse(content).pop[1..-1]
+          csv << row # Silly leading space
         end
       end
       File.unlink(temp_filename)
     end
+
     desc 'Build necessary game data'
     task :games => ['build:functions'] do
-      def alpha_group_for(word)
-        case word.to_s[0,1]
-        when /\d/ then '0-9'
-        when /[abcdef]/ then 'A-F'
-        when /[ghijkl]/ then 'G-L'
-        when /[mnopqr]/ then 'M-R'
-        when /[stuvwxyz]/ then 'S-Z'
-        end
-      end
       require 'fileutils'
       require 'psych'
       require 'csv'
+      require 'nokogiri'
 
-      source_filename = File.expand_path('../_data/god_gencon_gameimport.csv', __FILE__)
+      document = Nokogiri::XML.parse(File.read(File.expand_path('../_data/gencon_god_tabletop.xml', __FILE__)))
       collector = {}
       exceptions = []
-      CSV.foreach(source_filename, headers: :first_row) do |row|
-        # Header ["Name", "Game1", "G1Type", "G1Pitch", "G1Hours", "G1PMin", "G1PMax", "G1Kids"]
-        row['Game1'] = '3:16' if row['Game1'].to_s =~ /1361+/
-        row['Game1'] = row['Game1'].sub(/^(An?) (.*)$/i, '\2')
-        row['Game1'] = row['Game1'].sub(/^(The) (.*)$/i, '\2')
+      document.css('games gm').each do |gm|
+        gm.css('game').each do |game|
+          game_name = game.xpath('title').first.text
+          game_name = game_name.sub(/^(An?) (.*)$/i, '\2')
+          game_name = game_name.sub(/^(The) (.*)$/i, '\2')
+          game_type = 'Tabletop'
+          gm_name = (gm.xpath('schedule_name').first || gm.xpath('name').first).text
+          slugified_game_name = slugify_text(game_name.split('(').first)
+          slugified_person_name = slugify_text(gm_name)
 
-        slugified_game_name = slugify_text(row['Game1'].split('(').first)
-        slugified_person_name = slugify_text(row['Name'])
-        collector[slugified_game_name] ||= {
-          'facilitators' => {},
-          'type' => row['G1Type'],
-          'name' => row['Game1'],
-          'alpha_group' => alpha_group_for(slugified_game_name)
-        }
-
-        # Data integrity error
-        if collector[slugified_game_name]['name'].downcase != row['Game1'].downcase
-          exceptions << "Mismatch game name: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['name']}\n\tGot: #{row['Game1']}"
+          collector[slugified_game_name] ||= {
+            'facilitators' => {},
+            'type' => game_type,
+            'name' => game_name,
+            'alpha_group' => alpha_group_for(slugified_game_name)
+          }
+          if collector[slugified_game_name]['name'].downcase != game_name.downcase
+            exceptions << "Mismatch game name: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['name']}\n\tGot: #{game_name}"
+          end
+          if collector[slugified_game_name]['type'] != game_type
+            exceptions << "Mismatch game type: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['type']}\n\tGot: #{game_type}"
+          end
+          pitch = game.xpath('pitch').inner_html.strip
+          duration = game.css('scheduling duration').first.text
+          minimum_players = game.css('scheduling min').first.text
+          maximum_players = game.css('scheduling max').first.text
+          audience_node = game.css('audience').first
+          if audience_node
+            audience = audience_node.text
+          else
+            audience = ''
+          end
+          collector[slugified_game_name]['facilitators'][slugified_person_name] = {
+            'type' => game_type,
+            'facilitator_name' => gm_name,
+            'name' => game_name,
+            'pitch' => pitch,
+            'duration' => duration,
+            'minimum_players' => minimum_players,
+            'maximum_players' => maximum_players,
+            'audience' => audience
+          }
         end
-
-        # Date integrity error check
-        if collector[slugified_game_name]['type'] != row['G1Type']
-          exceptions << "Mismatch game type: #{slugified_game_name}\n\tExpected: #{collector[slugified_game_name]['type']}\n\tGot: #{row['G1Type']}"
-        end
-
-        collector[slugified_game_name]['facilitators'][slugified_person_name] = {
-          'type' => row['G1Type'],
-          'facilitator_name' => row['Name'],
-          'name' => row['Game1'],
-          'pitch' => row['G1Pitch'],
-          'duration' => row['G1Hours'],
-          'minimum_players' => row['G1PMin'],
-          'maximum_players' => row['G1PMax'],
-          'kid_friendly' => (row['G1Kids'] == 'Yes' ? true : false)
-        }
       end
 
       # Alphabetizing the hash
@@ -213,7 +224,7 @@ namespace :build do
     end
 
     desc 'Responsible for parsing the schedule CSV and generating a hosts and facilitators file'
-    task :volunteers => ['build:functions'] do # => ['build:functions', 'build:data:schedule_download'] do
+    task :volunteers => ['build:functions', 'build:functions', 'build:data:schedule_download'] do
       Day = Struct.new(:day, :times)
       require 'csv'
       require 'psych'
@@ -338,7 +349,7 @@ namespace :build do
     end
   end
   task :pages => ['build:pages:schedule', 'build:pages:games']
-  task :data => ['build:data:games']
+  task :data => ['build:data:games', 'build:data:schedule_download', 'build:data:volunteers', 'build:data:times']
 end
 
 desc 'Build the sites'
