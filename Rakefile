@@ -171,8 +171,10 @@ namespace :build do
       document.css('games gm').each do |gm|
         gm.css('game').each do |game|
           game_name = game.xpath('title').first.text
-          game_name = game_name.sub(/^(An?) (.*)$/i, '\2')
-          game_name = game_name.sub(/^(The) (.*)$/i, '\2')
+          game_name = game_name.
+            gsub(/:(\w)/, ': \1').
+            sub(/^(An?) (.*)$/i, '\2').
+            sub(/^(The) (.*)$/i, '\2')
           game_type = 'Tabletop'
           gm_name = (gm.xpath('schedule_name').first || gm.xpath('name').first).text
           slugified_game_name = slugify_text(game_name.split('(').first)
