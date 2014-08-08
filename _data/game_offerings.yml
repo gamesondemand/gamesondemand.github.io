@@ -1400,7 +1400,10 @@ inspectres:
   label: Sun 2PM
   facilitator_id: tresi
 island: []
-itras-by: []
+itras-by:
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: evan-torner
 jadepunk-the-vigilance-commitee:
 - slug: thursday/2pm
   label: Thu 2PM
@@ -2205,6 +2208,9 @@ swords-without-master:
 - slug: friday/2pm
   label: Fri 2PM
   facilitator_id: stras-acimovic
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: evan-torner
 - slug: friday/8pm
   label: Fri 8PM
   facilitator_id: stras-acimovic

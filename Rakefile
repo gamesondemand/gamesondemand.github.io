@@ -2,7 +2,7 @@ namespace :build do
 
   task :functions do
     def keyify_time(time)
-      time.strftime('%a %l%p').sub(/ +/, ' ')
+      time.gmtime.strftime('%a %l%p').sub(/ +/, ' ')
     end
     def slugify_text(input)
       input.gsub(/\W+/, '-').downcase.sub(/-$/, '')
@@ -239,7 +239,7 @@ namespace :build do
     end
 
     desc 'Responsible for parsing the schedule CSV and generating a hosts and facilitators file'
-    task :volunteers => ['build:functions', 'build:functions', 'build:data:schedule_download'] do
+    task :volunteers => ['build:functions', 'build:functions'] do #, 'build:data:schedule_download'] do
       Day = Struct.new(:day, :times)
       require 'csv'
       require 'psych'
@@ -247,7 +247,9 @@ namespace :build do
       days = []
       facilitating = {}
       hosting = {}
-      times.each_with_object(days) {|time, mem| mem << Day.new(time[1].fetch('day'), time[1]['times'].values.collect{|v| v['time']}) }
+      times.each_with_object(days) {|time, mem| 
+        mem << Day.new(time[1].fetch('day'), time[1]['times'].values.collect{|v| v['time'] })
+      }
 
       def peak_ahead(row, times, index, role_pattern)
         duration = 2
@@ -273,24 +275,24 @@ namespace :build do
               when /host/i
                 hosting[slugified_person_name] ||= []
                 hosting[slugified_person_name] << {
-                  day: time.strftime('%A').downcase.strip,
-                  slot: time.strftime('%l%p').strip,
+                  day: time.gmtime.strftime('%A').downcase.strip,
+                  slot: time.gmtime.strftime('%l%p').strip,
                   max_duration: peak_ahead(row, day.times, index, /host/i),
                   role: row[time_key].downcase
                 }
               when /gm/i
                 facilitating[slugified_person_name] ||= []
                 facilitating[slugified_person_name] << {
-                  day: time.strftime('%A').downcase.strip,
-                  slot: time.strftime('%l%p').strip,
+                  day: time.gmtime.strftime('%A').downcase.strip,
+                  slot: time.gmtime.strftime('%l%p').strip,
                   max_duration: peak_ahead(row, day.times, index, /gm/i),
                   role: row[time_key].downcase
                 }
               when /larp/i
                 facilitating[slugified_person_name] ||= []
                 facilitating[slugified_person_name] << {
-                  day: time.strftime('%A').downcase.strip,
-                  slot: time.strftime('%l%p').strip,
+                  day: time.gmtime.strftime('%A').downcase.strip,
+                  slot: time.gmtime.strftime('%l%p').strip,
                   max_duration: peak_ahead(row, day.times, index, /larp/i),
                   role: row[time_key].downcase
                 }
@@ -336,7 +338,7 @@ namespace :build do
           time_registry.fetch(day_name).fetch('times')[abbreviation]['two_hour_games'] = []
           time_registry.fetch(day_name).fetch('times')[abbreviation]['four_hour_games'] = []
           the_time = time_registry.fetch(day_name).fetch('times')[abbreviation]['time']
-          time_registry.fetch(day_name).fetch('times')[abbreviation]['label'] = the_time.strftime("%A %l%p")
+          time_registry.fetch(day_name).fetch('times')[abbreviation]['label'] = the_time.gmtime.strftime("%A %l%p")
           slot_facilitators = facilitators.select do |facilitator|
             facilitator.fetch(:day).upcase == day_name.upcase &&
             facilitator.fetch(:slot).upcase == abbreviation.upcase
