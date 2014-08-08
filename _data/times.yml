@@ -35,15 +35,23 @@ thursday:
         facilitator_id: matthew-j-hanson
       - game_id: our-last-best-hope
         facilitator_id: nykki-boersma
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: sagas-of-the-icelanders
         facilitator_id: mikael-andersson
       - game_id: tokyo-rain
         facilitator_id: justin-d-jacobson
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       - game_id: warren
         facilitator_id: jason-morningstar
       four_hour_games:
       - game_id: archipelago-carnival-of-lost-souls
         facilitator_id: renee-knipe
+      - game_id: d-d-flailsnails-the-garden-of-statues
+        facilitator_id: shoe-skogen
+      - game_id: d-d-flailsnails-the-moon-marsh
+        facilitator_id: shoe-skogen
       - game_id: dark
         facilitator_id: will-hindmarch
       - game_id: dog-eat-dog
@@ -114,6 +122,8 @@ thursday:
         facilitator_id: mark-causey
       - game_id: our-last-best-hope
         facilitator_id: nykki-boersma
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: ryuutama-natural-fantasy
         facilitator_id: mark-causey
       - game_id: samsara
@@ -122,7 +132,13 @@ thursday:
         facilitator_id: mark-dipasquale
       - game_id: tokyo-rain
         facilitator_id: justin-d-jacobson
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       four_hour_games:
+      - game_id: d-d-flailsnails-the-garden-of-statues
+        facilitator_id: shoe-skogen
+      - game_id: d-d-flailsnails-the-moon-marsh
+        facilitator_id: shoe-skogen
       - game_id: on-mighty-thews
         facilitator_id: dana-fried
       - game_id: souls-of-steel
@@ -153,6 +169,8 @@ thursday:
         facilitator_id: patrick-riegert
       - game_id: microscope
         facilitator_id: andy-kitkowski
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: ryuutama
         facilitator_id: matt-sanchez
       - game_id: sagas-of-the-icelanders
@@ -163,6 +181,8 @@ thursday:
         facilitator_id: mark-dipasquale
       - game_id: technoir
         facilitator_id: trevis-martin
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       - game_id: warren
         facilitator_id: jason-morningstar
       four_hour_games:
@@ -326,6 +346,8 @@ friday:
         facilitator_id: bob-smith
       - game_id: magical-kitties
         facilitator_id: matthew-j-hanson
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: psi-run
         facilitator_id: bob-smith
       - game_id: quiet-year
@@ -342,6 +364,8 @@ friday:
         facilitator_id: mcgravin-matt-seifert
       - game_id: tokyo-rain
         facilitator_id: justin-d-jacobson
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       - game_id: variance
         facilitator_id: rishi-agrawal
       four_hour_games:
@@ -351,6 +375,10 @@ friday:
         facilitator_id: jeromy-hastings
       - game_id: archipelago-carnival-of-lost-souls
         facilitator_id: renee-knipe
+      - game_id: d-d-flailsnails-the-garden-of-statues
+        facilitator_id: shoe-skogen
+      - game_id: d-d-flailsnails-the-moon-marsh
+        facilitator_id: shoe-skogen
       - game_id: dog-eat-dog
         facilitator_id: james-stuart
       - game_id: dread
@@ -429,6 +457,8 @@ friday:
         facilitator_id: matt-boersma
       - game_id: magical-kitties
         facilitator_id: matthew-j-hanson
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: samsara
         facilitator_id: mark-dipasquale
       - game_id: short-order-heroes
@@ -437,21 +467,27 @@ friday:
         facilitator_id: mark-dipasquale
       - game_id: tokyo-rain
         facilitator_id: justin-d-jacobson
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       - game_id: variance
         facilitator_id: rishi-agrawal
       - game_id: western-city
         facilitator_id: jason-wallace
       four_hour_games:
+      - game_id: d-d-flailsnails-the-garden-of-statues
+        facilitator_id: shoe-skogen
+      - game_id: d-d-flailsnails-the-moon-marsh
+        facilitator_id: shoe-skogen
       - game_id: earthdawn
         facilitator_id: jesse-butler
       - game_id: fate-accelerated-match-equinox
         facilitator_id: jason-wallace
       - game_id: fate-core-dawning-star
         facilitator_id: justin-d-jacobson
+      - game_id: fate-hana-academy
+        facilitator_id: jesse-butler
       - game_id: fiasco
         facilitator_id: jay-treat
-      - game_id: hana-academy
-        facilitator_id: jesse-butler
       - game_id: hillfolk
         facilitator_id: dan-noland
       - game_id: traveller
@@ -490,6 +526,8 @@ friday:
         facilitator_id: andy-kitkowski
       - game_id: monsterhearts-blood-of-misty-harbour
         facilitator_id: mark-causey
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: psi-run
         facilitator_id: james-mendez-hodes
       - game_id: ryuutama
@@ -502,6 +540,8 @@ friday:
         facilitator_id: james-mendez-hodes
       - game_id: tokyo-rain
         facilitator_id: justin-d-jacobson
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       - game_id: western-city
         facilitator_id: jason-wallace
       - game_id: zombie-cinema
@@ -531,12 +571,12 @@ friday:
         facilitator_id: ron-frazier
       - game_id: fate-core-romance-in-the-air
         facilitator_id: bill-white
+      - game_id: fate-hana-academy
+        facilitator_id: jesse-butler
       - game_id: fiasco
         facilitator_id: anna-kreider
       - game_id: gumshoe-night-s-black-agents
         facilitator_id: bill-white
-      - game_id: hana-academy
-        facilitator_id: jesse-butler
       - game_id: jadepunk-the-vigilance-commitee
         facilitator_id: ron-frazier
       - game_id: leverage
@@ -826,6 +866,8 @@ friday:
         facilitator_id: bill-white
       - game_id: fate-core-romance-in-the-air
         facilitator_id: bill-white
+      - game_id: fate-hana-academy
+        facilitator_id: jesse-butler
       - game_id: feng-shui-2
         facilitator_id: rick-neal
       - game_id: fiasco
@@ -838,8 +880,6 @@ friday:
         facilitator_id: rick-neal
       - game_id: gumshoe-night-s-black-agents
         facilitator_id: bill-white
-      - game_id: hana-academy
-        facilitator_id: jesse-butler
       - game_id: lady-blackbird
         facilitator_id: andy-tatton
       - game_id: leverage
@@ -1119,6 +1159,8 @@ saturday:
         facilitator_id: andy-kitkowski
       - game_id: nanoworld
         facilitator_id: ray-otus
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: quiet-year
         facilitator_id: mcgravin-matt-seifert
       - game_id: ryuutama
@@ -1127,6 +1169,8 @@ saturday:
         facilitator_id: mike-olson
       - game_id: thousand-and-one-nights-campfire
         facilitator_id: mcgravin-matt-seifert
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       - game_id: variance
         facilitator_id: rishi-agrawal
       - game_id: warren
@@ -1257,10 +1301,10 @@ saturday:
         facilitator_id: stentor-danielson
       - game_id: earthdawn
         facilitator_id: jesse-butler
+      - game_id: fate-hana-academy
+        facilitator_id: jesse-butler
       - game_id: fiasco
         facilitator_id: stentor-danielson
-      - game_id: hana-academy
-        facilitator_id: jesse-butler
       - game_id: in-a-wicked-age-in-a-wicked-empire
         facilitator_id: dave-younce
       - game_id: monsterhearts
@@ -1548,12 +1592,16 @@ sunday:
         facilitator_id: matt-boersma
       - game_id: our-last-best-hope
         facilitator_id: nykki-boersma
+      - game_id: our-last-best-hope
+        facilitator_id: shoe-skogen
       - game_id: samsara
         facilitator_id: mark-dipasquale
       - game_id: sparks-nevada-thrilling-adventure
         facilitator_id: mike-olson
       - game_id: technoir
         facilitator_id: mark-dipasquale
+      - game_id: trash-planet
+        facilitator_id: shoe-skogen
       - game_id: warren
         facilitator_id: jason-morningstar
       four_hour_games:

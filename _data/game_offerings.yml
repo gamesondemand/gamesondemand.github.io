@@ -306,6 +306,32 @@ cortex-justifiers:
 - slug: sunday/12pm
   label: Sun 12PM
   facilitator_id: mad-jay
+d-d-flailsnails-the-garden-of-statues:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: shoe-skogen
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: shoe-skogen
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: shoe-skogen
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: shoe-skogen
+d-d-flailsnails-the-moon-marsh:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: shoe-skogen
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: shoe-skogen
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: shoe-skogen
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: shoe-skogen
 danger-patrol:
 - slug: thursday/6pm
   label: Thu 6PM
@@ -963,6 +989,19 @@ fate-core-venture-city-stories:
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: rishi-agrawal
+fate-hana-academy:
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: jesse-butler
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: jesse-butler
+- slug: friday/8pm
+  label: Fri 8PM
+  facilitator_id: jesse-butler
+- slug: saturday/4pm
+  label: Sat 4PM
+  facilitator_id: jesse-butler
 fate-terror-in-freeport:
 - slug: thursday/10am
   label: Thu 10AM
@@ -1185,19 +1224,6 @@ gumshoe-night-s-black-agents:
 - slug: saturday/8pm
   label: Sat 8PM
   facilitator_id: bill-white
-hana-academy:
-- slug: friday/12pm
-  label: Fri 12PM
-  facilitator_id: jesse-butler
-- slug: friday/2pm
-  label: Fri 2PM
-  facilitator_id: jesse-butler
-- slug: friday/8pm
-  label: Fri 8PM
-  facilitator_id: jesse-butler
-- slug: saturday/4pm
-  label: Sat 4PM
-  facilitator_id: jesse-butler
 headspace:
 - slug: thursday/2pm
   label: Thu 2PM
@@ -1324,6 +1350,7 @@ inspectres:
 - slug: sunday/2pm
   label: Sun 2PM
   facilitator_id: tresi
+itras-by: []
 jadepunk-the-vigilance-commitee:
 - slug: thursday/2pm
   label: Thu 2PM
@@ -1689,9 +1716,27 @@ our-last-best-hope:
 - slug: thursday/10am
   label: Thu 10AM
   facilitator_id: nykki-boersma
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: shoe-skogen
 - slug: thursday/12pm
   label: Thu 12PM
   facilitator_id: nykki-boersma
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: shoe-skogen
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: shoe-skogen
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: shoe-skogen
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: shoe-skogen
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: shoe-skogen
 - slug: friday/6pm
   label: Fri 6PM
   facilitator_id: nykki-boersma
@@ -1704,9 +1749,15 @@ our-last-best-hope:
 - slug: saturday/12pm
   label: Sat 12PM
   facilitator_id: nykki-boersma
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: shoe-skogen
 - slug: sunday/10am
   label: Sun 10AM
   facilitator_id: nykki-boersma
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: shoe-skogen
 - slug: sunday/2pm
   label: Sun 2PM
   facilitator_id: nykki-boersma
@@ -2281,6 +2332,31 @@ trail-of-cthulhu:
 - slug: saturday/4pm
   label: Sat 4PM
   facilitator_id: matt-sanchez
+trash-planet:
+- slug: thursday/10am
+  label: Thu 10AM
+  facilitator_id: shoe-skogen
+- slug: thursday/12pm
+  label: Thu 12PM
+  facilitator_id: shoe-skogen
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: shoe-skogen
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: shoe-skogen
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: shoe-skogen
+- slug: friday/2pm
+  label: Fri 2PM
+  facilitator_id: shoe-skogen
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: shoe-skogen
+- slug: sunday/10am
+  label: Sun 10AM
+  facilitator_id: shoe-skogen
 traveller:
 - slug: friday/12pm
   label: Fri 12PM

@@ -4,21 +4,21 @@
     dave-younce:
       type: Tabletop
       facilitator_name: Dave Younce
-      name: 13th Age:Forgotten Realms
+      name: '13th Age: Forgotten Realms'
       pitch: ''
       duration: '4'
       minimum_players: '3'
       maximum_players: '5'
       audience: allages
   type: Tabletop
-  name: 13th Age:Forgotten Realms
+  name: '13th Age: Forgotten Realms'
   alpha_group: 0-9
 3-16:
   facilitators:
     gregor-hutton:
       type: Tabletop
       facilitator_name: Gregor Hutton
-      name: '3:16'
+      name: '3: 16'
       pitch: "<p>This high-octane Military SF role-playing game has your Space Troopers
         killing bugs all across the Cosmos to save your homeworld Terra. Revel in
         the kill-happy machismo and enjoy causing Carnage Amongst The Stars.</p>"
@@ -27,7 +27,7 @@
       maximum_players: '6'
       audience: allages
   type: Tabletop
-  name: '3:16'
+  name: '3: 16'
   alpha_group: 0-9
 6d6-mince-pies-and-murder:
   facilitators:
@@ -52,7 +52,7 @@
     matt-boersma:
       type: Tabletop
       facilitator_name: Matt Boersma
-      name: 6d6:Quantum Flux
+      name: '6d6: Quantum Flux'
       pitch: "<p>Adrift in space on a salvage shuttle the team finds the Leopold,
         the long-lost science ship of the Wuland-Yelani Corporation. The ship seems
         to be deserted though fully operational, but as they try to find out what
@@ -67,7 +67,7 @@
       maximum_players: '5'
       audience: ''
   type: Tabletop
-  name: 6d6:Quantum Flux
+  name: '6d6: Quantum Flux'
   alpha_group: 0-9
 abstract-dungeon:
   facilitators:
@@ -206,7 +206,7 @@ archipelago-carnival-of-lost-souls:
     renee-knipe:
       type: Tabletop
       facilitator_name: Renee Knipe
-      name: Archipelago:Carnival of Lost Souls
+      name: 'Archipelago: Carnival of Lost Souls'
       pitch: "<p>“Welcome angel, welcome fiend, welcome all who walk between! Squirm
         in delight at the sinuous Snake Mistress! Steel your nerves against the shock
         of the Living Skeleton! Oh, it’s Madam Fortuna you came to see? Far be it
@@ -218,7 +218,7 @@ archipelago-carnival-of-lost-souls:
       maximum_players: '4'
       audience: ''
   type: Tabletop
-  name: Archipelago:Carnival of Lost Souls
+  name: 'Archipelago: Carnival of Lost Souls'
   alpha_group: A-F
 archipelago-last-of-us:
   facilitators:
@@ -308,6 +308,18 @@ burning-wheel:
       minimum_players: '2'
       maximum_players: '4'
       audience: allages
+    thor-olavsrud:
+      type: Tabletop
+      facilitator_name: Thor Olavsrud
+      name: Burning Wheel
+      pitch: "<p>Burning Wheel is a gritty fantasy adventure game of choices and consequences
+        in which your characters’ beliefs propel the action. Your character’s ethics,
+        goals and dreams will be tested.</p> \n                <p>Will they be found
+        wanting? You decide.</p>"
+      duration: '4'
+      minimum_players: '2'
+      maximum_players: '5'
+      audience: ''
   type: Tabletop
   name: Burning Wheel
   alpha_group: A-F
@@ -403,6 +415,50 @@ cortex-justifiers:
       audience: allages
   type: Tabletop
   name: 'Cortex+: Justifiers'
+  alpha_group: A-F
+d-d-flailsnails-the-garden-of-statues:
+  facilitators:
+    shoe-skogen:
+      type: Tabletop
+      facilitator_name: Shoe Skogen
+      name: 'D&D FLAILSNAILS: The Garden of Statues'
+      pitch: "<p>Tatterdemalion is an enormous, ancient caravan, travelling the Road
+        of All Worlds. Stopping here and there in cities far-flung and disparate,
+        it spans everything from junked out spaceships to ancient spice bazaars on
+        its winding route. Sometimes, the enigmatic Elders of the Caravan have jobs
+        for Outsiders like you. Will you go and seek adventure, glory and honour,
+        in service of the Caravan? Will you make it home again?</p>\n            \t<p>The
+        Elders have asked you to investigate a strange wood full of strange music.
+        They call it the “Garden of Statues”. What is this forgotten place, and what
+        will you find there?</p>"
+      duration: '4'
+      minimum_players: '4'
+      maximum_players: '6'
+      audience: mature
+  type: Tabletop
+  name: 'D&D FLAILSNAILS: The Garden of Statues'
+  alpha_group: A-F
+d-d-flailsnails-the-moon-marsh:
+  facilitators:
+    shoe-skogen:
+      type: Tabletop
+      facilitator_name: Shoe Skogen
+      name: 'D&D FLAILSNAILS: The Moon Marsh'
+      pitch: "<p>Tatterdemalion is an enormous, ancient caravan, travelling the Road
+        of All Worlds. Stopping here and there in cities far-flung and disparate,
+        it spans everything from junked out spaceships to ancient spice bazaars on
+        its winding route. Sometimes, the enigmatic Elders of the Caravan have jobs
+        for Outsiders like you. Will you go and seek adventure, glory and honour,
+        in service of the Caravan? Will you make it home again?</p>\n            \t<p>A
+        family has been lost in a marsh the caravan has passed, and the Elders want
+        them found. What secrets and dangers will you find, in a long night under
+        a bright blue moon?</p>"
+      duration: '4'
+      minimum_players: '4'
+      maximum_players: '6'
+      audience: ''
+  type: Tabletop
+  name: 'D&D FLAILSNAILS: The Moon Marsh'
   alpha_group: A-F
 danger-patrol:
   facilitators:
@@ -700,8 +756,8 @@ dream-askew:
       name: Dream Askew
       pitch: "<p>Dream Askew is a game about post-apocalyptic lives. It’s a game that
         queers the post-apocalyptic genre, exploring how the apocalyptic process could
-        impact our sexuality, genders, livelihoods, experiences of marginalization,and
-        experiences of liberation.</p>"
+        impact our sexuality, genders, livelihoods, experiences of marginalization,
+        and experiences of liberation.</p>"
       duration: '4'
       minimum_players: '3'
       maximum_players: '4'
@@ -940,25 +996,26 @@ dungeon-world-gold-guts-and-grog:
     sarah-richardson:
       type: Tabletop
       facilitator_name: Sarah Richardson
-      name: Dungeon World:Gold, Guts, and Grog
+      name: 'Dungeon World: Gold, Guts, and Grog'
       pitch: "<p>Play as a rockabilly elven mage, a hipster dwarven warrior, an atheist
         human cleric, and a hippy halfling thief in their “endless quest for gold,
-        guts, and grog” in the town of Palisade.</p><p>You will be playing as the
-        Rat Queens, but don’t worry. No knowledge of the comic is required, although
-        I highly recommend grabbing a copy (it’s so good).</p><p>REALLY mature content.</p>"
+        guts, and grog” in the town of Palisade.</p>\n\t\t\t\t<p>You will be playing
+        as the Rat Queens, but don’t worry. No knowledge of the comic is required,
+        although the GM highly recommends grabbing a copy anyway just because it’s
+        good!.</p>\n\t\t\t\t<p>REALLY mature content.</p>"
       duration: '2'
       minimum_players: '2'
       maximum_players: '4'
       audience: mature
   type: Tabletop
-  name: Dungeon World:Gold, Guts, and Grog
+  name: 'Dungeon World: Gold, Guts, and Grog'
   alpha_group: A-F
 dungeon-world-no-country-for-old-kobolds:
   facilitators:
     steve-wallace:
       type: Tabletop
       facilitator_name: Steve Wallace
-      name: Dungeon World:No Country For Old Kobolds
+      name: 'Dungeon World: No Country For Old Kobolds'
       pitch: "<p>Ever wondered how all the families of all those kobolds you killed
         as a first level adventurer lived? Well, now you can find out!</p><p>Your
         people have been ravaged by the other races since time immemorial - admittedly
@@ -974,7 +1031,7 @@ dungeon-world-no-country-for-old-kobolds:
     travis-scott:
       type: Tabletop
       facilitator_name: Travis Scott
-      name: Dungeon World:No Country For Old Kobolds
+      name: 'Dungeon World: No Country For Old Kobolds'
       pitch: "<p>Your people have been ravaged by the other races since time immemorial
         - admittedly that’s only 10 or 15 years ago. You and your children are the
         champions of the Kobold race and you must defend against predators of the
@@ -986,7 +1043,7 @@ dungeon-world-no-country-for-old-kobolds:
       maximum_players: '6'
       audience: mature
   type: Tabletop
-  name: Dungeon World:No Country For Old Kobolds
+  name: 'Dungeon World: No Country For Old Kobolds'
   alpha_group: A-F
 durance:
   facilitators:
@@ -1184,7 +1241,7 @@ fate-core-andromeda:
     bill-white:
       type: Tabletop
       facilitator_name: Bill White
-      name: Fate Core:Andromeda
+      name: 'Fate Core: Andromeda'
       pitch: "<p>To escape the destruction of the Milky Way, the PCs’ World-Ship fled
         across the gulf of intergalactic space to Andromeda, where they must now deal
         with a bewildering array of alien civilizations as well as rival World-Ships
@@ -1197,14 +1254,14 @@ fate-core-andromeda:
       maximum_players: '6'
       audience: ''
   type: Tabletop
-  name: Fate Core:Andromeda
+  name: 'Fate Core: Andromeda'
   alpha_group: A-F
 fate-core-dawning-star:
   facilitators:
     justin-d-jacobson:
       type: Tabletop
       facilitator_name: Justin D. Jacobson
-      name: Fate Core:Dawning Star
+      name: 'Fate Core: Dawning Star'
       pitch: "<p>When the Evergreen entered our system with a fleet of vaasi warships
         in pursuit, we were thrust into sudden war and won by the slimmest of margins.
         In the aftermath, we discovered a vaasi ship deep in the caverns of the Eotian
@@ -1215,7 +1272,7 @@ fate-core-dawning-star:
       maximum_players: '6'
       audience: allages
   type: Tabletop
-  name: Fate Core:Dawning Star
+  name: 'Fate Core: Dawning Star'
   alpha_group: A-F
 fate-core-dragonknights:
   facilitators:
@@ -1261,7 +1318,7 @@ fate-core-romance-in-the-air:
     bill-white:
       type: Tabletop
       facilitator_name: Bill White
-      name: Fate Core:Romance in the Air
+      name: 'Fate Core: Romance in the Air'
       pitch: "<p>It’s Jane Austen with airships, with maybe a hint of Dr. Zhivago.
         In a Europe that never was, the passengers and crew of the balloon-borne floating
         hotel Pension Bellevue pursue romance and intrigue while below them hidden
@@ -1272,7 +1329,7 @@ fate-core-romance-in-the-air:
       maximum_players: '6'
       audience: ''
   type: Tabletop
-  name: Fate Core:Romance in the Air
+  name: 'Fate Core: Romance in the Air'
   alpha_group: A-F
 fate-core-tentacles-and-brass:
   facilitators:
@@ -1312,12 +1369,28 @@ fate-core-venture-city-stories:
   type: Tabletop
   name: 'Fate Core: Venture City Stories'
   alpha_group: A-F
+fate-hana-academy:
+  facilitators:
+    jesse-butler:
+      type: Tabletop
+      facilitator_name: Jesse Butler
+      name: 'Fate: Hana Academy'
+      pitch: "<p>Welcome to Hana Academy! This is a game about relationships and finding
+        yourself in a magical high school setting. A Fate-based game currently under
+        development. A serious game about growing up.</p>"
+      duration: '4'
+      minimum_players: '3'
+      maximum_players: '6'
+      audience: allages
+  type: Tabletop
+  name: 'Fate: Hana Academy'
+  alpha_group: A-F
 fate-terror-in-freeport:
   facilitators:
     matt-boersma:
       type: Tabletop
       facilitator_name: Matt Boersma
-      name: Fate:Terror in Freeport
+      name: 'Fate: Terror in Freeport'
       pitch: "<p>Strange things are afoot in the city of Freeport. The party has been
         hired by Lady Stonewald to investigate her husband’s disappearance. Lord Stonewald
         was last seen headed to their lake cottage, but he had been acting strangely
@@ -1328,7 +1401,7 @@ fate-terror-in-freeport:
       maximum_players: '5'
       audience: allages
   type: Tabletop
-  name: Fate:Terror in Freeport
+  name: 'Fate: Terror in Freeport'
   alpha_group: A-F
 feng-shui-2:
   facilitators:
@@ -1536,7 +1609,7 @@ gumshoe-night-s-black-agents:
     bill-white:
       type: Tabletop
       facilitator_name: Bill White
-      name: 'Gumshoe:Night’s Black Agents '
+      name: 'Gumshoe: Night’s Black Agents '
       pitch: "<p>Your crack team of private security professionals has been sent to
         contact, extract, and debrief a covert operative who has infiltrated a terrorist
         cell planning a strike in Baku. Your mission: disrupt the strike without blowing
@@ -1548,23 +1621,7 @@ gumshoe-night-s-black-agents:
       maximum_players: '6'
       audience: mature
   type: Tabletop
-  name: 'Gumshoe:Night’s Black Agents '
-  alpha_group: G-L
-hana-academy:
-  facilitators:
-    jesse-butler:
-      type: Tabletop
-      facilitator_name: Jesse Butler
-      name: Hana Academy
-      pitch: "<p>Welcome to Hana Academy! This is a game about relationships and finding
-        yourself in a magical high school setting. A Fate-based game currently under
-        development. A serious game about growing up.</p>"
-      duration: '4'
-      minimum_players: '3'
-      maximum_players: '6'
-      audience: allages
-  type: Tabletop
-  name: Hana Academy
+  name: 'Gumshoe: Night’s Black Agents '
   alpha_group: G-L
 headspace:
   facilitators:
@@ -1687,7 +1744,7 @@ immortals-ancient-secrets:
     scott-acker:
       type: Tabletop
       facilitator_name: Scott Acker
-      name: Immortals:Ancient Secrets
+      name: 'Immortals: Ancient Secrets'
       pitch: "<p>You are the Cil’dea, the Children of Power. Your parents created,
         shaped and once ruled the Universe. After the Falling many of these Great
         Races left this universe. Their mantle and powers have fallen to you. Some
@@ -1702,7 +1759,7 @@ immortals-ancient-secrets:
       maximum_players: '5'
       audience: allages
   type: Tabletop
-  name: Immortals:Ancient Secrets
+  name: 'Immortals: Ancient Secrets'
   alpha_group: G-L
 in-a-wicked-age-in-a-wicked-empire:
   facilitators:
@@ -1756,6 +1813,35 @@ inspectres:
       audience: allages
   type: Tabletop
   name: InSpectres
+  alpha_group: G-L
+itras-by:
+  facilitators:
+    ? evan-torner-3-4-4-itras-by-itras-by-is-a-surreal-roleplaying-game-set-in-a-city-reminiscent-of-europe-in-the-1920-s-the-rule-system-is-card-based-and-focuses-heavily-on-freeform-and-improvisation-3-4-4-swords-without-master-wondrous-sights-exotic-locales-blades-and-weapons-of-every-shape-adventure-and-treasures-beyond-imagination-hearkening-back-to-the-days-of-howard-s-conan-and-leiber-s-fafhrd-and-the-gray-mouser-swords-without-master-is-the-long-awaited-sword-and-sorcery-game-designed-and-written-by-epidiah-ravachol-high-on-theme-action-swords-and-sorcery-easy-and-quick-to-pick-up-and-play
+    : type: Tabletop
+      facilitator_name: "Evan Torner\n            \n                \n                    3\n
+        \                   4\n                    4\n                \n                Itras
+        By\n                \n                \n                    Itras By is a
+        surreal roleplaying game set in a city reminiscent of Europe in the 1920’s.
+        The rule system is card-based and focuses heavily on freeform and improvisation.\n
+        \               \n            \n            \n                \n                    3\n
+        \                   4\n                    4\n                \n                Swords
+        Without Master\n                \n                \n                    Wondrous
+        sights, exotic locales, blades and weapons of every shape, adventure, and
+        treasures beyond imagination. Hearkening back to the days of Howard’s Conan
+        and Leiber’s Fafhrd and the Gray Mouser, Swords Without Master is the long
+        awaited Sword and Sorcery game designed and written by Epidiah Ravachol. High
+        on theme, action, swords and sorcery, easy and quick to pick up and play.\n
+        \               \n            \n        "
+      name: Itras By
+      pitch: "<p>Itras By is a surreal roleplaying game set in a city reminiscent
+        of Europe in the 1920’s. The rule system is card-based and focuses heavily
+        on freeform and improvisation.</p>"
+      duration: '4'
+      minimum_players: '3'
+      maximum_players: '4'
+      audience: ''
+  type: Tabletop
+  name: Itras By
   alpha_group: G-L
 jadepunk-the-vigilance-commitee:
   facilitators:
@@ -2053,7 +2139,7 @@ monsterhearts-blood-of-misty-harbour:
     mark-causey:
       type: Tabletop
       facilitator_name: Mark Causey
-      name: Monsterhearts:Blood of Misty Harbour
+      name: 'Monsterhearts: Blood of Misty Harbour'
       pitch: "<p>A Story Game About the Messy Lives of Teenage Monsters. Two lovers
         encounter dark and sordid family secrets. Cultists attempt to summon their
         demonic patron. The boundaries between life and death are despoiled, time
@@ -2063,7 +2149,7 @@ monsterhearts-blood-of-misty-harbour:
       maximum_players: '5'
       audience: mature
   type: Tabletop
-  name: Monsterhearts:Blood of Misty Harbour
+  name: 'Monsterhearts: Blood of Misty Harbour'
   alpha_group: M-R
 monsterhearts-elderhearts:
   facilitators:
@@ -2298,6 +2384,19 @@ our-last-best-hope:
       minimum_players: '2'
       maximum_players: '5'
       audience: allages
+    shoe-skogen:
+      type: Tabletop
+      facilitator_name: Shoe Skogen
+      name: Our Last Best Hope
+      pitch: "<p>Disaster threatens the world, and you are humanity’s last chance.
+        As the end of civilization looms, a small group of brave souls steps up to
+        face the oncoming disaster. Armed with a computer, a mission, and a few extra
+        things you’ve managed to pick up, your job is to save the world or go down
+        trying.</p>"
+      duration: '2'
+      minimum_players: '2'
+      maximum_players: '4'
+      audience: ''
   type: Tabletop
   name: Our Last Best Hope
   alpha_group: M-R
@@ -2722,6 +2821,33 @@ steal-away-jordan-final-defense-of-the-quilombos:
   alpha_group: S-Z
 swords-without-master:
   facilitators:
+    ? evan-torner-3-4-4-itras-by-itras-by-is-a-surreal-roleplaying-game-set-in-a-city-reminiscent-of-europe-in-the-1920-s-the-rule-system-is-card-based-and-focuses-heavily-on-freeform-and-improvisation-3-4-4-swords-without-master-wondrous-sights-exotic-locales-blades-and-weapons-of-every-shape-adventure-and-treasures-beyond-imagination-hearkening-back-to-the-days-of-howard-s-conan-and-leiber-s-fafhrd-and-the-gray-mouser-swords-without-master-is-the-long-awaited-sword-and-sorcery-game-designed-and-written-by-epidiah-ravachol-high-on-theme-action-swords-and-sorcery-easy-and-quick-to-pick-up-and-play
+    : type: Tabletop
+      facilitator_name: "Evan Torner\n            \n                \n                    3\n
+        \                   4\n                    4\n                \n                Itras
+        By\n                \n                \n                    Itras By is a
+        surreal roleplaying game set in a city reminiscent of Europe in the 1920’s.
+        The rule system is card-based and focuses heavily on freeform and improvisation.\n
+        \               \n            \n            \n                \n                    3\n
+        \                   4\n                    4\n                \n                Swords
+        Without Master\n                \n                \n                    Wondrous
+        sights, exotic locales, blades and weapons of every shape, adventure, and
+        treasures beyond imagination. Hearkening back to the days of Howard’s Conan
+        and Leiber’s Fafhrd and the Gray Mouser, Swords Without Master is the long
+        awaited Sword and Sorcery game designed and written by Epidiah Ravachol. High
+        on theme, action, swords and sorcery, easy and quick to pick up and play.\n
+        \               \n            \n        "
+      name: Swords Without Master
+      pitch: "<p>Wondrous sights, exotic locales, blades and weapons of every shape,
+        adventure, and treasures beyond imagination. Hearkening back to the days of
+        Howard’s Conan and Leiber’s Fafhrd and the Gray Mouser, Swords Without Master
+        is the long awaited Sword and Sorcery game designed and written by Epidiah
+        Ravachol. High on theme, action, swords and sorcery, easy and quick to pick
+        up and play.</p>"
+      duration: '4'
+      minimum_players: '3'
+      maximum_players: '4'
+      audience: ''
     mark-dipasquale:
       type: Tabletop
       facilitator_name: Mark DiPasquale
@@ -2964,6 +3090,22 @@ torchbearer:
       minimum_players: '3'
       maximum_players: '6'
       audience: allages
+    thor-olavsrud:
+      type: Tabletop
+      facilitator_name: Thor Olavsrud
+      name: Torchbearer
+      pitch: "<p>Your world is crumbling at the edges, pressed in on all sides by
+        the savage and pitiless darkness — monsters and other evils that prey upon
+        light and life. Most of your people huddle behind walls, convincing themselves
+        that your civilization will persevere and conquer this land. But you don’t
+        have that luxury. There’s naught for you in this world save blood and treasure.
+        You’ve no inheritance, no dowry, no rich uncle, not even a job.</p> \n                <p>So
+        you’re at this inn, looking for prospects, looking for a few companions to
+        back you up, looking for a way out of this two bit town...</p>"
+      duration: '4'
+      minimum_players: '2'
+      maximum_players: '4'
+      audience: allages
     tresi:
       type: Tabletop
       facilitator_name: Tresi
@@ -3017,6 +3159,22 @@ trail-of-cthulhu:
       audience: ''
   type: Tabletop
   name: Trail of Cthulhu
+  alpha_group: S-Z
+trash-planet:
+  facilitators:
+    shoe-skogen:
+      type: Tabletop
+      facilitator_name: Shoe Skogen
+      name: Trash Planet!
+      pitch: |-
+        <p>Many centuries ago, the human race — already sprawled all over space —discovered the Wormhole. On the other side was a paradise: a large cluster of planets teeming with resources, all quite like Earth. A home away from home. It wasn’t long before the planets of Sol started colonising these new worlds. Over time, anybody with the cash went through, taking their infrastructure with them.</p>
+                        <p>Not you, though. You’re one of the teeming masses, stuck at the old homestead. On the bright side, the rich people left all their junk behind.</p>
+      duration: '2'
+      minimum_players: '4'
+      maximum_players: '6'
+      audience: ''
+  type: Tabletop
+  name: Trash Planet!
   alpha_group: S-Z
 traveller:
   facilitators:
@@ -3176,7 +3334,7 @@ war-of-ashes-fate-of-agaptus:
     sean-nittner:
       type: Tabletop
       facilitator_name: Sean Nittner
-      name: War of Ashes:Fate of Agaptus
+      name: 'War of Ashes: Fate of Agaptus'
       pitch: "<p>Welcome to the War of Ashes RPG: Fate of Agaptus! This “grimsical”
         minis-friendly tabletop RPG is based on the popular miniature game. Head off
         to adventure in a world where the inhabitants might look cute and cuddly but
@@ -3189,7 +3347,7 @@ war-of-ashes-fate-of-agaptus:
       maximum_players: '5'
       audience: allages
   type: Tabletop
-  name: War of Ashes:Fate of Agaptus
+  name: 'War of Ashes: Fate of Agaptus'
   alpha_group: S-Z
 warren:
   facilitators:
