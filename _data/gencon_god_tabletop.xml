@@ -553,6 +553,34 @@
 			<p>bzzz...kSSSSSHH -ger Patrol! Repeat, calling all available Danger Patrol! Rocket City is under attack! The nefarious (kssshh-BEEE) ...and causing untold mayhem! ZAP! POW! WA-WA-WA-WA-WA! We need you Danger Patrol!</p><p>Danger Patrol is a pick-up roleplaying game heavy on pulp sci-fi goodness. This game will mimic a Saturday morning cartoon so don’t expect a lot of deep and dark introspection. Grab your bubble helmet and strap on your rocket pack. This crisis isn’t going to solve itself!</p><p>Danger Patrol, AWAY!</p>
 		</game>
 	</gm>
+    <gm>
+        <name>Evan Torner
+            <game>
+                <scheduling>
+                    <min>3</min>
+                    <max>4</max>
+                    <duration>4</duration>
+                </scheduling>
+                <title>Itras By</title>
+                <pitch_image src="god_menu_tabletop-web-resources/image/itras_by_2_fmt.png" alt="itras_by_2.psd" />
+                <pitch>
+                    <p>Itras By is a surreal roleplaying game set in a city reminiscent of Europe in the 1920’s. The rule system is card-based and focuses heavily on freeform and improvisation.</p>
+                </pitch>
+            </game>
+            <game>
+                <scheduling>
+                    <min>3</min>
+                    <max>4</max>
+                    <duration>4</duration>
+                </scheduling>
+                <title>Swords Without Master</title>
+                <pitch_image src="god_menu_tabletop-web-resources/image/swords_without_master_2_fmt.png" alt="swords_without_master_2.psd" />
+                <pitch>
+                    <p>Wondrous sights, exotic locales, blades and weapons of every shape, adventure, and treasures beyond imagination. Hearkening back to the days of Howard’s Conan and Leiber’s Fafhrd and the Gray Mouser, Swords Without Master is the long awaited Sword and Sorcery game designed and written by Epidiah Ravachol. High on theme, action, swords and sorcery, easy and quick to pick up and play.</p>
+                </pitch>
+            </game>
+        </name>
+    </gm>
 	<gm>
 		<name>Giovanni Lanza</name>
 		<game>
@@ -1037,8 +1065,8 @@
 				<duration>4</duration>
 			</scheduling>
 			<audience>allages</audience>
-			<title>Hana Academy</title>
-			<pitch_image src="god_menu_tabletop-web-resources/image/blank.png" alt="blank.psd" />
+			<title>Fate: Hana Academy</title>
+			<pitch_image src="god_menu_tabletop-web-resources/image/fate_hana_academy_fmt.png" alt="fate_hana_academy.psd" />
 			<pitch>
 				<p>Welcome to Hana Academy! This is a game about relationships and finding yourself in a magical high school setting. A Fate-based game currently under development. A serious game about growing up.</p>
 			</pitch>
@@ -1350,7 +1378,7 @@
 			<title>Dream Askew</title>
 			<pitch_image src="god_menu_tabletop-web-resources/image/dream_askew_fmt1.png" alt="dream_askew.psd" />
 			<pitch>
-				<p>Dream Askew is a game about post-apocalyptic lives. It’s a game that queers the post-apocalyptic genre, exploring how the apocalyptic process could impact our sexuality, genders, livelihoods, experiences of marginalization,and experiences of liberation.</p>
+				<p>Dream Askew is a game about post-apocalyptic lives. It’s a game that queers the post-apocalyptic genre, exploring how the apocalyptic process could impact our sexuality, genders, livelihoods, experiences of marginalization, and experiences of liberation.</p>
 			</pitch>
 		</game>
 	</gm>
@@ -2256,7 +2284,9 @@
 			<title>Dungeon World:<br />Gold, Guts, and Grog</title>
 			<pitch_image src="god_menu_tabletop-web-resources/image/dw_rat_queens_fmt1.png" alt="dw_rat_queens.psd" />
 			<pitch>
-				<p>Play as a rockabilly elven mage, a hipster dwarven warrior, an atheist human cleric, and a hippy halfling thief in their “endless quest for gold, guts, and grog” in the town of Palisade.</p><p>You will be playing as the Rat Queens, but don’t worry. No knowledge of the comic is required, although I highly recommend grabbing a copy (it’s so good).</p><p>REALLY mature content.</p>
+				<p>Play as a rockabilly elven mage, a hipster dwarven warrior, an atheist human cleric, and a hippy halfling thief in their “endless quest for gold, guts, and grog” in the town of Palisade.</p>
+				<p>You will be playing as the Rat Queens, but don’t worry. No knowledge of the comic is required, although the GM highly recommends grabbing a copy anyway just because it’s good!.</p>
+				<p>REALLY mature content.</p>
 			</pitch>
 		</game>
 	</gm>
@@ -2318,6 +2348,61 @@
 			</pitch>
 		</game>
 	</gm>
+    <gm>
+        <name>Shoe Skogen</name>
+        <game>
+            <scheduling>
+                <min>4</min>
+                <max>6</max>
+                <duration>4</duration>
+            </scheduling>
+            <audience>mature</audience>
+        	<title>D&amp;D FLAILSNAILS: The Garden of Statues</title>
+        	<pitch_image src="god_menu_tabletop-web-resources/image/nevermind.png" alt="nevermind.psd" />
+            <pitch>
+            	<p>Tatterdemalion is an enormous, ancient caravan, travelling the Road of All Worlds. Stopping here and there in cities far-flung and disparate, it spans everything from junked out spaceships to ancient spice bazaars on its winding route. Sometimes, the enigmatic Elders of the Caravan have jobs for Outsiders like you. Will you go and seek adventure, glory and honour, in service of the Caravan? Will you make it home again?</p>
+            	<p>The Elders have asked you to investigate a strange wood full of strange music. They call it the “Garden of Statues”. What is this forgotten place, and what will you find there?</p>
+            </pitch>
+        </game>
+        <game>
+            <scheduling>
+                <min>4</min>
+                <max>6</max>
+                <duration>4</duration>
+            </scheduling>
+        	<title>D&amp;D FLAILSNAILS: The Moon Marsh</title>
+        	<pitch_image src="god_menu_tabletop-web-resources/image/nevermind.png" alt="nevermind.psd" />
+            <pitch>
+            	<p>Tatterdemalion is an enormous, ancient caravan, travelling the Road of All Worlds. Stopping here and there in cities far-flung and disparate, it spans everything from junked out spaceships to ancient spice bazaars on its winding route. Sometimes, the enigmatic Elders of the Caravan have jobs for Outsiders like you. Will you go and seek adventure, glory and honour, in service of the Caravan? Will you make it home again?</p>
+            	<p>A family has been lost in a marsh the caravan has passed, and the Elders want them found. What secrets and dangers will you find, in a long night under a bright blue moon?</p>
+            </pitch>
+        </game>
+        <game>
+            <scheduling>
+                <min>4</min>
+                <max>6</max>
+                <duration>2</duration>
+            </scheduling>
+            <title>Trash Planet!</title>
+            <pitch_image src="god_menu_tabletop-web-resources/image/trash_planet_fmt.png" alt="trash_planet.psd" />
+            <pitch>
+                <p>Many centuries ago, the human race — already sprawled all over space —discovered the Wormhole. On the other side was a paradise: a large cluster of planets teeming with resources, all quite like Earth. A home away from home. It wasn’t long before the planets of Sol started colonising these new worlds. Over time, anybody with the cash went through, taking their infrastructure with them.</p>
+                <p>Not you, though. You’re one of the teeming masses, stuck at the old homestead. On the bright side, the rich people left all their junk behind.</p>
+            </pitch>
+        </game>
+        <game>
+            <scheduling>
+                <min>2</min>
+                <max>4</max>
+                <duration>2</duration>
+            </scheduling>
+            <title>Our Last Best Hope</title>
+            <pitch_image src="god_menu_tabletop-web-resources/image/our_last_best_hope_fmt.png" alt="our_last_best_hope.psd" />
+            <pitch>
+                <p>Disaster threatens the world, and you are humanity’s last chance. As the end of civilization looms, a small group of brave souls steps up to face the oncoming disaster. Armed with a computer, a mission, and a few extra things you’ve managed to pick up, your job is to save the world or go down trying.</p> 
+            </pitch>
+        </game>
+    </gm>
 	<gm>
 		<name>Stentor Danielson</name>
 		<game>
@@ -2523,6 +2608,37 @@
 			</pitch>
 		</game>
 	</gm>
+    <gm>
+        <name>Thor Olavsrud</name>
+        <game>
+            <title>Torchbearer</title>
+            <scheduling>
+                <min>2</min>
+                <max>4</max>
+                <duration>4</duration>
+            </scheduling>
+            <audience>allages</audience>
+            <pitch>
+                <p>Your world is crumbling at the edges, pressed in on all sides by the savage and pitiless darkness — monsters and other evils that prey upon light and life. Most of your people huddle behind walls, convincing themselves that your civilization will persevere and conquer this land. But you don’t have that luxury. There’s naught for you in this world save blood and treasure. You’ve no inheritance, no dowry, no rich uncle, not even a job.</p> 
+                <p>So you’re at this inn, looking for prospects, looking for a few companions to back you up, looking for a way out of this two bit town...</p>
+            </pitch>
+            <pitch_image src="god_menu_tabletop-web-resources/image/torchbearer_2_fmt.png" alt="torchbearer_2.psd" />    
+        </game>
+        <game>
+            <title>Burning Wheel</title>
+            <scheduling>
+                <min>2</min>
+                <max>5</max>
+                <duration>4</duration>
+            </scheduling>
+            <pitch>
+                <p>Burning Wheel is a gritty fantasy adventure game of choices and consequences in which your characters’ beliefs propel the action. Your character’s ethics, goals and dreams will be tested.</p> 
+                <p>Will they be found wanting? You decide.</p>
+            </pitch>
+            <pitch_image src="god_menu_tabletop-web-resources/image/burning_wheel_fmt.png" alt="burning_wheel.psd" />
+        </game>
+        
+    </gm>
 	<gm>
 		<name>Travis Scott</name>
 		<game>
