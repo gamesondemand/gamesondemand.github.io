@@ -130,6 +130,8 @@
         <li><strong>Game Availability:</strong> For a given time slot, a GM may be unable (or unwilling) to run a particular game.</li>
         <li><strong>Bandwidth:</strong> We have limited resources. Our priority is running the face to face event.</li>
         <li><strong>Player Selection:</strong> Once a player chooses a game from a GMs menu, any other games offered by that GM are unavailable for the current time.</li>
+        <li><strong>2 Hour Game vs 4 Hour Game:</strong> Some GMs are offering both 2 hour and 4 hour games. If a GM starts a 4 hour game, any 2 hour games offered by the GM for the next slot won't be available.</li>
+        <li><strong>Technology:</strong> Even if we find time to make the updates, the internet may not be available.</li>
       </ul>
       We encourage you to be open to trying a different game; Even one you have heard nothing about.
       And as always if you have questions please ask a Host.
