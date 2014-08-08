@@ -68,6 +68,7 @@ namespace :build do
           text << "description: >"
           text << "  #{game_config['name']} at Games on Demand at GenCon"
           text << '---'
+          text << "{% assign game_id = '#{game_id}' %}"
           text << "{% assign game = site.data.games['#{game_id}'] %}"
           text << '{% include game.html game = game %}'
           text << ''
@@ -285,30 +286,34 @@ namespace :build do
     end
 
     desc 'Responsible for building thetime'
-    task :times do => ['build:data:games','build:data:volunteers'] do
+    task :times => ['build:functions', 'build:data:games','build:data:volunteers'] do
       require 'psych'
+      require 'set'
       times = Psych.load_file(File.expand_path('../_data/times.yml', __FILE__))
       facilitators = Psych.load_file(File.expand_path('../_data/facilitator.yml', __FILE__))
       games = Psych.load_file(File.expand_path('../_data/games.yml', __FILE__))
-      registry = {}
+      time_registry = {}
+      game_offerings = {}
       times.each do |day_name, time_structure|
-        registry[day_name] = time_structure
-        time_structure.fetch('times').each do |hour, slot_data|
-          registry.fetch(day_name).fetch('times')[hour]['two_hour_games'] = []
-          registry.fetch(day_name).fetch('times')[hour]['four_hour_games'] = []
+        time_registry[day_name] = time_structure
+        time_structure.fetch('times').each do |abbreviation, slot_data|
+          time_registry.fetch(day_name).fetch('times')[abbreviation]['two_hour_games'] = []
+          time_registry.fetch(day_name).fetch('times')[abbreviation]['four_hour_games'] = []
 
           slot_facilitators = facilitators.select do |facilitator|
             facilitator.fetch(:day).upcase == day_name.upcase &&
-            facilitator.fetch(:slot).upcase == hour.upcase
+            facilitator.fetch(:slot).upcase == abbreviation.upcase
           end
 
           games.each do |game_id, game_data|
+            game_offerings[game_id] ||= Set.new
             slot_facilitators.each do |facilitator|
               offering = game_data.fetch('facilitators')[facilitator.fetch(:name)]
               if offering
                 offering_duration = offering.fetch('duration').to_i
                 if offering_duration <= facilitator.fetch(:max_duration).to_i
                   entry = { 'game_id' => game_id, 'facilitator_id' => facilitator.fetch(:name) }
+                  game_offerings[game_id] << { 'slug' => File.join(day_name, abbreviation), 'label' => keyify_time(slot_data.fetch('time')), 'facilitator_id' => entry['facilitator_id'] }
                   case offering_duration
                   when 2 then slot_data['two_hour_games'] << entry
                   when 4 then slot_data['four_hour_games'] << entry
@@ -318,12 +323,17 @@ namespace :build do
                 end
               end
             end
+            game_offerings[game_id] = game_offerings[game_id].to_a
           end
         end
       end
 
       File.open(File.expand_path('../_data/times.yml', __FILE__), 'w+') do |file|
-        file.puts Psych.dump(registry)
+        file.puts Psych.dump(time_registry)
+      end
+
+      File.open(File.expand_path('../_data/game_offerings.yml', __FILE__), 'w+') do |file|
+        file.puts Psych.dump(game_offerings)
       end
     end
   end
