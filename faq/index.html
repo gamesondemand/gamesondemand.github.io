@@ -22,7 +22,7 @@ description: FAQ about Games on Demand at GenCon
     <h3>{{ question_group.name }}</h3>
     {% for qa in question_group.questions %}
     <dl class="qa" itemscope itemtype="http://schema.org/Question">
-      <dt class="question" itemprop="text">{{ qa.question }}</dt>
+      <dt {% if qa.dom_id %}id="{{ qa.dom_id }}" {% endif %} class="question" itemprop="text">{{ qa.question }}</dt>
       <dd class="answer" itemprop="suggestedAnswer" itemscope itemtype="http://schema.org/Answer">
         <span itemprop="text">{{ qa.answer || qa.tentative_answer }}</span>
       </dd>

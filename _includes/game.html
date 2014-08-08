@@ -36,6 +36,8 @@
         <dd>{{ offering.name }}</dd>
         <dt>Times</dt>
         <dd>
+          {% assign any_offerings = site.data.game_offerings[game_id] | first %}
+          {% if any_offerings %}
           <ul class="inline-list">
             {% for offering_time in site.data.game_offerings[game_id] %}
             {% if offering_time.facilitator_id == facilitator[0] %}
@@ -43,6 +45,9 @@
             {% endif %}
             {% endfor %}
           </ul>
+          {% else %}
+          <p>{{ offering.facilitator_name }} has not committed to specific scheduled times. <a href="/faq/#offered-game-not-on-schedule">See our FAQ for more information.</a></p>
+          {% endif %}
         </dd>
         <dt>Duration</dt>
         <dd>{{ offering.duration }} hours</dd>

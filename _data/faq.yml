@@ -140,6 +140,13 @@
       If so, starting when and where? ﻿
     answer: Yes. See <a href="/" class="link-to-current-schedule">our schedule for start times</a>.
   - question: >
+      There is an available game that is not on the schedule. Why isn't it on the schedule?
+    answer: >
+      We have a master schedule for our volunteer GMs.
+      Some of the volunteers have told us that they cannot commit to a particular time, but will drop in as their schedule permits.</p>
+      We have printed menus for them, but have not put them on the schedule.
+    dom_id: offered-game-not-on-schedule
+  - question: >
       I heard something about LARPs! Is this true?
     answer: >
       Yes there will be LARPs at Games on Demand.
