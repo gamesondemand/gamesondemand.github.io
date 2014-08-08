@@ -9,9 +9,10 @@
     <caption>Two (2) Hour Games {{ time.time | date: '%A'}} {{ time.abbreviation }}</caption>
     <thead>
       <tr>
-        <th width="80%">Game</th>
+        <th width="70%">Game</th>
         <th width="10%">Type</th>
         <th width="10%">Players</th>
+        <th width="10%">Audience</th>
       </tr>
     </thead>
     <tbody>
@@ -22,6 +23,7 @@
         <td><a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a></td>
         <td>{{ offering.type }}</td>
         <td>{{ offering.minimum_players }} to {{ offering.maximum_players }}</td>
+        <td><span class="audience audience-{{ offering.audience }}">{{ offering.audience }}</span></td>
       </tr>
       {% endfor %}
     </tbody>
@@ -31,9 +33,10 @@
     <caption>Four (4) Hour Games {{ time.time | date: '%A'}} {{ time.abbreviation }}</caption>
     <thead>
       <tr>
-        <th width="80%">Game</th>
+        <th width="70%">Game</th>
         <th width="10%">Type</th>
         <th width="10%">Players</th>
+        <th width="10%">Audience</th>
       </tr>
     </thead>
     <tbody>
@@ -44,6 +47,7 @@
         <td><a href="/available-games/{{ data.game_id }}/#{{ data.facilitator_id }}">{{ offering.name }}</a></td>
         <td>{{ offering.type }}</td>
         <td>{{ offering.minimum_players }} to {{ offering.maximum_players }}</td>
+        <td><span class="audience audience-{{ offering.audience }}">{{ offering.audience }}</span></td>
       </tr>
       {% endfor %}
     </tbody>
