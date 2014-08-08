@@ -299,7 +299,7 @@ atomic-robo:
 bloodnet:
   facilitators:
     evan-torner:
-      type: Tabletop
+      type: LARP
       facilitator_name: Evan Torner
       name: BloodNet
       pitch: |-
@@ -309,7 +309,7 @@ bloodnet:
       minimum_players: '6'
       maximum_players: '12'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: BloodNet
   alpha_group: A-F
 burning-wheel:
@@ -396,7 +396,7 @@ cat:
 climb:
   facilitators:
     jason-morningstar:
-      type: Tabletop
+      type: LARP
       facilitator_name: Jason Morningstar
       name: Climb
       pitch: |-
@@ -407,7 +407,7 @@ climb:
       minimum_players: '5'
       maximum_players: '5'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: Climb
   alpha_group: A-F
 companions:
@@ -1606,7 +1606,7 @@ firefly-followin-yonder-star:
 first-impressions:
   facilitators:
     evan-torner:
-      type: Tabletop
+      type: LARP
       facilitator_name: Evan Torner
       name: First Impressions
       pitch: |-
@@ -1617,7 +1617,7 @@ first-impressions:
       minimum_players: '5'
       maximum_players: '10'
       audience: allages
-  type: Tabletop
+  type: LARP
   name: First Impressions
   alpha_group: A-F
 golden-sky-stories:
@@ -1735,7 +1735,7 @@ hillfolk:
 hirelings:
   facilitators:
     jay-treat:
-      type: Tabletop
+      type: LARP
       facilitator_name: Jay Treat
       name: Hirelings
       pitch: |-
@@ -1746,7 +1746,7 @@ hirelings:
       minimum_players: '3'
       maximum_players: '10'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: Hirelings
   alpha_group: G-L
 hollow-earth-expedition:
@@ -1809,7 +1809,7 @@ hope-inhumanity:
 how-to-be-human:
   facilitators:
     kat-jones:
-      type: Tabletop
+      type: LARP
       facilitator_name: Kat Jones
       name: How to be Human
       pitch: "<p>“How to be Human” is a game about vampires, werewolves, and ghosts
@@ -1818,7 +1818,7 @@ how-to-be-human:
       minimum_players: '3'
       maximum_players: '12'
       audience: allages
-  type: Tabletop
+  type: LARP
   name: How to be Human
   alpha_group: G-L
 immortals-ancient-secrets:
@@ -1846,7 +1846,7 @@ immortals-ancient-secrets:
 improv-for-gamers-level-1:
   facilitators:
     karen-twelves:
-      type: Tabletop
+      type: LARP
       facilitator_name: Karen Twelves
       name: 'Improv for Gamers: Level 1'
       pitch: |-
@@ -1856,7 +1856,7 @@ improv-for-gamers-level-1:
       minimum_players: '10'
       maximum_players: '12'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: 'Improv for Gamers: Level 1'
   alpha_group: G-L
 in-a-wicked-age-in-a-wicked-empire:
@@ -1881,7 +1881,7 @@ in-a-wicked-age-in-a-wicked-empire:
 inheritance-burning-wheel-larp:
   facilitators:
     john-stavropoulos:
-      type: Tabletop
+      type: LARP
       facilitator_name: John Stavropoulos
       name: 'Inheritance: Burning Wheel LARP'
       pitch: |-
@@ -1893,7 +1893,7 @@ inheritance-burning-wheel-larp:
       maximum_players: '9'
       audience: ''
     terry-hope-romero:
-      type: Tabletop
+      type: LARP
       facilitator_name: Terry Hope Romero
       name: 'Inheritance: Burning Wheel LARP'
       pitch: |-
@@ -1904,7 +1904,7 @@ inheritance-burning-wheel-larp:
       minimum_players: '9'
       maximum_players: '9'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: 'Inheritance: Burning Wheel LARP'
   alpha_group: G-L
 inspectres:
@@ -1944,7 +1944,7 @@ inspectres:
 island:
   facilitators:
     shoe-skogen:
-      type: Tabletop
+      type: LARP
       facilitator_name: Shoe Skogen
       name: Island
       pitch: |-
@@ -1954,7 +1954,7 @@ island:
       minimum_players: '5'
       maximum_players: '8'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: Island
   alpha_group: G-L
 itras-by:
@@ -2008,7 +2008,7 @@ jadepunk-the-vigilance-commitee:
 juggernaut:
   facilitators:
     jason-morningstar:
-      type: Tabletop
+      type: LARP
       facilitator_name: Jason Morningstar
       name: JUGGERNAUT
       pitch: |-
@@ -2021,7 +2021,7 @@ juggernaut:
       minimum_players: '5'
       maximum_players: '5'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: JUGGERNAUT
   alpha_group: G-L
 lady-blackbird:
@@ -2164,7 +2164,7 @@ little-wizards:
 m-vs-m:
   facilitators:
     john-stavropoulos:
-      type: Tabletop
+      type: LARP
       facilitator_name: John Stavropoulos
       name: M vs M
       pitch: |-
@@ -2176,7 +2176,7 @@ m-vs-m:
       maximum_players: '12'
       audience: ''
     terry-hope-romero:
-      type: Tabletop
+      type: LARP
       facilitator_name: Terry Hope Romero
       name: M vs M
       pitch: |-
@@ -2187,7 +2187,7 @@ m-vs-m:
       minimum_players: '9'
       maximum_players: '12'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: M vs M
   alpha_group: M-R
 magical-kitties:
@@ -2227,7 +2227,7 @@ marvel-heroic-rpg:
 metropolis:
   facilitators:
     evan-torner:
-      type: Tabletop
+      type: LARP
       facilitator_name: Evan Torner
       name: Metropolis
       pitch: |-
@@ -2237,7 +2237,7 @@ metropolis:
       minimum_players: '6'
       maximum_players: '12'
       audience: allages
-  type: Tabletop
+  type: LARP
   name: Metropolis
   alpha_group: M-R
 microscope:
@@ -2620,10 +2620,15 @@ penny-for-my-thoughts:
       minimum_players: '2'
       maximum_players: '4'
       audience: allages
+  type: Tabletop
+  name: Penny for My Thoughts
+  alpha_group: M-R
+penny-for-my-thoughts-larp:
+  facilitators:
     kristin-firth:
-      type: Tabletop
+      type: LARP
       facilitator_name: Kristin Firth
-      name: Penny For My Thoughts
+      name: Penny For My Thoughts - LARP
       pitch: "<p>You’ve all lost your memories, but with your signed agreement to
         participate in this little study, we believe we can assist you in recovering
         them. Is everyone sitting comfortably? Excellent. Now if you’d please take
@@ -2632,8 +2637,8 @@ penny-for-my-thoughts:
       minimum_players: '2'
       maximum_players: '4'
       audience: ''
-  type: Tabletop
-  name: Penny for My Thoughts
+  type: LARP
+  name: Penny For My Thoughts - LARP
   alpha_group: M-R
 powers-for-good:
   facilitators:
@@ -2658,7 +2663,7 @@ powers-for-good:
 previous-occupants:
   facilitators:
     kira-magrann:
-      type: Tabletop
+      type: LARP
       facilitator_name: Kira Magrann
       name: Previous Occupants
       pitch: "<p>Previous Occupants is a horror scenario about jealousy, trust and
@@ -2668,7 +2673,7 @@ previous-occupants:
       minimum_players: '4'
       maximum_players: '4'
       audience: mature
-  type: Tabletop
+  type: LARP
   name: Previous Occupants
   alpha_group: M-R
 princes-kingdom:
@@ -2825,7 +2830,7 @@ rat-queens-world-mashup:
 revived-a-support-group-for-the-partially-deceased:
   facilitators:
     kat-jones:
-      type: Tabletop
+      type: LARP
       facilitator_name: Kat Jones
       name: 'Revived: A Support Group for the Partially Deceased'
       pitch: "<p>Revived is an unconventional zombie LARP inspired by the BBC show
@@ -2837,7 +2842,7 @@ revived-a-support-group-for-the-partially-deceased:
       minimum_players: '3'
       maximum_players: '8'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: 'Revived: A Support Group for the Partially Deceased'
   alpha_group: M-R
 ryuutama:
@@ -3075,7 +3080,7 @@ steal-away-jordan-final-defense-of-the-quilombos:
 summer-lovin:
   facilitators:
     kira-magrann:
-      type: Tabletop
+      type: LARP
       facilitator_name: Kira Magrann
       name: Summer Lovin’
       pitch: |-
@@ -3085,7 +3090,7 @@ summer-lovin:
       minimum_players: '5'
       maximum_players: '6'
       audience: mature
-  type: Tabletop
+  type: LARP
   name: Summer Lovin’
   alpha_group: S-Z
 swords-without-master:
@@ -3501,7 +3506,7 @@ tremulus:
 tribunal:
   facilitators:
     andrew-medeiros:
-      type: Tabletop
+      type: LARP
       facilitator_name: Andrew Medeiros
       name: Tribunal
       pitch: |-
@@ -3513,7 +3518,7 @@ tribunal:
       minimum_players: '7'
       maximum_players: '12'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: Tribunal
   alpha_group: S-Z
 urban-shadows:
@@ -3565,7 +3570,7 @@ urban-shadows:
 uwe-boll-s-x-mas-special:
   facilitators:
     evan-torner:
-      type: Tabletop
+      type: LARP
       facilitator_name: Evan Torner
       name: Uwe Boll’s X-mas Special
       pitch: |-
@@ -3575,7 +3580,7 @@ uwe-boll-s-x-mas-special:
       minimum_players: '6'
       maximum_players: '10'
       audience: mature
-  type: Tabletop
+  type: LARP
   name: Uwe Boll’s X-mas Special
   alpha_group: S-Z
 vampire-city:
@@ -3618,7 +3623,7 @@ variance:
 villa-air-bel:
   facilitators:
     james-stuart:
-      type: Tabletop
+      type: LARP
       facilitator_name: James Stuart
       name: Villa Air-Bel
       pitch: |-
@@ -3628,7 +3633,7 @@ villa-air-bel:
       minimum_players: '5'
       maximum_players: '5'
       audience: mature
-  type: Tabletop
+  type: LARP
   name: Villa Air-Bel
   alpha_group: S-Z
 war-of-ashes:
@@ -3713,7 +3718,7 @@ warren:
 werewolf-at-prom:
   facilitators:
     james-gabrielsen:
-      type: Tabletop
+      type: LARP
       facilitator_name: James Gabrielsen
       name: Werewolf At Prom
       pitch: |-
@@ -3723,7 +3728,7 @@ werewolf-at-prom:
       minimum_players: '4'
       maximum_players: '4'
       audience: ''
-  type: Tabletop
+  type: LARP
   name: Werewolf At Prom
   alpha_group: S-Z
 western-city:

@@ -178,8 +178,8 @@ namespace :build do
 
       collector = {}
       exceptions = []
-      ['gencon_god_tabletop.xml', 'gencon_god_larp.xml'].each do |filename|
-        document = Nokogiri::XML.parse(File.read(File.expand_path("../_data/#{filename}", __FILE__)))
+      ['Tabletop', 'LARP'].each do |type|
+        document = Nokogiri::XML.parse(File.read(File.expand_path("../_data/gencon_god_#{type.downcase}.xml", __FILE__)))
         document.css('games gm').each do |gm|
           gm.css('game').each do |game|
             game_name = game.xpath('title').first.text
@@ -187,7 +187,7 @@ namespace :build do
               gsub(/:(\w)/, ': \1').
               sub(/^(An?) (.*)$/i, '\2').
               sub(/^(The) (.*)$/i, '\2')
-            game_type = 'Tabletop'
+            game_type = type
             gm_name = (gm.xpath('schedule_name').first || gm.xpath('name').first).text
             slugified_game_name = slugify_text(game_name.split('(').first)
             slugified_person_name = slugify_text(gm_name)
@@ -270,19 +270,29 @@ namespace :build do
             day.times.each_with_index do |time, index|
               time_key = keyify_time(time)
               case row[time_key]
-              when /host/i, /larp/i
+              when /host/i
                 hosting[slugified_person_name] ||= []
                 hosting[slugified_person_name] << {
                   day: time.strftime('%A').downcase.strip,
                   slot: time.strftime('%l%p').strip,
-                  max_duration: peak_ahead(row, day.times, index, /host/i)
+                  max_duration: peak_ahead(row, day.times, index, /host/i),
+                  role: row[time_key].downcase
                 }
               when /gm/i
                 facilitating[slugified_person_name] ||= []
                 facilitating[slugified_person_name] << {
                   day: time.strftime('%A').downcase.strip,
                   slot: time.strftime('%l%p').strip,
-                  max_duration: peak_ahead(row, day.times, index, /gm/i)
+                  max_duration: peak_ahead(row, day.times, index, /gm/i),
+                  role: row[time_key].downcase
+                }
+              when /larp/i
+                facilitating[slugified_person_name] ||= []
+                facilitating[slugified_person_name] << {
+                  day: time.strftime('%A').downcase.strip,
+                  slot: time.strftime('%l%p').strip,
+                  max_duration: peak_ahead(row, day.times, index, /larp/i),
+                  role: row[time_key].downcase
                 }
               when /^ *$/
               else
@@ -335,18 +345,18 @@ namespace :build do
             game_offerings[game_id] ||= Set.new
             slot_facilitators.each do |facilitator|
               offering = game_data.fetch('facilitators')[facilitator.fetch(:name)]
-              if offering
-                offering_duration = offering.fetch('duration').to_i
-                if offering_duration <= facilitator.fetch(:max_duration).to_i
-                  entry = { 'game_id' => game_id, 'facilitator_id' => facilitator.fetch(:name) }
-                  game_offerings[game_id] << { 'slug' => File.join(day_name, abbreviation), 'label' => keyify_time(slot_data.fetch('time')), 'facilitator_id' => entry['facilitator_id'] }
-                  case offering_duration
-                  when 2 then slot_data['two_hour_games'] << entry
-                  when 4 then slot_data['four_hour_games'] << entry
-                  else
-                    raise "Unexpected duration"
-                  end
-                end
+              next unless offering
+              next unless (facilitator.fetch(:role) =~ /gm/i && offering.fetch('type') =~ /tabletop/i) ||
+                  (facilitator.fetch(:role) =~ /larp/i && offering.fetch('type') =~ /larp/i)
+              offering_duration = offering.fetch('duration').to_i
+              next unless offering_duration <= facilitator.fetch(:max_duration).to_i
+              entry = { 'game_id' => game_id, 'facilitator_id' => facilitator.fetch(:name) }
+              game_offerings[game_id] << { 'slug' => File.join(day_name, abbreviation), 'label' => keyify_time(slot_data.fetch('time')), 'facilitator_id' => entry['facilitator_id'] }
+              case offering_duration
+              when 2 then slot_data['two_hour_games'] << entry
+              when 4 then slot_data['four_hour_games'] << entry
+              else
+                raise "Unexpected duration"
               end
             end
             game_offerings[game_id] = game_offerings[game_id].to_a
