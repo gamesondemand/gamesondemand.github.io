@@ -12,7 +12,7 @@ description: Available Games for Games on Demand at GenCon
     <ul class="inline-list">
       {% assign previous_alpha_group = "" %}
       {% for game in site.data.games %}
-        {% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %}<li><a class="button small" href="#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}
+        {% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %}<li><a class="button small round" href="#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}
       {% endfor %}
     </ul>
   </nav>
