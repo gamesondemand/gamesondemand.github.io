@@ -1283,7 +1283,7 @@ saturday:
         facilitator_id: jesse-butler
     6pm:
       time: 2014-08-16 18:00:00.000000000 -04:00
-      abbreviation: 4pm
+      abbreviation: 6pm
       two_hour_games:
       - game_id: abstract-dungeon
         facilitator_id: matthew-j-hanson
