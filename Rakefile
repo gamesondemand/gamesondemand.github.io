@@ -50,16 +50,27 @@ namespace :build do
         text << '    </ul>'
         text << '  </nav>'
         text << ''
-        text << '  <ul>'
+        text << '  <table>'
+        text << '    <caption>{{ page.title }}</caption>'
+        text << '    <thead>'
+        text << '      <tr>'
+        text << '        <th width="80%">Game</th>'
+        text << '        <th width="20%">Type</th>'
+        text << '      </tr>'
+        text << '    </thead>'
+        text << '    <tbody>'
         text << '  {% assign previous_alpha_group = "" %}'
         text << '  {% for game in site.data.games %}'
-        text << '    <li>'
-        text << '      <a href="/available-games/{{game[0]}}/"{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %} name="{{ previous_alpha_group}}"{% endif %}>'
+        text << '    <tr>'
+        text << '      <td><a href="/available-games/{{game[0]}}/"{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1].alpha_group %} name="{{ previous_alpha_group}}"{% endif %}>'
         text << '        {{ game[1].name }}'
-        text << '      </a>'
-        text << '    </li>'
+        text << '      </a></td>'
+        text << '      <td>{{ game[1].type }}</td>'
+        text << '    </tr>'
         text << '  {% endfor %}'
-        text << '  </ul>'
+        text << '    </tbody>'
+        text << '  </table>'
+        text << ''
         text << '</article>'
         file.puts text.join("\n")
       end
@@ -101,7 +112,7 @@ namespace :build do
         File.open(File.join(dirname, 'index.html'), 'w+') do |file|
           text = []
           text << '---'
-          text << 'layout: time'
+          text << 'layout: day'
           text << "title: #{day} Games on Demand at GenCon"
           text << "description: List of games for #{day} at Games on Demand GenCon"
           text << '---'
