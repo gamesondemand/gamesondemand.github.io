@@ -13,6 +13,8 @@ thursday:
         facilitator_id: matt-boersma
       - game_id: abstract-dungeon
         facilitator_id: matthew-j-hanson
+      - game_id: climb
+        facilitator_id: jason-morningstar
       - game_id: do-pilgrims-of-the-flying-temple
         facilitator_id: matt-boersma
       - game_id: do-pilgrims-of-the-flying-temple
@@ -29,6 +31,8 @@ thursday:
         facilitator_id: nykki-boersma
       - game_id: inspectres
         facilitator_id: tresi
+      - game_id: juggernaut
+        facilitator_id: jason-morningstar
       - game_id: little-wizards
         facilitator_id: matt-boersma
       - game_id: magical-kitties
@@ -43,6 +47,8 @@ thursday:
         facilitator_id: justin-d-jacobson
       - game_id: trash-planet
         facilitator_id: shoe-skogen
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
       - game_id: warren
         facilitator_id: jason-morningstar
       four_hour_games:
@@ -64,6 +70,16 @@ thursday:
         facilitator_id: giovanni-lanza
       - game_id: fate-core-dawning-star
         facilitator_id: justin-d-jacobson
+      - game_id: inheritance-burning-wheel-larp
+        facilitator_id: john-stavropoulos
+      - game_id: inheritance-burning-wheel-larp
+        facilitator_id: terry-hope-romero
+      - game_id: island
+        facilitator_id: shoe-skogen
+      - game_id: m-vs-m
+        facilitator_id: john-stavropoulos
+      - game_id: m-vs-m
+        facilitator_id: terry-hope-romero
       - game_id: monster-of-the-week-beasts-of-burden
         facilitator_id: renee-knipe
       - game_id: monsterhearts-elderhearts
@@ -82,6 +98,8 @@ thursday:
         facilitator_id: tresi
       - game_id: urban-shadows
         facilitator_id: andrew-medeiros
+      - game_id: villa-air-bel
+        facilitator_id: james-stuart
       - game_id: whitebooks-the-last-modron-migration
         facilitator_id: renee-knipe
     12pm:
@@ -134,10 +152,14 @@ thursday:
         facilitator_id: justin-d-jacobson
       - game_id: trash-planet
         facilitator_id: shoe-skogen
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
       four_hour_games:
       - game_id: d-d-flailsnails-the-garden-of-statues
         facilitator_id: shoe-skogen
       - game_id: d-d-flailsnails-the-moon-marsh
+        facilitator_id: shoe-skogen
+      - game_id: island
         facilitator_id: shoe-skogen
       - game_id: on-mighty-thews
         facilitator_id: dana-fried
@@ -153,6 +175,8 @@ thursday:
         facilitator_id: mark-dipasquale
       - game_id: apocalypse-world
         facilitator_id: trevis-martin
+      - game_id: climb
+        facilitator_id: jason-morningstar
       - game_id: dudebros-douchebags
         facilitator_id: mikael-andersson
       - game_id: dungeon-world
@@ -167,6 +191,8 @@ thursday:
         facilitator_id: travis-scott
       - game_id: hope-inhumanity
         facilitator_id: patrick-riegert
+      - game_id: juggernaut
+        facilitator_id: jason-morningstar
       - game_id: microscope
         facilitator_id: andy-kitkowski
       - game_id: our-last-best-hope
@@ -185,6 +211,8 @@ thursday:
         facilitator_id: shoe-skogen
       - game_id: warren
         facilitator_id: jason-morningstar
+      - game_id: werewolf-at-prom
+        facilitator_id: james-gabrielsen
       four_hour_games:
       - game_id: dungeon-world-doom-of-fenrax
         facilitator_id: russ-brown
@@ -405,6 +433,8 @@ friday:
         facilitator_id: mark-richardson
       - game_id: in-a-wicked-age-in-a-wicked-empire
         facilitator_id: dave-younce
+      - game_id: island
+        facilitator_id: shoe-skogen
       - game_id: monster-of-the-week-beasts-of-burden
         facilitator_id: renee-knipe
       - game_id: monsterhearts
@@ -423,6 +453,8 @@ friday:
         facilitator_id: james-stuart
       - game_id: tragedy-in-five-acts
         facilitator_id: stentor-danielson
+      - game_id: villa-air-bel
+        facilitator_id: james-stuart
       - game_id: whitebooks-the-last-modron-migration
         facilitator_id: renee-knipe
     12pm:
@@ -490,6 +522,10 @@ friday:
         facilitator_id: jay-treat
       - game_id: hillfolk
         facilitator_id: dan-noland
+      - game_id: hirelings
+        facilitator_id: jay-treat
+      - game_id: island
+        facilitator_id: shoe-skogen
       - game_id: traveller
         facilitator_id: jesse-butler
       - game_id: vampire-city
@@ -542,6 +578,8 @@ friday:
         facilitator_id: justin-d-jacobson
       - game_id: trash-planet
         facilitator_id: shoe-skogen
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
       - game_id: western-city
         facilitator_id: jason-wallace
       - game_id: zombie-cinema
@@ -615,6 +653,8 @@ friday:
         facilitator_id: mark-dipasquale
       - game_id: cat
         facilitator_id: ray-otus
+      - game_id: climb
+        facilitator_id: jason-morningstar
       - game_id: deeds-doers
         facilitator_id: gregor-hutton
       - game_id: dudebros-douchebags
@@ -635,6 +675,8 @@ friday:
         facilitator_id: travis-scott
       - game_id: hope-inhumanity
         facilitator_id: patrick-riegert
+      - game_id: juggernaut
+        facilitator_id: jason-morningstar
       - game_id: lasers-and-feelings
         facilitator_id: jeromy-hastings
       - game_id: nanoworld
@@ -653,6 +695,8 @@ friday:
         facilitator_id: mark-dipasquale
       - game_id: thousand-and-one-nights-campfire
         facilitator_id: mcgravin-matt-seifert
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
       - game_id: warren
         facilitator_id: jason-morningstar
       - game_id: zombie-cinema
@@ -664,6 +708,14 @@ friday:
         facilitator_id: jeromy-hastings
       - game_id: durance
         facilitator_id: anne-horowitz
+      - game_id: inheritance-burning-wheel-larp
+        facilitator_id: john-stavropoulos
+      - game_id: inheritance-burning-wheel-larp
+        facilitator_id: terry-hope-romero
+      - game_id: m-vs-m
+        facilitator_id: john-stavropoulos
+      - game_id: m-vs-m
+        facilitator_id: terry-hope-romero
       - game_id: monsterhearts
         facilitator_id: jeromy-hastings
       - game_id: monsterhearts-elderhearts
@@ -700,6 +752,8 @@ friday:
         facilitator_id: trevis-martin
       - game_id: archipelago-last-of-us
         facilitator_id: mark-causey
+      - game_id: climb
+        facilitator_id: jason-morningstar
       - game_id: danger-patrol
         facilitator_id: drew-owen
       - game_id: deeds-doers
@@ -724,6 +778,8 @@ friday:
         facilitator_id: mcgravin-matt-seifert
       - game_id: hollowpoint
         facilitator_id: nykki-boersma
+      - game_id: juggernaut
+        facilitator_id: jason-morningstar
       - game_id: lasers-and-feelings
         facilitator_id: jeromy-hastings
       - game_id: little-wizards
@@ -799,6 +855,8 @@ friday:
         facilitator_id: drew-owen
       - game_id: fiasco
         facilitator_id: mcgravin-matt-seifert
+      - game_id: first-impressions
+        facilitator_id: evan-torner
       - game_id: hollowpoint
         facilitator_id: nykki-boersma
       - game_id: little-wizards
@@ -825,6 +883,8 @@ friday:
         facilitator_id: trevis-martin
       - game_id: thousand-and-one-nights-campfire
         facilitator_id: mcgravin-matt-seifert
+      - game_id: uwe-boll-s-x-mas-special
+        facilitator_id: evan-torner
       - game_id: zombie-cinema
         facilitator_id: anna-kreider
       four_hour_games:
@@ -832,6 +892,8 @@ friday:
         facilitator_id: joanna-piancastelli
       - game_id: atlas-reckoning
         facilitator_id: stras-acimovic
+      - game_id: bloodnet
+        facilitator_id: evan-torner
       - game_id: burning-wheel
         facilitator_id: mad-jay
       - game_id: carolina-death-crawl
@@ -884,6 +946,8 @@ friday:
         facilitator_id: andy-tatton
       - game_id: leverage
         facilitator_id: alan-de-smet
+      - game_id: metropolis
+        facilitator_id: evan-torner
       - game_id: monster-of-the-week
         facilitator_id: rick-neal
       - game_id: monsterhearts-the-blood-of-misty-harbour
@@ -926,6 +990,8 @@ friday:
         facilitator_id: sarah-richardson
       - game_id: fate-accelerated-afrofuture
         facilitator_id: james-mendez-hodes
+      - game_id: first-impressions
+        facilitator_id: evan-torner
       - game_id: hollowpoint
         facilitator_id: nykki-boersma
       - game_id: marvel-heroic-rpg
@@ -940,6 +1006,8 @@ friday:
         facilitator_id: james-mendez-hodes
       - game_id: technoir
         facilitator_id: trevis-martin
+      - game_id: uwe-boll-s-x-mas-special
+        facilitator_id: evan-torner
       - game_id: variance
         facilitator_id: rishi-agrawal
       - game_id: western-city
@@ -1030,8 +1098,12 @@ saturday:
         facilitator_id: jeremy-tidwell
       - game_id: headspace
         facilitator_id: mark-richardson
+      - game_id: inheritance-burning-wheel-larp
+        facilitator_id: john-stavropoulos
       - game_id: lady-blackbird
         facilitator_id: ray-otus
+      - game_id: m-vs-m
+        facilitator_id: john-stavropoulos
       - game_id: monsterhearts-elderhearts
         facilitator_id: john-stavropoulos
       - game_id: rat-queens-world-mashup
@@ -1050,6 +1122,8 @@ saturday:
         facilitator_id: tresi
       - game_id: urban-shadows
         facilitator_id: travis-scott
+      - game_id: villa-air-bel
+        facilitator_id: james-stuart
       - game_id: war-of-ashes-fate-of-agaptus
         facilitator_id: sean-nittner
     12pm:
@@ -1064,6 +1138,8 @@ saturday:
         facilitator_id: mark-dipasquale
       - game_id: cat
         facilitator_id: ray-otus
+      - game_id: climb
+        facilitator_id: jason-morningstar
       - game_id: do-pilgrims-of-the-flying-temple
         facilitator_id: nykki-boersma
       - game_id: dungeon-world
@@ -1080,6 +1156,8 @@ saturday:
         facilitator_id: patrick-riegert
       - game_id: inspectres
         facilitator_id: tresi
+      - game_id: juggernaut
+        facilitator_id: jason-morningstar
       - game_id: magical-kitties
         facilitator_id: matthew-j-hanson
       - game_id: microscope
@@ -1133,6 +1211,8 @@ saturday:
       two_hour_games:
       - game_id: cat
         facilitator_id: ray-otus
+      - game_id: climb
+        facilitator_id: jason-morningstar
       - game_id: danger-patrol
         facilitator_id: drew-owen
       - game_id: dog-eat-dog
@@ -1153,6 +1233,8 @@ saturday:
         facilitator_id: mcgravin-matt-seifert
       - game_id: golden-sky-stories
         facilitator_id: travis-scott
+      - game_id: juggernaut
+        facilitator_id: jason-morningstar
       - game_id: legacy-of-the-slayer
         facilitator_id: jay-treat
       - game_id: microscope
@@ -1171,6 +1253,8 @@ saturday:
         facilitator_id: mcgravin-matt-seifert
       - game_id: trash-planet
         facilitator_id: shoe-skogen
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
       - game_id: variance
         facilitator_id: rishi-agrawal
       - game_id: warren
@@ -1210,6 +1294,8 @@ saturday:
         facilitator_id: jay-treat
       - game_id: gumshoe-night-s-black-agents
         facilitator_id: bill-white
+      - game_id: hirelings
+        facilitator_id: jay-treat
       - game_id: jadepunk-the-vigilance-commitee
         facilitator_id: ron-frazier
       - game_id: on-mighty-thews
@@ -1282,6 +1368,8 @@ saturday:
         facilitator_id: trevis-martin
       - game_id: tokyo-brain-pop
         facilitator_id: chris-czerniak
+      - game_id: tribunal
+        facilitator_id: andrew-medeiros
       - game_id: variance
         facilitator_id: rishi-agrawal
       - game_id: zombie-cinema
@@ -1562,6 +1650,8 @@ sunday:
         facilitator_id: gregor-hutton
       - game_id: apocalypse-world
         facilitator_id: mark-dipasquale
+      - game_id: climb
+        facilitator_id: jason-morningstar
       - game_id: danger-patrol
         facilitator_id: drew-owen
       - game_id: deeds-doers
@@ -1588,6 +1678,8 @@ sunday:
         facilitator_id: patrick-riegert
       - game_id: inspectres
         facilitator_id: jenn-martin
+      - game_id: juggernaut
+        facilitator_id: jason-morningstar
       - game_id: little-wizards
         facilitator_id: matt-boersma
       - game_id: our-last-best-hope
@@ -1613,6 +1705,10 @@ sunday:
         facilitator_id: giovanni-lanza
       - game_id: in-a-wicked-age-in-a-wicked-empire
         facilitator_id: dave-younce
+      - game_id: inheritance-burning-wheel-larp
+        facilitator_id: terry-hope-romero
+      - game_id: m-vs-m
+        facilitator_id: terry-hope-romero
       - game_id: monsterhearts-elderhearts
         facilitator_id: terry-hope-romero
       - game_id: on-mighty-thews
@@ -1666,6 +1762,8 @@ sunday:
         facilitator_id: stentor-danielson
       - game_id: headspace
         facilitator_id: mark-richardson
+      - game_id: improv-for-gamers-level-1
+        facilitator_id: karen-twelves
       - game_id: lady-blackbird
         facilitator_id: andy-tatton
       - game_id: monsterhearts
