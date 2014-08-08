@@ -290,17 +290,40 @@ namespace :build do
       times = Psych.load_file(File.expand_path('../_data/times.yml', __FILE__))
       facilitators = Psych.load_file(File.expand_path('../_data/facilitator.yml', __FILE__))
       games = Psych.load_file(File.expand_path('../_data/games.yml', __FILE__))
+      registry = {}
       times.each do |day_name, time_structure|
+        registry[day_name] = time_structure
         time_structure.fetch('times').each do |hour, slot_data|
+          registry.fetch(day_name).fetch('times')[hour]['two_hour_games'] = []
+          registry.fetch(day_name).fetch('times')[hour]['four_hour_games'] = []
+
           slot_facilitators = facilitators.select do |facilitator|
             facilitator.fetch(:day).upcase == day_name.upcase &&
             facilitator.fetch(:slot).upcase == hour.upcase
           end
-          games.select do |game_id, game_data|
-            game_data.fetch('facilitators').keys.include?
+
+          games.each do |game_id, game_data|
+            slot_facilitators.each do |facilitator|
+              offering = game_data.fetch('facilitators')[facilitator.fetch(:name)]
+              if offering
+                offering_duration = offering.fetch('duration').to_i
+                if offering_duration <= facilitator.fetch(:max_duration).to_i
+                  entry = { game_id: game_id, facilitator_id: facilitator.fetch(:name) }
+                  case offering_duration
+                  when 2 then slot_data['two_hour_games'] << entry
+                  when 4 then slot_data['four_hour_games'] << entry
+                  else
+                    raise "Unexpected duration"
+                  end
+                end
+              end
+            end
           end
-          # ::Kernel.require 'byebug'; ::Kernel.byebug; true;
         end
+      end
+
+      File.open(File.expand_path('../_data/times.yml', __FILE__), 'w+') do |file|
+        file.puts Psych.dump(registry)
       end
     end
   end
