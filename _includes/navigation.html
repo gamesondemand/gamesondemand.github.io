@@ -4,10 +4,10 @@
       <h1><a href="/">{{ site.short_name }}</a></h1>
     </li>
      <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+    <li class="toggle-topbar menu-icon hide-for-print"><a href="#"><span>Menu</span></a></li>
   </ul>
 
-  <section class="top-bar-section">
+  <section class="top-bar-section hide-for-print">
     <!-- Left Nav Section -->
     <ul class="left">
       <li><a href="/about/">About</a>
@@ -47,7 +47,7 @@
   </section>
 </nav>
 
-<nav class="social-media-badges">
+<nav class="social-media-badges hide-for-print">
   <div class="row">
     <ul class="inline-list no-bullet">
       <li class="social-media-item twitter-frame"><a href="twitter://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}/{{ page.path }}" data-via="gamesondemand" data-hashtags="gencon,gamesondemand">Tweet</a></li>
