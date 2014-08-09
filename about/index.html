@@ -3,46 +3,52 @@ layout: default
 title: About Games on Demand at GenCon
 description: About Games on Demand at GenCon
 ---
-<dl>
-  <dt>What</dt>
-  <dd>
-    <ul>
-      <li>200+ RPGs and LARPs</li>
-      <li>46 hours, 25 tables, 70 GMs</li>
-      <li>No registration!</li>
-      <li>No planning!</li>
-    </ul>
-  </dd>
-  <dt>Where</dt>
-  <dd>Marriott Downtown, 2nd floor, Ballroom 6, 350 West Maryland St.</dd>
-  <dd><a href="/map/">See our map</a></dd>
-  <dt>Arrive</dt>
-  <dd>10 minutes before start time</dd>
-  <dt>When</dt>
-  <dd class="about-when">
-    {% for day_data in site.data.times %}{% assign day = day_data[0] %}
-      <ul class="inline-list about-when-day">
-        <li><a class="button tiny round" href="/{{ day }}">{{ day | capitalize  }}</a>
-        {% for slot in day_data[1].times %}
-        <li><a class="button secondary tiny round" href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
-        {% endfor %}
+<article class="about">
+  <header class="available-games-header header">
+    <h2 class="name">{{ page.title }}</h2>
+  </header>
+
+  <dl>
+    <dt>What</dt>
+    <dd>
+      <ul>
+        <li>200+ RPGs and LARPs</li>
+        <li>46 hours, 25 tables, 70 GMs</li>
+        <li>No registration!</li>
+        <li>No planning!</li>
       </ul>
-    {% endfor %}
-  </dd>
-  <dt>Bring</dt>
-  <dd>
-    <p>Generic Tickets</p>
-    <ul>
-      <li>Two (2) hour game; 1 generic ticket</li>
-      <li>Four (4) hour game; 2 generic tickets</li>
-    </ul>
-  </dd>
-  <dt>Experience</dt>
-  <dd>None</dd>
-  <dt>Age</dt>
-  <dd>10+, though most games are for 18+</dd>
-  <dt>Further Questions</dt>
-  <dd><a href="/faq/">See our FAQ</a></dd>
-  <dt>More Information</dt>
-  <dd><a href="//indiegamesexplosion.org/2014/05/15/games-on-demand-at-gen-con-2014">Find out more at indiegamesexplosion.org</a></dd>
-</dl>
+    </dd>
+    <dt>Where</dt>
+    <dd>Marriott Downtown, 2nd floor, Ballroom 6, 350 West Maryland St.</dd>
+    <dd><a href="/map/">See our map</a></dd>
+    <dt>Arrive</dt>
+    <dd>10 minutes before start time</dd>
+    <dt>When</dt>
+    <dd class="about-when">
+      {% for day_data in site.data.times %}{% assign day = day_data[0] %}
+        <ul class="inline-list about-when-day">
+          <li><a class="button tiny round" href="/{{ day }}">{{ day | capitalize  }}</a>
+          {% for slot in day_data[1].times %}
+          <li><a class="button secondary tiny round" href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </dd>
+    <dt>Bring</dt>
+    <dd>
+      <p>Generic Tickets</p>
+      <ul>
+        <li>Two (2) hour game; 1 generic ticket</li>
+        <li>Four (4) hour game; 2 generic tickets</li>
+      </ul>
+    </dd>
+    <dt>Experience</dt>
+    <dd>None</dd>
+    <dt>Age</dt>
+    <dd>10+, though most games are for 18+</dd>
+    <dt>Further Questions</dt>
+    <dd><a href="/faq/">See our FAQ</a></dd>
+    <dt>More Information</dt>
+    <dd><a href="//indiegamesexplosion.org/2014/05/15/games-on-demand-at-gen-con-2014">Find out more at indiegamesexplosion.org</a></dd>
+  </dl>
+</article>
