@@ -177,8 +177,13 @@
       There is an available game that is not on the schedule. Why isn't it on the schedule?
     answer: >
       We have a master schedule for our volunteer GMs.
-      Some of the volunteers have told us that they cannot commit to a particular time, but will drop in as their schedule permits.</p>
-      We have printed menus for them, but have not put them on the schedule.
+      We have a master list of games that GMs are prepared to run.
+      A GM's game may not have a listed time because:
+      <ul>
+        <li>We don't have a final schedule for them.</li>
+        <li>They have a complicated schedule and want to drop in to run a game.</li>
+        <li>A game they submited requires 4 hours but they are only ever scheduled for 2 hour blocks.</li>
+      </ul>
     dom_id: offered-game-not-on-schedule
   - question: >
       I heard something about LARPs! Is this true?
