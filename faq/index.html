@@ -10,7 +10,7 @@ description: FAQ about Games on Demand at GenCon
   </header>
 
   <nav>
-    <ul class="inline-list">
+    <ul id="faq-nav" class="inline-list">
       {% for question_group in site.data.faq %}
       <li><a class="button tiny round" href="#{{ question_group.dom_id }}">{{ question_group.name }}</a></li>
       {% endfor %}
@@ -19,7 +19,7 @@ description: FAQ about Games on Demand at GenCon
 
   {% for question_group in site.data.faq %}
   <div id="{{ question_group.dom_id}}">
-    <h3>{{ question_group.name }}</h3>
+    <h3>{{ question_group.name }} <small><a href="#faq-nav">Back to the top</a></small></h3>
     {% for qa in question_group.questions %}
     <dl class="qa" itemscope itemtype="http://schema.org/Question">
       <dt {% if qa.dom_id %}id="{{ qa.dom_id }}" {% endif %} class="question" itemprop="text">{{ qa.question }}</dt>
