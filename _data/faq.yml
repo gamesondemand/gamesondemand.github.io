@@ -7,10 +7,27 @@
     answer: >
       Issued by Games on Demand, it is analogous to a buzzer at a restaurant. <a href="#boarding-passes">See more about Boarding Passes</a>.
   - question: >
+      Facilitator
+    answer: >
+      A person responsible for facilitating a game at Games on Demand. <a href="/for-hosts/">See our for GMs</a> section.
+      Where possible we use Facilitator, though we will often refer to them as GMs.
+  - question: >
+      GM
+    answer: >
+      See Facilitator. After all we have GM-less games.
+  - question: >
+      Host
+    answer: >
+      A person responsible for how things run at Games on Demand. <a href="/for-hosts/">See our for Hosts</a> section.
+  - question: >
       Menu, Game
     answer: >
       A sheet at the hosting table that list the GM, game(s) run by them with pitch, audience, and number of players.
       There will be a lot of these at the Hosting Table.
+  - question: >
+      Patron
+    answer: >
+      A person who is coming to Games on Demand to play a game.
   - question: Time Slot
     answer: >
       The two hours between starting times for games. <a href="/#schedule">See our schedule</a>.
