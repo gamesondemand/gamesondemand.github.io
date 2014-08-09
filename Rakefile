@@ -1,5 +1,9 @@
 namespace :build do
-
+  task :google_session do
+    require "rubygems"
+    require "google_drive"
+    @session = GoogleDrive.login(ENV['GOOGLE_USERNAME'], ENV['GOOGLE_PASSWORD'])
+  end
   task :functions do
     def keyify_time(time)
       time.gmtime.strftime('%a %l%p').sub(/ +/, ' ')
@@ -140,14 +144,11 @@ namespace :build do
 
   namespace :data do
     desc 'Download the schedule'
-    task :schedule_download do
+    task :schedule_download => ['build:google_session'] do
       require 'csv'
-      require "rubygems"
-      require "google_drive"
       temp_filename = File.expand_path('../_data/schedule-tmp.csv', __FILE__)
       filename = File.expand_path('../_data/schedule.csv', __FILE__)
-      session = GoogleDrive.login(ENV['GOOGLE_USERNAME'], ENV['GOOGLE_PASSWORD'])
-      sheet = session.spreadsheet_by_key('1eXGyt8ttJNqzEnSOq5frSeOZ0nV1zEm41SCs60rtn1I')
+      sheet = @session.spreadsheet_by_key('1eXGyt8ttJNqzEnSOq5frSeOZ0nV1zEm41SCs60rtn1I')
       sheet.export_as_file(temp_filename)
       contents = File.read(temp_filename).split("\n")
       contents.shift # Junk row
