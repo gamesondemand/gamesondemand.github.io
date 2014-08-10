@@ -198,7 +198,31 @@
       The plan is to have separate boarding tables for signing up 2 hour and 4 hour slots.
       You'll need to choose before hand how long you are in for.
       Now, if you want to jump to the other table that's fine.
-      But at least you'll be making that decision.﻿
+      But at least you'll be making that decision.
+- name: Helping Out
+  dom_id: helping-out
+  questions:
+  - question: >
+      How can I help out at Games on Demand?
+    answer: >
+      <p>There are many ways you can help out:</p>
+      <ul>
+        <li>Volunteer to <a href="#volunteer-to-facilitate-a-game">facilitate a game</a>.</li>
+        <li>Help with some <a href="/for-hosts/#host-chores">host chores</a>.</li>
+        <li>Donate to our <a href="http://www.indiegamesexplosion.org/games-on-demand/supporting-games-on-demand/">tip jar</a>.
+        <li>Ask a host how you can help.</li>
+        <li>
+      </ul>
+  - question: >
+      Is it to late to <strong>volunteer to run a game</strong>?
+    answer: >
+      <p>No, it is not too late.
+      Do you want to run one game, or many?
+      Talk to a host, they will see what they can do.</p>
+      <p>
+      <em>We have 25 tables reserved but often have fewer than 25 GMs scheduled. There are also overflow options provided by</em>
+      </p>
+    dom_id: volunteer-to-facilitate-a-game
 - name: Groups
   dom_id: groups
   questions:
