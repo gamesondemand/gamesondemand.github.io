@@ -208,6 +208,9 @@ archipelago-carnival-of-lost-souls:
 - slug: saturday/12pm
   label: Sat 12PM
   facilitator_id: renee-knipe
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: renee-knipe
 archipelago-last-of-us:
 - slug: thursday/12pm
   label: Thu 12PM
@@ -261,6 +264,12 @@ burning-wheel:
 - slug: saturday/10am
   label: Sat 10AM
   facilitator_id: mad-jay
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: thor-olavsrud
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: thor-olavsrud
 - slug: sunday/12pm
   label: Sun 12PM
   facilitator_id: mad-jay
@@ -268,14 +277,14 @@ carolina-death-crawl:
 - slug: friday/8pm
   label: Fri 8PM
   facilitator_id: justin-hamilton
+- slug: saturday/2pm
+  label: Sat 2PM
+  facilitator_id: bryan-rennekamp
 - slug: saturday/8pm
   label: Sat 8PM
   facilitator_id: bryan-rennekamp
 - slug: saturday/8pm
   label: Sat 8PM
-  facilitator_id: justin-hamilton
-- slug: sunday/12pm
-  label: Sun 12PM
   facilitator_id: justin-hamilton
 cat:
 - slug: friday/4pm
@@ -486,9 +495,6 @@ dog-eat-dog:
   facilitator_id: rishi-agrawal
 - slug: saturday/10am
   label: Sat 10AM
-  facilitator_id: james-stuart
-- slug: saturday/10am
-  label: Sat 10AM
   facilitator_id: rishi-agrawal
 - slug: saturday/2pm
   label: Sat 2PM
@@ -570,9 +576,6 @@ dream-askew:
 - slug: friday/10am
   label: Fri 10AM
   facilitator_id: james-stuart
-- slug: saturday/10am
-  label: Sat 10AM
-  facilitator_id: james-stuart
 dresden-files:
 - slug: friday/8pm
   label: Fri 8PM
@@ -596,9 +599,6 @@ dudebros-douchebags:
   facilitator_id: mikael-andersson
 - slug: thursday/4pm
   label: Thu 4PM
-  facilitator_id: mikael-andersson
-- slug: friday/10am
-  label: Fri 10AM
   facilitator_id: mikael-andersson
 - slug: friday/4pm
   label: Fri 4PM
@@ -774,12 +774,6 @@ dungeon-world-no-country-for-old-kobolds:
 - slug: friday/8pm
   label: Fri 8PM
   facilitator_id: steve-wallace
-- slug: saturday/10am
-  label: Sat 10AM
-  facilitator_id: travis-scott
-- slug: saturday/12pm
-  label: Sat 12PM
-  facilitator_id: travis-scott
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: steve-wallace
@@ -837,8 +831,11 @@ falling-drowning-aerie-of-the-aboleth:
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: renee-knipe
-- slug: sunday/10am
-  label: Sun 10AM
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: renee-knipe
+- slug: sunday/2pm
+  label: Sun 2PM
   facilitator_id: renee-knipe
 fate-accelerated:
 - slug: thursday/2pm
@@ -951,19 +948,10 @@ fate-core-dragonknights:
 - slug: friday/2pm
   label: Fri 2PM
   facilitator_id: travis-scott
-- slug: saturday/10am
-  label: Sat 10AM
-  facilitator_id: travis-scott
-- slug: saturday/12pm
-  label: Sat 12PM
-  facilitator_id: travis-scott
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: travis-scott
 fate-core-orcs-in-the-dragon-s-den:
-- slug: thursday/2pm
-  label: Thu 2PM
-  facilitator_id: ron-frazier
 - slug: friday/2pm
   label: Fri 2PM
   facilitator_id: ron-frazier
@@ -1168,9 +1156,6 @@ fiasco:
   facilitator_id: jason-morningstar
 - slug: sunday/12pm
   label: Sun 12PM
-  facilitator_id: justin-hamilton
-- slug: sunday/12pm
-  label: Sun 12PM
   facilitator_id: stentor-danielson
 firefly-followin-yonder-star:
 - slug: friday/8pm
@@ -1216,9 +1201,6 @@ golden-sky-stories:
   facilitator_id: travis-scott
 - slug: saturday/10am
   label: Sat 10AM
-  facilitator_id: travis-scott
-- slug: saturday/12pm
-  label: Sat 12PM
   facilitator_id: travis-scott
 - slug: saturday/2pm
   label: Sat 2PM
@@ -1405,9 +1387,6 @@ itras-by:
   label: Fri 8PM
   facilitator_id: evan-torner
 jadepunk-the-vigilance-commitee:
-- slug: thursday/2pm
-  label: Thu 2PM
-  facilitator_id: ron-frazier
 - slug: friday/2pm
   label: Fri 2PM
   facilitator_id: ron-frazier
@@ -1437,7 +1416,19 @@ lady-blackbird:
 - slug: sunday/12pm
   label: Sun 12PM
   facilitator_id: andy-tatton
-lamentations-of-the-flame-princess-tales-of-the-scarecrow: []
+lamentations-of-the-flame-princess-tales-of-the-scarecrow:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: alex-mayo
+- slug: friday/12pm
+  label: Fri 12PM
+  facilitator_id: alex-mayo
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: alex-mayo
+- slug: saturday/12pm
+  label: Sat 12PM
+  facilitator_id: alex-mayo
 lasers-and-feelings:
 - slug: friday/10am
   label: Fri 10AM
@@ -1614,6 +1605,9 @@ monster-of-the-week-beasts-of-burden:
 - slug: saturday/12pm
   label: Sat 12PM
   facilitator_id: renee-knipe
+- slug: sunday/12pm
+  label: Sun 12PM
+  facilitator_id: renee-knipe
 monster-of-the-week-red-right-hand:
 - slug: saturday/8pm
   label: Sat 8PM
@@ -1737,7 +1731,13 @@ numenera:
 - slug: saturday/8pm
   label: Sat 8PM
   facilitator_id: kevin-schneider
-numenera-vortex: []
+numenera-vortex:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: alex-mayo
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: alex-mayo
 ocean:
 - slug: thursday/4pm
   label: Thu 4PM
@@ -1928,6 +1928,9 @@ quiet-year:
   facilitator_id: mcgravin-matt-seifert
 - slug: saturday/2pm
   label: Sat 2PM
+  facilitator_id: bryan-rennekamp
+- slug: saturday/2pm
+  label: Sat 2PM
   facilitator_id: mcgravin-matt-seifert
 - slug: saturday/6pm
   label: Sat 6PM
@@ -2032,9 +2035,6 @@ sagas-of-the-icelanders:
   facilitator_id: mikael-andersson
 - slug: thursday/4pm
   label: Thu 4PM
-  facilitator_id: mikael-andersson
-- slug: friday/10am
-  label: Fri 10AM
   facilitator_id: mikael-andersson
 - slug: friday/4pm
   label: Fri 4PM
@@ -2227,18 +2227,12 @@ swords-without-master-hackers-without-master:
 - slug: friday/10am
   label: Fri 10AM
   facilitator_id: james-stuart
-- slug: saturday/10am
-  label: Sat 10AM
-  facilitator_id: james-stuart
 swords-wizardry:
 - slug: friday/8pm
   label: Fri 8PM
   facilitator_id: justin-hamilton
 - slug: saturday/8pm
   label: Sat 8PM
-  facilitator_id: justin-hamilton
-- slug: sunday/12pm
-  label: Sun 12PM
   facilitator_id: justin-hamilton
 technoir:
 - slug: thursday/12pm
@@ -2390,14 +2384,17 @@ torchbearer:
 - slug: saturday/10am
   label: Sat 10AM
   facilitator_id: tresi
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: thor-olavsrud
 - slug: saturday/6pm
   label: Sat 6PM
   facilitator_id: sean-nittner
+- slug: saturday/6pm
+  label: Sat 6PM
+  facilitator_id: thor-olavsrud
 - slug: saturday/8pm
   label: Sat 8PM
-  facilitator_id: justin-hamilton
-- slug: sunday/12pm
-  label: Sun 12PM
   facilitator_id: justin-hamilton
 - slug: sunday/12pm
   label: Sun 12PM
@@ -2466,7 +2463,13 @@ traveller:
 - slug: saturday/4pm
   label: Sat 4PM
   facilitator_id: jesse-butler
-traveller-carcosa: []
+traveller-carcosa:
+- slug: friday/10am
+  label: Fri 10AM
+  facilitator_id: alex-mayo
+- slug: saturday/10am
+  label: Sat 10AM
+  facilitator_id: alex-mayo
 tremulus: []
 tribunal:
 - slug: saturday/10am
@@ -2491,12 +2494,6 @@ urban-shadows:
 - slug: friday/8pm
   label: Fri 8PM
   facilitator_id: stras-acimovic
-- slug: saturday/10am
-  label: Sat 10AM
-  facilitator_id: travis-scott
-- slug: saturday/12pm
-  label: Sat 12PM
-  facilitator_id: travis-scott
 - slug: saturday/2pm
   label: Sat 2PM
   facilitator_id: andrew-medeiros
@@ -2555,6 +2552,9 @@ variance:
   label: Sat 10PM
   facilitator_id: rishi-agrawal
 villa-air-bel:
+- slug: thursday/2pm
+  label: Thu 2PM
+  facilitator_id: james-stuart
 - slug: friday/4pm
   label: Fri 4PM
   facilitator_id: james-stuart
@@ -2635,6 +2635,9 @@ whitebooks-the-last-modron-migration:
   facilitator_id: renee-knipe
 - slug: saturday/12pm
   label: Sat 12PM
+  facilitator_id: renee-knipe
+- slug: sunday/12pm
+  label: Sun 12PM
   facilitator_id: renee-knipe
 world-of-cyberpunk:
 - slug: friday/2pm

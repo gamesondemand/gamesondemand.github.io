@@ -265,6 +265,16 @@
   :role: gm
   :name: bob-smith
 - :day: saturday
+  :slot: 2PM
+  :max_duration: 4
+  :role: gm
+  :name: bryan-rennekamp
+- :day: saturday
+  :slot: 4PM
+  :max_duration: 2
+  :role: gm
+  :name: bryan-rennekamp
+- :day: saturday
   :slot: 8PM
   :max_duration: 4
   :role: gm
@@ -281,16 +291,6 @@
   :name: cheyenne-rae-grimes
 - :day: thursday
   :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: cheyenne-rae-grimes
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: cheyenne-rae-grimes
-- :day: saturday
-  :slot: 4PM
   :max_duration: 2
   :role: gm
   :name: cheyenne-rae-grimes
@@ -629,6 +629,16 @@
   :max_duration: 2
   :role: gm
   :name: james-stuart
+- :day: thursday
+  :slot: 2PM
+  :max_duration: 4
+  :role: larp
+  :name: james-stuart
+- :day: thursday
+  :slot: 4PM
+  :max_duration: 2
+  :role: larp
+  :name: james-stuart
 - :day: friday
   :slot: 10AM
   :max_duration: 4
@@ -648,16 +658,6 @@
   :slot: 6PM
   :max_duration: 2
   :role: larp
-  :name: james-stuart
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: james-stuart
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
   :name: james-stuart
 - :day: thursday
   :slot: 10AM
@@ -1029,16 +1029,6 @@
   :max_duration: 2
   :role: gm
   :name: justin-hamilton
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: justin-hamilton
-- :day: sunday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: justin-hamilton
 - :day: thursday
   :slot: 10AM
   :max_duration: 4
@@ -1540,11 +1530,6 @@
   :role: gm
   :name: mikael-andersson
 - :day: friday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: mikael-andersson
-- :day: friday
   :slot: 4PM
   :max_duration: 2
   :role: gm
@@ -1750,7 +1735,12 @@
   :role: gm
   :name: renee-knipe
 - :day: sunday
-  :slot: 10AM
+  :slot: 12PM
+  :max_duration: 4
+  :role: gm
+  :name: renee-knipe
+- :day: sunday
+  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: renee-knipe
@@ -1816,11 +1806,6 @@
   :name: rishi-agrawal
 - :day: thursday
   :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: ron-frazier
-- :day: thursday
-  :slot: 4PM
   :max_duration: 2
   :role: gm
   :name: ron-frazier
@@ -2144,6 +2129,11 @@
   :max_duration: 2
   :role: gm
   :name: stras-acimovic
+- :day: sunday
+  :slot: 10AM
+  :max_duration: 2
+  :role: gm
+  :name: stras-acimovic
 - :day: thursday
   :slot: 10AM
   :max_duration: 4
@@ -2206,12 +2196,7 @@
   :name: travis-scott
 - :day: saturday
   :slot: 10AM
-  :max_duration: 8
-  :role: gm
-  :name: travis-scott
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 6
+  :max_duration: 2
   :role: gm
   :name: travis-scott
 - :day: saturday
@@ -2344,3 +2329,43 @@
   :max_duration: 2
   :role: gm
   :name: will-hindmarch
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :role: gm
+  :name: thor-olavsrud
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :role: gm
+  :name: thor-olavsrud
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 4
+  :role: gm
+  :name: thor-olavsrud
+- :day: saturday
+  :slot: 8PM
+  :max_duration: 2
+  :role: gm
+  :name: thor-olavsrud
+- :day: friday
+  :slot: 10AM
+  :max_duration: 4
+  :role: gm
+  :name: alex-mayo
+- :day: friday
+  :slot: 12PM
+  :max_duration: 2
+  :role: gm
+  :name: alex-mayo
+- :day: saturday
+  :slot: 10AM
+  :max_duration: 4
+  :role: gm
+  :name: alex-mayo
+- :day: saturday
+  :slot: 12PM
+  :max_duration: 2
+  :role: gm
+  :name: alex-mayo

@@ -202,22 +202,20 @@ thursday:
         facilitator_id: lowell-francis
       - game_id: fate-core-dragonknights
         facilitator_id: travis-scott
-      - game_id: fate-core-orcs-in-the-dragon-s-den
-        facilitator_id: ron-frazier
       - game_id: fate-core-tentacles-and-brass
         facilitator_id: russ-brown
       - game_id: headspace
         facilitator_id: mark-richardson
       - game_id: hirelings
         facilitator_id: jay-treat
-      - game_id: jadepunk-the-vigilance-commitee
-        facilitator_id: ron-frazier
       - game_id: spark
         facilitator_id: mark-richardson
       - game_id: torchbearer
         facilitator_id: patrick-riegert
       - game_id: urban-shadows
         facilitator_id: travis-scott
+      - game_id: villa-air-bel
+        facilitator_id: james-stuart
       label: Thursday  2PM
     4pm:
       time: 2014-08-14 16:00:00.000000000 Z
@@ -347,14 +345,14 @@ friday:
         facilitator_id: mark-dipasquale
       - game_id: dog-eat-dog
         facilitator_id: rishi-agrawal
-      - game_id: dudebros-douchebags
-        facilitator_id: mikael-andersson
       - game_id: dungeon-world
         facilitator_id: mcgravin-matt-seifert
       - game_id: falling-drowning-aerie-of-the-aboleth
         facilitator_id: renee-knipe
       - game_id: fiasco
         facilitator_id: mcgravin-matt-seifert
+      - game_id: lamentations-of-the-flame-princess-tales-of-the-scarecrow
+        facilitator_id: alex-mayo
       - game_id: lasers-and-feelings
         facilitator_id: jeromy-hastings
       - game_id: leverage
@@ -367,8 +365,6 @@ friday:
         facilitator_id: bob-smith
       - game_id: quiet-year
         facilitator_id: mcgravin-matt-seifert
-      - game_id: sagas-of-the-icelanders
-        facilitator_id: mikael-andersson
       - game_id: samsara
         facilitator_id: mark-dipasquale
       - game_id: sparks-nevada-thrilling-adventure
@@ -432,6 +428,8 @@ friday:
         facilitator_id: renee-knipe
       - game_id: monsterhearts
         facilitator_id: jeromy-hastings
+      - game_id: numenera-vortex
+        facilitator_id: alex-mayo
       - game_id: on-mighty-thews
         facilitator_id: dana-fried
       - game_id: psi-run
@@ -446,6 +444,8 @@ friday:
         facilitator_id: james-stuart
       - game_id: tragedy-in-five-acts
         facilitator_id: stentor-danielson
+      - game_id: traveller-carcosa
+        facilitator_id: alex-mayo
       - game_id: whitebooks-the-last-modron-migration
         facilitator_id: renee-knipe
       label: Friday 10AM
@@ -473,6 +473,8 @@ friday:
         facilitator_id: matt-boersma
       - game_id: fiasco
         facilitator_id: drew-owen
+      - game_id: lamentations-of-the-flame-princess-tales-of-the-scarecrow
+        facilitator_id: alex-mayo
       - game_id: lasers-and-feelings
         facilitator_id: jeromy-hastings
       - game_id: legacy-of-the-slayer
@@ -1029,6 +1031,8 @@ saturday:
         facilitator_id: jenn-martin
       - game_id: inspectres
         facilitator_id: tresi
+      - game_id: lamentations-of-the-flame-princess-tales-of-the-scarecrow
+        facilitator_id: alex-mayo
       - game_id: leverage
         facilitator_id: bob-smith
       - game_id: nanoworld
@@ -1056,24 +1060,18 @@ saturday:
       four_hour_games:
       - game_id: burning-wheel
         facilitator_id: mad-jay
+      - game_id: burning-wheel
+        facilitator_id: thor-olavsrud
       - game_id: companions
         facilitator_id: jeremy-tidwell
       - game_id: cortex-justifiers
         facilitator_id: mad-jay
-      - game_id: dog-eat-dog
-        facilitator_id: james-stuart
       - game_id: don-t-rest-your-head
         facilitator_id: ray-otus
-      - game_id: dream-askew
-        facilitator_id: james-stuart
       - game_id: dungeon-world-caress-of-steel
         facilitator_id: giovanni-lanza
       - game_id: dungeon-world-eberron
         facilitator_id: giovanni-lanza
-      - game_id: dungeon-world-no-country-for-old-kobolds
-        facilitator_id: travis-scott
-      - game_id: fate-core-dragonknights
-        facilitator_id: travis-scott
       - game_id: fiasco
         facilitator_id: jeremy-tidwell
       - game_id: headspace
@@ -1082,22 +1080,24 @@ saturday:
         facilitator_id: ray-otus
       - game_id: monsterhearts-elderhearts
         facilitator_id: john-stavropoulos
+      - game_id: numenera-vortex
+        facilitator_id: alex-mayo
       - game_id: rat-queens-world-mashup
         facilitator_id: john-stavropoulos
       - game_id: spark
         facilitator_id: mark-richardson
       - game_id: swords-without-master
         facilitator_id: mark-dipasquale
-      - game_id: swords-without-master-hackers-without-master
-        facilitator_id: james-stuart
       - game_id: torchbearer
         facilitator_id: patrick-riegert
       - game_id: torchbearer
         facilitator_id: sean-nittner
       - game_id: torchbearer
         facilitator_id: tresi
-      - game_id: urban-shadows
-        facilitator_id: travis-scott
+      - game_id: torchbearer
+        facilitator_id: thor-olavsrud
+      - game_id: traveller-carcosa
+        facilitator_id: alex-mayo
       - game_id: war-of-ashes-fate-of-agaptus
         facilitator_id: sean-nittner
       label: Saturday 10AM
@@ -1121,14 +1121,14 @@ saturday:
         facilitator_id: renee-knipe
       - game_id: fiasco
         facilitator_id: jason-morningstar
-      - game_id: golden-sky-stories
-        facilitator_id: travis-scott
       - game_id: hollowpoint
         facilitator_id: nykki-boersma
       - game_id: hope-inhumanity
         facilitator_id: patrick-riegert
       - game_id: inspectres
         facilitator_id: tresi
+      - game_id: lamentations-of-the-flame-princess-tales-of-the-scarecrow
+        facilitator_id: alex-mayo
       - game_id: magical-kitties
         facilitator_id: matthew-j-hanson
       - game_id: microscope
@@ -1154,10 +1154,6 @@ saturday:
         facilitator_id: ray-otus
       - game_id: dungeon-world
         facilitator_id: andy-tatton
-      - game_id: dungeon-world-no-country-for-old-kobolds
-        facilitator_id: travis-scott
-      - game_id: fate-core-dragonknights
-        facilitator_id: travis-scott
       - game_id: lady-blackbird
         facilitator_id: andy-tatton
       - game_id: lady-blackbird
@@ -1172,8 +1168,6 @@ saturday:
         facilitator_id: andy-kitkowski
       - game_id: shinobigami
         facilitator_id: andy-kitkowski
-      - game_id: urban-shadows
-        facilitator_id: travis-scott
       - game_id: whitebooks-the-last-modron-migration
         facilitator_id: renee-knipe
       label: Saturday 12PM
@@ -1230,6 +1224,8 @@ saturday:
         facilitator_id: stras-acimovic
       - game_id: atomic-robo
         facilitator_id: mike-olson
+      - game_id: carolina-death-crawl
+        facilitator_id: bryan-rennekamp
       - game_id: dread
         facilitator_id: rishi-agrawal
       - game_id: dungeon-world
@@ -1268,6 +1264,8 @@ saturday:
         facilitator_id: dana-fried
       - game_id: psi-run
         facilitator_id: drew-owen
+      - game_id: quiet-year
+        facilitator_id: bryan-rennekamp
       - game_id: revived-a-support-group-for-the-partially-deceased
         facilitator_id: kat-jones
       - game_id: shinobigami
@@ -1444,6 +1442,8 @@ saturday:
       - game_id: tokyo-brain-pop
         facilitator_id: chris-czerniak
       four_hour_games:
+      - game_id: burning-wheel
+        facilitator_id: thor-olavsrud
       - game_id: don-t-rest-your-head-strike-force-dagon
         facilitator_id: scott-acker
       - game_id: immortals-ancient-secrets
@@ -1458,6 +1458,8 @@ saturday:
         facilitator_id: mark-causey
       - game_id: torchbearer
         facilitator_id: sean-nittner
+      - game_id: torchbearer
+        facilitator_id: thor-olavsrud
       - game_id: war-of-ashes-fate-of-agaptus
         facilitator_id: sean-nittner
       label: Saturday  6PM
@@ -1651,8 +1653,6 @@ sunday:
         facilitator_id: nykki-boersma
       - game_id: dread-gremlins-1912
         facilitator_id: dan-noland
-      - game_id: falling-drowning-aerie-of-the-aboleth
-        facilitator_id: renee-knipe
       - game_id: fate-terror-in-freeport
         facilitator_id: matt-boersma
       - game_id: fiasco
@@ -1713,6 +1713,8 @@ sunday:
         facilitator_id: karen-twelves
       - game_id: dudebros-douchebags
         facilitator_id: mikael-andersson
+      - game_id: falling-drowning-aerie-of-the-aboleth
+        facilitator_id: renee-knipe
       - game_id: golden-sky-stories
         facilitator_id: chris-czerniak
       - game_id: inspectres
@@ -1728,10 +1730,10 @@ sunday:
         facilitator_id: joanna-piancastelli
       - game_id: apocalypse-world-olive-garden
         facilitator_id: karen-twelves
+      - game_id: archipelago-carnival-of-lost-souls
+        facilitator_id: renee-knipe
       - game_id: burning-wheel
         facilitator_id: mad-jay
-      - game_id: carolina-death-crawl
-        facilitator_id: justin-hamilton
       - game_id: cortex-justifiers
         facilitator_id: mad-jay
       - game_id: dark
@@ -1745,13 +1747,13 @@ sunday:
       - game_id: dungeon-world-no-country-for-old-kobolds
         facilitator_id: steve-wallace
       - game_id: fiasco
-        facilitator_id: justin-hamilton
-      - game_id: fiasco
         facilitator_id: stentor-danielson
       - game_id: headspace
         facilitator_id: mark-richardson
       - game_id: lady-blackbird
         facilitator_id: andy-tatton
+      - game_id: monster-of-the-week-beasts-of-burden
+        facilitator_id: renee-knipe
       - game_id: monsterhearts
         facilitator_id: karen-twelves
       - game_id: night-witches
@@ -1764,10 +1766,6 @@ sunday:
         facilitator_id: joanna-piancastelli
       - game_id: spark
         facilitator_id: mark-richardson
-      - game_id: swords-wizardry
-        facilitator_id: justin-hamilton
-      - game_id: torchbearer
-        facilitator_id: justin-hamilton
       - game_id: torchbearer
         facilitator_id: sean-nittner
       - game_id: torchbearer
@@ -1778,6 +1776,8 @@ sunday:
         facilitator_id: sean-nittner
       - game_id: warren
         facilitator_id: steve-segedy
+      - game_id: whitebooks-the-last-modron-migration
+        facilitator_id: renee-knipe
       label: Sunday 12PM
     2pm:
       time: 2014-08-17 14:00:00.000000000 Z
@@ -1799,6 +1799,8 @@ sunday:
         facilitator_id: nykki-boersma
       - game_id: dungeon-world
         facilitator_id: kevin-schneider
+      - game_id: falling-drowning-aerie-of-the-aboleth
+        facilitator_id: renee-knipe
       - game_id: fate-accelerated-afrofuture
         facilitator_id: james-mendez-hodes
       - game_id: fate-terror-in-freeport
