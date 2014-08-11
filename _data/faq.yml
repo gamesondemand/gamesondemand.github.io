@@ -133,14 +133,14 @@
       I am a GM that is running for the current time slot, how do I get a boarding pass for the next timeslot?
     answer: >
       One of the <a href="/for-hosts/#hosting-chores">hosting chores</a> is to collect generic tickets, statistics, and to ask the game table if anyone needs a boarding pass for the next session.﻿
-- name: Special Needs
-  dom_id: special-needs
+- name: Additional Assistance
+  dom_id: additional-assistance
   questions:
   - question: >
       Are you boarding those who need assistance first?﻿
     answer: >
       We will have a call before the lottery to seat those that need assistance.
-      This may actually happen a bit before the hour (speed of seating is another desired goal so we are balancing that concern as well).
+      This will happen 10 minutes before the hour (speed of seating is another desired goal so we are balancing that concern as well).
   - question: >
       How are you handling people with health conditions?
       Does any aspect of this involve moving about: if so, are people who aren't as physically mobile at a disadvantage?
