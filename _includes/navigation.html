@@ -22,10 +22,7 @@
       <li class="has-dropdown">
         <a href="/available-games/">Available Games</a>
         <ul class="dropdown">
-          {% assign previous_alpha_group = "" %}
-          {% for game in site.data.games %}
-            {% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1]alpha_group %}<li><a href="/available-games/#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}
-          {% endfor %}
+          {% assign previous_alpha_group = "" %}{% for game in site.data.games %}{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1]alpha_group %}<li><a href="/available-games/#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}{% endfor %}
         </ul>
       </li>
       <li><a href="/map/">Map</a></li>
