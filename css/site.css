@@ -7,3 +7,9 @@
 .alert-box.warning.disclaimer { color: #333333; }
 .disclaimer .see-also { color: #333333; text-decoration: underline;}
 .about-when-day { margin-bottom: 0;}
+
+.heizenberg td { word-break: break-word; font-size: 0.625rem;}
+.heizenberg th { word-break: break-word; font-size: 0.625rem;}
+
+.heizenberg .col-even { background: #f4f4f4; }
+.heizenberg .col-even, .heizenberg .col-odd { text-align: center; }

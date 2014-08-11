@@ -17,6 +17,7 @@
           {% for day_data in site.data.times %}{% assign day = day_data[0] %}
           <li><a href="/{{ day | lowercase }}/">{{ day | capitalize }}</a></li>
           {% endfor %}
+          <li><a href="/schedule/">All Games by Time</a></li>
         </ul>
       </li>
       <li class="has-dropdown">

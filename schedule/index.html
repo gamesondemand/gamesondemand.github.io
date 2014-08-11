@@ -1,0 +1,31 @@
+---
+layout: game
+title: Schedule for Games on Demand at GenCon
+description: Schedule for Games on Demand at GenCon
+---
+<article class="available-games">
+  <header class="available-games-header header">
+    <h2 class="name">{{ page.title }}</h2>
+  </header>
+
+  <table class="heizenberg">
+    <caption>{{ page.title }}</caption>
+    <thead>
+      <tr>
+        <th width="12%">Game</th>
+        {% for day_data in site.data.times %}{% for time_data in day_data[1].times %}
+        <th class="col-{% cycle 'header': 'even', 'odd' %}" width="4%">{{ time_data[1].time | date: '%a %l %p' }}</th>
+        {% endfor %}{% endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for game_data in site.data.games %}{% assign game_id = game_data[0] %}<tr>
+        <td class="game-name"><a href="/available-games/{{ game_id }}">{{ game_id }}</a></td>
+        {% for day_data in site.data.times %}{% for time_data in day_data[1].times %}{% assign time_slug = time_data[1].time | date: '%A/' | append: time_data[1].abbreviation | downcase %}
+        <td class="col-{% cycle 'body': 'even', 'odd' %}">{% assign playing = site.data.game_offerings[game_id] | where: 'slug', time_slug | first %}{% if playing %}X{% endif %}</td>
+        {% endfor %}{% endfor %}
+      </tr>{% endfor %}
+    </tbody>
+  </table>
+
+</article>
