@@ -1,7 +1,7 @@
 ---
 layout: game
-title: Schedule for Games on Demand at GenCon
-description: Schedule for Games on Demand at GenCon
+title: Potential Schedule for Games on Demand at GenCon
+description: Potential Schedule for Games on Demand at GenCon
 ---
 <article class="available-games">
   <header class="available-games-header header">
@@ -28,7 +28,7 @@ description: Schedule for Games on Demand at GenCon
         {% endfor %}{% endfor %}</tr>{% endif %}
         <td class="game-name"><a href="/available-games/{{ game_id }}">{{ game_id }}</a></td>
         {% for day_data in site.data.times %}{% for time_data in day_data[1].times %}{% assign time_slug = time_data[1].time | date: '%A/' | append: time_data[1].abbreviation | downcase %}
-        <td class="col-{% cycle 'body': 'even', 'odd' %}">{% assign playing = site.data.game_offerings[game_id] | where: 'slug', time_slug | first %}{% if playing %}X{% endif %}</td>
+        <td class="col-{% cycle 'body': 'even', 'odd' %}">{% assign playing = site.data.game_offerings[game_id] | where: 'slug', time_slug | first %}{% if playing %}?{% endif %}</td>
         {% endfor %}{% endfor %}
       </tr>{% endfor %}
     </tbody>
