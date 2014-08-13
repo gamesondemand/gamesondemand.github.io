@@ -573,6 +573,9 @@ dream-askew:
 - slug: thursday/10am
   label: Thu 10AM
   facilitator_id: james-stuart
+- slug: thursday/4pm
+  label: Thu 4PM
+  facilitator_id: kira-magrann
 - slug: friday/10am
   label: Fri 10AM
   facilitator_id: james-stuart
@@ -599,9 +602,6 @@ dudebros-douchebags:
   facilitator_id: mikael-andersson
 - slug: thursday/4pm
   label: Thu 4PM
-  facilitator_id: mikael-andersson
-- slug: friday/4pm
-  label: Fri 4PM
   facilitator_id: mikael-andersson
 - slug: saturday/10am
   label: Sat 10AM
@@ -2035,9 +2035,6 @@ sagas-of-the-icelanders:
   facilitator_id: mikael-andersson
 - slug: thursday/4pm
   label: Thu 4PM
-  facilitator_id: mikael-andersson
-- slug: friday/4pm
-  label: Fri 4PM
   facilitator_id: mikael-andersson
 - slug: saturday/10am
   label: Sat 10AM

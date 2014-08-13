@@ -1,4 +1,9 @@
 ---
+- :day: saturday
+  :slot: 6PM
+  :max_duration: 2
+  :role: gm
+  :name: ajit-george
 - :day: thursday
   :slot: 4PM
   :max_duration: 4
@@ -1105,17 +1110,17 @@
   :role: gm
   :name: kevin-schneider
 - :day: thursday
+  :slot: 4PM
+  :max_duration: 4
+  :role: gm
+  :name: kira-magrann
+- :day: thursday
   :slot: 6PM
   :max_duration: 2
   :role: gm
   :name: kira-magrann
 - :day: friday
   :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: kira-magrann
-- :day: friday
-  :slot: 6PM
   :max_duration: 2
   :role: gm
   :name: kira-magrann
@@ -1525,11 +1530,6 @@
   :role: gm
   :name: mikael-andersson
 - :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: mikael-andersson
-- :day: friday
   :slot: 4PM
   :max_duration: 2
   :role: gm

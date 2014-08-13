@@ -244,6 +244,8 @@ thursday:
         facilitator_id: dave-younce
       - game_id: dark
         facilitator_id: will-hindmarch
+      - game_id: dream-askew
+        facilitator_id: kira-magrann
       - game_id: dungeon-world
         facilitator_id: bill-white
       - game_id: dungeon-world
@@ -651,8 +653,6 @@ friday:
         facilitator_id: ray-otus
       - game_id: deeds-doers
         facilitator_id: gregor-hutton
-      - game_id: dudebros-douchebags
-        facilitator_id: mikael-andersson
       - game_id: dungeon-world
         facilitator_id: mcgravin-matt-seifert
       - game_id: falling-drowning-aerie-of-the-aboleth
@@ -677,8 +677,6 @@ friday:
         facilitator_id: mcgravin-matt-seifert
       - game_id: ryuutama
         facilitator_id: matt-sanchez
-      - game_id: sagas-of-the-icelanders
-        facilitator_id: mikael-andersson
       - game_id: samsara
         facilitator_id: mark-dipasquale
       - game_id: short-order-heroes
