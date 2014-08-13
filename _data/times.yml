@@ -76,10 +76,6 @@ thursday:
         facilitator_id: will-hindmarch
       - game_id: penny-for-my-thoughts-larp
         facilitator_id: kristin-firth
-      - game_id: rat-queens-world-mashup
-        facilitator_id: john-stavropoulos
-      - game_id: rat-queens-world-mashup
-        facilitator_id: terry-hope-romero
       - game_id: swords-without-master-hackers-without-master
         facilitator_id: james-stuart
       - game_id: torchbearer
@@ -710,10 +706,6 @@ friday:
         facilitator_id: gregor-hutton
       - game_id: psi-run
         facilitator_id: jeromy-hastings
-      - game_id: rat-queens-world-mashup
-        facilitator_id: john-stavropoulos
-      - game_id: rat-queens-world-mashup
-        facilitator_id: terry-hope-romero
       - game_id: shinobigami
         facilitator_id: matt-sanchez
       - game_id: trail-of-cthulhu
@@ -1080,8 +1072,6 @@ saturday:
         facilitator_id: john-stavropoulos
       - game_id: numenera-vortex
         facilitator_id: alex-mayo
-      - game_id: rat-queens-world-mashup
-        facilitator_id: john-stavropoulos
       - game_id: spark
         facilitator_id: mark-richardson
       - game_id: swords-without-master
@@ -1698,8 +1688,6 @@ sunday:
         facilitator_id: terry-hope-romero
       - game_id: on-mighty-thews
         facilitator_id: dana-fried
-      - game_id: rat-queens-world-mashup
-        facilitator_id: terry-hope-romero
       - game_id: souls-of-steel
         facilitator_id: dana-fried
       label: Sunday 10AM

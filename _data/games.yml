@@ -2781,39 +2781,6 @@ quiet-year:
   type: Tabletop
   name: Quiet Year
   alpha_group: M-R
-rat-queens-world-mashup:
-  facilitators:
-    john-stavropoulos:
-      type: Tabletop
-      facilitator_name: John Stavropoulos
-      name: 'Rat Queens: *World mashup'
-      pitch: "<p>Imagine Buffy meets Tank Girl in Lord of the Rings on crack!</p><p>Based
-        on the comic with the same name, this is a dark comedic fantasy game starring
-        Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee
-        the Atheist Human Cleric and Betty the Hippy Hobbit Thief. Delight in a modern
-        spin on an old school genre where you play ragtag rowdy, lewd, ass-kicking
-        adventurers with a fondness for monster killing, drink, sex, drugs, and gold!</p>"
-      duration: '4'
-      minimum_players: '3'
-      maximum_players: '4'
-      audience: mature
-    terry-hope-romero:
-      type: Tabletop
-      facilitator_name: Terry Hope Romero
-      name: 'Rat Queens: *World mashup'
-      pitch: "<p>Imagine Buffy meets Tank Girl in Lord of the Rings on crack!</p><p>Based
-        on the comic with the same name, this is a dark comedic fantasy game starring
-        Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee
-        the Atheist Human Cleric and Betty the Hippy Hobbit Thief. Delight in a modern
-        spin on an old school genre where you play ragtag rowdy, lewd, ass-kicking
-        adventurers with a fondness for monster killing, drink, sex, drugs, and gold!</p>"
-      duration: '4'
-      minimum_players: '3'
-      maximum_players: '4'
-      audience: mature
-  type: Tabletop
-  name: 'Rat Queens: *World mashup'
-  alpha_group: M-R
 revived-a-support-group-for-the-partially-deceased:
   facilitators:
     kat-jones:

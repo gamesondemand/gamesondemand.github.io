@@ -1941,25 +1941,6 @@ quiet-year:
 - slug: saturday/8pm
   label: Sat 8PM
   facilitator_id: mcgravin-matt-seifert
-rat-queens-world-mashup:
-- slug: thursday/10am
-  label: Thu 10AM
-  facilitator_id: john-stavropoulos
-- slug: thursday/10am
-  label: Thu 10AM
-  facilitator_id: terry-hope-romero
-- slug: friday/4pm
-  label: Fri 4PM
-  facilitator_id: john-stavropoulos
-- slug: friday/4pm
-  label: Fri 4PM
-  facilitator_id: terry-hope-romero
-- slug: saturday/10am
-  label: Sat 10AM
-  facilitator_id: john-stavropoulos
-- slug: sunday/10am
-  label: Sun 10AM
-  facilitator_id: terry-hope-romero
 revived-a-support-group-for-the-partially-deceased:
 - slug: saturday/2pm
   label: Sat 2PM
