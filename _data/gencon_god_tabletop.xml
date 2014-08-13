@@ -1189,19 +1189,6 @@
 				<duration>4</duration>
 			</scheduling>
 			<audience>mature</audience>
-			<title>Rat Queens: *World mashup</title>
-			<pitch_image src="god_menu_tabletop-web-resources/image/dw_rat_queens_fmt.png" alt="dw_rat_queens.psd" />
-			<pitch>
-				<p>Imagine Buffy meets Tank Girl in Lord of the Rings on crack!</p><p>Based on the comic with the same name, this is a dark comedic fantasy game starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Hobbit Thief. Delight in a modern spin on an old school genre where you play ragtag rowdy, lewd, ass-kicking adventurers with a fondness for monster killing, drink, sex, drugs, and gold!</p>
-			</pitch>
-		</game>
-		<game>
-			<scheduling>
-				<min>3</min>
-				<max>4</max>
-				<duration>4</duration>
-			</scheduling>
-			<audience>mature</audience>
 			<title>Monsterhearts: Elderhearts</title>
 			<pitch_image src="god_menu_tabletop-web-resources/image/mh_fmt1.png" alt="mh.psd" />
 			<pitch>
@@ -2580,19 +2567,6 @@
 	</gm>
 	<gm>
 		<name>Terry Hope Romero</name>
-		<game>
-			<scheduling>
-				<min>3</min>
-				<max>4</max>
-				<duration>4</duration>
-			</scheduling>
-			<audience>mature</audience>
-			<title>Rat Queens: *World mashup</title>
-			<pitch_image src="god_menu_tabletop-web-resources/image/dw_rat_queens_fmt2.png" alt="dw_rat_queens.psd" />
-			<pitch>
-				<p>Imagine Buffy meets Tank Girl in Lord of the Rings on crack!</p><p>Based on the comic with the same name, this is a dark comedic fantasy game starring Hannah the Rockabilly Elven Mage, Violet the Hipster Dwarven Fighter, Dee the Atheist Human Cleric and Betty the Hippy Hobbit Thief. Delight in a modern spin on an old school genre where you play ragtag rowdy, lewd, ass-kicking adventurers with a fondness for monster killing, drink, sex, drugs, and gold!</p>
-			</pitch>
-		</game>
 		<game>
 			<scheduling>
 				<min>3</min>
