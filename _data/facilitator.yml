@@ -141,11 +141,6 @@
   :name: andy-tatton
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: andy-tatton
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: andy-tatton
@@ -494,11 +489,6 @@
   :max_duration: 2
   :role: larp
   :name: evan-torner
-- :day: sunday
-  :slot: 2PM
-  :max_duration: 2
-  :role: larp
-  :name: evan-torner
 - :day: thursday
   :slot: 10AM
   :max_duration: 4
@@ -571,11 +561,6 @@
   :name: gregor-hutton
 - :day: sunday
   :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: gregor-hutton
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: gregor-hutton
@@ -616,11 +601,6 @@
   :name: james-mendez-hodes
 - :day: saturday
   :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: james-mendez-hodes
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: james-mendez-hodes
@@ -819,11 +799,6 @@
   :max_duration: 2
   :role: gm
   :name: jeremy-tidwell
-- :day: sunday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: jeremy-tidwell
 - :day: friday
   :slot: 10AM
   :max_duration: 4
@@ -921,11 +896,6 @@
   :name: joanna-piancastelli
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: joanna-piancastelli
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: joanna-piancastelli
@@ -1046,11 +1016,6 @@
   :name: karen-twelves
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: karen-twelves
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: karen-twelves
@@ -1104,11 +1069,6 @@
   :max_duration: 2
   :role: gm
   :name: kevin-schneider
-- :day: sunday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: kevin-schneider
 - :day: thursday
   :slot: 4PM
   :max_duration: 4
@@ -1161,11 +1121,6 @@
   :name: kristin-firth
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: larp
-  :name: kristin-firth
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: larp
   :name: kristin-firth
@@ -1231,11 +1186,6 @@
   :name: mad-jay
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: mad-jay
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: mad-jay
@@ -1351,11 +1301,6 @@
   :name: mark-richardson
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: mark-richardson
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: mark-richardson
@@ -1391,11 +1336,6 @@
   :name: matt-boersma
 - :day: sunday
   :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: matt-boersma
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: matt-boersma
@@ -1624,11 +1564,6 @@
   :max_duration: 2
   :role: gm
   :name: nykki-boersma
-- :day: sunday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: nykki-boersma
 - :day: thursday
   :slot: 2PM
   :max_duration: 4
@@ -1736,11 +1671,6 @@
   :name: renee-knipe
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: renee-knipe
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: renee-knipe
@@ -1916,11 +1846,6 @@
   :name: sean-nittner
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: sean-nittner
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: sean-nittner
@@ -1991,11 +1916,6 @@
   :name: stentor-danielson
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: stentor-danielson
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: stentor-danielson
@@ -2021,11 +1941,6 @@
   :name: steve-segedy
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-segedy
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: steve-segedy
@@ -2071,11 +1986,6 @@
   :name: steve-wallace
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-wallace
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: steve-wallace
@@ -2231,11 +2141,6 @@
   :name: tresi
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: tresi
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: tresi
@@ -2321,11 +2226,6 @@
   :name: will-hindmarch
 - :day: sunday
   :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: will-hindmarch
-- :day: sunday
-  :slot: 2PM
   :max_duration: 2
   :role: gm
   :name: will-hindmarch

@@ -11,23 +11,7 @@
     <!-- Left Nav Section -->
     <ul class="left">
       <li><a href="/about/">About</a>
-      <li class="has-dropdown">
-        <a href="/#schedule">Schedule</a>
-        <ul class="dropdown">
-          {% for day_data in site.data.times %}{% assign day = day_data[0] %}
-          <li><a href="/{{ day | lowercase }}/">{{ day | capitalize }}</a></li>
-          {% endfor %}
-          <li><a href="/schedule/">Potential Schedule</a></li>
-        </ul>
-      </li>
-      <li class="has-dropdown">
-        <a href="/available-games/">Available Games</a>
-        <ul class="dropdown">
-          {% assign previous_alpha_group = "" %}{% for game in site.data.games %}{% if game[1].alpha_group != previous_alpha_group %}{% assign previous_alpha_group = game[1]alpha_group %}<li><a href="/available-games/#{{ previous_alpha_group }}">{{ previous_alpha_group }}</a></li>{% endif %}{% endfor %}
-        </ul>
-      </li>
       <li><a href="/map/">Map</a></li>
-
     </ul>
     <!-- Right Nav Section -->
     <ul class="right">

@@ -29,7 +29,7 @@ description: About Games on Demand at GenCon
         <ul class="inline-list about-when-day">
           <li><a class="button tiny round" href="/{{ day }}">{{ day | capitalize  }}</a>
           {% for slot in day_data[1].times %}
-          <li><a class="button secondary tiny round" href="/thursday/{{ slot[0] }}">{{ slot[0] }}</a></li>
+          <li><a class="button secondary tiny round" href="#">{{ slot[0] }}</a></li>
           {% endfor %}
         </ul>
       {% endfor %}

@@ -22,7 +22,7 @@ description: List of Time Slots and Days for Games on Demand
               {% assign hour_data = times[1] %}
               <li itemprop="subEvent" itemscope itemtype="http://schema.org/SocialEvent">
                 <meta itemprop="description" content="{{ date.day | date: '%A' }} {{ hour }}">
-                <a class="button tiny secondary round" itemprop="url" href="{{ site.url }}/{{ day_slug }}/{{ hour }}"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
+                <a class="button tiny secondary round" itemprop="url" href="#"><time datetime="{{ hour_data.time | date_to_xmlschema }}">{{ hour }}</time></a>
               </li>
               {% endfor %}
             </ul>

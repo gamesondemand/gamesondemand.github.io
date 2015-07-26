@@ -248,7 +248,7 @@ namespace :build do
       days = []
       facilitating = {}
       hosting = {}
-      times.each_with_object(days) {|time, mem| 
+      times.each_with_object(days) {|time, mem|
         mem << Day.new(time[1].fetch('day'), time[1]['times'].values.collect{|v| v['time'] })
       }
 
@@ -378,7 +378,7 @@ namespace :build do
     end
   end
   task :pages => ['build:pages:schedule', 'build:pages:games']
-  task :data => ['build:data:games', 'build:data:schedule_download', 'build:data:volunteers', 'build:data:times']
+  task :data => ['build:data:games', 'build:data:volunteers', 'build:data:times']
 end
 
 desc 'Build the sites'
