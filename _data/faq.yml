@@ -3,6 +3,10 @@
 - name: Glossary
   dom_id: glossary
   questions:
+  - question: Pre-Boarding Pass
+    answer: >
+      We are trying some new this year. Volunteers will get a limited number of pre-boarding passes.
+      Pre-Boarding passes are one-time use items that when turned in grant the bearer the ability to claim a seat (before boarding has begun) at a game table.
   - question: Boarding Pass
     answer: >
       Issued by Games on Demand, it is analogous to a buzzer at a restaurant. <a href="#boarding-passes">See more about Boarding Passes</a>.
@@ -226,6 +230,11 @@
       <em>We have 25 tables reserved but often have fewer than 25 GMs scheduled. There are also overflow options provided by</em>
       </p>
     dom_id: volunteer-to-facilitate-a-game
+  - question: >
+      Is there any benefit to helping out?
+    answer: >
+      <p>Yes. Aside from the warm fuzzies of volunteerism, our volunteers receive one or more pre-boarding passes.
+        You get 1 pre-boarding pass for every 10 hours (rounded up) that you volunteer.</p>
 - name: Groups
   dom_id: groups
   questions:
