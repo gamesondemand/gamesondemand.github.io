@@ -30,10 +30,11 @@
       A person who is coming to Games on Demand to play a game.
   - question: Pre-Boarding Pass
     answer: >
-      We are trying some new this year. Volunteers will get a limited number of pre-boarding passes.
+      <p>We are trying some new this year. Volunteers will get a limited number of pre-boarding passes.
       Pre-Boarding passes are one-time use items that when turned in to a host grants the bearer the ability to claim a seat at an upcoming game.
-      This ability may only be used prior to general boarding.
-      Each volunteer gets one pre-boarding pass for each 10 hours (rounded up) that they volunteer.
+      This ability may only be used prior to general boarding.</p>
+      <p>Each volunteer gets one pre-boarding pass for each 10 hours (rounded up) that they volunteer.</p>
+      <p>Hosts, please limit each game to one pre-boarding pass.</p>
     dom_id: 'pre-boarding-pass'
   - question: Time Slot
     answer: >
