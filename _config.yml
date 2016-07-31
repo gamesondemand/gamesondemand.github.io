@@ -1,6 +1,6 @@
 name: Games on Demand at GenCon
 short_name: Games on Demand
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 timezone: America/Indiana/Indianapolis
 
