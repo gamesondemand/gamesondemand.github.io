@@ -38,7 +38,7 @@
     dom_id: 'pre-boarding-pass'
   - question: Time Slot
     answer: >
-      The two hours between starting times for games. <a href="/#schedule">See our schedule</a>.
+      The two hours between starting times for games.
   - question: >
       Ticket, Generic
     answer: A purchased ticket from GenCon. One ticket buys 2 hours of play at Games on Demand. <a href="#cost">See more about Costs</a>.
@@ -46,26 +46,20 @@
   dom_id: times
   questions:
   - question: >
-      Are start times every 2 hours like last year? Is it 10am, 12pm, 2pm, 4pm, 6pm, 8pm, 10pm?
+      Are start times every 2 hours? Is it 10am, 12pm, 2pm, 4pm, 6pm, 8pm, 10pm?
     answer: >
-      Yes, with a few adjustments on Thursday and Sunday. See <a href="/" class="link-to-current-schedule">our schedule for start times</a>.
+      Yes, with a few exceptions, on Thursdays and Sunday.
   - question: >
       When should I arrive for a time slot?
     answer: >
-      Be there 10 minutes early to get your boarding pass.
-      If you don't have a boarding pass be there 10 minutes in advance.
-      If you want to see what is on the menu, you should show up 30 minutes early.</p>
+      Be there 10 minutes early to get your boarding pass. 
+      If you want to see what is on the menu, consider coming earlier so you have some time to consider the options.
   - question: >
       If signups start at the time of the slot, when do you expect games to start?
       Say a slot starts at 12pm, does that mean games actually start at 12:15pm?
     answer:  >
-      If the slot starts at 2pm, we will start boarding at 2pm. Not 1:45pm as previous years. 
+      If the slot starts at 2pm, we will start boarding at 2pm. 
       Games will start when all players are at the table.
-  - question: >
-      Why are there no games being run at 8pm and 10pm on Thursday?
-    answer: >
-      Thursday evening we are closing down for a bit of last minute GM and Host training and to play amongst ourselves.
-      This is an all volunteer effort and we are going to take a bit of time to celebrate!
   - question: >
       I want to play in a game at 2pm, but I have an obligation at 4pm.
       Since Games on Demand says it ends at 3:55pm, should I avoid Games on Demand for that time?
@@ -128,7 +122,7 @@
   - question: >
       Is the boarding pass only good for that time slot?
     answer: >
-      No, but please try to use it then, as it will make it easier for us to get everyone seated
+      Yes, new passes are handed out for each session. 
   - question: >
       If I am playing a game in say, the 12-4 slot, will a Host come by my table to see if anyone at my table would like a boarding pass for the next slot (4-8 or 4-6)?
     answer: >
@@ -154,8 +148,8 @@
       How are you handling people with health conditions?
       Does any aspect of this involve moving about: if so, are people who aren't as physically mobile at a disadvantage?
     answer: >
-      We are focusing on reducing standing inline.
-      There will be chairs in the surrounding area for anyone that may need them.
+      Our goal is to reduce how much anyone is standing in a line.
+      We'll try to make sure that there are chairs in the surrounding area for anyone that may need them.
       And please ask a host for assistance.
   - question: >
       What about people with hearing difficulties? How will they know about the last call for tickets?
@@ -182,14 +176,11 @@
       If so, starting when and where? ﻿
     answer: Yes, menus for the next session will be laid out on the host table for you to consider when you pick up your boarding pass. 
   - question: >
-      I heard something about LARPs! Is this true?
+      Does Games on Demand offer larps?
     answer: >
-      Yes there will be LARPs at Games on Demand in the evenings. Those sessions are <a href="https://goo.gl/uTnzRM">available for pre-registration</a> this year through the Gen Con system.
+      In previous years we have had a larp track as part of the event. That is not the case for 2024, due to space constraints. 
   - question: >
-      Last year there was sometimes confusion over what was a 2 hour game vs. 4 hour game.
-      I think because the slots are every 2 hours that led some people to believe all games were 2 hours long.
-      I sat at a table where 3 players knew they signed up for a 4 hour game and 1 player thought it was a 2 hour game.
-      There are instances where this sort of thing will happen no matter what.
+      How can we know if a game is a 2 hour game vs. 4 hour game?
     answer: >
       Menus should be clearly marked as 2- or 4-hour games.
       They should also be grouped on the host table by duration. If you aren't sure, please ask a host or your GM.
@@ -203,7 +194,7 @@
       <ul>
         <li>Volunteer to <a href="#volunteer-to-facilitate-a-game">facilitate a game</a>.</li>
         <li>Help with some <a href="/for-hosts/#host-chores">host chores</a>.</li>
-        <li>Donate to our <a href="http://www.indiegamesexplosion.org/games-on-demand/supporting-games-on-demand/">tip jar</a>.
+        <li>Donate to our <a href="https://www.indiegamesondemand.org/supporting-games-on-demand/">tip jar</a>.
         <li>Ask a host how you can help.</li>
       </ul>
   - question: >
@@ -229,8 +220,6 @@
       Can I bring my group to play a game with?
       For example I have 4-6 people and we all want to experience a new game together.
       Can we do this?
-      Do we have a list of games to pick from?
-      If there is a certain game we are interested in will we be able to sign up for them?
     answer: >
       To have a chance at playing together, you will need to have each of your friends grab a like numbered boarding pass.
       But there will be challenges with larger groups.
@@ -246,13 +235,6 @@
     answer: >
       If there is that one game with that one GM that you really want to run, I would suggest that you reach out to that GM and coordinate something outside of Games on Demand.
   - question: >
-      One thing that came up in previous years was the multiple warnings that the times were almost up were distracting in the middle of the 4 hour slots.
-      Could we have the 2 and 4 hour tables a bit apart so the warnings and the movement won't be distracting?
-    answer: >
-      Hosts will not be giving a warning about time.
-      It is the responsibility of the GMs and players to manage their time.
-      If a game runs over, hosts will step in to clear the table.
-  - question: >
       I really want to play an OSR game? Or 3E? Can I find them here?
     answer: >
       <p>It's possible! While we emphasize independent and small press games, hacks and variants of mainstream games are certainly welcome. 
@@ -261,7 +243,6 @@
       I loved the game I just played. Where can I get it?
     answer: >
       Make sure to ask your GM. Many of the games will be available at our various partners, such as <a href="http://www.indiepressrevolution.com">Indie Press Revolution</a>.
-      See the <a href="/map">map</a> for locations in the exhibitor's hall.
   - question: >
       I love this whole Games on Demand thing.
       I run a local convention and would love for you to come to the convention and do some Games on Demand.
@@ -271,7 +252,6 @@
       See if there is a person that would be willing to take point on running something similar.
       It can be a lot of work.
       And <a href="http://indiegamesondemand.org">indiegamesondemand.org</a> is a great place to start.
-      Also reach out to the <a href="https://plus.google.com/communities/117785058810838893272">Games on Demand Google+ group</a>.
 - name: Really?
   dom_id: really
   questions:

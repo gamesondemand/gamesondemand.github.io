@@ -1,2271 +1,2271 @@
----
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: ajit-george
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: alan-de-smet
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: alan-de-smet
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: alan-de-smet
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: alan-de-smet
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: alan-de-smet
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: alan-de-smet
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: alan-de-smet
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: alan-de-smet
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: andrew-medeiros
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: andrew-medeiros
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: andrew-medeiros
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: andrew-medeiros
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: larp
-  :name: andrew-medeiros
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: andrew-medeiros
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: andrew-medeiros
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-kitkowski
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-kitkowski
-- :day: friday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: andy-kitkowski
-- :day: friday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-kitkowski
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: andy-kitkowski
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-kitkowski
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: andy-kitkowski
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-kitkowski
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: andy-tatton
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-tatton
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: andy-tatton
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-tatton
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: andy-tatton
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: anna-kreider
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: anna-kreider
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: anna-kreider
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: anna-kreider
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: anna-kreider
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: anna-kreider
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: anna-kreider
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: anna-kreider
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: anne-horowitz
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: anne-horowitz
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: anne-horowitz
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: anne-horowitz
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: bill-white
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: bill-white
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: bill-white
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: bill-white
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: bill-white
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: bill-white
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: bill-white
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: bill-white
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: bill-white
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: bill-white
-- :day: friday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: bob-smith
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: bob-smith
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: bryan-rennekamp
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: bryan-rennekamp
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: bryan-rennekamp
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: bryan-rennekamp
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: cheyenne-rae-grimes
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: cheyenne-rae-grimes
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: chris-czerniak
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: chris-czerniak
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: chris-czerniak
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: chris-czerniak
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: chris-czerniak
-- :day: friday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: dan-noland
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: dan-noland
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: dan-noland
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: dan-noland
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: dana-fried
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: dana-fried
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: dana-fried
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: dana-fried
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: dana-fried
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: dana-fried
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: dana-fried
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: dana-fried
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: dave-younce
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: dave-younce
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: dave-younce
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: dave-younce
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: dave-younce
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: dave-younce
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: dave-younce
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: dave-younce
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: drew-owen
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: drew-owen
-- :day: friday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: drew-owen
-- :day: friday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: drew-owen
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: drew-owen
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: drew-owen
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: drew-owen
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: drew-owen
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: larp
-  :name: evan-torner
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: evan-torner
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: evan-torner
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: larp
-  :name: evan-torner
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: larp
-  :name: evan-torner
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: larp
-  :name: evan-torner
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: giovanni-lanza
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: giovanni-lanza
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: giovanni-lanza
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: giovanni-lanza
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: giovanni-lanza
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: giovanni-lanza
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: giovanni-lanza
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: giovanni-lanza
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: gregor-hutton
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: gregor-hutton
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: gregor-hutton
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: gregor-hutton
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: gregor-hutton
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: gregor-hutton
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: gregor-hutton
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: james-gabrielsen
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: larp
-  :name: james-gabrielsen
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: james-mendez-hodes
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: james-mendez-hodes
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: james-mendez-hodes
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: james-mendez-hodes
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: james-mendez-hodes
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: james-mendez-hodes
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: james-stuart
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: james-stuart
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: larp
-  :name: james-stuart
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: larp
-  :name: james-stuart
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: james-stuart
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: james-stuart
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: larp
-  :name: james-stuart
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: larp
-  :name: james-stuart
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: jason-morningstar
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: jason-morningstar
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: larp
-  :name: jason-morningstar
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: jason-morningstar
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: jason-morningstar
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: jason-morningstar
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: jason-morningstar
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: larp
-  :name: jason-morningstar
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: jason-morningstar
-- :day: friday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: jason-wallace
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: jason-wallace
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: jason-wallace
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: jason-wallace
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: jason-wallace
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: larp
-  :name: jay-treat
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: larp
-  :name: jay-treat
-- :day: friday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: jay-treat
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: jay-treat
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: jay-treat
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: jay-treat
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: jeffrey-fuller
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: jeffrey-fuller
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: jeffrey-fuller
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: jeffrey-fuller
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: jenn-martin
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: jenn-martin
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: jeremy-tidwell
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: jeremy-tidwell
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: jeremy-tidwell
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: jeremy-tidwell
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: jeremy-tidwell
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: jeromy-hastings
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: jeromy-hastings
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: jeromy-hastings
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: jeromy-hastings
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: jeromy-hastings
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: jeromy-hastings
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: jesse-butler
-- :day: friday
-  :slot: 12PM
-  :max_duration: 6
-  :role: gm
-  :name: jesse-butler
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: jesse-butler
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: jesse-butler
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: jesse-butler
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: jesse-butler
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: jesse-butler
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: jesse-butler
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: jesse-butler
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: joanna-piancastelli
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: joanna-piancastelli
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: joanna-piancastelli
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: joanna-piancastelli
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: joanna-piancastelli
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: john-marron
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: john-marron
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: john-stavropoulos
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: john-stavropoulos
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: larp
-  :name: john-stavropoulos
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: larp
-  :name: john-stavropoulos
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: john-stavropoulos
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: john-stavropoulos
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: john-stavropoulos
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: john-stavropoulos
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: justin-d-jacobson
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: justin-d-jacobson
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: justin-d-jacobson
-- :day: friday
-  :slot: 10AM
-  :max_duration: 6
-  :role: gm
-  :name: justin-d-jacobson
-- :day: friday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: justin-d-jacobson
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: justin-d-jacobson
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: justin-d-jacobson
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: justin-hamilton
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: justin-hamilton
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: justin-hamilton
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: justin-hamilton
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: larp
-  :name: karen-twelves
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: larp
-  :name: karen-twelves
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: karen-twelves
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: larp
-  :name: kat-jones
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: larp
-  :name: kat-jones
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: larp
-  :name: kat-jones
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: larp
-  :name: kat-jones
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: larp
-  :name: kat-jones
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: kevin-schneider
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: kevin-schneider
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 6
-  :role: gm
-  :name: kevin-schneider
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: kevin-schneider
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: kevin-schneider
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: kira-magrann
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: kira-magrann
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: kira-magrann
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: larp
-  :name: kira-magrann
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: larp
-  :name: kira-magrann
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: kira-magrann
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: larp
-  :name: kristin-firth
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: larp
-  :name: kristin-firth
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: kristin-firth
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: kristin-firth
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: larp
-  :name: kristin-firth
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: lowell-francis
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: lowell-francis
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: lowell-francis
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: lowell-francis
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: lowell-francis
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: lowell-francis
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: lowell-francis
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: lowell-francis
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: mad-jay
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: mad-jay
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: mad-jay
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mad-jay
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mad-jay
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-causey
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-causey
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-causey
-- :day: friday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: mark-causey
-- :day: friday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-causey
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 6
-  :role: gm
-  :name: mark-causey
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: mark-causey
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-causey
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: mark-dipasquale
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-dipasquale
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: mark-dipasquale
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-dipasquale
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-dipasquale
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: mark-dipasquale
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-dipasquale
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: mark-dipasquale
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: mark-richardson
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-richardson
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: mark-richardson
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-richardson
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: mark-richardson
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-richardson
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mark-richardson
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: matt-boersma
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: matt-boersma
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: matt-boersma
-- :day: friday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: matt-boersma
-- :day: friday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: matt-boersma
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: matt-boersma
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: matt-boersma
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: matt-sanchez
-- :day: friday
-  :slot: 2PM
-  :max_duration: 6
-  :role: gm
-  :name: matt-sanchez
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: matt-sanchez
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: matt-sanchez
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: matt-sanchez
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 6
-  :role: gm
-  :name: matt-sanchez
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: matt-sanchez
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: matt-sanchez
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: matthew-j-hanson
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: matthew-j-hanson
-- :day: friday
-  :slot: 10AM
-  :max_duration: 6
-  :role: gm
-  :name: matthew-j-hanson
-- :day: friday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: matthew-j-hanson
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: matthew-j-hanson
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: matthew-j-hanson
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: matthew-j-hanson
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: matthew-j-hanson
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: friday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: friday
-  :slot: 4PM
-  :max_duration: 6
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: friday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: friday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: mcgravin-matt-seifert
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: mikael-andersson
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: mikael-andersson
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: mikael-andersson
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: mikael-andersson
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: mikael-andersson
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: mikael-andersson
-- :day: friday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: mike-olson
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: mike-olson
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: mike-olson
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: mike-olson
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: morgan-ellis
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: morgan-ellis
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: morgan-ellis
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: morgan-ellis
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: nykki-boersma
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: nykki-boersma
-- :day: friday
-  :slot: 6PM
-  :max_duration: 6
-  :role: gm
-  :name: nykki-boersma
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: nykki-boersma
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: nykki-boersma
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: nykki-boersma
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: nykki-boersma
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: patrick-riegert
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: patrick-riegert
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: patrick-riegert
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: patrick-riegert
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: patrick-riegert
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: patrick-riegert
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: patrick-riegert
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: patrick-riegert
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: ray-otus
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 6
-  :role: gm
-  :name: ray-otus
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: ray-otus
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: ray-otus
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: ray-otus
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: renee-knipe
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: renee-knipe
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: renee-knipe
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: renee-knipe
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: renee-knipe
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: renee-knipe
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: renee-knipe
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: renee-knipe
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: renee-knipe
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: rick-neal
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: rick-neal
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: rick-neal
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: rick-neal
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: rishi-agrawal
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: rishi-agrawal
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: rishi-agrawal
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: rishi-agrawal
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: rishi-agrawal
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: rishi-agrawal
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: rishi-agrawal
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: rishi-agrawal
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: ron-frazier
-- :day: friday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: ron-frazier
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: ron-frazier
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: ron-frazier
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: ron-frazier
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: ron-frazier
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: ron-frazier
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: russ-brown
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: russ-brown
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: russ-brown
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: russ-brown
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: sarah-richardson
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: sarah-richardson
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: sarah-richardson
-- :day: friday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: scott-acker
-- :day: friday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: scott-acker
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: scott-acker
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: scott-acker
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: sean-nittner
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: sean-nittner
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: sean-nittner
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: sean-nittner
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: sean-nittner
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 6
-  :role: gm
-  :name: shoe-skogen
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: shoe-skogen
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: shoe-skogen
-- :day: friday
-  :slot: 10AM
-  :max_duration: 6
-  :role: gm
-  :name: shoe-skogen
-- :day: friday
-  :slot: 12PM
-  :max_duration: 4
-  :role: gm
-  :name: shoe-skogen
-- :day: friday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: shoe-skogen
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: larp
-  :name: shoe-skogen
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: shoe-skogen
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: shoe-skogen
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: stentor-danielson
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: stentor-danielson
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: stentor-danielson
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: stentor-danielson
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: stentor-danielson
-- :day: friday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-segedy
-- :day: friday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-segedy
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-segedy
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-segedy
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-segedy
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-wallace
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-wallace
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-wallace
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-wallace
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-wallace
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-wallace
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: steve-wallace
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-wallace
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: steve-wallace
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: steven-hammond
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: steven-hammond
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: steven-hammond
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: steven-hammond
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: stras-acimovic
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: stras-acimovic
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: stras-acimovic
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: stras-acimovic
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: stras-acimovic
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: stras-acimovic
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: stras-acimovic
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: terry-hope-romero
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: terry-hope-romero
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: larp
-  :name: terry-hope-romero
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: larp
-  :name: terry-hope-romero
-- :day: friday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: terry-hope-romero
-- :day: friday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: terry-hope-romero
-- :day: sunday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: terry-hope-romero
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: terry-hope-romero
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: travis-scott
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: travis-scott
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: travis-scott
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: travis-scott
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: travis-scott
-- :day: saturday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: travis-scott
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: travis-scott
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: tresi
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: tresi
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: tresi
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: tresi
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: tresi
-- :day: thursday
-  :slot: 2PM
-  :max_duration: 2
-  :role: gm
-  :name: trevis-martin
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: trevis-martin
-- :day: friday
-  :slot: 6PM
-  :max_duration: 6
-  :role: gm
-  :name: trevis-martin
-- :day: friday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: trevis-martin
-- :day: friday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: trevis-martin
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 2
-  :role: gm
-  :name: trevis-martin
-- :day: saturday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: trevis-martin
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: trevis-martin
-- :day: thursday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: will-hindmarch
-- :day: thursday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: will-hindmarch
-- :day: thursday
-  :slot: 4PM
-  :max_duration: 4
-  :role: gm
-  :name: will-hindmarch
-- :day: thursday
-  :slot: 6PM
-  :max_duration: 2
-  :role: gm
-  :name: will-hindmarch
-- :day: friday
-  :slot: 2PM
-  :max_duration: 4
-  :role: gm
-  :name: will-hindmarch
-- :day: friday
-  :slot: 4PM
-  :max_duration: 2
-  :role: gm
-  :name: will-hindmarch
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 4
-  :role: gm
-  :name: will-hindmarch
-- :day: saturday
-  :slot: 10PM
-  :max_duration: 2
-  :role: gm
-  :name: will-hindmarch
-- :day: sunday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: will-hindmarch
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: thor-olavsrud
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: thor-olavsrud
-- :day: saturday
-  :slot: 6PM
-  :max_duration: 4
-  :role: gm
-  :name: thor-olavsrud
-- :day: saturday
-  :slot: 8PM
-  :max_duration: 2
-  :role: gm
-  :name: thor-olavsrud
-- :day: friday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: alex-mayo
-- :day: friday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: alex-mayo
-- :day: saturday
-  :slot: 10AM
-  :max_duration: 4
-  :role: gm
-  :name: alex-mayo
-- :day: saturday
-  :slot: 12PM
-  :max_duration: 2
-  :role: gm
-  :name: alex-mayo
+# ---
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ajit-george
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: alan-de-smet
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andrew-medeiros
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andrew-medeiros
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andrew-medeiros
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andrew-medeiros
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: larp
+#   :name: andrew-medeiros
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andrew-medeiros
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andrew-medeiros
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-kitkowski
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andy-tatton
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-tatton
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: andy-tatton
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-tatton
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: andy-tatton
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: anna-kreider
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: anna-kreider
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: anna-kreider
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: anna-kreider
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: anna-kreider
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: anna-kreider
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: anna-kreider
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: anna-kreider
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: anne-horowitz
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: anne-horowitz
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: anne-horowitz
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: anne-horowitz
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: bill-white
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bill-white
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: bill-white
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bill-white
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: bill-white
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bill-white
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: bill-white
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bill-white
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: bill-white
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bill-white
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bob-smith
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bob-smith
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: bryan-rennekamp
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bryan-rennekamp
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: bryan-rennekamp
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: bryan-rennekamp
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: cheyenne-rae-grimes
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: cheyenne-rae-grimes
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: chris-czerniak
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: chris-czerniak
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: chris-czerniak
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: chris-czerniak
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: chris-czerniak
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dan-noland
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dan-noland
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dan-noland
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dan-noland
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dana-fried
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dana-fried
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dana-fried
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dana-fried
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dana-fried
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dana-fried
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dana-fried
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dana-fried
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dave-younce
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dave-younce
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dave-younce
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dave-younce
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dave-younce
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dave-younce
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: dave-younce
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: dave-younce
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: drew-owen
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: drew-owen
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: drew-owen
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: drew-owen
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: drew-owen
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: drew-owen
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: drew-owen
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: drew-owen
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: evan-torner
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: evan-torner
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: evan-torner
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: larp
+#   :name: evan-torner
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: evan-torner
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: larp
+#   :name: evan-torner
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: giovanni-lanza
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: gregor-hutton
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: gregor-hutton
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: gregor-hutton
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: gregor-hutton
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: gregor-hutton
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: gregor-hutton
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: gregor-hutton
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: james-gabrielsen
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: james-gabrielsen
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: james-mendez-hodes
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: james-mendez-hodes
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: james-mendez-hodes
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: james-mendez-hodes
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: james-mendez-hodes
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: james-mendez-hodes
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: james-stuart
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: james-stuart
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: larp
+#   :name: james-stuart
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: james-stuart
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: james-stuart
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: james-stuart
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: larp
+#   :name: james-stuart
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: james-stuart
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-morningstar
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-morningstar
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: jason-morningstar
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jason-morningstar
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-morningstar
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jason-morningstar
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-morningstar
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: jason-morningstar
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-morningstar
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jason-wallace
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-wallace
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-wallace
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jason-wallace
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jason-wallace
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: larp
+#   :name: jay-treat
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: jay-treat
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jay-treat
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jay-treat
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jay-treat
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jay-treat
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jeffrey-fuller
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeffrey-fuller
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jeffrey-fuller
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeffrey-fuller
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jenn-martin
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jenn-martin
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeremy-tidwell
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jeremy-tidwell
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeremy-tidwell
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jeremy-tidwell
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeremy-tidwell
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jeromy-hastings
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeromy-hastings
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jeromy-hastings
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeromy-hastings
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jeromy-hastings
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jeromy-hastings
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jesse-butler
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: jesse-butler
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jesse-butler
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jesse-butler
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jesse-butler
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jesse-butler
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jesse-butler
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: jesse-butler
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: jesse-butler
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: joanna-piancastelli
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: joanna-piancastelli
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: joanna-piancastelli
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: joanna-piancastelli
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: joanna-piancastelli
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: john-marron
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: john-marron
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: john-stavropoulos
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: john-stavropoulos
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: larp
+#   :name: john-stavropoulos
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: john-stavropoulos
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: john-stavropoulos
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: john-stavropoulos
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: john-stavropoulos
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: john-stavropoulos
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: justin-d-jacobson
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: justin-d-jacobson
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: justin-d-jacobson
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 6
+#   :role: gm
+#   :name: justin-d-jacobson
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: justin-d-jacobson
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: justin-d-jacobson
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: justin-d-jacobson
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: justin-hamilton
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: justin-hamilton
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: justin-hamilton
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: justin-hamilton
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: larp
+#   :name: karen-twelves
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: karen-twelves
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: karen-twelves
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: larp
+#   :name: kat-jones
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: kat-jones
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: larp
+#   :name: kat-jones
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: kat-jones
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: larp
+#   :name: kat-jones
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kevin-schneider
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kevin-schneider
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: kevin-schneider
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: kevin-schneider
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kevin-schneider
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: kira-magrann
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kira-magrann
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kira-magrann
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: larp
+#   :name: kira-magrann
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: kira-magrann
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kira-magrann
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: larp
+#   :name: kristin-firth
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: kristin-firth
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kristin-firth
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: kristin-firth
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: kristin-firth
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: lowell-francis
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: lowell-francis
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: lowell-francis
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: lowell-francis
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: lowell-francis
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: lowell-francis
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: lowell-francis
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: lowell-francis
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mad-jay
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mad-jay
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mad-jay
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mad-jay
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mad-jay
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-causey
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-causey
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-causey
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-causey
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-causey
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: mark-causey
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-causey
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-causey
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-dipasquale
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-richardson
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-richardson
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-richardson
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-richardson
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mark-richardson
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-richardson
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mark-richardson
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: matt-boersma
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-boersma
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-boersma
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: matt-boersma
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-boersma
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-boersma
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-boersma
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matt-sanchez
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 6
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: matthew-j-hanson
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mcgravin-matt-seifert
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mikael-andersson
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mikael-andersson
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mikael-andersson
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mikael-andersson
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mikael-andersson
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mikael-andersson
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mike-olson
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: mike-olson
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mike-olson
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: mike-olson
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: morgan-ellis
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: morgan-ellis
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: morgan-ellis
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: morgan-ellis
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: nykki-boersma
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: nykki-boersma
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: nykki-boersma
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: nykki-boersma
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: nykki-boersma
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: nykki-boersma
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: nykki-boersma
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: patrick-riegert
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ray-otus
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 6
+#   :role: gm
+#   :name: ray-otus
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: ray-otus
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ray-otus
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ray-otus
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: renee-knipe
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: renee-knipe
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: renee-knipe
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: renee-knipe
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: renee-knipe
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: renee-knipe
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: renee-knipe
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: renee-knipe
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: renee-knipe
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: rick-neal
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rick-neal
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: rick-neal
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rick-neal
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: rishi-agrawal
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ron-frazier
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ron-frazier
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: ron-frazier
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ron-frazier
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ron-frazier
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: ron-frazier
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: ron-frazier
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: russ-brown
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: russ-brown
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: russ-brown
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: russ-brown
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: sarah-richardson
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: sarah-richardson
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: sarah-richardson
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: scott-acker
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: scott-acker
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: scott-acker
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: scott-acker
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: sean-nittner
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: sean-nittner
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: sean-nittner
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: sean-nittner
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: sean-nittner
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 6
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 6
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: shoe-skogen
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: shoe-skogen
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: stentor-danielson
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: stentor-danielson
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: stentor-danielson
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: stentor-danielson
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: stentor-danielson
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steve-segedy
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-segedy
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steve-segedy
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-segedy
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-segedy
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steve-wallace
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-wallace
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steve-wallace
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-wallace
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steve-wallace
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-wallace
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steve-wallace
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-wallace
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steve-wallace
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steven-hammond
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steven-hammond
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: steven-hammond
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: steven-hammond
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: stras-acimovic
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: stras-acimovic
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: stras-acimovic
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: stras-acimovic
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: stras-acimovic
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: stras-acimovic
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: stras-acimovic
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: terry-hope-romero
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: terry-hope-romero
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: larp
+#   :name: terry-hope-romero
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: larp
+#   :name: terry-hope-romero
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: terry-hope-romero
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: terry-hope-romero
+# - :day: sunday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: terry-hope-romero
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: terry-hope-romero
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: travis-scott
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: travis-scott
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: travis-scott
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: travis-scott
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: travis-scott
+# - :day: saturday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: travis-scott
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: travis-scott
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: tresi
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: tresi
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: tresi
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: tresi
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: tresi
+# - :day: thursday
+#   :slot: 2PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: trevis-martin
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: trevis-martin
+# - :day: friday
+#   :slot: 6PM
+#   :max_duration: 6
+#   :role: gm
+#   :name: trevis-martin
+# - :day: friday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: trevis-martin
+# - :day: friday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: trevis-martin
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 2
+#   :role: gm
+#   :name: trevis-martin
+# - :day: saturday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: trevis-martin
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: trevis-martin
+# - :day: thursday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: thursday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: thursday
+#   :slot: 4PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: thursday
+#   :slot: 6PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: friday
+#   :slot: 2PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: friday
+#   :slot: 4PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: saturday
+#   :slot: 10PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: sunday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: will-hindmarch
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: thor-olavsrud
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: thor-olavsrud
+# - :day: saturday
+#   :slot: 6PM
+#   :max_duration: 4
+#   :role: gm
+#   :name: thor-olavsrud
+# - :day: saturday
+#   :slot: 8PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: thor-olavsrud
+# - :day: friday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: alex-mayo
+# - :day: friday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: alex-mayo
+# - :day: saturday
+#   :slot: 10AM
+#   :max_duration: 4
+#   :role: gm
+#   :name: alex-mayo
+# - :day: saturday
+#   :slot: 12PM
+#   :max_duration: 2
+#   :role: gm
+#   :name: alex-mayo
