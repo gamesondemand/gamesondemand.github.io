@@ -13,19 +13,3 @@
 
 .heizenberg .col-even { background: #f4f4f4; }
 .heizenberg .col-even, .heizenberg .col-odd { text-align: center; }
-
-
-#gamelist .column {
-  float: left;
-  width: 33.33%;
-}
-
-#gamelist .column .row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-#gamelist li {
-	list-style: none;
-}
