@@ -105,9 +105,9 @@ namespace :build do
       require 'fileutils'
 
       [
-        ['Thursday', ['10am', '12pm', '2pm', '4pm', '6pm']],
-        ['Friday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm', '10pm']],
-        ['Saturday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm', '10pm']],
+        ['Thursday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm']],
+        ['Friday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm']],
+        ['Saturday', ['10am', '12pm', '2pm', '4pm', '6pm', '8pm']],
         ['Sunday', ['10am', '12pm', '2pm']],
       ].each do |day, times|
         dirname = File.expand_path("../#{day.downcase}", __FILE__)

@@ -1,2 +1,16 @@
+# General jekyll leavings
+/_site/
 _site
 .tags
+/.jekyll-cache/
+/.jekyll-metadata
+.sass-cache/
+
+# Bundler local configurations
+/.bundle/
+/vendor/bundle/
+
+# Environment secrets
+.env
+.env.local
+**/credentials.json

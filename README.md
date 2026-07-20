@@ -15,15 +15,55 @@ This is to be a tool for those at the convention.
 
 ## Installing Jekyll
 
-You will need Ruby installed for this to work.
-Once you have that, take a look at [Jekyll's Quick-start guide](http://jekyllrb.com/docs/quickstart/).
+This project has been upgraded to use Ruby 3.4 and Jekyll. A setup on MacOS with homebrew would include:
+
+#### Install the version manager and compiler
+```bash
+   $ brew install chruby ruby-install
+```
+
+The output of that command will give you some chruby scripts to run in your `.bashrc` or `.zshrc` do so.
+
+Mine look like
+```
+source /opt/homebrew/opt/chruby/share/chruby/chruby.sh
+source /opt/homebrew/opt/chruby/share/chruby/auto.sh
+```
+
+#### Install the current ruby version
+
+```bash
+   $ ruby-install ruby 3.4
+```
 
 ## Running the Site Offline
+
+First create the local environment sandbox by running this at the top level of the repo:
+
+```bash
+   $ bundle install
+```
 
 From the command line run the following:
 
 ```console
-$ jekyll serve -p 4000 -H localhost --watch
+$ bundle exec jekyll serve -p 4000 -H localhost --watch
 ```
 
 Then point your browser to [http://localhost:4000](http://localhost:4000)
+
+## Rake fetching from Google Drive??
+
+It appears that an earlier developer had an automated system for importing
+data directly from the Google Sheets. The old
+`GoogleDrive.login(ENV['GOOGLE_USERNAME'], ENV['GOOGLE_PASSWORD'])`
+login method is for sure both completely insecure and blocked
+by Google for being insecure.
+
+It may be possible to restore this functionality later. But no time tonight.
+
+It would have been run via:
+
+```console
+$ bundle exec rake
+```

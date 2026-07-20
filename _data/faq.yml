@@ -46,9 +46,9 @@
   dom_id: times
   questions:
   - question: >
-      Are start times every 2 hours? Is it 10am, 12pm, 2pm, 4pm, 6pm, 8pm, 10pm?
+      Are start times every 2 hours? Is it 10am, 12pm, 2pm, 4pm, 6pm, 8pm?
     answer: >
-      Yes, with a few exceptions, on Thursdays and Sunday.
+      Yes, although on Sunday our last game boards at noon (12pm) to allow our volunteers time to tear down.
   - question: >
       When should I arrive for a time slot?
     answer: >
@@ -67,7 +67,7 @@
       No!
       Make sure to communicate up front to your GM if you have a hard stop time.
       You are in charge of your time.
-      We are here to help you optimize it!﻿
+      We are here to help you optimize it!
 
 - name: Cost
   dom_id: cost
@@ -104,7 +104,7 @@
       Think of the boarding pass as one of those buzzers that you get at a restaurant.
       When your boarding pass group is called, you can come up and choose a game to play.
   - question: >
-      When can I get a boarding pass?﻿
+      When can I get a boarding pass?
     answer: >
       You can get a boarding pass at anytime leading up to the start time.
       In the minutes leading up to 2pm there will be a loud "Last call for 2pm boarding passes"
@@ -135,12 +135,12 @@
   - question: >
       I am a GM that is running for the current time slot, how do I get a boarding pass for the next timeslot?
     answer: >
-      One of the <a href="/for-hosts/#hosting-chores">hosting chores</a> is to collect generic tickets, statistics, and to ask the game table if anyone needs a boarding pass for the next session.﻿
+      One of the <a href="/for-hosts/#hosting-chores">hosting chores</a> is to collect generic tickets, statistics, and to ask the game table if anyone needs a boarding pass for the next session.
 - name: Additional Assistance
   dom_id: additional-assistance
   questions:
   - question: >
-      Are you boarding those who need assistance first?﻿
+      Are you boarding those who need assistance first?
     answer: >
       We will have a call before the lottery to seat those that need assistance.
       This will happen 10 minutes before the hour (speed of seating is another desired goal so we are balancing that concern as well).
@@ -173,12 +173,12 @@
       And as always if you have questions please ask a Host.
   - question: >
       Will I know what games are available before start time?
-      If so, starting when and where? ﻿
+      If so, starting when and where? 
     answer: Yes, menus for the next session will be laid out on the host table for you to consider when you pick up your boarding pass. 
   - question: >
       Does Games on Demand offer larps?
     answer: >
-      In previous years we have had a larp track as part of the event. That is not the case for 2025, due to space constraints. 
+      In previous years we have had a larp track as part of the event. That is not the case for 2026, due to space constraints. 
   - question: >
       How can we know if a game is a 2 hour game vs. 4 hour game?
     answer: >
@@ -258,7 +258,7 @@
   - question: >
       Who can I bribe to get into the game I want?
     answer: >
-      Bribes to get to play the game you want? There will be none of that.﻿
+      Bribes to get to play the game you want? There will be none of that.
   - question: >
       If its good for any future timeslot what is preventing me from collecting one of each boarding pass group?
     answer: >
